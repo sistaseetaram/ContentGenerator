@@ -1,0 +1,14 @@
+.env
+.env.local
+.tmp/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+node_modules/
+.claude/settings.local.json
+data/reports/
+data/audits/
+data/model_spend.json
+*.log
