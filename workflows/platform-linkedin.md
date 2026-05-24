@@ -49,11 +49,17 @@ Primary B2B platform. All pillars except Instagram-creative publish here. The an
 - Avoid external links in post body — kills reach. Put links in first comment.
 - Native video and carousels get broader reach than text-only. Use when worth it.
 
-## Publishing (Phase 1)
-Via Blotato. Connect LinkedIn account. Schedule posts in Blotato calendar. After publishing, confirm post live in LinkedIn app, then log to `data/posts.json`.
+## Publishing (Days 1-15) — Supergrow trial
+Use Supergrow AI (via MCP) to draft + schedule LinkedIn posts. Evaluate after each post:
+- If Supergrow drafts meet voice/quality bar → continue Supergrow through Day 15
+- If drafts fail voice check or quality is unsatisfying → fall back to model_router draft + session refinement, then schedule via Supergrow
+
+Decision checkpoint: Day 15. If Supergrow AI is performing, extend. If not, switch to model_router-only drafting.
+
+Blotato API key obtained. Blotato integration deferred to Day 15 build (with Blotato API key).
 
 ## Publishing (Phase 3+)
-Via `tools/linkedin_post.py` (direct LinkedIn API). Blotato runs parallel for 2 weeks during transition to validate parity.
+Via `tools/linkedin_post.py` (direct LinkedIn API). Blotato integration built Day 15 using API key. Runs parallel for 2 weeks during transition to validate parity.
 
 ## Voice check before every post
 Run copy test: "Would a smart, busy architecture firm owner feel respected — or sold to?"

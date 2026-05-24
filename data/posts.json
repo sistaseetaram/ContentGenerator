@@ -1,1 +1,39 @@
-{"posts": []}
+{
+  "posts": [
+    {
+      "id": "post-001",
+      "pillar": "build-receipts",
+      "platform": "linkedin",
+      "status": "published",
+      "hook": "Same project. Third version. Finally makes sense.",
+      "body": "Same project. Third version. Finally makes sense.\n\nV1: one massive prompt, everything fed in. $1 per report. Architecture: embarrassing.\n\nV2: discovered subworkflows. Split prompts. Static data separated from dynamic. Cost dropped.\n\nV3: verification before fetching. The model only sees what it needs.\n\n$0.06 per report now.\n\nI spent weeks before this following tutorials. Built every template. Understood nothing — because their data flows weren't breaking. Mine weren't either, because they weren't mine.\n\nNobody ships a good automation on the first try. Most tutorials show the finished thing. They skip the three versions before it.\n\nThe frustration is the curriculum.\n\nData mapping errors. Variable names pointing nowhere. A node running forever on malformed input. That's the actual class.\n\nV4 is coming.\n\nWhat version are you on?\n\n#n8n #buildinpublic",
+      "hashtags": ["#n8n", "#buildinpublic"],
+      "topic": "n8n stock analysis automation — 3-version evolution, $1 → $0.06 cost reduction",
+      "numbers": {
+        "cost_v1_usd": 1.00,
+        "cost_v3_usd": 0.06,
+        "cost_reduction_pct": 94
+      },
+      "word_count": 150,
+      "created_at": "2026-05-23",
+      "scheduled_at": null,
+      "published_at": "2026-05-23"
+    }
+  ,
+    {
+      "id": "post-002",
+      "pillar": "build-in-public",
+      "platform": "linkedin",
+      "status": "draft",
+      "hook": "Day 1 of building Setu in public.",
+      "body": "Day 1 of building Setu in public.\n\nHere's what I shipped:\n\nA content system that routes every AI model call through a fallback chain. Primary fails → secondary. Secondary fails → tertiary. Automatic.\n\n8 task types. 3 models each. One router.\n\nAlso wrote 11 workflow SOPs. Platform rules, content pillars, audit schedules. The kind of documentation that makes the second week faster than the first.\n\n$5/day circuit breaker on Claude API. Costs stay tracked. No surprise bills.\n\nNothing is live yet. No posts published. No clients. Just infrastructure.\n\nThat's how I build — foundation before facade.\n\nWeek 1 starts now.\n\n#buildinpublic #setu",
+      "hashtags": ["#buildinpublic", "#setu"],
+      "topic": "Day 1 Setu launch — infrastructure shipped, nothing live yet",
+      "numbers": {},
+      "word_count": 115,
+      "created_at": "2026-05-23",
+      "scheduled_at": null,
+      "published_at": null
+    }
+  ]
+}
