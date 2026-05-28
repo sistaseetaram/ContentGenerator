@@ -18,22 +18,43 @@
       "created_at": "2026-05-23",
       "scheduled_at": null,
       "published_at": "2026-05-23"
-    }
-  ,
+    },
     {
       "id": "post-002",
       "pillar": "build-in-public",
       "platform": "linkedin",
-      "status": "draft",
+      "status": "published",
+      "url": "https://www.linkedin.com/posts/sista-seetaram_buildinpublic-setu-share-7464732605263978496-JozW/",
       "hook": "Day 1 of building Setu in public.",
-      "body": "Day 1 of building Setu in public.\n\nHere's what I shipped:\n\nA content system that routes every AI model call through a fallback chain. Primary fails → secondary. Secondary fails → tertiary. Automatic.\n\n8 task types. 3 models each. One router.\n\nAlso wrote 11 workflow SOPs. Platform rules, content pillars, audit schedules. The kind of documentation that makes the second week faster than the first.\n\n$5/day circuit breaker on Claude API. Costs stay tracked. No surprise bills.\n\nNothing is live yet. No posts published. No clients. Just infrastructure.\n\nThat's how I build — foundation before facade.\n\nWeek 1 starts now.\n\n#buildinpublic #setu",
+      "body": "Day 1 of building Setu in public.\n\nHere's what I shipped:\n\nA content system that routes every AI model call through a fallback chain. Primary fails → secondary. Secondary fails → tertiary. Automatic.\n\n8 task types. 3 models each. One router.\n\nAlso wrote 11 workflow SOPs. Platform rules, content pillars, audit schedules. The kind of documentation that makes the second week faster than the first.\n\n$5/day circuit breaker on Claude API. Costs stay tracked. No surprise bills.\n\nThat's how I build — foundation before facade.\n\nDo you build the infrastructure first, or ship and fix?\n\n#buildinpublic #setu",
       "hashtags": ["#buildinpublic", "#setu"],
-      "topic": "Day 1 Setu launch — infrastructure shipped, nothing live yet",
-      "numbers": {},
-      "word_count": 115,
+      "topic": "Day 1 Setu launch — infrastructure shipped: model router, 11 SOPs, cost circuit breaker",
+      "numbers": {
+        "task_types": 8,
+        "models_per_task": 3,
+        "sops_written": 11,
+        "daily_cost_circuit_breaker_usd": 5
+      },
+      "word_count": 105,
       "created_at": "2026-05-23",
       "scheduled_at": null,
-      "published_at": null
+      "published_at": "2026-05-25"
+    },
+    {
+      "id": "post-003",
+      "pillar": "build-in-public-setu",
+      "platform": "linkedin",
+      "status": "published",
+      "url": "https://www.linkedin.com/posts/sista-seetaram_aiadoption-workflowautomation-share-7465485954850549760-5YWg/",
+      "hook": "Setu brand values post",
+      "body": "Brand values post — source: setu-brand-values-current-work.png. Values: Work not tech, Quiet over loud, Respect owners, Ship don't slide, Map before build. Current work: Bridge Zero + Setu Library.",
+      "hashtags": ["#aiadoption", "#workflowautomation"],
+      "topic": "Setu brand values — quiet principles for practical AI",
+      "numbers": {},
+      "word_count": null,
+      "created_at": "2026-05-28",
+      "scheduled_at": null,
+      "published_at": "2026-05-28"
     }
   ]
 }

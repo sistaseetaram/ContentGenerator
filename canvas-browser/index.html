@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Setu — Canvas Browser & Carousel Previewer</title>
+    <!-- Typography: Cormorant Garamond for headings, Inter for body/labels -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&family=Noto+Sans+Devanagari:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header class="app-header">
+        <div class="logo">
+            <span class="setu-wordmark"><span class="deva">से</span><span class="latin">tu</span></span>
+            <span class="logo-sub">Canvas</span>
+        </div>
+        <div class="header-actions">
+            <button id="toggle-view-mode" class="btn btn-secondary">
+                <span class="icon">📄</span> Toggle Print Layout
+            </button>
+            <button id="copy-post-btn" class="btn btn-primary">
+                <span class="icon">📋</span> Copy LinkedIn Post
+            </button>
+        </div>
+    </header>
+
+    <main class="app-container">
+        <!-- Sidebar: Controls & Post Text -->
+        <aside class="sidebar">
+            <section class="sidebar-section">
+                <h3>LinkedIn Post Copy</h3>
+                <div class="post-copy-box">
+                    <pre id="linkedin-post-text">Same project. Third version. Finally makes sense.
+
+V1: one massive prompt, everything fed in. $1 per report. Architecture: embarrassing.
+
+V2: discovered subworkflows. Split prompts. Static data separated from dynamic. Cost dropped.
+
+V3: verification before fetching. The model only sees what it needs.
+
+$0.06 per report now.
+
+I spent weeks before this following tutorials. Built every template. Understood nothing — because their data flows weren't breaking. Mine weren't either, because they weren't mine.
+
+Nobody ships a good automation on the first try. Most tutorials show the finished thing. They skip the three versions before it.
+
+The frustration is the curriculum.
+
+Data mapping errors. Variable names pointing nowhere. A node running forever on malformed input. That's the actual class.
+
+V4 is coming.
+
+What version are you on?
+
+#n8n #buildinpublic</pre>
+                </div>
+            </section>
+
+            <section class="sidebar-section">
+                <h3>Slide Settings</h3>
+                <div class="control-group">
+                    <label for="slide-select">Active Slide</label>
+                    <select id="slide-select">
+                        <option value="1">Slide 1: Cover Hook</option>
+                        <option value="2">Slide 2: The Evolution</option>
+                        <option value="3">Slide 3: V3 Architecture (n8n)</option>
+                        <option value="4">Slide 4: Telegram Interface</option>
+                        <option value="5">Slide 5: Generated PDF Report</option>
+                        <option value="6">Slide 6: The Payoff ($0.06)</option>
+                        <option value="7">Slide 7: Close / Wordmark</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label>Slide Background</label>
+                    <div class="theme-picker">
+                        <button class="theme-btn terracotta" data-color="#1e0f09" title="Terracotta Dark"></button>
+                        <button class="theme-btn light active" data-color="#ffffff" title="Light"></button>
+                        <button class="theme-btn forest" data-color="#0e1810" title="Forest"></button>
+                        <button class="theme-btn anthracite" data-color="#222222" title="Anthracite"></button>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="checkbox-label" style="display: flex; align-items: center; gap: 8px; cursor: pointer; user-select: none;">
+                        <input type="checkbox" id="show-profile-header-input" style="cursor: pointer; width: 16px; height: 16px;">
+                        Show Profile Header (Founder Info)
+                    </label>
+                </div>
+                <div class="control-group">
+                    <label for="slide-headline-input">Headline</label>
+                    <input type="text" id="slide-headline-input" class="form-input">
+                </div>
+                <div class="control-group">
+                    <label for="slide-body-input">Body Text (Max 25 words)</label>
+                    <textarea id="slide-body-input" class="form-input" rows="4"></textarea>
+                    <div class="word-counter"><span id="word-count">0</span> / 25 words</div>
+                </div>
+            </section>
+
+            <section class="sidebar-section">
+                <h3>Attached Resources</h3>
+                <ul class="resource-list">
+                    <li>
+                        <a href="assets/screenshot1.png" target="_blank">
+                            <span class="icon">🖼️</span> n8n Canvas (screenshot1.png)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="assets/screenshot2.png" target="_blank">
+                            <span class="icon">💬</span> Telegram Chat (screenshot2.png)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="assets/document.pdf" target="_blank">
+                            <span class="icon">📄</span> Output Report (document.pdf)
+                        </a>
+                    </li>
+                </ul>
+            </section>
+        </aside>
+
+        <!-- Main Content Area: Slide Viewer -->
+        <div class="editor-area">
+            <!-- Slide Viewer Wrapper -->
+            <div id="carousel-viewer" class="slide-viewer">
+                <!-- Navigation -->
+                <button class="nav-arrow prev" id="prev-slide" aria-label="Previous slide">←</button>
+                
+                <!-- The Slide Canvas -->
+                <div class="slide-container">
+                    <div id="slide-canvas" class="slide-canvas theme-terracotta">
+                        <div class="slide-content">
+                            <div class="slide-header">
+                                <span class="slide-tag">SETU BUILD RECEIPTS</span>
+                            </div>
+                            <div class="slide-body">
+                                <div id="slide-profile-header-container"></div>
+                                <h2 class="slide-headline">Same project. Third version. Finally makes sense.</h2>
+                                <p class="slide-body-text"></p>
+                                <div class="slide-visual-container" id="slide-visual">
+                                    <!-- Dynamic Image/Embed will sit here -->
+                                </div>
+                            </div>
+                            <div class="slide-footer">
+                                <span class="brand-wordmark setu-wordmark"><span class="deva">से</span><span class="latin">tu</span></span>
+                                <span class="slide-number-display">1 / 7</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="nav-arrow next" id="next-slide" aria-label="Next slide">→</button>
+            </div>
+
+            <!-- Print Stack Wrapper (Hidden by default, shown in print mode) -->
+            <div id="print-stack" class="print-stack hidden">
+                <div class="print-notice">
+                    <p>💡 <strong>Tip:</strong> Press <code>Cmd+P</code> or <code>Ctrl+P</code> to save this stack as a PDF document for LinkedIn.</p>
+                </div>
+                <div class="print-slides-container">
+                    <!-- Slides will be duplicated here for printing -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast hidden">Copied to clipboard!</div>
+
+    <script src="script.js"></script>
+</body>
+</html>

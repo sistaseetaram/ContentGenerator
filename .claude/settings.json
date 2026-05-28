@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(gsd-import)",
+      "Skill(gsd-import:*)",
+      "Bash(ls /Users/sistaseetaram/Desktop/ | grep -i review)",
+      "Read(//Users/sistaseetaram/Desktop/**)",
+      "Bash(find /Users/sistaseetaram -name \"setu-brand-values-current-work.png\" 2>/dev/null)",
+      "Read(//Users/sistaseetaram/**)"
+    ]
+  }
+}

@@ -10,12 +10,13 @@
 ## Current Position
 
 - **Phase:** 1 of 4 — Ship + Sense (Days 1-7)
-- **Plan:** 01-02 — First Posts (IN PROGRESS)
-- **Day:** 2 of 30
+- **Plan:** Skill-build track (decoupled from posting calendar). Skill 1 = loom-walkthrough-recorder = SHIPPED 2026-05-28.
+- **Day:** 6 of 30 (in progress)
 
-**Progress:** `[█░░░░░░░░░]` ~13%
+**Progress:** `[████░░░░░░]` ~20%
 
-Plans complete: 1/6 in Phase 1 (01-01 scaffold done)
+Plans complete: 1/6 in Phase 1 (01-01 scaffold done; 01-02 first posts wave 1 done — 2 of 3 posts published)
+Skills shipped: 1 (loom-walkthrough-recorder v0.1)
 Total phases complete: 0/4
 
 ---
@@ -26,17 +27,32 @@ Total phases complete: 0/4
 - Blotato deferred to Day 15 build (API key obtained)
 - Platform scope locked: LinkedIn, X, Instagram, YouTube ONLY
 - Instagram = isolated funny/family feed — no B2B content
+- Post sequencing locked: values post before fallback-chains post. Post-001 (tech) → Post-002 (visual brand) → Post-003 (values) → Post-004 (Loom). Fallback chains post pushed to week 2.
+- Post-003 slot = Setu brand values post (from `setu-brand/03-collateral/linkedin/brand-carousel/setu-brand-values-current-work.png`) — to be drafted + posted manually by user today
+- All posts manual for now (user posts directly, not via Supergrow MCP)
 
 ---
 
 ## Pending Todos
 
 - ✅ Day 1 LinkedIn post published: post-001 (Build Receipts — "Same project. Third version.")
-- post-002 (Build-in-Public) still draft — schedule for Day 2 or 3
-- Draft Day 2 LinkedIn post (Pillar cycling: Plain-English AI Takes or Build-in-Public)
-- Schedule remaining Week 1 posts
-- Ingest Day-1 decisions/learnings to Obsidian wiki via `llm-wiki-ingest`
-- Append new skill rows to SKILL-REGISTRY.md (if any built this session)
+- ✅ Day 3 post-002 (Build-in-Public) published manually by user — URL logged
+- ✅ post-003 (Plain-English AI Takes — model fallback chains) drafted, scheduled Day 5
+- ✅ content-calendar.json Week 1 locked
+- ✅ Major brainstorm reframe captured: ideator = research engine, creator = generation engine (separate)
+- ✅ Day 6: loom-walkthrough-recorder v0.1 built + dogfooded (prep packet at `data/loom-preps/2026-05-28-n8n-3-versions.md`)
+- ✅ SKILL-REGISTRY.md updated — row: `local:ContentGenerator:loom-walkthrough-recorder`
+- ✅ templates/skill-report.md created (JSON schema for all skill reports)
+- ✅ post-003 published: Setu brand values post — https://www.linkedin.com/posts/sista-seetaram_aiadoption-workflowautomation-share-7465485954850549760-5YWg/
+- [ ] **TODAY:** Record n8n 3-version Loom using prep packet (`data/loom-preps/2026-05-28-n8n-3-versions.md`), post to LinkedIn, capture URL in `data/posts.json` as post-004
+- [ ] Next skill: content-ideator (lock storage + beats + rubric at build start)
+- [ ] After ideator: linkedin-analyzer (Supergrow metrics → engagement signal → pillar weights)
+- [ ] After analyzer: loom-to-multipost
+- [ ] v0.2 of loom-walkthrough-recorder: wire model_router.py calls (long_form for outline, short_post for hook)
+- [ ] Decide idea storage (at ideator build start): ClickUp / Airtable / Notion / Google Sheets / local JSON+dashboard
+- [ ] Decide brand-identity post slot: Day 5 vs Day 7
+- [ ] Confirm volume ramp timing — Sabrina-mode by 2026-06-10 (decide after analyzer ships)
+- [ ] Ingest Day 1/2/3 decisions to Obsidian wiki via `llm-wiki-ingest`
 
 ---
 
@@ -48,9 +64,15 @@ Total phases complete: 0/4
 
 ## Session Continuity
 
-Last session: 2026-05-24
-Stopped at: Day 2 start — post-001 published (Day 1), .planning/ scaffolded, ready to draft Day 2 post
-Resume: draft Day 2 LinkedIn post → publish → update posts.json
+Last session: 2026-05-28
+Stopped at: Day 6 — post sequencing locked (values post = post-003, fallback chains pushed to week 2). Loom recording imminent using prep packet at `data/loom-preps/2026-05-28-n8n-3-versions.md`.
+Resume: 
+  1. User posts brand values post manually (post-003) — update data/posts.json with URL when done
+  2. User records + posts Loom → capture URL as post-004 in data/posts.json
+  3. Run Post-Recording Feedback protocol from SKILL.md (3 questions → skill update if needed)
+  4. Next build session = content-ideator (lock storage + beats + eval rubric at session start)
+Plan file (this session): /Users/sistaseetaram/.claude/plans/sunny-wandering-melody.md
+Session-clear-safe: prep packet + skill files all committed to repo; STATE captures next steps.
 
 ---
 

@@ -1,1 +1,76 @@
-{"scheduled": [], "drafts": []}
+{
+  "week": 1,
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-05-23",
+      "action": "publish",
+      "post_id": "post-001",
+      "platform": "linkedin",
+      "pillar": "build-receipts",
+      "status": "done",
+      "notes": "Published via Supergrow. First post live."
+    },
+    {
+      "day": 2,
+      "date": "2026-05-24",
+      "action": "prep",
+      "post_id": null,
+      "platform": null,
+      "pillar": null,
+      "status": "done",
+      "notes": "Calendar locked. post-002 + post-003 drafted. Brainstorm started on ideator + loom skills."
+    },
+    {
+      "day": 3,
+      "date": "2026-05-25",
+      "action": "publish",
+      "post_id": "post-002",
+      "platform": "linkedin",
+      "pillar": "build-in-public",
+      "status": "done",
+      "url": "https://www.linkedin.com/posts/sista-seetaram_buildinpublic-setu-share-7464732605263978496-JozW/",
+      "notes": "Published manually via Supergrow. Confirm copy + update posts.json published_at Day 4 once user shares. Major brainstorm reframe captured: ideator = research engine, creator = generation engine (separate skills). See .planning/brainstorm-2026-05-25-ideator-loom.md."
+    },
+    {
+      "day": 4,
+      "date": "2026-05-26",
+      "action": "prep",
+      "post_id": null,
+      "platform": null,
+      "pillar": null,
+      "status": "pending",
+      "notes": "No post. Draft Week 2 ideas. Monitor post-001 and post-002 metrics."
+    },
+    {
+      "day": 5,
+      "date": "2026-05-27",
+      "action": "publish",
+      "post_id": "post-003",
+      "platform": "linkedin",
+      "pillar": "plain-english-ai-takes",
+      "status": "scheduled",
+      "notes": "Model fallback chains. Publish via Supergrow at optimal time (8-9am IST)."
+    },
+    {
+      "day": 6,
+      "date": "2026-05-28",
+      "action": "prep",
+      "post_id": null,
+      "platform": null,
+      "pillar": null,
+      "status": "pending",
+      "notes": "No post. Build content-ideator skill (plan 01-03). Draft first Loom walkthrough plan."
+    },
+    {
+      "day": 7,
+      "date": "2026-05-29",
+      "action": "checkpoint",
+      "post_id": null,
+      "platform": null,
+      "pillar": null,
+      "status": "pending",
+      "notes": "Day-7 checkpoint: tech stack revisit, wiki health audit, Week 1 metrics review."
+    }
+  ]
+}
