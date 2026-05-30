@@ -13,6 +13,12 @@ Loom records raw. Overlay is applied in post-edit (Descript / CapCut / Premiere)
 
 Source: `canvas-browser/script.js` themes object.
 
+**Canonical brand assets (wiki):**
+- Visual identity poster: `/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/raw/assets/setu/setu-standard-visual-identity-system.png`
+- Brand values poster: `/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/raw/assets/setu/setu-brand-values-poster.png`
+- Full palette + typography spec → `setu-brand-context` skill references
+- Values checklist → `wiki/concepts/setu-values.md`
+
 ## Logo placement
 
 - **Position:** top-right corner

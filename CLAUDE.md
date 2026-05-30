@@ -10,6 +10,12 @@ Brand voice + positioning + ICP from `/Users/sistaseetaram/Documents/Obsidian Va
 - `setu-positioning.md`
 - `setu-voice.md`
 - `target-audience.md`
+- `setu-values.md`
+- `setu-visual-identity.md`
+
+Brand assets (images — read for visual reference):
+- Visual identity poster: `/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/raw/assets/setu/setu-standard-visual-identity-system.png`
+- Brand values poster: `/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/raw/assets/setu/setu-brand-values-poster.png`
 
 Approved plan: `/Users/sistaseetaram/.claude/plans/this-is-a-workflow-fluttering-hollerith.md`.
 
@@ -25,6 +31,8 @@ Approved plan: `/Users/sistaseetaram/.claude/plans/this-is-a-workflow-fluttering
 8. **Every new skill row appends to** `/Users/sistaseetaram/Desktop/Claude/claude-datastore/SKILL-REGISTRY.md`.
 9. **Every post + metric logs to** `data/posts.json` + `data/metrics.json`.
 10. **Secrets never echo in chat.** Read `.env` silently. Confirm with masked `KEY=<set>` only.
+11. **Obsidian wiki is the personal Wikipedia.** Agents load only the index at task start: `/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/wiki/index.md` (~30 lines). From there, open specific pages on demand (voice, values, positioning, visual identity) only when the task actually requires that context. Never load the full wiki upfront. Never generate content from training-data assumptions about Setu — ground in the wiki when needed.
+12. **Brand compliance is non-negotiable.** All content (posts, videos, Looms, carousels, scripts) must pass the five-value filter from `setu-values.md` before publish: Work not tech · Quiet over loud · Respect owners · Ship don't slide · Map before build. Any sub-agent generating content must run this filter explicitly and state which values were checked.
 
 ## Content Pillars
 
@@ -70,6 +78,7 @@ data/            posts.json, metrics.json, content-calendar.json, audits/, repor
 - Need to ingest research → `llm-wiki-ingest`
 - Need a video script → `video-script-generator`
 - Need a Loom walkthrough plan → `loom-walkthrough-recorder`
+- Need to analyze a recorded Loom → `loom-video-analyzer`
 - Need to repurpose a Loom → `loom-to-multipost`
 
 ## Day-1 to Day-30

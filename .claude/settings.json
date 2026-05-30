@@ -6,7 +6,14 @@
       "Bash(ls /Users/sistaseetaram/Desktop/ | grep -i review)",
       "Read(//Users/sistaseetaram/Desktop/**)",
       "Bash(find /Users/sistaseetaram -name \"setu-brand-values-current-work.png\" 2>/dev/null)",
-      "Read(//Users/sistaseetaram/**)"
+      "Read(//Users/sistaseetaram/**)",
+      "Bash(python3 scripts/rebuild_index.py)",
+      "Edit(/.claude/skills/loom-walkthrough-recorder/**)",
+      "Edit(/.claude/skills/loom-video-analyzer/**)",
+      "Bash(grep -i -A3 \"post-001\\\\|n8n\\\\|\\\\$1\\\\|0.06\\\\|94\" data/posts.json)",
+      "WebFetch(domain:www.loom.com)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 tools/model_router.py)"
     ]
   }
 }
