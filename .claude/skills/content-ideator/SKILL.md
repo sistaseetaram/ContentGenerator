@@ -165,7 +165,9 @@ After any confirmed change: append to `applied_changes[]` in `ideator-meta.json`
 
 ## Phase 11: Weekly Schedule (Schedule mode only)
 
-Fires on: "plan next week", "weekly schedule", "Sunday planning", or automatically every Sunday.
+**Trigger rule (hard rule — do not deviate):** Schedule mode runs ONLY when (a) the user manually asks ("plan next week", "weekly schedule", "Sunday planning"), or (b) it is Sunday (cron or manual). It NEVER runs as part of a Generate-mode ideator run — generating ideas and building the weekly schedule are separate actions. A Generate run fills the idea backlog; it does not touch the calendar.
+
+**Week 1 (May 23–30) and Week 2 (Jun 1–7) are already planned manually** — do not re-schedule them. The first ideator-built schedule is **Week 3**, produced on the next Sunday.
 
 **Inputs (read in order):**
 1. `data/ideas.json` — ideas with `status=backlog` and `strategic_opinion.verdict=post_now`

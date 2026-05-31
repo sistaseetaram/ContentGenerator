@@ -34,6 +34,8 @@ Total phases complete: 0/4
 - **2026-05-31:** Model stack — Gemini 2.5 Flash now PRIMARY for `long-form` + `auditor` (Sonnet → last-resort fallback). Verified: Gemini Pro sub ≠ API credits; Groq free tier only on direct API (not OpenRouter). Cost table corrected ($0.30/$2.50 per M).
 - **2026-05-31:** ClickUp/Airtable DROPPED — Slack DM routine covers live progress visibility.
 - **2026-05-31:** New CLAUDE.md "Strategic Advisor Mandate" — never rubber-stamp; honest critique on every idea, brand-stage-aware.
+- **Week 1 (May 23–30) DONE** — post-001..004 published. **Week 2 (Jun 1–7) DONE** — already planned manually (`data/ideas.json` week:2 set, status=planned). Ideator does NOT need to schedule Week 1 or 2.
+- **Schedule mode = Sundays or manual trigger ONLY.** Never auto-runs on a Generate-mode ideator run. First ideator-built schedule = Week 3 (next Sunday). Generate (ideas) and Schedule (weekly calendar) are separate triggers.
 
 ---
 
