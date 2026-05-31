@@ -32,7 +32,13 @@ Top-level object, append-only `ideas[]` array. One record per idea:
       "supporting_research": [
         {"headline": "...", "source_url": "internal:model_spend.json"}
       ],
-      "status": "backlog"
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Proof exists (model_spend.json), on-path for Build Receipts, right brand stage.",
+        "when_to_post": "now",
+        "timing_note": "Screen-record ready → post this week."
+      }
     }
   ]
 }
@@ -47,6 +53,11 @@ Top-level object, append-only `ideas[]` array. One record per idea:
 - `proof_plan` — required, one line. An idea with no proof plan is a topic, not a Setu idea — don't store it without one.
 - `platform` ∈ {linkedin, x, instagram, youtube} (locked scope). Instagram only for the isolated funny feed — never auto-assign B2B ideas to it.
 - `status` ∈ {`backlog`, `drafting`, `posted`} — lifecycle; ideator only ever writes `backlog`.
+- `strategic_opinion` — required on every record (agent or user-submitted). Four sub-fields:
+  - `verdict` ∈ {`post_now`, `post_later`, `drop`}
+  - `reason` — one sentence: why this verdict (on-path, proof-ready, sequencing risk, positioning leak, etc.)
+  - `when_to_post` — `"now"` | `"Week N"` | `"after first client"` | `"after N followers"` etc.
+  - `timing_note` — what must be true before posting (proof needed, audience size, brand stage)
 
 ## `data/ideas-latest.json`
 

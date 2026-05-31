@@ -20,26 +20,55 @@
   .title { font-weight:600; }
   .angle { color:var(--muted); font-size:13px; margin-top:2px; }
   .proof { font-size:12px; color:var(--terra); margin-top:4px; }
+  .verdict-reason { font-size:12px; color:var(--muted); margin-top:3px; font-style:italic; }
+  .verdict-when { font-size:11px; color:var(--ink); margin-top:2px; }
   .badge { display:inline-block; padding:2px 8px; border-radius:999px; font-size:11px; color:#fff; white-space:nowrap; }
   .dims { font-size:11px; color:var(--muted); font-variant-numeric:tabular-nums; white-space:nowrap; }
   .empty { padding:40px 28px; color:var(--muted); }
+  .tabs { display:flex; gap:4px; padding:0 28px; border-bottom:1px solid var(--line); }
+  .tab { padding:10px 16px; font-size:14px; font-weight:600; color:var(--muted); cursor:pointer; border-bottom:2px solid transparent; margin-bottom:-1px; }
+  .tab.active { color:var(--ink); border-bottom-color:var(--terra); }
+  .pane { display:none; }
+  .pane.active { display:block; }
+  a.postlink { color:var(--terra); text-decoration:none; }
+  a.postlink:hover { text-decoration:underline; }
+  .nolink { color:var(--muted); font-size:12px; }
 </style></head>
 <body>
 <header>
-  <h1>Setu — Idea Feed</h1>
-  <div class="sub">0 ideas · source of truth: data/ideas.json · sort by clicking a column</div>
+  <h1>Setu — Content Dashboard</h1>
+  <div class="sub">7 ideas · 4 published · source: data/ideas.json + data/posts.json</div>
 </header>
-<div class="controls">
-  <select id="f-pillar"><option value="">all pillars</option></select>
-  <select id="f-source"><option value="">all sources</option></select>
-  <select id="f-status"><option value="">all statuses</option></select>
-  <input id="f-search" placeholder="search title / angle…" size="28">
+<div class="tabs">
+  <div class="tab active" data-pane="ideas">Ideas</div>
+  <div class="tab" data-pane="published">Published</div>
 </div>
-<div id="mount"></div>
+
+<div class="pane active" id="pane-ideas">
+  <div class="controls">
+    <select id="f-pillar"><option value="">all pillars</option></select>
+    <select id="f-source"><option value="">all sources</option></select>
+    <select id="f-status"><option value="">all statuses</option></select>
+    <select id="f-verdict"><option value="">all verdicts</option><option value="post_now">post now</option><option value="post_later">post later</option><option value="drop">drop</option></select>
+    <input id="f-search" placeholder="search title / angle…" size="28">
+  </div>
+  <div id="mount"></div>
+</div>
+
+<div class="pane" id="pane-published">
+  <div class="controls">
+    <select id="pf-platform"><option value="">all platforms</option></select>
+    <select id="pf-pillar"><option value="">all pillars</option></select>
+    <input id="pf-search" placeholder="search topic…" size="28">
+  </div>
+  <div id="pmount"></div>
+</div>
 <script>
-const IDEAS = [];
+const IDEAS = [{"id": "idea-001", "week": 2, "slot": "2026-06-01", "platform": "linkedin", "pillar": "plain-english-ai-takes", "title": "What 'AI for your design studio' actually means", "angle": "Plain-English Take. Cut hype; explain in owner language where AI fits in an interior/architecture practice (mood boards, specs, BOQ, client updates). Sets up the Bridge 1 week.", "icp": "Bridge 01 \u2014 interior/architecture/construction firms", "asset": null, "cta": "none", "status": "planned", "notes": "Keep it concrete with one interior example. No jargon."}, {"id": "idea-002", "week": 2, "slot": "2026-06-02", "platform": "linkedin", "pillar": "build-in-public-setu", "title": "I'm building an AI system for interior design firms", "angle": "Build-in-Public. Introduce the architectural automation. Name the ICP pain in their words (chasing vendor quotes, copy-pasting between five tools, hand-built mood boards/specs).", "icp": "Bridge 01", "asset": null, "cta": "none", "status": "planned", "notes": "First public Bridge 1 proof signal. Bridge metaphor hook."}, {"id": "idea-003", "week": 2, "slot": "2026-06-03", "platform": "linkedin", "pillar": "build-receipts", "title": "The pipeline running: brief to plan-faithful render", "angle": "Build Receipt. Show mood board -\u003e palette -\u003e material/lighting/BOQ sheet -\u003e plan-faithful render. Real output, organized + documented vs hand-built clutter.", "icp": "Bridge 01", "asset": {"type": "carousel_or_screenrec", "status": "NEEDS_USER", "note": "user supplies demo project + shareable render/sheets/screen-rec"}, "cta": "soft", "status": "blocked-on-asset", "notes": "Anonymize any real client name. Wed proof asset format TBD (screen-rec vs carousel)."}, {"id": "idea-004", "week": 2, "slot": "2026-06-04", "platform": "linkedin", "pillar": "build-in-public-setu", "title": "The AI kept moving the furniture", "angle": "Build-in-Public honesty post. V1-\u003eV4 render plan-faithfulness story: renders ignored the 2D plan; fixed with whitebox-PNG reference + strict layout language. 'The bad versions are the curriculum.'", "icp": "Bridge 01", "asset": {"type": "before_after_render", "status": "NEEDS_USER", "note": "user supplies V1 vs V4 render images"}, "cta": "soft", "status": "blocked-on-asset", "notes": "Strongest trust post of the week. Visual."}, {"id": "idea-005", "week": 2, "slot": "2026-06-05", "platform": "linkedin", "pillar": "build-receipts", "title": "Stock-analysis recap + YouTube drop", "angle": "Build Receipt + promote YT1. Tie off the Week-1 stock-analysis thread; point to the full YouTube walkthrough.", "icp": "general / intro", "asset": {"type": "youtube_link", "ref": "YT1", "source": "/Users/sistaseetaram/Desktop/Claude/LoomWalkthroughs/final_v2_nohud_1.2x.mp4", "status": "edit-ready"}, "cta": "none", "status": "planned", "notes": "First YouTube upload. Promote once on LinkedIn."}, {"id": "idea-006", "week": 2, "slot": "2026-06-06", "platform": "linkedin", "pillar": "plain-english-ai-takes", "title": "Get the basics right before chasing AI (wake-up call)", "angle": "Wake-up call for design/construction firms: organized files, a real LinkedIn profile, documented projects come before automation. Promotes YT2.", "icp": "Bridge 01", "asset": {"type": "youtube_link", "ref": "YT2", "status": "to-record"}, "cta": "soft (free Gem teaser)", "status": "planned", "notes": "LECTURE RISK \u2014 frame as 'here's what I keep seeing work', not 'you're doing it wrong'. Hard five-value check on Respect-the-owner before publish."}, {"id": "idea-007", "week": 2, "slot": "2026-06-07", "platform": "linkedin", "pillar": "build-in-public-setu", "title": "A free AI advisor for design \u0026 architecture firms", "angle": "Lead magnet. Share the free Gemini Gem (architecture/interior instructions) \u2014 owners can ask how to improve their business step by step. Give value, not a sales ask.", "icp": "Bridge 01", "asset": {"type": "gem_link", "status": "NEEDS_USER", "note": "user supplies public Gem URL + access method; lead capture is manual for now (DM automation is the separate outreach project)"}, "cta": "free tool (the real CTA of the week)", "status": "blocked-on-asset", "notes": "Closes YT2. Soft, value-first."}];
+const POSTS = [{"id": "post-004", "pillar": "build-receipts", "platform": "linkedin", "status": "published", "url": "https://www.linkedin.com/posts/sista-seetaram_n8n-buildinpublic-aiautomation-ugcPost-7466532934515122176-mPCr/", "hook": "Same workflow. Three versions. 94% cheaper.", "body": "Same workflow. Three versions. 94% cheaper.\n\nI recorded the walkthrough for my n8n stock analysis workflow.\n\nVersion 1 was one giant prompt.\nStatic company data, live prices, analysis rules, formatting rules. Everything went into one envelope.\n\nIt worked as a demo.\nIt cost about $1 per report.\n\nVersion 2 split the work into subworkflows: financials, stock data, index data, and formatting.\n\nBetter structure. Still not enough.\n\nVersion 3 added one small question before anything ran:\n\nDo I actually need to generate this report again?\n\nThat changed the cost from $1 to $0.06 per report.\nSame baseline model. Same output. 94% lower cost.\n\nThe useful part was not the final workflow.\n\nIt was the two bad versions before it.\n\nVariable names pointing nowhere.\nData mapping errors.\nNodes running too long on malformed input.\nThree nights lost to one character in one field name.\n\nMost tutorials show the finished automation.\nThey skip the versions that taught you why it works.\n\nThat is the part I am trying to document.\n\nV4 is already being rebuilt on a different architecture.\n\nWhat version are you on?\n\n#n8n #buildinpublic #AIautomation", "hashtags": ["#n8n", "#buildinpublic", "#AIautomation"], "topic": "Loom walkthrough: n8n stock analysis workflow evolution from $1 to $0.06 per report", "asset": {"type": "native_video", "path": "/Users/sistaseetaram/Desktop/Claude/LoomWalkthroughs/edit/final_v2_nohud_1.2x.mp4", "duration_seconds": 166.8, "source_loom": "https://www.loom.com/share/010fe108a29c4ed181aac42e0e3f9805"}, "numbers": {"cost_v1_usd": 1.0, "cost_v3_usd": 0.06, "cost_reduction_pct": 94, "video_duration_seconds": 166.8, "recording_speed": 1.2}, "word_count": 190, "created_at": "2026-05-30", "scheduled_at": null, "published_at": "2026-05-30"}, {"id": "post-003", "pillar": "build-in-public-setu", "platform": "linkedin", "status": "published", "url": "https://www.linkedin.com/posts/sista-seetaram_aiadoption-workflowautomation-share-7465485954850549760-5YWg/", "hook": "Setu brand values post", "body": "Brand values post \u2014 source: setu-brand-values-current-work.png. Values: Work not tech, Quiet over loud, Respect owners, Ship don't slide, Map before build. Current work: Bridge Zero + Setu Library.", "hashtags": ["#aiadoption", "#workflowautomation"], "topic": "Setu brand values \u2014 quiet principles for practical AI", "numbers": {}, "word_count": null, "created_at": "2026-05-28", "scheduled_at": null, "published_at": "2026-05-28"}, {"id": "post-002", "pillar": "build-in-public", "platform": "linkedin", "status": "published", "url": "https://www.linkedin.com/posts/sista-seetaram_buildinpublic-setu-share-7464732605263978496-JozW/", "hook": "Day 1 of building Setu in public.", "body": "Day 1 of building Setu in public.\n\nHere's what I shipped:\n\nA content system that routes every AI model call through a fallback chain. Primary fails \u2192 secondary. Secondary fails \u2192 tertiary. Automatic.\n\n8 task types. 3 models each. One router.\n\nAlso wrote 11 workflow SOPs. Platform rules, content pillars, audit schedules. The kind of documentation that makes the second week faster than the first.\n\n$5/day circuit breaker on Claude API. Costs stay tracked. No surprise bills.\n\nThat's how I build \u2014 foundation before facade.\n\nDo you build the infrastructure first, or ship and fix?\n\n#buildinpublic #setu", "hashtags": ["#buildinpublic", "#setu"], "topic": "Day 1 Setu launch \u2014 infrastructure shipped: model router, 11 SOPs, cost circuit breaker", "numbers": {"task_types": 8, "models_per_task": 3, "sops_written": 11, "daily_cost_circuit_breaker_usd": 5}, "word_count": 105, "created_at": "2026-05-23", "scheduled_at": null, "published_at": "2026-05-25"}, {"id": "post-001", "pillar": "build-receipts", "platform": "linkedin", "status": "published", "hook": "Same project. Third version. Finally makes sense.", "body": "Same project. Third version. Finally makes sense.\n\nV1: one massive prompt, everything fed in. $1 per report. Architecture: embarrassing.\n\nV2: discovered subworkflows. Split prompts. Static data separated from dynamic. Cost dropped.\n\nV3: verification before fetching. The model only sees what it needs.\n\n$0.06 per report now.\n\nI spent weeks before this following tutorials. Built every template. Understood nothing \u2014 because their data flows weren't breaking. Mine weren't either, because they weren't mine.\n\nNobody ships a good automation on the first try. Most tutorials show the finished thing. They skip the three versions before it.\n\nThe frustration is the curriculum.\n\nData mapping errors. Variable names pointing nowhere. A node running forever on malformed input. That's the actual class.\n\nV4 is coming.\n\nWhat version are you on?\n\n#n8n #buildinpublic", "hashtags": ["#n8n", "#buildinpublic"], "topic": "n8n stock analysis automation \u2014 3-version evolution, $1 \u2192 $0.06 cost reduction", "numbers": {"cost_v1_usd": 1.0, "cost_v3_usd": 0.06, "cost_reduction_pct": 94}, "word_count": 150, "created_at": "2026-05-23", "scheduled_at": null, "published_at": "2026-05-23"}];
 const PILLAR_COLORS = {"build-receipts": "#C25A3C", "plain-english-takes": "#2F6F6A", "build-in-public": "#7A5C9E", "build-in-public-setu": "#7A5C9E", "contrarian": "#B5852A", "instagram-creative": "#9E5C7A"};
 const SOURCE_BADGE = {"agent": "#2F6F6A", "user": "#C25A3C", "sister": "#9E5C7A"};
+const VERDICT_COLORS = {"post_now": "#2A7A4A", "post_later": "#B5852A", "drop": "#9E3030"};
 let sortKey = "total_score", sortDir = -1;
 
 function uniq(key){ return [...new Set(IDEAS.map(i=>i[key]).filter(Boolean))].sort(); }
@@ -48,14 +77,25 @@ fill("f-pillar","pillar"); fill("f-source","source"); fill("f-status","status");
 
 function dims(s){ if(!s) return ""; const k=["pillar_fit","value_fit","new_info","lived_exp","proof_level","timeliness","effort"]; const lbl=["P","V","N","L","Pf","T","E"]; return k.map((x,i)=>lbl[i]+s[x]).join(" "); }
 
+function verdictCell(op){
+  if(!op) return "";
+  const vc=VERDICT_COLORS[op.verdict]||"#888";
+  const label=(op.verdict||"").replace(/_/g," ");
+  return `<span class="badge" style="background:${vc}">${esc(label)}</span>`
+    +(op.reason?`<div class="verdict-reason">${esc(op.reason)}</div>`:"")
+    +(op.when_to_post&&op.when_to_post!=="now"?`<div class="verdict-when">→ ${esc(op.when_to_post)}</div>`:"");
+}
+
+function getVerdict(i){ return i.strategic_opinion&&i.strategic_opinion.verdict||""; }
+
 function render(){
-  const fp=f("f-pillar"),fs=f("f-source"),fst=f("f-status"),q=f("f-search").toLowerCase();
-  let rows=IDEAS.filter(i=>(!fp||i.pillar===fp)&&(!fs||i.source===fs)&&(!fst||i.status===fst)&&(!q||((i.title||"")+(i.angle||"")).toLowerCase().includes(q)));
+  const fp=f("f-pillar"),fs=f("f-source"),fst=f("f-status"),fv=f("f-verdict"),q=f("f-search").toLowerCase();
+  let rows=IDEAS.filter(i=>(!fp||i.pillar===fp)&&(!fs||i.source===fs)&&(!fst||i.status===fst)&&(!fv||getVerdict(i)===fv)&&(!q||((i.title||"")+(i.angle||"")).toLowerCase().includes(q)));
   rows.sort((a,b)=>{const x=a[sortKey]??"",y=b[sortKey]??""; return (x>y?1:x<y?-1:0)*sortDir;});
   const mount=document.getElementById("mount");
   if(!rows.length){ mount.innerHTML='<div class="empty">No ideas match. Run the ideator to populate the feed.</div>'; return; }
   const head=[["title","Idea"],["pillar","Pillar"],["source","Source"],["total_score","Score"],["status","Status"]];
-  let h='<table><thead><tr>'+head.map(([k,l])=>`<th data-k="${k}">${l}${sortKey===k?(sortDir<0?" ▾":" ▴"):""}</th>`).join("")+'<th>Dimensions</th></tr></thead><tbody>';
+  let h='<table><thead><tr>'+head.map(([k,l])=>`<th data-k="${k}">${l}${sortKey===k?(sortDir<0?" ▾":" ▴"):""}</th>`).join("")+'<th>Strategic Opinion</th><th>Dimensions</th></tr></thead><tbody>';
   rows.forEach(i=>{
     const pc=PILLAR_COLORS[i.pillar]||"#888", sc=SOURCE_BADGE[i.source]||"#888";
     h+=`<tr>
@@ -64,6 +104,7 @@ function render(){
       <td><span class="badge" style="background:${sc}">${esc(i.source||"")}</span></td>
       <td class="score">${(i.total_score??0).toFixed(2)}</td>
       <td>${esc(i.status||"")}</td>
+      <td>${verdictCell(i.strategic_opinion)}</td>
       <td class="dims">${dims(i.scores)}</td>
     </tr>`;
   });
@@ -72,7 +113,44 @@ function render(){
 }
 function f(id){return document.getElementById(id).value;}
 function esc(s){return (s||"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
-["f-pillar","f-source","f-status","f-search"].forEach(id=>document.getElementById(id).oninput=render);
+["f-pillar","f-source","f-status","f-verdict","f-search"].forEach(id=>document.getElementById(id).oninput=render);
+
+// ---- Published tab ----
+function puniq(key){ return [...new Set(POSTS.map(p=>p[key]).filter(Boolean))].sort(); }
+function pfill(id,key){ const s=document.getElementById(id); puniq(key).forEach(v=>{const o=document.createElement("option");o.value=v;o.textContent=v;s.appendChild(o);}); }
+pfill("pf-platform","platform"); pfill("pf-pillar","pillar");
+
+function prender(){
+  const fp=f("pf-platform"),fpi=f("pf-pillar"),q=f("pf-search").toLowerCase();
+  let rows=POSTS.filter(p=>(!fp||p.platform===fp)&&(!fpi||p.pillar===fpi)&&(!q||((p.topic||"")+(p.hook||"")).toLowerCase().includes(q)));
+  const mount=document.getElementById("pmount");
+  if(!rows.length){ mount.innerHTML='<div class="empty">No published posts yet.</div>'; return; }
+  let h='<table><thead><tr><th>Date</th><th>Where</th><th>Pillar</th><th>Post</th><th>Link</th></tr></thead><tbody>';
+  rows.forEach(p=>{
+    const pc=PILLAR_COLORS[p.pillar]||"#888";
+    const title=p.topic||p.hook||p.id;
+    const link=p.url?`<a class="postlink" href="${esc(p.url)}" target="_blank" rel="noopener">open ↗</a>`:'<span class="nolink">no link</span>';
+    h+=`<tr>
+      <td style="white-space:nowrap">${esc(p.published_at||p.created_at||"")}</td>
+      <td><span class="badge" style="background:#2F6F6A">${esc(p.platform||"")}</span></td>
+      <td><span class="badge" style="background:${pc}">${esc(p.pillar||"")}</span></td>
+      <td><div class="title">${esc(title)}</div></td>
+      <td>${link}</td>
+    </tr>`;
+  });
+  mount.innerHTML=h+'</tbody></table>';
+}
+["pf-platform","pf-pillar","pf-search"].forEach(id=>document.getElementById(id).oninput=prender);
+
+// ---- Tab switching ----
+document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
+  document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
+  document.querySelectorAll(".pane").forEach(x=>x.classList.remove("active"));
+  t.classList.add("active");
+  document.getElementById("pane-"+t.dataset.pane).classList.add("active");
+});
+
 render();
+prender();
 </script>
 </body></html>
