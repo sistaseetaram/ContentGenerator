@@ -32,7 +32,7 @@ COST_PER_TOKEN = {
     "claude-haiku-4-5":     (0.80 / 1_000_000,  4.00 / 1_000_000),
     "gpt-4o":               (5.00 / 1_000_000, 15.00 / 1_000_000),
     "gpt-4o-mini":          (0.15 / 1_000_000,  0.60 / 1_000_000),
-    "gemini-2.5-flash":     (0.075/ 1_000_000,  0.30 / 1_000_000),
+    "gemini-2.5-flash":     (0.30 / 1_000_000,   2.50 / 1_000_000),  # free tier at low volume
     "deepseek-chat":        (0.27 / 1_000_000,  1.10 / 1_000_000),
     "groq-llama-3.3-70b":   (0.00 / 1_000_000,  0.00 / 1_000_000),  # free tier
     "whisper-1":            (0.006/ 60, 0.0),                         # per minute of audio
@@ -47,13 +47,15 @@ CLAUDE_MODELS = {"claude-sonnet-4-6", "claude-haiku-4-5"}
 
 # Fallback chains per task type. Primary is index 0.
 CHAINS = {
-    "long-form":    ["claude-sonnet-4-6", "gpt-4o", "deepseek-chat"],
+    "long-form":    ["gemini-2.5-flash", "gpt-4o", "claude-sonnet-4-6"],
     "short-post":   ["gpt-4o-mini", "gemini-2.5-flash", "claude-haiku-4-5"],
     "multimodal":   ["gemini-2.5-flash", "gpt-4o", "claude-sonnet-4-6"],
     "transcription":["whisper-1", "deepgram-nova-3", "assemblyai"],
     "lint-dispatch":["claude-haiku-4-5", "gpt-4o-mini", "groq-llama-3.3-70b"],
-    "auditor":      ["claude-sonnet-4-6", "gpt-4o", "deepseek-chat"],
+    "auditor":      ["gemini-2.5-flash", "gpt-4o", "claude-sonnet-4-6"],
     "yt-summarize": ["deepseek-chat", "gpt-4o-mini", "gemini-2.5-flash"],
+    # Bulk research summarize — free model first to zero out fan-out cost. Never Claude.
+    "research-summarize": ["groq-llama-3.3-70b", "gemini-2.5-flash", "deepseek-chat"],
     "embedding":    ["text-embedding-3-small", "voyage-3", "cohere-embed-v3"],
 }
 

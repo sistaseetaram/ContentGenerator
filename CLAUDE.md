@@ -49,13 +49,14 @@ Approved plan: `/Users/sistaseetaram/.claude/plans/this-is-a-workflow-fluttering
 
 | Task | Primary | Fallback 1 | Fallback 2 |
 |------|---------|------------|------------|
-| Long-form | Sonnet 4.6 | GPT-4o | DeepSeek-V3 |
+| Long-form | Gemini 2.5 Flash | GPT-4o | Sonnet 4.6 |
 | Short post | GPT-4o-mini | Gemini 2.5 Flash | Haiku 4.5 |
 | Multimodal | Gemini 2.5 Flash | GPT-4o vision | Sonnet 4.6 vision |
 | Transcription | Whisper | Deepgram Nova-3 | AssemblyAI |
 | Lint / dispatch | Haiku 4.5 | GPT-4o-mini | Groq Llama 3.3 |
-| Auditor | Sonnet 4.6 | GPT-4o | DeepSeek-V3 |
+| Auditor | Gemini 2.5 Flash | GPT-4o | Sonnet 4.6 |
 | YT transcript summarize | DeepSeek-V3 | GPT-4o-mini | Gemini Flash (NEVER Claude) |
+| Research summarize (bulk fan-out) | Groq Llama 3.3 70B (free) | Gemini 2.5 Flash | DeepSeek-V3 (NEVER Claude) |
 
 ## Layout
 

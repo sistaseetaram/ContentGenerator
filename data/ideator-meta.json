@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "runs": [],
+  "beat_performance": {
+    "new-releases": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
+    "pattern-interrupts": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
+    "competitor-gaps": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
+    "build-in-public": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
+    "contrarian-honesty": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
+    "owner-pain-points": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
+    "own-stack-miner": {"candidates_generated": 0, "shortlisted": 0, "posted": 0}
+  },
+  "rubric_weight_history": [
+    {
+      "ts": "2026-05-30",
+      "version": "v0.1",
+      "weights": {
+        "pillar_fit": 1.0,
+        "value_fit": 1.0,
+        "new_info": 1.5,
+        "lived_exp": 1.5,
+        "proof_level": 1.5,
+        "timeliness": 1.0,
+        "effort": 0.75
+      },
+      "reason": "Initial weights from BuildPartner consult — new-info/lived-exp/proof weighted highest as beginner-brand differentiators."
+    }
+  ],
+  "dimension_correlation": {
+    "note": "Populated after 10+ ideas reach status=posted. Correlation between each dimension score and posting outcome.",
+    "pillar_fit": null,
+    "value_fit": null,
+    "new_info": null,
+    "lived_exp": null,
+    "proof_level": null,
+    "timeliness": null,
+    "effort": null,
+    "last_computed_at": null,
+    "n_posted_at_computation": 0
+  },
+  "auto_dev_triggers": {
+    "runs_since_last_beat_analysis": 0,
+    "beat_analysis_every_n_runs": 5,
+    "posts_since_last_weight_tune": 0,
+    "weight_tune_every_n_posts": 10
+  },
+  "applied_changes": []
+}

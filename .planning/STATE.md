@@ -10,13 +10,13 @@
 ## Current Position
 
 - **Phase:** 1 of 4 — Ship + Sense (Days 1-7)
-- **Plan:** Skill-build track (decoupled from posting calendar). Skill 1 = loom-walkthrough-recorder = SHIPPED 2026-05-28.
-- **Day:** 6 of 30 (in progress)
+- **Plan:** Skill-build track (decoupled from posting calendar). Shipped: loom-walkthrough-recorder (05-28), loom-video-analyzer (05-30), content-ideator v0.1 (05-30).
+- **Day:** 7 of 30 (in progress)
 
-**Progress:** `[████░░░░░░]` ~20%
+**Progress:** `[█████░░░░░]` ~30%
 
-Plans complete: 1/6 in Phase 1 (01-01 scaffold done; 01-02 first posts wave 1 done — 2 of 3 posts published)
-Skills shipped: 1 (loom-walkthrough-recorder v0.1)
+Plans complete: 1/6 in Phase 1 (01-01 scaffold done; 01-02 first posts wave 1 done — 3 posts published)
+Skills shipped: 3 (loom-walkthrough-recorder v0.1, loom-video-analyzer v0.1, content-ideator v0.1)
 Total phases complete: 0/4
 
 ---
@@ -45,8 +45,10 @@ Total phases complete: 0/4
 - ✅ templates/skill-report.md created (JSON schema for all skill reports)
 - ✅ post-003 published: Setu brand values post — https://www.linkedin.com/posts/sista-seetaram_aiadoption-workflowautomation-share-7465485954850549760-5YWg/
 - [ ] **TODAY:** Record n8n 3-version Loom using prep packet (`data/loom-preps/2026-05-28-n8n-3-versions.md`), post to LinkedIn, capture URL in `data/posts.json` as post-004
-- [ ] Next skill: content-ideator (lock storage + beats + rubric at build start)
-- [ ] After ideator: linkedin-analyzer (Supergrow metrics → engagement signal → pillar weights)
+- ✅ content-ideator v0.1 built (storage=local JSON+dashboard; 7 beats incl own-stack miner; 7-dim rubric; research-summarize chain free-first Groq→Gemini→DeepSeek). Needs first dogfood run + .env keys to exercise router live.
+- [ ] **NEXT skill: tech-stack auditor** (unnamed) — task→model→agent spec + cost-cut suggestions; writes report ideator's own-stack miner consumes. Report path TBD by user (local + Drive-latest + Obsidian-ingest).
+- [ ] Then: content-creator (consumes data/ideas-latest.json) — the generation engine
+- [ ] After: linkedin-analyzer (Supergrow metrics → engagement signal → pillar weights)
 - [ ] After analyzer: loom-to-multipost
 - [ ] v0.2 of loom-walkthrough-recorder: wire model_router.py calls (long_form for outline, short_post for hook)
 - [ ] Decide idea storage (at ideator build start): ClickUp / Airtable / Notion / Google Sheets / local JSON+dashboard

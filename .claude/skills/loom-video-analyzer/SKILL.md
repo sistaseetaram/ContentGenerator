@@ -139,7 +139,17 @@ Schema:
   "improvised_well": [],
   "improvised_poorly": [],
   "dont_mention_violations": [],
-  "prep_packet_update_suggestions": []
+  "prep_packet_update_suggestions": [],
+  "edit_decision": "edit | re-record | re-record-section",
+  "edit_instructions": {
+    "path": "edit | re-record | null",
+    "end_card": { "add": true, "duration_s": 4, "content": "से Setu | setu.agency", "position": "after_close" },
+    "cuts": [],
+    "trims": [],
+    "re_record_scope": null,
+    "re_record_reason": null,
+    "notes": ""
+  }
 }
 ```
 
@@ -223,7 +233,60 @@ _Full report → data/reports/{date}/{filename}.md_
 
 Use `mcp__claude_ai_Slack__slack_send_message`. If not authenticated, skip and note in output.
 
-## Phase 9: Prep packet self-improvement loop
+## Phase 9: Edit vs Re-record Decision Gate
+
+After scoring, determine the next action path:
+
+### Gate rule
+
+| Score | Path | Action |
+|-------|------|--------|
+| ≥ 8/10 | **Edit path** | Generate edit instructions for video-studio tool. User sends raw file. |
+| < 8/10 | **Re-record path** | Specify exactly what to re-record and why. Do not send to editor. |
+
+### Edit path (score ≥ 8)
+
+Generate an `edit_instructions` block in the JSON report and output it as a human-readable checklist. Format video-studio can consume:
+
+```json
+"edit_instructions": {
+  "path": "edit",
+  "end_card": {
+    "add": true,
+    "duration_s": 4,
+    "content": "से Setu | setu.agency",
+    "position": "after_close"
+  },
+  "cuts": [
+    { "type": "mute", "start": "3:03", "end": "3:06", "reason": "mis-speak 'subcomputer'" }
+  ],
+  "trims": [],
+  "captions": { "burn": false },
+  "notes": "Ship as-is after these edits."
+}
+```
+
+State clearly in output:
+```
+📋 Edit instructions ready for video-studio.
+   Send the raw .mp4 file, then dispatch these instructions.
+   After edit: re-analyze with loom-video-analyzer.
+```
+
+### Re-record path (score < 8)
+
+Output clearly:
+```
+⚠️ Re-record recommended.
+   Root cause: {top 1-2 issues by score impact}
+   Re-record scope: [full] or [section: {timestamp range}]
+   Fix before next take: {2-3 specific actions}
+   Do NOT send to video editor — fix at source.
+```
+
+Specify scope precisely: full re-record only if hook or brand values failed. Section re-record if ≤ 2 beats are the problem.
+
+## Phase 10: Prep packet self-improvement loop
 
 If any of these are non-trivial:
 - Missed talking points
@@ -244,6 +307,7 @@ Print the suggestions clearly. User decides whether to apply.
    Score: {total}/10 — {verdict}
    Slack: DM sent ✓ (or "not sent — auth required")
    Repurpose candidate: "{quote}" — ~{timestamp}
+   Decision: [edit path → send raw file + instructions] or [re-record → see report for scope]
    Next: apply edits, publish, or re-record.
 ```
 
@@ -270,3 +334,5 @@ When the user reads the report and responds:
 - v0.1: crediting any external source for content shown in your walkthrough = brand values miss; flag improvised_poorly.
 - v0.1: live "something broke" narrated on camera = auto-flag improvised_poorly with cut timestamp.
 - v0.1: uhh count > 15 in < 5 min caps voice score at 1.0/2 regardless of other compliance.
+- v0.1: edit gate = score ≥ 8 → instructions for video-studio; score < 8 → re-record scope specified.
+- v0.1: end card (से Setu | setu.agency, 4s) always included in edit_instructions when edit path.

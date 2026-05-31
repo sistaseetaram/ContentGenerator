@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LinkedIn Draft Preview - post-004</title>
+  <style>
+    :root {
+      --setu-light-bg: #ffffff;
+      --setu-light-fg: #111111;
+      --setu-paper-bg: #f2f2f0;
+      --setu-terracotta-bg: #1e0f09;
+      --setu-terracotta-fg: #f2ddd3;
+      --setu-forest-bg: #0e1810;
+      --setu-forest-fg: #ddeadf;
+      --setu-anthracite-bg: #222222;
+      --setu-anthracite-fg: #f4f4f4;
+      --setu-muted: #aaaaaa;
+      --setu-rule: #e8e8e8;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--setu-paper-bg);
+      color: var(--setu-light-fg);
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6;
+    }
+
+    main {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 40px 24px;
+      display: grid;
+      grid-template-columns: minmax(0, 1.1fr) minmax(360px, 0.9fr);
+      gap: 32px;
+      align-items: start;
+    }
+
+    .mast {
+      grid-column: 1 / -1;
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      border-bottom: 1px solid var(--setu-rule);
+      padding-bottom: 20px;
+    }
+
+    h1 {
+      margin: 0;
+      font-family: "Cormorant Garamond", Georgia, serif;
+      font-size: 44px;
+      font-weight: 400;
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+
+    .meta {
+      margin: 6px 0 0;
+      color: var(--setu-light-fg);
+      opacity: 0.7;
+      font-size: 14px;
+    }
+
+    .badge {
+      align-self: start;
+      background: var(--setu-terracotta-bg);
+      color: var(--setu-terracotta-fg);
+      padding: 8px 12px;
+      font-size: 12px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    video {
+      display: block;
+      width: 100%;
+      background: var(--setu-anthracite-bg);
+      border: 1px solid var(--setu-rule);
+    }
+
+    .post {
+      background: var(--setu-light-bg);
+      border: 1px solid var(--setu-rule);
+      padding: 24px;
+    }
+
+    .post p {
+      margin: 0 0 16px;
+      font-size: 16px;
+    }
+
+    .post p:first-child {
+      font-size: 22px;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+
+    .post p:last-child { margin-bottom: 0; }
+
+    @media (max-width: 880px) {
+      main {
+        grid-template-columns: 1fr;
+        padding: 28px 16px;
+      }
+
+      .mast {
+        display: block;
+      }
+
+      h1 { font-size: 36px; }
+
+      .badge {
+        display: inline-block;
+        margin-top: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header class="mast">
+      <div>
+        <h1>LinkedIn Draft Preview</h1>
+        <p class="meta">post-004 / build-receipts / native video caption</p>
+      </div>
+      <div class="badge">Draft</div>
+    </header>
+
+    <section>
+      <video controls preload="metadata" src="file:///Users/sistaseetaram/Desktop/Claude/LoomWalkthroughs/edit/final_v2_nohud_1.2x.mp4"></video>
+    </section>
+
+    <article class="post">
+      <p>Same workflow. Three versions. 94% cheaper.</p>
+      <p>I recorded the walkthrough for my n8n stock analysis workflow.</p>
+      <p>Version 1 was one giant prompt.<br>Static company data, live prices, analysis rules, formatting rules. Everything went into one envelope.</p>
+      <p>It worked as a demo.<br>It cost about $1 per report.</p>
+      <p>Version 2 split the work into subworkflows: financials, stock data, index data, and formatting.</p>
+      <p>Better structure. Still not enough.</p>
+      <p>Version 3 added one small question before anything ran:</p>
+      <p>Do I actually need to generate this report again?</p>
+      <p>That changed the cost from $1 to $0.06 per report.<br>Same baseline model. Same output. 94% lower cost.</p>
+      <p>The useful part was not the final workflow.</p>
+      <p>It was the two bad versions before it.</p>
+      <p>Variable names pointing nowhere.<br>Data mapping errors.<br>Nodes running too long on malformed input.<br>Three nights lost to one character in one field name.</p>
+      <p>Most tutorials show the finished automation.<br>They skip the versions that taught you why it works.</p>
+      <p>That is the part I am trying to document.</p>
+      <p>V4 is already being rebuilt on a different architecture.</p>
+      <p>What version are you on?</p>
+      <p>#n8n #buildinpublic #AIautomation</p>
+    </article>
+  </main>
+</body>
+</html>

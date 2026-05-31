@@ -55,6 +55,34 @@
       "created_at": "2026-05-28",
       "scheduled_at": null,
       "published_at": "2026-05-28"
+    },
+    {
+      "id": "post-004",
+      "pillar": "build-receipts",
+      "platform": "linkedin",
+      "status": "published",
+      "url": "https://www.linkedin.com/posts/sista-seetaram_n8n-buildinpublic-aiautomation-ugcPost-7466532934515122176-mPCr/",
+      "hook": "Same workflow. Three versions. 94% cheaper.",
+      "body": "Same workflow. Three versions. 94% cheaper.\n\nI recorded the walkthrough for my n8n stock analysis workflow.\n\nVersion 1 was one giant prompt.\nStatic company data, live prices, analysis rules, formatting rules. Everything went into one envelope.\n\nIt worked as a demo.\nIt cost about $1 per report.\n\nVersion 2 split the work into subworkflows: financials, stock data, index data, and formatting.\n\nBetter structure. Still not enough.\n\nVersion 3 added one small question before anything ran:\n\nDo I actually need to generate this report again?\n\nThat changed the cost from $1 to $0.06 per report.\nSame baseline model. Same output. 94% lower cost.\n\nThe useful part was not the final workflow.\n\nIt was the two bad versions before it.\n\nVariable names pointing nowhere.\nData mapping errors.\nNodes running too long on malformed input.\nThree nights lost to one character in one field name.\n\nMost tutorials show the finished automation.\nThey skip the versions that taught you why it works.\n\nThat is the part I am trying to document.\n\nV4 is already being rebuilt on a different architecture.\n\nWhat version are you on?\n\n#n8n #buildinpublic #AIautomation",
+      "hashtags": ["#n8n", "#buildinpublic", "#AIautomation"],
+      "topic": "Loom walkthrough: n8n stock analysis workflow evolution from $1 to $0.06 per report",
+      "asset": {
+        "type": "native_video",
+        "path": "/Users/sistaseetaram/Desktop/Claude/LoomWalkthroughs/edit/final_v2_nohud_1.2x.mp4",
+        "duration_seconds": 166.8,
+        "source_loom": "https://www.loom.com/share/010fe108a29c4ed181aac42e0e3f9805"
+      },
+      "numbers": {
+        "cost_v1_usd": 1.00,
+        "cost_v3_usd": 0.06,
+        "cost_reduction_pct": 94,
+        "video_duration_seconds": 166.8,
+        "recording_speed": 1.2
+      },
+      "word_count": 190,
+      "created_at": "2026-05-30",
+      "scheduled_at": null,
+      "published_at": "2026-05-30"
     }
   ]
 }

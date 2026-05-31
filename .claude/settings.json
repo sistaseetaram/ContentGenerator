@@ -13,7 +13,8 @@
       "Bash(grep -i -A3 \"post-001\\\\|n8n\\\\|\\\\$1\\\\|0.06\\\\|94\" data/posts.json)",
       "WebFetch(domain:www.loom.com)",
       "Bash(python3 -c ' *)",
-      "Bash(python3 tools/model_router.py)"
+      "Bash(python3 tools/model_router.py)",
+      "Bash(open \"https://buildpartner.ai/dashboard?upgrade=true&t=sk_a0cc921bc06940c5a644c43e\")"
     ]
   }
 }

@@ -176,7 +176,9 @@ After Phase 10 completes (JSON report written), send a summary card to the user 
 
 **Target:** DM to self (Slack user: hanumaseetaram@gmail.com account). Use `mcp__claude_ai_Slack__slack_send_message` with the user's own Slack user ID as channel (DM). If Slack is not authenticated, skip silently and note in output: "Slack: not sent (auth required)".
 
-**Message format (Slack mrkdwn):**
+**Two messages — send both in sequence:**
+
+**Message 1 — Summary card (Slack mrkdwn):**
 
 ```
 *🎬 Loom Prep Ready — {Topic}*
@@ -207,7 +209,18 @@ After Phase 10 completes (JSON report written), send a summary card to the user 
 _Full packet → data/loom-preps/{filename}.md_
 ```
 
-Keep the Slack message scannable. No full talking points — those stay in the .md packet.
+**Message 2 — Beat-by-beat cue card (send immediately after Message 1):**
+
+Send the full cue card formatted for reading on a second screen while recording. Include:
+- PRE-RECORD GATE checklist (topic-specific tabs + standard items)
+- HOOK — verbatim line
+- FRAME — 1–2 sentences
+- Each BEAT — screen instruction + 4–6 talking point bullets + verbatim pivot sentence to next beat
+- CLOSE — verbatim close line, followed by: "Say it. Stop recording."
+- Standing ❌ DON'T SAY list (shoutouts, live breaks, tool comparisons, apologies, "Stay tuned", model names)
+- VOICE reminders (short sentences, pause at numbers, pause instead of uhh)
+
+This is the card the user reads while recording. Send it without being asked — every time.
 
 ## Output format
 
@@ -262,5 +275,6 @@ This loop is how loom-walkthrough-recorder improves over time.
 (Append one-line bullets, ≤ 15 words each. Only entries that save time next session.)
 - v0.1: model_router.py not yet wired — outline drafted inline; wire in v0.2.
 - v0.1: on-camera shoutouts to external contributors = brand miss; added as standing ❌ rule.
+- v0.1: always send beat-by-beat cue card to Slack DM automatically — user never asks for it explicitly.
 - v0.1: write each beat's pivot sentence before recording — uhh clusters happen at transitions.
 - v0.1: close must be written verbatim; improvised closes trail off or cut mid-word.
