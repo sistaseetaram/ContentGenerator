@@ -1,76 +1,31 @@
 {
-  "week": 1,
-  "days": [
+  "weeks": [
     {
-      "day": 1,
-      "date": "2026-05-23",
-      "action": "publish",
-      "post_id": "post-001",
-      "platform": "linkedin",
-      "pillar": "build-receipts",
-      "status": "done",
-      "notes": "Published via Supergrow. First post live."
+      "week": 1,
+      "days": [
+        {"day": 1, "date": "2026-05-23", "action": "publish", "post_id": "post-001", "platform": "linkedin", "pillar": "build-receipts", "status": "done", "notes": "Published via Supergrow. First post live."},
+        {"day": 2, "date": "2026-05-24", "action": "prep", "post_id": null, "platform": null, "pillar": null, "status": "done", "notes": "Calendar locked. post-002 + post-003 drafted. Brainstorm started on ideator + loom skills."},
+        {"day": 3, "date": "2026-05-25", "action": "publish", "post_id": "post-002", "platform": "linkedin", "pillar": "build-in-public", "status": "done", "url": "https://www.linkedin.com/posts/sista-seetaram_buildinpublic-setu-share-7464732605263978496-JozW/", "notes": "Published manually via Supergrow."},
+        {"day": 4, "date": "2026-05-26", "action": "prep", "post_id": null, "platform": null, "pillar": null, "status": "done", "notes": "No post. Draft Week 2 ideas. Monitor post-001 and post-002 metrics."},
+        {"day": 5, "date": "2026-05-27", "action": "publish", "post_id": "post-003", "platform": "linkedin", "pillar": "plain-english-ai-takes", "status": "done", "url": "https://www.linkedin.com/posts/sista-seetaram_aiadoption-workflowautomation-share-7465485954850549760-5YWg/", "notes": "Brand values / model fallback chains."},
+        {"day": 6, "date": "2026-05-28", "action": "prep", "post_id": null, "platform": null, "pillar": null, "status": "done", "notes": "Build content-ideator skill. Draft first Loom walkthrough plan."},
+        {"day": 7, "date": "2026-05-29", "action": "checkpoint", "post_id": null, "platform": null, "pillar": null, "status": "done", "notes": "Day-7 checkpoint."}
+      ]
     },
     {
-      "day": 2,
-      "date": "2026-05-24",
-      "action": "prep",
-      "post_id": null,
-      "platform": null,
-      "pillar": null,
-      "status": "done",
-      "notes": "Calendar locked. post-002 + post-003 drafted. Brainstorm started on ideator + loom skills."
-    },
-    {
-      "day": 3,
-      "date": "2026-05-25",
-      "action": "publish",
-      "post_id": "post-002",
-      "platform": "linkedin",
-      "pillar": "build-in-public",
-      "status": "done",
-      "url": "https://www.linkedin.com/posts/sista-seetaram_buildinpublic-setu-share-7464732605263978496-JozW/",
-      "notes": "Published manually via Supergrow. Confirm copy + update posts.json published_at Day 4 once user shares. Major brainstorm reframe captured: ideator = research engine, creator = generation engine (separate skills). See .planning/brainstorm-2026-05-25-ideator-loom.md."
-    },
-    {
-      "day": 4,
-      "date": "2026-05-26",
-      "action": "prep",
-      "post_id": null,
-      "platform": null,
-      "pillar": null,
-      "status": "pending",
-      "notes": "No post. Draft Week 2 ideas. Monitor post-001 and post-002 metrics."
-    },
-    {
-      "day": 5,
-      "date": "2026-05-27",
-      "action": "publish",
-      "post_id": "post-003",
-      "platform": "linkedin",
-      "pillar": "plain-english-ai-takes",
-      "status": "scheduled",
-      "notes": "Model fallback chains. Publish via Supergrow at optimal time (8-9am IST)."
-    },
-    {
-      "day": 6,
-      "date": "2026-05-28",
-      "action": "prep",
-      "post_id": null,
-      "platform": null,
-      "pillar": null,
-      "status": "pending",
-      "notes": "No post. Build content-ideator skill (plan 01-03). Draft first Loom walkthrough plan."
-    },
-    {
-      "day": 7,
-      "date": "2026-05-29",
-      "action": "checkpoint",
-      "post_id": null,
-      "platform": null,
-      "pillar": null,
-      "status": "pending",
-      "notes": "Day-7 checkpoint: tech stack revisit, wiki health audit, Week 1 metrics review."
+      "week": 2,
+      "theme": "Bridge 1 pivot + volume ramp",
+      "cadence_target": "LinkedIn daily (7) + 3 YouTube (2 ship, YT3 prep)",
+      "days": [
+        {"day": 1, "date": "2026-06-01", "action": "publish", "post_id": "post-005", "platform": "linkedin", "pillar": "plain-english-ai-takes", "status": "planned", "youtube": null, "notes": "Plain-English: 'What AI for your design studio actually means.' Interior-grounded, anchors the Bridge 1 week."},
+        {"day": 2, "date": "2026-06-02", "action": "publish", "post_id": "post-006", "platform": "linkedin", "pillar": "build-in-public-setu", "status": "planned", "youtube": null, "notes": "Bridge 1 intro: building an AI system for interior design firms. Name the ICP pain (mood board/specs/render done by hand)."},
+        {"day": 3, "date": "2026-06-03", "action": "publish", "post_id": "post-007", "platform": "linkedin", "pillar": "build-receipts", "status": "planned", "youtube": null, "notes": "PROOF: pipeline running mood board -> palette -> material/BOQ sheet -> plan-faithful render. NEEDS user-supplied demo project + assets. Soft client CTA tail."},
+        {"day": 4, "date": "2026-06-04", "action": "publish", "post_id": "post-008", "platform": "linkedin", "pillar": "build-in-public-setu", "status": "planned", "youtube": null, "notes": "Render blocker: 'AI kept moving the furniture' V1->V4 story. Before/after render images (user-supplied). Soft client CTA tail."},
+        {"day": 5, "date": "2026-06-05", "action": "publish", "post_id": "post-009", "platform": "linkedin", "pillar": "build-receipts", "status": "planned", "youtube": "YT1", "notes": "Stock-analysis recap + promote YT1. YT1 = stock-analysis long-form (edit-ready: LoomWalkthroughs/final_v2_nohud_1.2x.mp4)."},
+        {"day": 6, "date": "2026-06-06", "action": "publish", "post_id": "post-010", "platform": "linkedin", "pillar": "plain-english-ai-takes", "status": "planned", "youtube": "YT2", "notes": "Wake-up call (written): get basics right before chasing AI. LECTURE-RISK: frame as observation not scolding, hard five-value check (Respect the owner). Promotes YT2. YT2 = wake-up-call video + free Gemini Gem lead magnet (record this week)."},
+        {"day": 7, "date": "2026-06-07", "action": "publish", "post_id": "post-011", "platform": "linkedin", "pillar": "build-in-public-setu", "status": "planned", "youtube": null, "notes": "Free Gem lead-magnet offer: 'free AI advisor for design/architecture firms — try it.' + plan Week 3 + run metrics auditor."},
+        {"day": 0, "date": "2026-06-01", "action": "prep", "post_id": null, "platform": "youtube", "pillar": null, "status": "planned", "youtube": "YT3-prep", "notes": "YT3 (live build with sister's firm) PREP ONLY this week. Ships Week 3. Needs: shoot plan, interview clips, real demo project, template. Use loom-walkthrough-recorder."}
+      ]
     }
   ]
 }

@@ -1,3 +1,109 @@
 {
-  "ideas": []
+  "ideas": [
+    {
+      "id": "idea-001",
+      "week": 2,
+      "slot": "2026-06-01",
+      "platform": "linkedin",
+      "pillar": "plain-english-ai-takes",
+      "title": "What 'AI for your design studio' actually means",
+      "angle": "Plain-English Take. Cut hype; explain in owner language where AI fits in an interior/architecture practice (mood boards, specs, BOQ, client updates). Sets up the Bridge 1 week.",
+      "icp": "Bridge 01 — interior/architecture/construction firms",
+      "asset": null,
+      "cta": "none",
+      "status": "planned",
+      "notes": "Keep it concrete with one interior example. No jargon."
+    },
+    {
+      "id": "idea-002",
+      "week": 2,
+      "slot": "2026-06-02",
+      "platform": "linkedin",
+      "pillar": "build-in-public-setu",
+      "title": "I'm building an AI system for interior design firms",
+      "angle": "Build-in-Public. Introduce the architectural automation. Name the ICP pain in their words (chasing vendor quotes, copy-pasting between five tools, hand-built mood boards/specs).",
+      "icp": "Bridge 01",
+      "asset": null,
+      "cta": "none",
+      "status": "planned",
+      "notes": "First public Bridge 1 proof signal. Bridge metaphor hook."
+    },
+    {
+      "id": "idea-003",
+      "week": 2,
+      "slot": "2026-06-03",
+      "platform": "linkedin",
+      "pillar": "build-receipts",
+      "title": "The pipeline running: brief to plan-faithful render",
+      "angle": "Build Receipt. Show mood board -> palette -> material/lighting/BOQ sheet -> plan-faithful render. Real output, organized + documented vs hand-built clutter.",
+      "icp": "Bridge 01",
+      "asset": {"type": "carousel_or_screenrec", "status": "NEEDS_USER", "note": "user supplies demo project + shareable render/sheets/screen-rec"},
+      "cta": "soft",
+      "status": "blocked-on-asset",
+      "notes": "Anonymize any real client name. Wed proof asset format TBD (screen-rec vs carousel)."
+    },
+    {
+      "id": "idea-004",
+      "week": 2,
+      "slot": "2026-06-04",
+      "platform": "linkedin",
+      "pillar": "build-in-public-setu",
+      "title": "The AI kept moving the furniture",
+      "angle": "Build-in-Public honesty post. V1->V4 render plan-faithfulness story: renders ignored the 2D plan; fixed with whitebox-PNG reference + strict layout language. 'The bad versions are the curriculum.'",
+      "icp": "Bridge 01",
+      "asset": {"type": "before_after_render", "status": "NEEDS_USER", "note": "user supplies V1 vs V4 render images"},
+      "cta": "soft",
+      "status": "blocked-on-asset",
+      "notes": "Strongest trust post of the week. Visual."
+    },
+    {
+      "id": "idea-005",
+      "week": 2,
+      "slot": "2026-06-05",
+      "platform": "linkedin",
+      "pillar": "build-receipts",
+      "title": "Stock-analysis recap + YouTube drop",
+      "angle": "Build Receipt + promote YT1. Tie off the Week-1 stock-analysis thread; point to the full YouTube walkthrough.",
+      "icp": "general / intro",
+      "asset": {"type": "youtube_link", "ref": "YT1", "source": "/Users/sistaseetaram/Desktop/Claude/LoomWalkthroughs/final_v2_nohud_1.2x.mp4", "status": "edit-ready"},
+      "cta": "none",
+      "status": "planned",
+      "notes": "First YouTube upload. Promote once on LinkedIn."
+    },
+    {
+      "id": "idea-006",
+      "week": 2,
+      "slot": "2026-06-06",
+      "platform": "linkedin",
+      "pillar": "plain-english-ai-takes",
+      "title": "Get the basics right before chasing AI (wake-up call)",
+      "angle": "Wake-up call for design/construction firms: organized files, a real LinkedIn profile, documented projects come before automation. Promotes YT2.",
+      "icp": "Bridge 01",
+      "asset": {"type": "youtube_link", "ref": "YT2", "status": "to-record"},
+      "cta": "soft (free Gem teaser)",
+      "status": "planned",
+      "notes": "LECTURE RISK — frame as 'here's what I keep seeing work', not 'you're doing it wrong'. Hard five-value check on Respect-the-owner before publish."
+    },
+    {
+      "id": "idea-007",
+      "week": 2,
+      "slot": "2026-06-07",
+      "platform": "linkedin",
+      "pillar": "build-in-public-setu",
+      "title": "A free AI advisor for design & architecture firms",
+      "angle": "Lead magnet. Share the free Gemini Gem (architecture/interior instructions) — owners can ask how to improve their business step by step. Give value, not a sales ask.",
+      "icp": "Bridge 01",
+      "asset": {"type": "gem_link", "status": "NEEDS_USER", "note": "user supplies public Gem URL + access method; lead capture is manual for now (DM automation is the separate outreach project)"},
+      "cta": "free tool (the real CTA of the week)",
+      "status": "blocked-on-asset",
+      "notes": "Closes YT2. Soft, value-first."
+    }
+  ],
+  "youtube": [
+    {"ref": "YT1", "title": "n8n stock analysis walkthrough", "role": "intro to Setu", "status": "edit-ready", "ship": "2026-06-05"},
+    {"ref": "YT2", "title": "Why design & construction need AI + free Gem", "role": "wake-up call / bridge", "status": "to-record", "ship": "2026-06-06"},
+    {"ref": "YT3", "title": "Live build with a real firm (sister + employees)", "role": "proof centerpiece", "status": "prep-this-week", "ship": "Week 3", "notes": "Interview pain points (reuse earlier clips), live-build on a real current project, before/after clutter->organized."}
+  ],
+  "ideas_generated": 7,
+  "last_updated": "2026-05-31"
 }
