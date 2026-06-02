@@ -14,7 +14,9 @@
       "WebFetch(domain:www.loom.com)",
       "Bash(python3 -c ' *)",
       "Bash(python3 tools/model_router.py)",
-      "Bash(open \"https://buildpartner.ai/dashboard?upgrade=true&t=sk_a0cc921bc06940c5a644c43e\")"
+      "Bash(open \"https://buildpartner.ai/dashboard?upgrade=true&t=sk_a0cc921bc06940c5a644c43e\")",
+      "Bash(python3 -c \"import openai; print\\(openai.__version__\\)\")",
+      "Bash(pip show *)"
     ]
   }
 }

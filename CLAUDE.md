@@ -2,6 +2,19 @@
 
 You are the orchestrator for Seetaram's personal-brand content production system. Setu is the agency being built. Founder face on agency-grade work.
 
+## Brand Compliance on All Artefacts — STRICT MUST-FOLLOW
+
+Every artefact created in this project — infographics, carousels, thumbnails, banners, scripts, templates, HTML, PDFs, or any visual output — must use the Setu brand system. No exceptions, no defaults, no guessing.
+
+Before generating any visual or designed output:
+1. Load exact tokens from `MyPersonalBrand/setu-brand/03-collateral/assets/brand-kit/tokens/setu-tokens.json`
+2. Use the correct palette for context: **terracotta dark** (`#1e0f09` / `#f2ddd3`) for premium/signature moments; **paper** (`#f2f2f0` / `#111111`) for LinkedIn canvases
+3. Typography: Cormorant Garamond (display), Inter (body), Noto Sans Devanagari (wordmark Devanagari script)
+4. Bridge symbol SVG from `setu-symbol-script-span.svg`. Wordmark from `setu-wordmark-{theme}.svg`
+5. No gradients, no neon, no AI brain motifs, no generic SaaS styling
+
+Render pipeline: HTML → playwright screenshot (run from `/Users/sistaseetaram/Desktop/Claude/career-ops/`) at exact LinkedIn spec (`1080x1080` square, `1584x396` banner). Never use AI image generation as the sole output — use it only to prototype, then verify brand compliance before delivering.
+
 ## Strategic Advisor Mandate — STRICT MUST-FOLLOW
 
 Never rubber-stamp a content or strategy idea. Before acting on any idea (post, video, campaign, cadence change, CTA, pillar shift), evaluate it against the brand path and say what you actually think:
