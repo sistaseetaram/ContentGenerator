@@ -83,6 +83,35 @@
       "created_at": "2026-05-30",
       "scheduled_at": null,
       "published_at": "2026-05-30"
+    },
+    {
+      "id": "post-005",
+      "pillar": "plain-english-ai-takes",
+      "platform": "linkedin",
+      "status": "published",
+      "url": "https://www.linkedin.com/posts/sista-seetaram_aifordesign-interiordesign-architecturefirms-share-7467484541998321664-yW7F/",
+      "hook": "Where your studio hours go.",
+      "body": "Caption finalized and published by user on LinkedIn (not drafted in-repo). Topic: what 'AI for your design studio' actually means — the manual busywork (mood boards, material schedules/BOQ, client update emails, vendor quotes) that eats 11-16+ hrs/week and can be automated.",
+      "hashtags": ["#aifordesign", "#interiordesign", "#architecturefirms"],
+      "topic": "Plain-English AI take — where studio hours go; manual admin AI can automate. Anchors Bridge 1 week.",
+      "asset": {
+        "type": "infographic",
+        "format": "1080x1080",
+        "direction": "gpt-image editorial photo-composite (v6), brand-locked terracotta-dark + cream + paper; Setu wordmark + bridge overlay",
+        "working_files": [
+          ".tmp/visuals/post005_v6_gptimage.png",
+          ".tmp/visuals/post005_v6_final.png"
+        ],
+        "note": "Final published image selected by user; exact published asset not stored in repo."
+      },
+      "numbers": {
+        "hours_lost_per_week_min": 11,
+        "hours_lost_per_week_max": 16
+      },
+      "word_count": null,
+      "created_at": "2026-06-01",
+      "scheduled_at": "2026-06-01",
+      "published_at": "2026-06-02"
     }
   ]
 }
