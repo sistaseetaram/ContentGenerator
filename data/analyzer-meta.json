@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "runs": [],
+  "capture_stats": {
+    "posts_tracked": 0,
+    "captures_logged": 0,
+    "last_ingest_at": null
+  },
+  "confidence_history": [
+    {
+      "ts": "2026-06-02",
+      "n_posts": 0,
+      "confidence": "low",
+      "note": "No per-post analytics captured yet. Weights neutral (1.0) until ingest begins."
+    }
+  ],
+  "signal_drift": {
+    "note": "Populated once >=8 posts captured. Tracks how pillar_weights move run-to-run.",
+    "last_pillar_weights": {},
+    "last_computed_at": null
+  },
+  "notes": [
+    "Honesty guard: confidence stays low until >=8 posts captured.",
+    "analyzer-latest.json is the contract content-ideator Schedule mode reads.",
+    "Per-post + demographics are manual-paste only; Supergrow MCP is account-level."
+  ]
+}

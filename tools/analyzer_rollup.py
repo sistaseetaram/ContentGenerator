@@ -37,7 +37,7 @@ def _load(path: Path, default):
         return default
 
 
-def _latest_capture(captures: list) -> dict | None:
+def _latest_capture(captures):
     """Prefer Day 7, else the highest day available."""
     if not captures:
         return None
@@ -74,7 +74,7 @@ def _hook_type(hook: str) -> str:
     return "story-open"
 
 
-def _dow(published_at: str) -> str | None:
+def _dow(published_at):
     try:
         return date.fromisoformat(published_at[:10]).strftime("%A")
     except (ValueError, TypeError):

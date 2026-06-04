@@ -1,0 +1,85 @@
+{
+  "refreshed_at": "2026-06-03T23:25:08+05:30",
+  "due": [
+    {
+      "post_id": "post-001",
+      "day": 3,
+      "due_date": "2026-05-26",
+      "hook": "Same project. Third version. Finally makes sense.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-002",
+      "day": 3,
+      "due_date": "2026-05-28",
+      "hook": "Day 1 of building Setu in public.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-001",
+      "day": 7,
+      "due_date": "2026-05-30",
+      "hook": "Same project. Third version. Finally makes sense.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-003",
+      "day": 3,
+      "due_date": "2026-05-31",
+      "hook": "Setu brand values post",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-002",
+      "day": 7,
+      "due_date": "2026-06-01",
+      "hook": "Day 1 of building Setu in public.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-004",
+      "day": 3,
+      "due_date": "2026-06-02",
+      "hook": "Same workflow. Three versions. 94% cheaper.",
+      "status": "due"
+    }
+  ],
+  "upcoming": [
+    {
+      "post_id": "post-003",
+      "day": 7,
+      "due_date": "2026-06-04",
+      "hook": "Setu brand values post"
+    },
+    {
+      "post_id": "post-005",
+      "day": 3,
+      "due_date": "2026-06-05",
+      "hook": "Where your studio hours go."
+    },
+    {
+      "post_id": "post-004",
+      "day": 7,
+      "due_date": "2026-06-06",
+      "hook": "Same workflow. Three versions. 94% cheaper."
+    },
+    {
+      "post_id": "post-006",
+      "day": 3,
+      "due_date": "2026-06-06",
+      "hook": "Setu means bridge."
+    },
+    {
+      "post_id": "post-005",
+      "day": 7,
+      "due_date": "2026-06-09",
+      "hook": "Where your studio hours go."
+    },
+    {
+      "post_id": "post-006",
+      "day": 7,
+      "due_date": "2026-06-10",
+      "hook": "Setu means bridge."
+    }
+  ]
+}

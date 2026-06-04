@@ -51,7 +51,7 @@ def _captured_days(metrics: dict, post_id: str) -> set:
     return set()
 
 
-def build_queue(today: date | None = None) -> dict:
+def build_queue(today=None):
     today = today or date.today()
     posts = _load(POSTS_FILE, {"posts": []})
     metrics = _load(METRICS_FILE, {"metrics": []})

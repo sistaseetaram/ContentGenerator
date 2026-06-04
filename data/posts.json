@@ -113,5 +113,24 @@
       "scheduled_at": "2026-06-01",
       "published_at": "2026-06-02"
     }
+  ,
+    {
+      "id": "post-006",
+      "pillar": "build-in-public-setu",
+      "platform": "linkedin",
+      "status": "published",
+      "url": "https://www.linkedin.com/posts/sista-seetaram_interiordesign-architecture-buildinpublic-share-7467873638138990595-VksZ/",
+      "hook": "Setu means bridge.",
+      "body": "Setu means bridge.\n\nMost architecture and interior firms I know aren't behind on AI. They're buried in work a computer should be doing.\n\nYou build the mood board by hand. You copy the material schedule into the BOQ. Then into the quote. Then into the email. You chase three vendors for prices. On Friday you turn a folder of site photos into a client update nobody enjoys writing.\n\nThe work is real. The tooling around it isn't.\n\nSo I'm building one. An AI system that takes a project from mood board to palette to a material, lighting and BOQ sheet to FF&E to a render that actually matches your floor plan.\n\nI'll be honest about where it stands. The first three pieces work. The render is still in progress. Early versions kept sliding furniture off the plan, and it took a few attempts to make the AI respect the layout instead of redrawing the room.\n\nNo client yet. No launch. Just building it in the open, one workflow at a time.\n\nIf any of this sounds like your week, I'd like to hear how you work.\n\n#interiordesign #architecture #buildinpublic #aiforbusiness",
+      "hashtags": ["#interiordesign", "#architecture", "#buildinpublic", "#aiforbusiness"],
+      "topic": "Bridge-1 intro — building AI system for interior design/architecture firms, honest build status, ICP pain named",
+      "asset": null,
+      "supergrow_score": 10,
+      "numbers": {},
+      "word_count": 175,
+      "created_at": "2026-06-03",
+      "scheduled_at": null,
+      "published_at": "2026-06-03"
+    }
   ]
 }

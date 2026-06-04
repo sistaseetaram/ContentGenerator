@@ -16,7 +16,7 @@
 **Progress:** `[█████░░░░░]` ~30%
 
 Plans complete: 1/6 in Phase 1 (01-01 scaffold done; 01-02 first posts wave 1 done — 3 posts published)
-Skills shipped: 3 (loom-walkthrough-recorder v0.1, loom-video-analyzer v0.1, content-ideator v0.2)
+Skills shipped: 4 (loom-walkthrough-recorder v0.1, loom-video-analyzer v0.1, content-ideator v0.2, linkedin-analyzer v0.1)
 Total phases complete: 0/4
 
 ---
@@ -58,9 +58,10 @@ Total phases complete: 0/4
 - [ ] **NEXT skill: tech-stack auditor** (unnamed) — task→model→agent spec + cost-cut suggestions; writes report ideator's own-stack miner consumes. Report path TBD by user (local + Drive-latest + Obsidian-ingest).
 - [ ] Wire CronCreate: Sunday weekly-schedule auto-run + every-2-day ideator run.
 - [ ] NOTE: 7 legacy ideas in ideas.json (from loom-video-analyzer) lack `strategic_opinion` — empty verdict cells until re-scored.
-- [ ] Then: content-creator (consumes data/ideas-latest.json) — the generation engine
-- [ ] After: linkedin-analyzer (Supergrow metrics → engagement signal → pillar weights)
-- [ ] After analyzer: loom-to-multipost
+- ✅ **linkedin-analyzer v0.1 built (2026-06-03):** measurement + eval engine. Hybrid capture (Supergrow MCP account-trends + manual per-post paste for engagement/demographics — verified Supergrow `get_metrics` is account-level only). 4 modes: ingest · analyze · eval-draft · queue. Tools: `capture_queue.py` (Day3/Day7 due queue from posts.json), `analyzer_rollup.py` (ICP-weighted signals → `data/analyzer-latest.json`, the contract ideator Schedule mode already reads), `post_scorer.py` (SHARED pre-publish scorer, content-creator will reuse). Honesty guard: confidence low until ≥8 posts. Registry row added. Verified: queue math, rollup signals (ICP-weighting ranks correctly), scorer (banned-word + clean paths).
+- [ ] **ROUTINE WIRING TODO (user + me):** edit the daily `/schedule` routine prompt → read `data/capture-queue.json`, append due items to Slack DM ("📊 {post_id} Day {day} — View analytics → run linkedin-analyzer ingest"). Run `capture_queue.py` (mode queue) at routine start so queue is fresh. capture-queue.json currently shows 6 overdue captures (post-001/002/003 + post-004 D3 due today).
+- [ ] **NEXT skill: content-creator** (consumes data/ideas-latest.json) — the generation engine. Will call `tools/post_scorer.py` for pre-publish eval.
+- [ ] After: loom-to-multipost
 - [ ] v0.2 of loom-walkthrough-recorder: wire model_router.py calls (long_form for outline, short_post for hook)
 - ✅ Idea storage decided: local JSON + HTML dashboard. ClickUp/Airtable dropped (Slack DM covers visibility).
 - [ ] Decide brand-identity post slot: Day 5 vs Day 7
