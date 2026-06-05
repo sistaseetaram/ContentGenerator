@@ -131,6 +131,40 @@
       "created_at": "2026-06-03",
       "scheduled_at": null,
       "published_at": "2026-06-03"
+    },
+    {
+      "id": "post-007",
+      "pillar": "build-receipts",
+      "platform": "linkedin",
+      "status": "published",
+      "hook": "Here is the brief for a real 3BHK.",
+      "body": "Here is the brief for a real 3BHK.\n\nA list of forwarded WhatsApp messages:\n- \"Loft in utility.\"\n- \"Pooja room as per vastu.\"\n- \"Study in the children’s bedroom.\"\n- \"Vanity near the wash basin.\"\n- \"Shoe rack.\"\n\nNo form. No structured doc. Half the details were never written down. The rest is left to the designer to imagine.\n\nI ran it through the system I’m building.\n\nIt fills the gaps the way a good designer would—handling vastu (traditional spatial geometry based on solar alignment and wind patterns), circulation, standard layouts—and turns the wants into structured schedules in minutes.\n\nHere are the real specifics of this run:\n- 3BHK · East-facing · 2100 sq ft · ₹15L interior budget.\n- Material & Lighting Schedules published directly to Google Sheets.\n- A BOQ Draft with real quantities.\n- FF&E sourcing sheet and auto-written elevation render prompts.\n\nHonest line: The BOQ is left blank in some fields on purpose. A physical site measure is always required before ordering. And we didn’t generate the final render today—the AI kept sliding the furniture off the plan (we’ll show how we’re working through it tomorrow).\n\nIt is a first draft, not a final. They revise from there.\n\nNot replacing anyone. Just getting to the first draft in an afternoon, not a fortnight.\n\nBuilding in the open. Run a design or architecture practice? Message me—I want to test it on real work.\n\n#interiordesign #architecture #automation #buildinpublic",
+      "hashtags": ["#interiordesign", "#architecture", "#automation", "#buildinpublic"],
+      "topic": "Real 3BHK WhatsApp brief → Google Sheets Material Schedule, Lighting Schedule, BOQ Draft, FF&E",
+      "supergrow_post_id": "f251cc3e-31c9-4e37-9286-b86e0881a26f",
+      "supergrow_score": 10,
+      "asset": {
+        "type": "carousel",
+        "slides": 7,
+        "source_html": ".tmp/visuals/post007/carousel.html",
+        "proof_assets": [
+          "proof-spec-sheet.png — Material Schedule Google Sheet (live buildbridge run)",
+          "proof-ffe-sheet.png — FF&E sourcing sheet (live buildbridge run)",
+          "proof-plan.png — 3BHK East 2100sqft floor plan",
+          "proof-input.png — WhatsApp forwards screenshot"
+        ],
+        "pipeline": "HTML+playwright render (career-ops node_modules) → Supergrow MCP upload"
+      },
+      "numbers": {
+        "bhk_count": 3,
+        "area_sqft": 2100,
+        "budget_inr": 1500000,
+        "slides_count": 7
+      },
+      "word_count": 210,
+      "created_at": "2026-06-05",
+      "scheduled_at": null,
+      "published_at": "2026-06-05"
     }
   ]
 }
