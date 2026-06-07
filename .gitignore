@@ -12,3 +12,8 @@ data/reports/
 data/audits/
 data/model_spend.json
 *.log
+# YouTube credentials — never commit
+.youtube_token.json
+youtube_client_secrets.json
+client_secret_*.json
+*token*.json

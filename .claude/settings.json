@@ -17,6 +17,39 @@
       "Bash(open \"https://buildpartner.ai/dashboard?upgrade=true&t=sk_a0cc921bc06940c5a644c43e\")",
       "Bash(python3 -c \"import openai; print\\(openai.__version__\\)\")",
       "Bash(pip show *)"
+    ],
+    "additionalDirectories": [
+      "/Users/sistaseetaram/Documents/Obsidian Vault"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/.claude-hooks/load-context.sh\""
+          }
+        ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"/Users/sistaseetaram/Documents/Obsidian Vault/personal-brand-wiki/.claude-hooks/load-context.sh\""
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/.claude-hooks/writeback-reminder.sh\""
+          }
+        ]
+      }
     ]
   }
 }

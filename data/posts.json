@@ -165,6 +165,39 @@
       "created_at": "2026-06-05",
       "scheduled_at": null,
       "published_at": "2026-06-05"
+    },
+    {
+      "id": "post-008",
+      "pillar": "build-receipts",
+      "platform": "linkedin",
+      "status": "published",
+      "hook": "Everyone keeps asking to see the renders.",
+      "body": "Everyone keeps asking to see the renders.\n\nI'm not showing them yet. Here's the honest reason.\n\nThe floor plan for this living room is specific:\n\n- An L-sofa on the right, facing the TV\n- Behind the sofa is a half-wall, not a full one — half wall, half opening straight into the dining. The opening is the point.\n- The TV console on the entry wall, just east of the main door\n- The pooja unit in the far-left corner, by the entrance\n- A center table tucked inside the L\n\nEasy for a human to read. I handed it to the model as a clean control image and asked for V1.\n\nV1 came back:\n\n- The sofa flipped to the wrong side of the room\n- The pooja unit vanished completely\n- The model invented doors in the back wall that don't exist\n- And the open dining — the entire point of this layout — got sealed into a solid wall\n\nIt wasn't a styling problem. The room looked good. It was a spatial lie.\n\nThe model never treated the plan as a contract. It treated it as a mood.\n\nThat's the moment I made the call: no renders go out until the geometry holds. A beautiful render with the sofa on the wrong wall isn't a demo — it's a trap. The client approves something that can't be built, and the trust is gone the day they walk into the real room.\n\nSo that's where we are. No hero shot. No carousel of dream interiors.\n\nJust V1, and the exact list of what it broke.\n\nThe render isn't the milestone. A render you can trust is the milestone.\n\nUpdate: V2 changed the approach. I stopped asking the model to style the plan and started giving it the coordinates — then checking them. This time the geometry held.\n\nNext post: the exact spatial method that made the plan stick.\n\nThat's the build. In public. Including the part where it doesn't work — and the part where it starts to.\n\n#interiordesign #architecture #buildinpublic #aiautomation",
+      "hashtags": ["#interiordesign", "#architecture", "#buildinpublic", "#aiautomation"],
+      "topic": "Honest build-in-public: why no AI renders ship yet — V1 spatial failures (sofa flipped, pooja vanished, invented doors, dining sealed). Spatial claims verified vs plan-coords.json.",
+      "supergrow_score": null,
+      "asset": {
+        "type": "carousel",
+        "slides": 10,
+        "source_html": ".tmp/visuals/post008/slide_01..10.html",
+        "generator": ".tmp/visuals/post008/gen_carousel.py",
+        "render_dir": ".tmp/visuals/post008/",
+        "palette": "paper theme per setu-tokens.json (#f2f2f0 / #111111), monochrome — NO accent color (brand has none)",
+        "typography": "Cormorant Garamond (display 300 / h1 500), Inter (body 400 / label 500) per tokens",
+        "pipeline": "HTML+playwright render (career-ops node_modules); wordmark + bridge symbol composited via local assets",
+        "proof_assets": [
+          "assets/floorplan.png — 3BHK floor plan (the brief, slide 02)"
+        ]
+      },
+      "numbers": {
+        "slides_count": 10,
+        "v1_failures": 4
+      },
+      "word_count": 330,
+      "supergrow_post_id": "e4993b2c-e213-4304-a7c9-412de387f2c4",
+      "created_at": "2026-06-06",
+      "scheduled_at": null,
+      "published_at": "2026-06-06"
     }
   ]
 }

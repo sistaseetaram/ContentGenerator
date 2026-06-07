@@ -36,4 +36,17 @@ Act as a **professional brand designer**, not a layout generator. Before produci
 - ❌ **Canva generate-design with NO brand kit loaded** is unreliable: it ignored the palette (navy/gold/lavender/pink), defaulted to portrait not 1080×1080, and **fabricated fake statistics and fake quotes** (Peter Drucker, "Creative Leader", invented %). Do NOT use Canva for data/number artefacts until a Setu brand kit exists in the account. Fabricated stats violate the "real hours, real money" rule.
 - ✅ **Winning pipeline:** gpt-image-1 for the editorial base → HTML+playwright overlay pass to composite the REAL सेtu wordmark + bridge symbol (image-gen can't draw the logo). Place logo in a clear margin corner; check for collision with existing text.
 
-_Last updated: 2026-06-02 — from post-005 infographic iterations. Winner: gpt-image v5 editorial paper + HTML logo overlay._
+## ★ MANDATORY PRE-FLIGHT — before any visual (added 2026-06-06, violated 3× without this)
+
+**Step 0 — always, before touching a pixel:**
+1. Load `content-wiki/wiki/index.md` → find `syntheses/design-pipeline.md` → read it. This file has the full token table, SVG asset paths, and the exact pipeline. It takes 10 seconds.
+2. Token truth lives in `MyPersonalBrand/setu-brand/03-collateral/assets/brand-kit/tokens/setu-tokens.json`. Do NOT guess or invent values.
+
+**Setu brand tokens (snapshot — still verify from source):**
+- LinkedIn canvas: `#f2f2f0` bg / `#111111` text (paper theme)
+- Premium / signature: `#1e0f09` bg / `#f2ddd3` text (terracotta dark)
+- **NO accent color exists in the palette.** Setu is monochrome-per-theme. Never invent a highlight color (e.g. `#c8593a` was wrong — invented, not a brand token).
+- Typography: Cormorant Garamond (display wt 300, h1 wt 500), Inter (body wt 400, label wt 500)
+- Bridge symbol SVG: `setu-symbol-script-span.svg`; Wordmark: `setu-wordmark-light.svg` (strip white bg rect for transparency)
+
+_Last updated: 2026-06-06 — brand color/weight violation corrected 3× on post-008 carousel. Root cause: skipped wiki index. Fix: mandatory Step 0._
