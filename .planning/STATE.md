@@ -10,12 +10,11 @@
 ## Current Position
 
 - **Phase:** 1 of 4 — Ship + Sense (Days 1-7)
-- **Plan:** Skill-build track (decoupled from posting calendar). Shipped: loom-walkthrough-recorder (05-28), loom-video-analyzer (05-30), content-ideator v0.2 (05-31).
-- **Day:** 7 of 30 (in progress)
+- **Day:** 15 of 30 (Week 2 complete)
 
-**Progress:** `[█████░░░░░]` ~30%
+**Progress:** `[███████░░░]` ~50%
 
-Plans complete: 1/6 in Phase 1 (01-01 scaffold done; 01-02 first posts wave 1 done — 3 posts published)
+Posts published: 8 (post-001 through post-008)
 Skills shipped: 4 (loom-walkthrough-recorder v0.1, loom-video-analyzer v0.1, content-ideator v0.2, linkedin-analyzer v0.1)
 Total phases complete: 0/4
 
@@ -72,24 +71,39 @@ Total phases complete: 0/4
 
 ## Blockers / Concerns
 
-- None active
+- post-009 (idea-005 — YouTube drop) needs YouTube video URL embedded before drafting
+- idea-007 (public Gem) still blocked on user supplying public Gem URL
+- Week 3 calendar not yet generated (trigger: ideator Schedule mode, Sunday)
 
 ---
 
 ## Session Continuity
 
-Last session: 2026-05-31
-Stopped at: content-ideator v0.2 shipped — `.env` wired (router live on Gemini Flash primary), Schedule mode + Strategic Critique added. ClickUp dropped.
-Resume:
-  1. **Dogfood `run ideator`** (Generate mode) — first live router run; eyeball idea quality + costs.
-  2. Then build tech-stack auditor skill (own-stack miner consumes its report; path still PLACEHOLDER).
-  3. Wire CronCreate for Sunday weekly-schedule + every-2-day ideator runs.
-  4. Weekly Schedule mode goes live NEXT WEEK (this week + Week 3 already planned manually).
-How the user wants ideator to run (locked 2026-05-31):
-  - From next week: ideator picks ideas from backlog using analyzer output + past posts; builds weekly schedule every Sunday.
-  - User drops raw ideas into dashboard anytime → ideator scores + critiques (post now/later/drop + why), brand-stage-aware. Critique shown ON dashboard, not pushed to chat.
-Plan/save file (this session): /Users/sistaseetaram/.claude/plans/so-prepare-everything-that-floofy-emerson.md
-Session-clear-safe: all skill files + router + .env on disk; STATE captures next steps. (`.env` gitignored — keys NOT committed, live only on this machine.)
+Last session: 2026-06-06 → 2026-06-07
+Stopped at: post-008 published to LinkedIn via Supergrow MCP (10-slide brand-compliant carousel — "Why I'm not showing you any AI renders yet").
+
+### What shipped this session
+- **YouTube upload tool** (`tools/youtube_upload.py`) — OAuth2, scopes: upload + force-ssl + readonly. Token saved to `Documents/credentials/.youtube_token.json`. YT1 (n8n workflow Loom) live: https://www.youtube.com/watch?v=bxjpYUX7xpw
+- **post-008 carousel** — 10 slides, paper theme, brand-exact tokens (Cormorant 300/500, Inter 400/500, no invented accent color, bridge symbol + wordmark composited). Generator: `.tmp/visuals/post008/gen_carousel.py`. PDF: `.tmp/visuals/post008/carousel.pdf`.
+- **Brand process fix** — `design-taste.md` updated with mandatory Step 0: load wiki index → design-pipeline synthesis → verify tokens before any pixel. Root cause of 3× color violation was skipping the wiki. Documented + locked.
+- **posts.json** — post-008 logged (status=published, supergrow_post_id set, 10 slides, spatially-correct copy verified vs plan-coords.json).
+
+### Resume next session
+1. **post-009 (idea-005)** — YouTube drop post. Needs YT video URL from user → draft + carousel (n8n walkthrough angle). Already have YT1 URL: https://www.youtube.com/watch?v=bxjpYUX7xpw
+2. **post-010 (idea-006)** — "Get the basics right before chasing AI." Text-only or minimal carousel. No blockers.
+3. **Record YT2** — shot list drafted (6-min talking head "Before You Automate Anything"). User to record.
+4. **Week 3 calendar** — run ideator Schedule mode (Sunday trigger). Week 2 complete, Week 3 unplanned.
+5. **idea-007** (public Gem) — blocked on user supplying Gem URL.
+6. **linkedin-analyzer routine wiring** — capture-queue.json has overdue captures (post-001→008 Day3/Day7 metrics). Wire Slack DM routine.
+
+### Asset locations
+- YT credentials: `Documents/credentials/YoutubeManagerCreds/` + token at `Documents/credentials/.youtube_token.json`
+- Brand assets (canonical): `claude_projects/MyPersonalBrand/setu-brand/03-collateral/assets/brand-kit/`
+- Post visuals: `.tmp/visuals/post008/`
+- Wiki index: `Documents/Obsidian Vault/content-wiki/wiki/index.md` → `syntheses/design-pipeline.md` (brand tokens + pipeline)
+
+Plan/save file: /Users/sistaseetaram/.claude/plans/this-is-a-workflow-fluttering-hollerith.md
+Session-clear-safe: all tools + carousel generator + .env on disk. `.env` gitignored — keys NOT committed.
 
 ---
 
