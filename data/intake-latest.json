@@ -1,0 +1,48 @@
+{
+  "dispatch_id": "intake-1781030901",
+  "dispatched_at": "2026-06-10T00:18:21+05:30",
+  "source": {
+    "path": "/Users/sistaseetaram/Desktop/Claude/LoomWalkthroughs/Stop Working for Free in Design.mp4",
+    "folder_key": "loom",
+    "platform_hint": [
+      "linkedin",
+      "youtube"
+    ]
+  },
+  "intent": "brand",
+  "recording_type": "talking-head",
+  "suggested_profile": "brand-talking-head",
+  "profile_note": "structure declared at intake",
+  "probe": {
+    "codec": "h264",
+    "width": 640,
+    "height": 480,
+    "r_frame_rate": "31/1",
+    "avg_frame_rate": "894600000/29815703",
+    "r_fps": 31.0,
+    "avg_fps": 30.004,
+    "duration_s": 331.35,
+    "bit_rate": 477151,
+    "size": 19762971
+  },
+  "source_flags": {
+    "needs_cfr": true,
+    "low_res": true,
+    "low_bitrate": true,
+    "notes": [
+      "non-standard frame rate r=31.0; normalize to 30fps CFR",
+      "source is 640x480 (<1080p) \u2014 no edit fixes this; re-record HD for brand/ICP",
+      "low bitrate 477151bps \u2014 re-render quality will be capped by source"
+    ]
+  },
+  "master_target": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "fps_mode": "cfr",
+    "loudness_lufs": -16,
+    "container": "mp4",
+    "vcodec": "h264"
+  },
+  "next_step": "video-studio: transcribe (mlx-whisper local) -> classify structure -> select profile -> propose plain-English plan -> Slack checkpoint -> render"
+}

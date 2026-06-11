@@ -99,11 +99,14 @@ data/            posts.json, metrics.json, content-calendar.json, audits/, repor
 - Need a post draft → `content-ideator` skill (or `cascade` until built)
 - Need a carousel → `canvas` skill
 - Need brand voice token / color → `northstar` skill
-- Need to publish → `linkedin-publisher` (Phase 1) or `tools/linkedin_post.py` (Phase 3+)
+- Need to publish → follow `workflows/publishing-sop.md` (YouTube via `tools/youtube_upload.py` + creds in `~/Documents/credentials/`; LinkedIn via Supergrow MCP). Platforms locked: YouTube + LinkedIn only.
+- Need a YouTube title / thumbnail / hook → `youtube-packaging` skill (research-backed, no clickbait)
+- Need a headless animated video (no camera) → `workflows/setu-headless-video-style.md` (Architect's Draughting)
 - Need to ingest research → `llm-wiki-ingest`
 - Need a video script → `video-script-generator`
 - Need a Loom walkthrough plan → `loom-walkthrough-recorder`
 - Need to analyze a recorded Loom → `loom-video-analyzer`
+- Need to repurpose a finished video into posts → `loom-to-multipost` (drafts only; hands to `publishing-sop.md`)
 - Need to repurpose a Loom → `loom-to-multipost`
 
 ## Day-1 to Day-30

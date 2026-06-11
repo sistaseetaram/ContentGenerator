@@ -35,6 +35,7 @@ COST_PER_TOKEN = {
     "gemini-2.5-flash":     (0.30 / 1_000_000,   2.50 / 1_000_000),  # free tier at low volume
     "deepseek-chat":        (0.27 / 1_000_000,  1.10 / 1_000_000),
     "groq-llama-3.3-70b":   (0.00 / 1_000_000,  0.00 / 1_000_000),  # free tier
+    "gemma4-12b":           (0.00 / 1_000_000,  0.00 / 1_000_000),  # local Ollama — free
     "whisper-1":            (0.006/ 60, 0.0),                         # per minute of audio
     "deepgram-nova-3":      (0.0043/ 60, 0.0),
     "assemblyai":           (0.0062/ 60, 0.0),
@@ -57,6 +58,11 @@ CHAINS = {
     # Bulk research summarize — free model first to zero out fan-out cost. Never Claude.
     "research-summarize": ["groq-llama-3.3-70b", "gemini-2.5-flash", "deepseek-chat"],
     "embedding":    ["text-embedding-3-small", "voyage-3", "cohere-embed-v3"],
+    # Local Gemma 4 12B — zero cost, offline, private. Primary for classification/routing tasks.
+    "tagging":        ["gemma4-12b", "groq-llama-3.3-70b", "gemini-2.5-flash"],
+    "classification": ["gemma4-12b", "groq-llama-3.3-70b", "gemini-2.5-flash"],
+    "scoring":        ["gemma4-12b", "groq-llama-3.3-70b", "claude-haiku-4-5"],
+    "routing":        ["gemma4-12b", "groq-llama-3.3-70b", "claude-haiku-4-5"],
 }
 
 
@@ -172,6 +178,25 @@ def _call_deepseek(model: str, prompt: str, system: str = "", **kwargs) -> dict:
     return {"content": content, "tokens_in": tokens_in, "tokens_out": tokens_out}
 
 
+def _call_local_ollama(model: str, prompt: str, system: str = "", **kwargs) -> dict:
+    from openai import OpenAI
+    client = OpenAI(api_key="ollama", base_url="http://localhost:11434/v1")
+    ollama_model = {"gemma4-12b": "gemma4:12b"}.get(model, model)
+    messages = []
+    if system:
+        messages.append({"role": "system", "content": system})
+    messages.append({"role": "user", "content": prompt})
+    response = client.chat.completions.create(
+        model=ollama_model,
+        messages=messages,
+        max_tokens=kwargs.get("max_tokens", 2048),
+    )
+    tokens_in = response.usage.prompt_tokens if response.usage else 0
+    tokens_out = response.usage.completion_tokens if response.usage else 0
+    content = response.choices[0].message.content
+    return {"content": content, "tokens_in": tokens_in, "tokens_out": tokens_out}
+
+
 def _call_groq(model: str, prompt: str, system: str = "", **kwargs) -> dict:
     from groq import Groq
     client = Groq(api_key=os.environ["GROQ_API_KEY"])
@@ -202,6 +227,8 @@ def _dispatch(model: str, prompt: str, system: str = "", **kwargs) -> dict:
         return _call_deepseek(model, prompt, system, **kwargs)
     elif model.startswith("groq-"):
         return _call_groq(model, prompt, system, **kwargs)
+    elif model.startswith("gemma4-"):
+        return _call_local_ollama(model, prompt, system, **kwargs)
     else:
         raise ValueError(f"No dispatcher for model: {model}")
 

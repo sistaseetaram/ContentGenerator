@@ -1,0 +1,21 @@
+{
+  "video": "2026-06-11-stop-working-for-free",
+  "platforms": ["linkedin", "youtube"],
+  "drafts": [
+    "data/drafts/2026-06-11-stop-working-for-free/linkedin-post.md",
+    "data/drafts/2026-06-11-stop-working-for-free/youtube.md"
+  ],
+  "models_used": [
+    {"deliverable": "linkedin-post", "task_type": "long-form", "model_used": "gpt-4o", "fallback_depth": 0, "cost_usd": 0.006895, "latency_s": 4.58},
+    {"deliverable": "youtube-description", "task_type": "long-form", "model_used": "gpt-4o", "fallback_depth": 0, "cost_usd": 0.006990, "latency_s": 3.17},
+    {"deliverable": "youtube-title-tags", "task_type": "short-post", "model_used": "gpt-4o-mini", "fallback_depth": 0, "cost_usd": 0.00009585, "latency_s": 1.85}
+  ],
+  "five_values_checked": [
+    "work-not-tech: leads with hours and rupees lost, not tools; the line 'the goal isn't automation, it's getting your time back' is explicit",
+    "quiet-over-loud: plain sentences, no hype, no banned words, 3 hashtags max",
+    "respect-owners: names the owner's pain in their words, treats them as smart and busy, soft non-pushy CTA",
+    "ship-don't-slide: grounded in a finished, published 5:31 explainer video that is the artefact being posted",
+    "map-before-build: foundations framing is the diagnosis-before-build step; CTA is to 'map where your firm stands' first"
+  ],
+  "notes": "All copy routed through tools/model_router.py. Intended Gemini primary (long-form/short-post) was unavailable locally (google.generativeai SDK not installed), so the chain failed over to GPT-4o / GPT-4o-mini via OPENAI as designed. Raw model output was voice-edited by hand: original LinkedIn hook ('a thief with a clean getaway') was too clever and buried the number, so it was rewritten to open on the concrete scene + the rupee math, per Setu plainspoken/outcome-first voice. CTA to free Gem ('the first conversation', link in bio) preserved on both platforms. No X, no Instagram, no carousel. Drafts only — not published."
+}

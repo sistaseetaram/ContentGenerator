@@ -1,0 +1,39 @@
+{
+  "parent": "/Users/sistaseetaram/Desktop/Claude",
+  "folders": {
+    "loom": {
+      "path": "LoomWalkthroughs",
+      "default_recording_type": "talking-head",
+      "default_intent": "brand",
+      "platform_hint": [
+        "linkedin",
+        "youtube"
+      ]
+    },
+    "screenstudio": {
+      "path": "ScreenStudioRecordings",
+      "default_recording_type": "auto",
+      "default_intent": "brand",
+      "platform_hint": [
+        "youtube",
+        "linkedin"
+      ]
+    },
+    "yt-long": {
+      "path": "YouTubeLongs",
+      "default_recording_type": "auto",
+      "default_intent": "neutral",
+      "platform_hint": [
+        "youtube"
+      ]
+    },
+    "yt-short": {
+      "path": "YouTubeShorts",
+      "default_recording_type": "auto",
+      "default_intent": "neutral",
+      "platform_hint": [
+        "youtube-short"
+      ]
+    }
+  }
+}
