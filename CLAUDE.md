@@ -28,7 +28,12 @@ Then comment honestly: **complement when aligned, critique when not** — give t
 
 ## Inherits
 
-WAT framework from `/Users/sistaseetaram/Desktop/Claude/Youtubers/Nate/CLAUDE.md`. Read it once per session if not already in context.
+@/Users/sistaseetaram/Desktop/Claude/Youtubers/Nate/CLAUDE.md
+
+The line above is a real `@import` of the WAT canon (Workflows/Agents/Tools) — it is
+loaded automatically, not a manual "read this if you remember" instruction. This
+project's `workflows/` and `tools/` directories follow that canon's Layer 1/Layer 3
+structure exactly; this file's own rules below are the project-specific layer on top.
 
 Brand voice + positioning + ICP from `/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/wiki/concepts/`:
 - `setu-positioning.md`

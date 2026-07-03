@@ -1,21 +1,45 @@
 # ContentGenerator — State
 
-## Project Reference
+> **RECONCILED 2026-07-03 vs git history.** This file's narrative sections describe the
+> state through the 2026-06-06→06-07 session (post-008 published). Git shows one further
+> commit since then: `473c28c` (2026-06-11, branch `main`) — "feat: headless-video pipeline
+> + publishing + post-009 (Stop Working for Free)" — which shipped the headless-video
+> pipeline, the `youtube-packaging` and `loom-to-multipost` skills, three new/updated
+> workflows (`setu-headless-video-style.md`, `publishing-sop.md`, `recording-to-published.md`),
+> and published post-009. That commit is not reflected in "Current Position," "Pending Todos,"
+> or "Session Continuity" below — those sections still show post-008 as the latest and list
+> post-009 as a pending blocker. The local branch is also 1 commit ahead of `origin/main`
+> (unpushed) and the working tree has further uncommitted changes to `.claude/skills/`,
+> `data/*.json`, and `tools/model_router.py`, plus untracked files (`data/ideas-latest.json`,
+> `data/skills-status.json`, `tools/dashboard_server.py`, `tools/idea_scorer.py`) — none of
+> this is captured in the sections below either. Treat everything past this notice as the
+> pre-2026-06-11 narrative, not current state.
 
-**Building:** Self-improving personal-brand content engine (Setu)
-**Current focus:** Phase 1 — Ship first posts, establish baseline metrics
+## Current Position (git-verified, 2026-07-03)
+
+- **Branch:** `main` (1 commit ahead of `origin/main`, unpushed)
+- **Latest commit:** `473c28c` — "feat: headless-video pipeline + publishing + post-009 (Stop Working for Free)" (2026-06-11)
+- **Per that commit:** post-009 published (YouTube + LinkedIn); `youtube-packaging` and `loom-to-multipost` skills shipped; headless-video pipeline workflows added.
+- **Working tree:** uncommitted modifications (`.claude/skills/content-ideator/*`, `data/content-calendar.json`, `data/ideas-dashboard.html`, `data/ideas.json`, `data/ideator-meta.json`, `data/posts.json`, `tools/model_router.py`) and untracked files (`data/ideas-latest.json`, `data/skills-status.json`, `tools/dashboard_server.py`, `tools/idea_scorer.py`) — not yet committed or described below.
 
 ---
 
-## Current Position
+## Historical Project Reference (narrative below is current only through post-008 / 2026-06-07)
+
+**Building:** Self-improving personal-brand content engine (Setu)
+**Current focus (as of last narrative update):** Phase 1 — Ship first posts, establish baseline metrics
+
+---
+
+## Position as of last narrative update (pre-2026-06-11 commit)
 
 - **Phase:** 1 of 4 — Ship + Sense (Days 1-7)
 - **Day:** 15 of 30 (Week 2 complete)
 
 **Progress:** `[███████░░░]` ~50%
 
-Posts published: 8 (post-001 through post-008)
-Skills shipped: 4 (loom-walkthrough-recorder v0.1, loom-video-analyzer v0.1, content-ideator v0.2, linkedin-analyzer v0.1)
+Posts published: 8 (post-001 through post-008) — git shows post-009 has since published (commit `473c28c`, 2026-06-11), not reflected in this count.
+Skills shipped: 4 (loom-walkthrough-recorder v0.1, loom-video-analyzer v0.1, content-ideator v0.2, linkedin-analyzer v0.1) — git shows 2 more skills shipped since (`youtube-packaging`, `loom-to-multipost`), not reflected in this count.
 Total phases complete: 0/4
 
 ---
@@ -77,10 +101,12 @@ Total phases complete: 0/4
 
 ---
 
-## Session Continuity
+## Session Continuity (historical — see git-verified Current Position above for actual latest state)
 
-Last session: 2026-06-06 → 2026-06-07
+Last session (as narrated here): 2026-06-06 → 2026-06-07
 Stopped at: post-008 published to LinkedIn via Supergrow MCP (10-slide brand-compliant carousel — "Why I'm not showing you any AI renders yet").
+
+**Superseded by commit `473c28c` (2026-06-11):** post-009 (the item listed as "Resume next session" item 1, below) has since been published per that commit's message ("Stop Working for Free" — YouTube + LinkedIn, headless-video pipeline). The "Resume next session" list below was not updated to reflect this and still shows post-009 as outstanding.
 
 ### What shipped this session
 - **YouTube upload tool** (`tools/youtube_upload.py`) — OAuth2, scopes: upload + force-ssl + readonly. Token saved to `Documents/credentials/.youtube_token.json`. YT1 (n8n workflow Loom) live: https://www.youtube.com/watch?v=bxjpYUX7xpw
