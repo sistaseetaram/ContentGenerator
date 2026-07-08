@@ -14,14 +14,26 @@ import time
 from datetime import date
 from pathlib import Path
 
-from dotenv import load_dotenv
+import sys as _sys
+from pathlib import Path as _Path
 
-load_dotenv()
+_SHARED_INFRA = _Path.home() / "Desktop/Claude/SharedInfra"
+try:
+    if str(_SHARED_INFRA) not in _sys.path:
+        _sys.path.insert(0, str(_SHARED_INFRA))
+    from vault.vault_loader import load_for_project as _load
+    _load("ContentGenerator", strict=False)
+except Exception:
+    from dotenv import load_dotenv
+    load_dotenv()
 
 ROOT = Path(__file__).parent.parent
 SPEND_FILE = ROOT / "data" / "model_spend.json"
 
-FAILOVER_TRIGGERS = {429, 529, 503, 500, 504}
+# 401/403 included so a provider that rejects our key (e.g. a stale Kimi key) is
+# treated as "unavailable to us" and falls over to the next model rather than
+# killing the whole call.
+FAILOVER_TRIGGERS = {401, 403, 429, 529, 503, 500, 504}
 RETRY_BUDGET = 1
 QUOTA_GUARD_USD_PER_DAY = 5.0
 LATENCY_BUDGET_SECONDS = 60
@@ -34,6 +46,7 @@ COST_PER_TOKEN = {
     "gpt-4o-mini":          (0.15 / 1_000_000,  0.60 / 1_000_000),
     "gemini-2.5-flash":     (0.30 / 1_000_000,   2.50 / 1_000_000),  # free tier at low volume
     "deepseek-chat":        (0.27 / 1_000_000,  1.10 / 1_000_000),
+    "kimi-k2":              (0.60 / 1_000_000,  2.50 / 1_000_000),  # Moonshot Kimi — user has credits; verify rates
     "groq-llama-3.3-70b":   (0.00 / 1_000_000,  0.00 / 1_000_000),  # free tier
     "gemma4-12b":           (0.00 / 1_000_000,  0.00 / 1_000_000),  # local Ollama — free
     "whisper-1":            (0.006/ 60, 0.0),                         # per minute of audio
@@ -52,13 +65,16 @@ CHAINS = {
     "short-post":   ["gpt-4o-mini", "gemini-2.5-flash", "claude-haiku-4-5"],
     "multimodal":   ["gemini-2.5-flash", "gpt-4o", "claude-sonnet-4-6"],
     "transcription":["whisper-1", "deepgram-nova-3", "assemblyai"],
-    "lint-dispatch":["claude-haiku-4-5", "gpt-4o-mini", "groq-llama-3.3-70b"],
+    # Grunt-work tier — free/cheap first, never Claude as primary.
+    # NB: Kimchi (kimi-k2.6) is intentionally NOT here. Its only working channel is the
+    # agentic `kimchi` CLI, which injects ~17K tokens of harness context per call and
+    # 403-gates raw HTTP — wrong tool for cheap JSON scoring/summarize. The `kimi-k2`
+    # dispatcher below stays dormant for a future direct-API key (set KIMCHI_BASE_URL).
+    "lint-dispatch":["groq-llama-3.3-70b", "gpt-4o-mini", "claude-haiku-4-5"],
     "auditor":      ["gemini-2.5-flash", "gpt-4o", "claude-sonnet-4-6"],
     "yt-summarize": ["deepseek-chat", "gpt-4o-mini", "gemini-2.5-flash"],
-    # Bulk research summarize — free model first to zero out fan-out cost. Never Claude.
     "research-summarize": ["groq-llama-3.3-70b", "gemini-2.5-flash", "deepseek-chat"],
     "embedding":    ["text-embedding-3-small", "voyage-3", "cohere-embed-v3"],
-    # Local Gemma 4 12B — zero cost, offline, private. Primary for classification/routing tasks.
     "tagging":        ["gemma4-12b", "groq-llama-3.3-70b", "gemini-2.5-flash"],
     "classification": ["gemma4-12b", "groq-llama-3.3-70b", "gemini-2.5-flash"],
     "scoring":        ["gemma4-12b", "groq-llama-3.3-70b", "claude-haiku-4-5"],
@@ -178,6 +194,34 @@ def _call_deepseek(model: str, prompt: str, system: str = "", **kwargs) -> dict:
     return {"content": content, "tokens_in": tokens_in, "tokens_out": tokens_out}
 
 
+def _call_kimi(model: str, prompt: str, system: str = "", **kwargs) -> dict:
+    """Moonshot Kimi via its OpenAI-compatible endpoint.
+
+    Endpoint + model are env-overridable so the key/host can be fixed without a
+    code change: KIMCHI_API_KEY, KIMCHI_BASE_URL (default Moonshot intl),
+    KIMCHI_MODEL (default kimi-k2-0711-preview).
+    """
+    from openai import OpenAI
+    client = OpenAI(
+        api_key=os.environ["KIMCHI_API_KEY"],
+        base_url=os.environ.get("KIMCHI_BASE_URL", "https://api.moonshot.ai/v1"),
+    )
+    kimi_model = os.environ.get("KIMCHI_MODEL", "kimi-k2-0711-preview")
+    messages = []
+    if system:
+        messages.append({"role": "system", "content": system})
+    messages.append({"role": "user", "content": prompt})
+    response = client.chat.completions.create(
+        model=kimi_model,
+        messages=messages,
+        max_tokens=kwargs.get("max_tokens", 2048),
+    )
+    tokens_in = response.usage.prompt_tokens if response.usage else 0
+    tokens_out = response.usage.completion_tokens if response.usage else 0
+    content = response.choices[0].message.content
+    return {"content": content, "tokens_in": tokens_in, "tokens_out": tokens_out}
+
+
 def _call_local_ollama(model: str, prompt: str, system: str = "", **kwargs) -> dict:
     from openai import OpenAI
     client = OpenAI(api_key="ollama", base_url="http://localhost:11434/v1")
@@ -225,6 +269,8 @@ def _dispatch(model: str, prompt: str, system: str = "", **kwargs) -> dict:
         return _call_gemini(model, prompt, system, **kwargs)
     elif model == "deepseek-chat":
         return _call_deepseek(model, prompt, system, **kwargs)
+    elif model.startswith("kimi"):
+        return _call_kimi(model, prompt, system, **kwargs)
     elif model.startswith("groq-"):
         return _call_groq(model, prompt, system, **kwargs)
     elif model.startswith("gemma4-"):
@@ -292,6 +338,11 @@ def route(task_type: str, prompt: str, system: str = "", **kwargs) -> dict:
 
         except Exception as exc:
             last_error = exc
+            # A provider whose SDK isn't installed (or whose optional dep is
+            # missing) is simply unavailable on this host — skip to the next
+            # model in the chain rather than failing the whole call.
+            if isinstance(exc, ImportError):
+                continue
             # Check if this is a failover-triggerable HTTP error
             status = getattr(exc, "status_code", None) or getattr(exc, "code", None)
             if status not in FAILOVER_TRIGGERS:
