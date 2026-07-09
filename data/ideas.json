@@ -25,8 +25,9 @@
       "icp": "Bridge 01",
       "asset": null,
       "cta": "none",
-      "status": "planned",
-      "notes": "First public Bridge 1 proof signal. Bridge metaphor hook."
+      "status": "retired",
+      "notes": "First public Bridge 1 proof signal. Bridge metaphor hook.",
+      "retired_reason": "Duplicate \u2014 post-006 (Setu means bridge) already did Bridge 1 intro, ICP pain, honest build status. Retired 2026-06-11."
     },
     {
       "id": "idea-003",
@@ -61,8 +62,9 @@
         "note": "user supplies V1 vs V4 render images"
       },
       "cta": "soft",
-      "status": "blocked-on-asset",
-      "notes": "Strongest trust post of the week. Visual."
+      "status": "retired",
+      "notes": "Strongest trust post of the week. Visual.",
+      "retired_reason": "Duplicate \u2014 post-008 (Everyone keeps asking to see the renders) already covered V1 spatial failures story (sofa flipped, pooja vanished, invented doors). Retired 2026-06-11."
     },
     {
       "id": "idea-005",
@@ -99,8 +101,9 @@
         "status": "to-record"
       },
       "cta": "soft (free Gem teaser)",
-      "status": "planned",
-      "notes": "LECTURE RISK \u2014 frame as 'here's what I keep seeing work', not 'you're doing it wrong'. Hard five-value check on Respect-the-owner before publish."
+      "status": "posted",
+      "notes": "LECTURE RISK \u2014 frame as 'here's what I keep seeing work', not 'you're doing it wrong'. Hard five-value check on Respect-the-owner before publish.",
+      "post_record_pending": true
     },
     {
       "id": "idea-007",
@@ -113,12 +116,284 @@
       "icp": "Bridge 01",
       "asset": {
         "type": "gem_link",
-        "status": "NEEDS_USER",
-        "note": "user supplies public Gem URL + access method; lead capture is manual for now (DM automation is the separate outreach project)"
+        "status": "ready",
+        "url": "https://da.gd/z52I",
+        "note": "Gem URL live \u2014 used in post-009. Unblocked 2026-06-11."
       },
       "cta": "free tool (the real CTA of the week)",
-      "status": "blocked-on-asset",
+      "status": "planned",
       "notes": "Closes YT2. Soft, value-first."
+    },
+    {
+      "id": "idea-008",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "The spatial method that made the AI render hold the floor plan",
+      "angle": "Build Receipt that fulfills post-008's open promise. Stop asking the model to *style* the plan; hand it coordinates, then verify the output against a plan-coords contract. Show V1 (sofa flipped, dining sealed, invented doors) vs V2 (geometry holds) and the exact check that caught the lie.",
+      "pillar": "build-receipts",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 5,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 4,
+        "effort": 4
+      },
+      "total_score": 39.5,
+      "proof_plan": "Screen-record V1 vs V2 renders side by side + the plan-coords.json check that flags the mismatch.",
+      "supporting_research": [
+        {
+          "headline": "AI renders do not preserve exact proportions; dimensional accuracy not guaranteed",
+          "source_url": "https://virtualspaces.tech/blog/the-future-of-interior-design-visualization-ai-transforming-2d-to-3d"
+        },
+        {
+          "headline": "post-008 teased 'the exact spatial method that made the plan stick'",
+          "source_url": "internal:posts.json#post-008"
+        },
+        {
+          "headline": "plan-coords.json verification contract",
+          "source_url": "internal:.tmp/visuals/post008/"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Fulfills post-008's open promise; proof (V2 render + plan-coords.json) is ready; pure map-before-build/ship-don't-slide receipt aimed dead-centre at the ICP.",
+        "when_to_post": "now",
+        "timing_note": "ASSET READY (V1 vs V4 demo recorded 2026-06). Top priority \u2014 fulfills post-008 promise."
+      },
+      "asset_ready": true
+    },
+    {
+      "id": "idea-009",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "The gap isn't curiosity \u2014 64% try AI, only 20% run it",
+      "angle": "Plain-English Take on 2026 survey data (6% regular use, 8% practice-level despite 85% exposure; 33% blame poor software fit). Reframes the 'you're behind' panic: the gap isn't the owner, it's tools built for the demo not the real workflow. Setu's counter = build to the workflow.",
+      "pillar": "plain-english-ai-takes",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 4,
+        "lived_exp": 4,
+        "proof_level": 5,
+        "timeliness": 5,
+        "effort": 5
+      },
+      "total_score": 38.25,
+      "proof_plan": "Cite the named 2026 surveys + contrast with one screenshot of the workflow-fit system running on a real 3BHK.",
+      "supporting_research": [
+        {
+          "headline": "Only 6% of architects regularly use AI; 8% of firms at practice level despite 85% exposure",
+          "source_url": "https://virtualspaces.tech/blog/ai-architecture-interior-design-adoption-gap-foursite-remodroom"
+        },
+        {
+          "headline": "33% cite poor compatibility with current software as the key obstacle",
+          "source_url": "https://blog.chaos.com/the-state-of-ai-in-architecture-survey-insights"
+        }
+      ],
+      "status": "posted",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "On-positioning (extends post-006 'not behind, buried'); rests on the named 2026 Chaos x Architizer ~800-architect survey (auditable). Original '6% use AI' hook was WRONG and dropped 2026-06-13.",
+        "when_to_post": "now",
+        "timing_note": "Stats verified 2026-06-13: use 64/20 gap + 33/48/70/74; do NOT use 6% or 85%-exposure."
+      },
+      "draft_path": "data/drafts/2026-06-12-only-6pct-use-ai/linkedin-post.md",
+      "post_id": "post-010"
+    },
+    {
+      "id": "idea-011",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "An AI render in under a minute is easy. A render you can build from is the hard part.",
+      "angle": "Contrarian / honesty post. The market sells one-minute photoreal renders; the dimensions are a polite lie (rooms stretched, doors invented). The trap: a client approves something that can't be built and trust dies on site day. Sequenced AFTER the spatial-method post so it stands on shown proof.",
+      "pillar": "contrarian",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 5,
+        "new_info": 4,
+        "lived_exp": 5,
+        "proof_level": 4,
+        "timeliness": 5,
+        "effort": 4
+      },
+      "total_score": 36.5,
+      "proof_plan": "Reuse the V1 spatial-failure frames as the 'beautiful but wrong' exhibit; contrast with the verified V2.",
+      "supporting_research": [
+        {
+          "headline": "AI tools stretch or compress room dimensions interpreting floor plans",
+          "source_url": "https://genroom.io/blog/ai-design-from-floor-plan"
+        },
+        {
+          "headline": "AI render in under a minute marketed as turnkey",
+          "source_url": "https://www.aimagicx.com/blog/ai-architectural-rendering-visualization-guide-2026"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_later",
+        "reason": "Strong and timely, but overlaps post-008 and is the FIRST Contrarian-pillar post \u2014 it must land after the method post (idea-008) so it reads as earned proof, not a repeat complaint.",
+        "when_to_post": "Week 4 (after idea-008 ships)",
+        "timing_note": "Unlocks once idea-008 is published; Contrarian pillar gate (2-3 Build Receipts) already met."
+      }
+    },
+    {
+      "id": "idea-010",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "I built a free AI advisor for design and architecture firms. Ask it anything.",
+      "angle": "Build-in-Public lead magnet, value-first. The live Gemini Gem coaches a firm owner step by step on where AI fits their practice \u2014 no sales ask. Standalone dedicated post (post-009 only surfaced it in an auto first-comment).",
+      "pillar": "build-in-public-setu",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 3,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 3,
+        "effort": 5
+      },
+      "total_score": 36.25,
+      "proof_plan": "Share the live Gem link + a 20-sec screen-rec of one real owner question answered well.",
+      "supporting_research": [
+        {
+          "headline": "Gem live at https://da.gd/z52I, already used in post-009 first comment",
+          "source_url": "internal:posts.json#post-009"
+        }
+      ],
+      "status": "posted",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Gem is now live (was the week's blocker); pure give-value, no ask, on-ICP. Mild repeat risk vs the post-009 comment \u2014 frame as a standalone utility with a concrete example.",
+        "when_to_post": "now",
+        "timing_note": "Value-first; one concrete example question, not a feature list."
+      },
+      "notes": "",
+      "post_record_pending": true
+    },
+    {
+      "id": "idea-013",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "My whole content engine runs on about a cent a day",
+      "angle": "Build-in-Public cost receipt. While Claude Fable 5 lands at $10/$50 per M tokens, the router sends ~90% of work to free/near-free models (gemma $0.00, gpt-4o-mini $0.0001) and saves the expensive model for judgment only. Real model_spend.json numbers.",
+      "pillar": "build-in-public-setu",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 4,
+        "new_info": 4,
+        "lived_exp": 5,
+        "proof_level": 4,
+        "timeliness": 4,
+        "effort": 4
+      },
+      "total_score": 34.5,
+      "proof_plan": "Screenshot model_spend.json: gpt-4o $0.0069, gpt-4o-mini $0.0001, gemma $0.00 \u2014 daily total.",
+      "supporting_research": [
+        {
+          "headline": "Claude Fable 5 GA Jun 9 at $10/$50 per M tokens",
+          "source_url": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html"
+        },
+        {
+          "headline": "real router spend numbers",
+          "source_url": "internal:model_spend.json"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_later",
+        "reason": "Positioning leak \u2014 it's builder-flex, off the design/construction ICP and drifts toward generic AI-builder content. Real and good, but it doesn't help an architecture owner cross the bridge.",
+        "when_to_post": "after first client (reframe as 'how we keep your automation cheap') or repackage for a builder audience",
+        "timing_note": "Reframe to client value before posting; as-is it's off-ICP."
+      }
+    },
+    {
+      "id": "idea-012",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "Map the workflow before you buy the AI tool",
+      "angle": "Plain-English Take on the 'map before build' value, anchored to the 33%-blame-software-fit stat. Owners buy a tool then bend the firm around it; the fix is a one-page map of who does what and where the hours leak, before any tool. Shows the thinking, not a product.",
+      "pillar": "plain-english-ai-takes",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 3,
+        "lived_exp": 4,
+        "proof_level": 3,
+        "timeliness": 4,
+        "effort": 4
+      },
+      "total_score": 32.0,
+      "proof_plan": "Show a real anonymized one-page workflow map of a firm's brief\u2192delivery with the leak points circled.",
+      "supporting_research": [
+        {
+          "headline": "33% cite poor software compatibility as the key AI obstacle",
+          "source_url": "https://blog.chaos.com/the-state-of-ai-in-architecture-survey-insights"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "On-value (map before build), respects owners, but lower new-info \u2014 good calendar filler, not a tentpole.",
+        "when_to_post": "now",
+        "timing_note": "Needs a clean anonymized workflow-map graphic."
+      }
+    },
+    {
+      "id": "idea-014",
+      "created_at": "2026-06-13",
+      "run_id": "idea-1781202600",
+      "title": "The four foundations, by the numbers",
+      "angle": "Extends post-009 (Stop Working for Free). The four foundations \u2014 documented work, organized files, visible proof, one source of truth \u2014 aren't soft advice; the cost of missing them is measured. ~Half of local contractors have no website (no visible proof). Construction loses ~$31B/yr to poor comms + bad data; teams burn 14 hrs/week on rework and 5.5 hrs/week hunting for the right file. Fix the foundations before automating.",
+      "pillar": "plain-english-ai-takes",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 4,
+        "lived_exp": 3,
+        "proof_level": 5,
+        "timeliness": 4,
+        "effort": 4
+      },
+      "total_score": 35.0,
+      "proof_plan": "Cite named sources (FMI/PlanGrid rework data; 2026 SMB website survey) + tie to post-009's four foundations. Optional simple stat card.",
+      "supporting_research": [
+        {
+          "headline": "45-56% of local contractors/tradespeople have no website",
+          "source_url": "https://b2bleadfinder.io/blog/small-business-without-website-statistics"
+        },
+        {
+          "headline": "Miscommunication + bad data = 48% of rework; ~$31.3B/yr construction cost; 14h/wk rework, 5.5h/wk hunting data",
+          "source_url": "https://www.forconstructionpros.com/business/business-services/financing-insurance-leasing/press-release/21015974/plangrid-poor-communication-rework-bad-data-management-cost-construction-industry-177b-annually"
+        },
+        {
+          "headline": "~27% of small businesses have no website; 62% of customers ignore no-web-presence businesses",
+          "source_url": "https://www.networksolutions.com/blog/small-business-website-statistics/"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Extends the published post-009 four-foundations theme, dead-on ICP, and fully backed by auditable public stats. Risk is stat-dump \u2014 cap at 3 figures + the human point.",
+        "when_to_post": "now (rides post-009 momentum)",
+        "timing_note": "Use ONLY verified figures; label construction-industry stats as such, do not imply interior-design-specific. No fabricated composite 'four-pillars readiness' stat \u2014 it does not exist publicly."
+      }
     }
   ],
   "youtube": [
@@ -145,6 +420,6 @@
       "notes": "Interview pain points (reuse earlier clips), live-build on a real current project, before/after clutter->organized."
     }
   ],
-  "ideas_generated": 7,
-  "last_updated": "2026-05-31"
+  "ideas_generated": 14,
+  "last_updated": "2026-06-22"
 }

@@ -237,3 +237,7 @@ Nothing else inline. The feed + dashboard are the artifacts.
 - v0.1: own-stack miner reads tech_stack_report_path when user provides it; until then, fallback scan.
 - v0.1: model_router live calls need .env keys; if absent, synth/score fall back to inline Claude (document, don't fake costs).
 - v0.1: self-improvement loop fires after every Generate run — 3 questions, no skipping, updates skill while signal is fresh.
+- v0.2: live dashboard = `python tools/dashboard_server.py` (localhost:8765). Interactive: feed, calendar, Published, and an Add-Idea tab that auto-scores via `tools/idea_scorer.py` and proposes approval-gated calendar swaps. `build_dashboard.py` stays as the static snapshot.
+- v0.2: `tools/idea_scorer.py` is the shared scorer (rubric weights + voice gate + strategic critique). Both the server AND Rate mode use it — scores are identical either way.
+- v0.2: a new idea that outscores a scheduled slot (same platform) surfaces a swap; nothing moves until the user approves. Displaced idea returns to backlog.
+- v0.2: grunt work (lint-dispatch/scoring/summarize) routes Kimi-first per user; router fails over (incl. 401/ImportError) to groq/haiku if Kimi key/endpoint is bad.

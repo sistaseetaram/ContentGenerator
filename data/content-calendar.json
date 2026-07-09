@@ -174,6 +174,245 @@
           "notes": "YT3 (live build with sister's firm) PREP ONLY this week. Ships Week 3. Needs: shoot plan, interview clips, real demo project, template. Use loom-walkthrough-recorder."
         }
       ]
+    },
+    {
+      "week": 3,
+      "theme": "Bridge proof: render method + you're-not-behind",
+      "generated_at": "2026-06-12",
+      "cadence_target": "LinkedIn + YouTube only (X/IG not live). ~4-5 LI/wk, sustainable.",
+      "days": [
+        {
+          "day": 5,
+          "date": "2026-06-12",
+          "action": "publish",
+          "platform": "linkedin",
+          "pillar": "plain-english-ai-takes",
+          "idea_id": "idea-009",
+          "title": "Only 6% of architects actually use AI",
+          "youtube": null,
+          "status": "done",
+          "notes": "SWAPPED IN 2026-06-12: text-only Plain-English Take, no user asset needed \u2014 drafted by agent. Verify 6%/8%/33% survey figures before publish. Standalone, no sequence dependency.",
+          "post_id": "post-010"
+        },
+        {
+          "day": 6,
+          "date": "2026-06-13",
+          "action": "prep",
+          "platform": "youtube",
+          "pillar": null,
+          "idea_id": null,
+          "title": "Record YT2 (wake-up call video)",
+          "youtube": "YT2-record",
+          "status": "planned",
+          "notes": "No LI post (sustainable Sat). Record YT2 'Why design & construction need AI + free Gem'. Use loom-walkthrough-recorder prep."
+        },
+        {
+          "day": 7,
+          "date": "2026-06-14",
+          "action": "publish",
+          "platform": "linkedin",
+          "pillar": "build-receipts",
+          "idea_id": "idea-008",
+          "title": "The spatial method that made the AI render hold the plan",
+          "youtube": null,
+          "status": "rescheduled",
+          "notes": "SLIPPED (V1\u2192V4 demo not ready at the time). Rescheduled to Week 5 Mon 6/22 \u2014 asset now ready. SWAPPED FROM Fri 6/12: needs user screen-rec (V1 vs V2 + plan-coords check) \u2014 moved to weekend when time exists. Still ships BEFORE idea-011 render-trap (Wed 6/17). Fulfills post-008's promise."
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "theme": "Activate Contrarian pillar + Gem lead magnet + YT2 ship",
+      "generated_at": "2026-06-12",
+      "cadence_target": "LinkedIn + YouTube only. Contrarian unlocks (idea-008 shipped, proof-gate met).",
+      "days": [
+        {
+          "day": 1,
+          "date": "2026-06-15",
+          "action": "publish",
+          "platform": "linkedin",
+          "pillar": "build-in-public-setu",
+          "idea_id": "idea-010",
+          "title": "Free AI advisor (Gem) for design & architecture firms",
+          "youtube": null,
+          "status": "done",
+          "notes": "PUBLISHED (user-confirmed Week 4). Post record/URL pending in posts.json. Value-first standalone. Gem live (unblocked). One concrete example question."
+        },
+        {
+          "day": 2,
+          "date": "2026-06-16",
+          "action": "publish",
+          "platform": "linkedin",
+          "pillar": "plain-english-ai-takes",
+          "idea_id": "idea-006",
+          "title": "Get the basics right before chasing AI (promotes YT2)",
+          "youtube": "YT2-publish",
+          "status": "done",
+          "notes": "PUBLISHED + YT2 live (user-confirmed). Post record/URL pending in posts.json. Publish YT2 + LI promo (post-010 / idea-006, already written). LECTURE-RISK: frame as observation, hard Respect-owner check."
+        },
+        {
+          "day": 3,
+          "date": "2026-06-17",
+          "action": "publish",
+          "platform": "linkedin",
+          "pillar": "contrarian",
+          "idea_id": "idea-011",
+          "title": "An AI render in a minute is easy; one you can build from is hard",
+          "youtube": null,
+          "status": "rescheduled",
+          "notes": "SLIPPED \u2014 was gated on idea-008 shipping first. Rescheduled Week 5 Wed 6/24. FIRST Contrarian-pillar post. Now post_now-eligible because idea-008 shipped Jun 12. Sequenced on shown proof."
+        },
+        {
+          "day": 4,
+          "date": "2026-06-18",
+          "action": "prep",
+          "platform": "youtube",
+          "pillar": null,
+          "idea_id": null,
+          "title": "YT3 live-build prep (sister's firm)",
+          "youtube": "YT3-prep",
+          "status": "planned",
+          "notes": "Proof centerpiece prep: shoot plan, interview clips, real demo project. loom-walkthrough-recorder."
+        },
+        {
+          "day": 5,
+          "date": "2026-06-19",
+          "action": "publish",
+          "platform": "linkedin",
+          "pillar": "plain-english-ai-takes",
+          "idea_id": "idea-012",
+          "title": "Map the workflow before you buy the AI tool",
+          "youtube": null,
+          "status": "rescheduled",
+          "notes": "SLIPPED \u2014 needs workflow-map graphic. Pushed to Week 6 backlog. map-before-build value, anchored to 33%-software-fit stat. Needs anonymized workflow-map graphic."
+        },
+        {
+          "day": 6,
+          "date": "2026-06-20",
+          "action": "prep",
+          "platform": null,
+          "pillar": null,
+          "idea_id": null,
+          "title": "Rest / buffer",
+          "youtube": null,
+          "status": "planned",
+          "notes": "No post. Buffer for slips + edit YT3 footage."
+        },
+        {
+          "day": 7,
+          "date": "2026-06-21",
+          "action": "publish",
+          "platform": "linkedin",
+          "pillar": "build-in-public-setu",
+          "idea_id": null,
+          "title": "Week 4 retro: what shipped + what broke",
+          "youtube": null,
+          "status": "planned",
+          "notes": "Build-in-Public weekly recap. Run ideator Generate for Week 5 backlog this day (Sunday)."
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "theme": "Ship the slipped proof \u2014 spatial method + first Contrarian (shifted +1d: idea-008 slipped Mon 6/22 \u2192 now Tue 6/23)",
+      "generated_at": "2026-06-23",
+      "cadence_target": "LinkedIn + YouTube only. Sustainable 3 LI/wk. Clear the asset-blocked backlog now the demo is ready.",
+      "days": [
+        {
+          "day": 1,
+          "date": "2026-06-23",
+          "action": "publish",
+          "platform": "linkedin",
+          "pillar": "build-receipts",
+          "idea_id": "idea-008",
+          "title": "The spatial method that made the AI render hold the floor plan",
+          "youtube": null,
+          "status": "planned",
+          "post_id": null,
+          "notes": "TOP PRIORITY \u2014 post TODAY (Tue 6/23). Slipped from Mon 6/22 (couldn't post). Asset ready (V1\u2192V4 demo). Fulfills post-008 promise.",
+          "shifted_from": "2026-06-22"
+        },
+        {
+          "day": 2,
+          "date": "2026-06-24",
+          "action": "prep",
+          "platform": null,
+          "pillar": null,
+          "idea_id": null,
+          "title": "Buffer / edit idea-011 contrarian visuals",
+          "youtube": null,
+          "status": "planned",
+          "notes": "No post. Prep V1 'beautiful but wrong' frames for Wed's Contrarian post.",
+          "shifted_from": "2026-06-23"
+        },
+        {
+          "day": 3,
+          "date": "2026-06-25",
+          "action": "publish",
+          "platform": "linkedin",
+          "pillar": "contrarian",
+          "idea_id": "idea-011",
+          "title": "An AI render in a minute is easy; one you can build from is hard",
+          "youtube": null,
+          "status": "planned",
+          "post_id": null,
+          "notes": "FIRST Contrarian-pillar post \u2014 now stands on shown proof (idea-008 shipped Mon). Reuse V1 spatial-failure frames vs verified V2.",
+          "shifted_from": "2026-06-24"
+        },
+        {
+          "day": 4,
+          "date": "2026-06-26",
+          "action": "prep",
+          "platform": "youtube",
+          "pillar": null,
+          "idea_id": null,
+          "title": "YT3 live-build prep (sister's firm)",
+          "youtube": "YT3-prep",
+          "status": "planned",
+          "notes": "Proof centerpiece prep: shoot plan, interview clips, real demo project. loom-walkthrough-recorder.",
+          "shifted_from": "2026-06-25"
+        },
+        {
+          "day": 5,
+          "date": "2026-06-27",
+          "action": "publish",
+          "platform": "linkedin",
+          "pillar": "plain-english-ai-takes",
+          "idea_id": "idea-014",
+          "title": "The four foundations, by the numbers",
+          "youtube": null,
+          "status": "planned",
+          "post_id": null,
+          "notes": "Rides post-009 momentum. Use ONLY verified stats, cap at 3 figures + the human point. Label construction-industry stats as such.",
+          "shifted_from": "2026-06-26"
+        },
+        {
+          "day": 6,
+          "date": "2026-06-28",
+          "action": "prep",
+          "platform": null,
+          "pillar": null,
+          "idea_id": null,
+          "title": "Rest / buffer for slips",
+          "youtube": null,
+          "status": "planned",
+          "notes": "No post. Buffer + edit YT3 footage.",
+          "shifted_from": "2026-06-27"
+        },
+        {
+          "day": 7,
+          "date": "2026-06-29",
+          "action": "checkpoint",
+          "platform": null,
+          "pillar": null,
+          "idea_id": null,
+          "title": "Week 5 retro + run ideator Generate for Week 6",
+          "youtube": null,
+          "status": "planned",
+          "notes": "Sunday planning. Run content-ideator Generate to refill backlog (idea-012 map still pending graphic). Build Week 6 schedule.",
+          "shifted_from": "2026-06-28"
+        }
+      ]
     }
   ]
 }

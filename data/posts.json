@@ -6,12 +6,12 @@
       "platform": "linkedin",
       "status": "published",
       "hook": "Same project. Third version. Finally makes sense.",
-      "body": "Same project. Third version. Finally makes sense.\n\nV1: one massive prompt, everything fed in. $1 per report. Architecture: embarrassing.\n\nV2: discovered subworkflows. Split prompts. Static data separated from dynamic. Cost dropped.\n\nV3: verification before fetching. The model only sees what it needs.\n\n$0.06 per report now.\n\nI spent weeks before this following tutorials. Built every template. Understood nothing — because their data flows weren't breaking. Mine weren't either, because they weren't mine.\n\nNobody ships a good automation on the first try. Most tutorials show the finished thing. They skip the three versions before it.\n\nThe frustration is the curriculum.\n\nData mapping errors. Variable names pointing nowhere. A node running forever on malformed input. That's the actual class.\n\nV4 is coming.\n\nWhat version are you on?\n\n#n8n #buildinpublic",
+      "body": "Same project. Third version. Finally makes sense.\n\nV1: one massive prompt, everything fed in. $1 per report. Architecture: embarrassing.\n\nV2: discovered subworkflows. Split prompts. Static data separated from dynamic. Cost dropped.\n\nV3: verification before fetching. The model only sees what it needs.\n\n$0.06 per report now.\n\nI spent weeks before this following tutorials. Built every template. Understood nothing \u2014 because their data flows weren't breaking. Mine weren't either, because they weren't mine.\n\nNobody ships a good automation on the first try. Most tutorials show the finished thing. They skip the three versions before it.\n\nThe frustration is the curriculum.\n\nData mapping errors. Variable names pointing nowhere. A node running forever on malformed input. That's the actual class.\n\nV4 is coming.\n\nWhat version are you on?\n\n#n8n #buildinpublic",
       "hashtags": [
         "#n8n",
         "#buildinpublic"
       ],
-      "topic": "n8n stock analysis automation — 3-version evolution, $1 → $0.06 cost reduction",
+      "topic": "n8n stock analysis automation \u2014 3-version evolution, $1 \u2192 $0.06 cost reduction",
       "numbers": {
         "cost_v1_usd": 1.0,
         "cost_v3_usd": 0.06,
@@ -29,12 +29,12 @@
       "status": "published",
       "url": "https://www.linkedin.com/posts/sista-seetaram_buildinpublic-setu-share-7464732605263978496-JozW/",
       "hook": "Day 1 of building Setu in public.",
-      "body": "Day 1 of building Setu in public.\n\nHere's what I shipped:\n\nA content system that routes every AI model call through a fallback chain. Primary fails → secondary. Secondary fails → tertiary. Automatic.\n\n8 task types. 3 models each. One router.\n\nAlso wrote 11 workflow SOPs. Platform rules, content pillars, audit schedules. The kind of documentation that makes the second week faster than the first.\n\n$5/day circuit breaker on Claude API. Costs stay tracked. No surprise bills.\n\nThat's how I build — foundation before facade.\n\nDo you build the infrastructure first, or ship and fix?\n\n#buildinpublic #setu",
+      "body": "Day 1 of building Setu in public.\n\nHere's what I shipped:\n\nA content system that routes every AI model call through a fallback chain. Primary fails \u2192 secondary. Secondary fails \u2192 tertiary. Automatic.\n\n8 task types. 3 models each. One router.\n\nAlso wrote 11 workflow SOPs. Platform rules, content pillars, audit schedules. The kind of documentation that makes the second week faster than the first.\n\n$5/day circuit breaker on Claude API. Costs stay tracked. No surprise bills.\n\nThat's how I build \u2014 foundation before facade.\n\nDo you build the infrastructure first, or ship and fix?\n\n#buildinpublic #setu",
       "hashtags": [
         "#buildinpublic",
         "#setu"
       ],
-      "topic": "Day 1 Setu launch — infrastructure shipped: model router, 11 SOPs, cost circuit breaker",
+      "topic": "Day 1 Setu launch \u2014 infrastructure shipped: model router, 11 SOPs, cost circuit breaker",
       "numbers": {
         "task_types": 8,
         "models_per_task": 3,
@@ -53,12 +53,12 @@
       "status": "published",
       "url": "https://www.linkedin.com/posts/sista-seetaram_aiadoption-workflowautomation-share-7465485954850549760-5YWg/",
       "hook": "Setu brand values post",
-      "body": "Brand values post — source: setu-brand-values-current-work.png. Values: Work not tech, Quiet over loud, Respect owners, Ship don't slide, Map before build. Current work: Bridge Zero + Setu Library.",
+      "body": "Brand values post \u2014 source: setu-brand-values-current-work.png. Values: Work not tech, Quiet over loud, Respect owners, Ship don't slide, Map before build. Current work: Bridge Zero + Setu Library.",
       "hashtags": [
         "#aiadoption",
         "#workflowautomation"
       ],
-      "topic": "Setu brand values — quiet principles for practical AI",
+      "topic": "Setu brand values \u2014 quiet principles for practical AI",
       "numbers": {},
       "word_count": null,
       "created_at": "2026-05-28",
@@ -104,13 +104,13 @@
       "status": "published",
       "url": "https://www.linkedin.com/posts/sista-seetaram_aifordesign-interiordesign-architecturefirms-share-7467484541998321664-yW7F/",
       "hook": "Where your studio hours go.",
-      "body": "Caption finalized and published by user on LinkedIn (not drafted in-repo). Topic: what 'AI for your design studio' actually means — the manual busywork (mood boards, material schedules/BOQ, client update emails, vendor quotes) that eats 11-16+ hrs/week and can be automated.",
+      "body": "Caption finalized and published by user on LinkedIn (not drafted in-repo). Topic: what 'AI for your design studio' actually means \u2014 the manual busywork (mood boards, material schedules/BOQ, client update emails, vendor quotes) that eats 11-16+ hrs/week and can be automated.",
       "hashtags": [
         "#aifordesign",
         "#interiordesign",
         "#architecturefirms"
       ],
-      "topic": "Plain-English AI take — where studio hours go; manual admin AI can automate. Anchors Bridge 1 week.",
+      "topic": "Plain-English AI take \u2014 where studio hours go; manual admin AI can automate. Anchors Bridge 1 week.",
       "asset": {
         "type": "infographic",
         "format": "1080x1080",
@@ -144,7 +144,7 @@
         "#buildinpublic",
         "#aiforbusiness"
       ],
-      "topic": "Bridge-1 intro — building AI system for interior design/architecture firms, honest build status, ICP pain named",
+      "topic": "Bridge-1 intro \u2014 building AI system for interior design/architecture firms, honest build status, ICP pain named",
       "asset": null,
       "supergrow_score": 10,
       "numbers": {},
@@ -159,14 +159,14 @@
       "platform": "linkedin",
       "status": "published",
       "hook": "Here is the brief for a real 3BHK.",
-      "body": "Here is the brief for a real 3BHK.\n\nA list of forwarded WhatsApp messages:\n- \"Loft in utility.\"\n- \"Pooja room as per vastu.\"\n- \"Study in the children’s bedroom.\"\n- \"Vanity near the wash basin.\"\n- \"Shoe rack.\"\n\nNo form. No structured doc. Half the details were never written down. The rest is left to the designer to imagine.\n\nI ran it through the system I’m building.\n\nIt fills the gaps the way a good designer would—handling vastu (traditional spatial geometry based on solar alignment and wind patterns), circulation, standard layouts—and turns the wants into structured schedules in minutes.\n\nHere are the real specifics of this run:\n- 3BHK · East-facing · 2100 sq ft · ₹15L interior budget.\n- Material & Lighting Schedules published directly to Google Sheets.\n- A BOQ Draft with real quantities.\n- FF&E sourcing sheet and auto-written elevation render prompts.\n\nHonest line: The BOQ is left blank in some fields on purpose. A physical site measure is always required before ordering. And we didn’t generate the final render today—the AI kept sliding the furniture off the plan (we’ll show how we’re working through it tomorrow).\n\nIt is a first draft, not a final. They revise from there.\n\nNot replacing anyone. Just getting to the first draft in an afternoon, not a fortnight.\n\nBuilding in the open. Run a design or architecture practice? Message me—I want to test it on real work.\n\n#interiordesign #architecture #automation #buildinpublic",
+      "body": "Here is the brief for a real 3BHK.\n\nA list of forwarded WhatsApp messages:\n- \"Loft in utility.\"\n- \"Pooja room as per vastu.\"\n- \"Study in the children\u2019s bedroom.\"\n- \"Vanity near the wash basin.\"\n- \"Shoe rack.\"\n\nNo form. No structured doc. Half the details were never written down. The rest is left to the designer to imagine.\n\nI ran it through the system I\u2019m building.\n\nIt fills the gaps the way a good designer would\u2014handling vastu (traditional spatial geometry based on solar alignment and wind patterns), circulation, standard layouts\u2014and turns the wants into structured schedules in minutes.\n\nHere are the real specifics of this run:\n- 3BHK \u00b7 East-facing \u00b7 2100 sq ft \u00b7 \u20b915L interior budget.\n- Material & Lighting Schedules published directly to Google Sheets.\n- A BOQ Draft with real quantities.\n- FF&E sourcing sheet and auto-written elevation render prompts.\n\nHonest line: The BOQ is left blank in some fields on purpose. A physical site measure is always required before ordering. And we didn\u2019t generate the final render today\u2014the AI kept sliding the furniture off the plan (we\u2019ll show how we\u2019re working through it tomorrow).\n\nIt is a first draft, not a final. They revise from there.\n\nNot replacing anyone. Just getting to the first draft in an afternoon, not a fortnight.\n\nBuilding in the open. Run a design or architecture practice? Message me\u2014I want to test it on real work.\n\n#interiordesign #architecture #automation #buildinpublic",
       "hashtags": [
         "#interiordesign",
         "#architecture",
         "#automation",
         "#buildinpublic"
       ],
-      "topic": "Real 3BHK WhatsApp brief → Google Sheets Material Schedule, Lighting Schedule, BOQ Draft, FF&E",
+      "topic": "Real 3BHK WhatsApp brief \u2192 Google Sheets Material Schedule, Lighting Schedule, BOQ Draft, FF&E",
       "supergrow_post_id": "f251cc3e-31c9-4e37-9286-b86e0881a26f",
       "supergrow_score": 10,
       "asset": {
@@ -174,12 +174,12 @@
         "slides": 7,
         "source_html": ".tmp/visuals/post007/carousel.html",
         "proof_assets": [
-          "proof-spec-sheet.png — Material Schedule Google Sheet (live buildbridge run)",
-          "proof-ffe-sheet.png — FF&E sourcing sheet (live buildbridge run)",
-          "proof-plan.png — 3BHK East 2100sqft floor plan",
-          "proof-input.png — WhatsApp forwards screenshot"
+          "proof-spec-sheet.png \u2014 Material Schedule Google Sheet (live buildbridge run)",
+          "proof-ffe-sheet.png \u2014 FF&E sourcing sheet (live buildbridge run)",
+          "proof-plan.png \u2014 3BHK East 2100sqft floor plan",
+          "proof-input.png \u2014 WhatsApp forwards screenshot"
         ],
-        "pipeline": "HTML+playwright render (career-ops node_modules) → Supergrow MCP upload"
+        "pipeline": "HTML+playwright render (career-ops node_modules) \u2192 Supergrow MCP upload"
       },
       "numbers": {
         "bhk_count": 3,
@@ -198,14 +198,14 @@
       "platform": "linkedin",
       "status": "published",
       "hook": "Everyone keeps asking to see the renders.",
-      "body": "Everyone keeps asking to see the renders.\n\nI'm not showing them yet. Here's the honest reason.\n\nThe floor plan for this living room is specific:\n\n- An L-sofa on the right, facing the TV\n- Behind the sofa is a half-wall, not a full one — half wall, half opening straight into the dining. The opening is the point.\n- The TV console on the entry wall, just east of the main door\n- The pooja unit in the far-left corner, by the entrance\n- A center table tucked inside the L\n\nEasy for a human to read. I handed it to the model as a clean control image and asked for V1.\n\nV1 came back:\n\n- The sofa flipped to the wrong side of the room\n- The pooja unit vanished completely\n- The model invented doors in the back wall that don't exist\n- And the open dining — the entire point of this layout — got sealed into a solid wall\n\nIt wasn't a styling problem. The room looked good. It was a spatial lie.\n\nThe model never treated the plan as a contract. It treated it as a mood.\n\nThat's the moment I made the call: no renders go out until the geometry holds. A beautiful render with the sofa on the wrong wall isn't a demo — it's a trap. The client approves something that can't be built, and the trust is gone the day they walk into the real room.\n\nSo that's where we are. No hero shot. No carousel of dream interiors.\n\nJust V1, and the exact list of what it broke.\n\nThe render isn't the milestone. A render you can trust is the milestone.\n\nUpdate: V2 changed the approach. I stopped asking the model to style the plan and started giving it the coordinates — then checking them. This time the geometry held.\n\nNext post: the exact spatial method that made the plan stick.\n\nThat's the build. In public. Including the part where it doesn't work — and the part where it starts to.\n\n#interiordesign #architecture #buildinpublic #aiautomation",
+      "body": "Everyone keeps asking to see the renders.\n\nI'm not showing them yet. Here's the honest reason.\n\nThe floor plan for this living room is specific:\n\n- An L-sofa on the right, facing the TV\n- Behind the sofa is a half-wall, not a full one \u2014 half wall, half opening straight into the dining. The opening is the point.\n- The TV console on the entry wall, just east of the main door\n- The pooja unit in the far-left corner, by the entrance\n- A center table tucked inside the L\n\nEasy for a human to read. I handed it to the model as a clean control image and asked for V1.\n\nV1 came back:\n\n- The sofa flipped to the wrong side of the room\n- The pooja unit vanished completely\n- The model invented doors in the back wall that don't exist\n- And the open dining \u2014 the entire point of this layout \u2014 got sealed into a solid wall\n\nIt wasn't a styling problem. The room looked good. It was a spatial lie.\n\nThe model never treated the plan as a contract. It treated it as a mood.\n\nThat's the moment I made the call: no renders go out until the geometry holds. A beautiful render with the sofa on the wrong wall isn't a demo \u2014 it's a trap. The client approves something that can't be built, and the trust is gone the day they walk into the real room.\n\nSo that's where we are. No hero shot. No carousel of dream interiors.\n\nJust V1, and the exact list of what it broke.\n\nThe render isn't the milestone. A render you can trust is the milestone.\n\nUpdate: V2 changed the approach. I stopped asking the model to style the plan and started giving it the coordinates \u2014 then checking them. This time the geometry held.\n\nNext post: the exact spatial method that made the plan stick.\n\nThat's the build. In public. Including the part where it doesn't work \u2014 and the part where it starts to.\n\n#interiordesign #architecture #buildinpublic #aiautomation",
       "hashtags": [
         "#interiordesign",
         "#architecture",
         "#buildinpublic",
         "#aiautomation"
       ],
-      "topic": "Honest build-in-public: why no AI renders ship yet — V1 spatial failures (sofa flipped, pooja vanished, invented doors, dining sealed). Spatial claims verified vs plan-coords.json.",
+      "topic": "Honest build-in-public: why no AI renders ship yet \u2014 V1 spatial failures (sofa flipped, pooja vanished, invented doors, dining sealed). Spatial claims verified vs plan-coords.json.",
       "supergrow_score": null,
       "asset": {
         "type": "carousel",
@@ -213,11 +213,11 @@
         "source_html": ".tmp/visuals/post008/slide_01..10.html",
         "generator": ".tmp/visuals/post008/gen_carousel.py",
         "render_dir": ".tmp/visuals/post008/",
-        "palette": "paper theme per setu-tokens.json (#f2f2f0 / #111111), monochrome — NO accent color (brand has none)",
+        "palette": "paper theme per setu-tokens.json (#f2f2f0 / #111111), monochrome \u2014 NO accent color (brand has none)",
         "typography": "Cormorant Garamond (display 300 / h1 500), Inter (body 400 / label 500) per tokens",
         "pipeline": "HTML+playwright render (career-ops node_modules); wordmark + bridge symbol composited via local assets",
         "proof_assets": [
-          "assets/floorplan.png — 3BHK floor plan (the brief, slide 02)"
+          "assets/floorplan.png \u2014 3BHK floor plan (the brief, slide 02)"
         ]
       },
       "numbers": {
@@ -274,7 +274,7 @@
       "created_at": "2026-06-11",
       "scheduled_at": null,
       "published_at": "2026-06-11",
-      "notes": "YouTube UNLISTED (review→public). LinkedIn DRAFT in Supergrow (review→publish). Both staged, neither auto-published.",
+      "notes": "YouTube UNLISTED (review\u2192public). LinkedIn DRAFT in Supergrow (review\u2192publish). Both staged, neither auto-published.",
       "linkedin": {
         "platform": "linkedin",
         "status": "published",
@@ -295,6 +295,90 @@
         "youtube": "https://www.youtube.com/watch?v=Vl-N6k5KyjU (public)",
         "linkedin": "https://www.linkedin.com/posts/sista-seetaram_why-design-firms-work-a-month-a-year-for-ugcPost-7470657121580216320-gD8x/"
       }
+    },
+    {
+      "id": "post-010",
+      "pillar": "plain-english-ai-takes",
+      "platform": "linkedin",
+      "status": "published",
+      "hook": "Nearly two-thirds of architects have tried AI. Roughly 1 in 5 actually run it in daily practice.",
+      "body": "Nearly two-thirds of architects have tried AI. Roughly 1 in 5 actually run it in daily practice.\n\nThat gap is the story.\n\nA 2026 survey of around 800 architects put the numbers on the table. 48% said poor output quality is their biggest obstacle. 70% said AI visualizations need constant professional supervision to match design intent. 33% said the tools don't fit the software they already use.\n\nNone of that is a skills problem. It's a fit problem.\n\nThe tools were built for a demo, not for a Monday morning when a client just changed the brief. Not for the real workflow \u2014 mood board to material schedule to BOQ to client-ready presentation \u2014 where every handoff has to be right.\n\n74% expect to use AI more in the next 12 months. That intention is real.\n\nSo is the frustration.\n\nIf you run a studio \u2014 where does the gap show up most: output you can't trust, or tools that don't fit?\n\nFirms aren't behind. The tools haven't caught up to what the work actually looks like. That's the gap I'm building Setu to close.\n\n#architecture #interiordesign #AIinpractice",
+      "hashtags": [
+        "#architecture",
+        "#interiordesign",
+        "#AIinpractice"
+      ],
+      "topic": "Plain-English Take: 64% of architects try AI, only ~20% run it daily \u2014 it's a fit problem not a skills problem. Verified 2026 Chaos x Architizer ~800-architect survey (48% output quality, 70% supervision, 33% software fit, 74% increasing).",
+      "idea_id": "idea-009",
+      "supergrow_post_id": "a7243d2c-57fb-41ad-acb8-26c1451d7658",
+      "supergrow_score": 10,
+      "app_url": "https://app.supergrow.ai/write?post_id=a7243d2c-57fb-41ad-acb8-26c1451d7658&workspace_id=e7632ac0-e9c6-43c3-8fef-974b4265e55b",
+      "workspace_id": "e7632ac0-e9c6-43c3-8fef-974b4265e55b",
+      "numbers": {
+        "tried_pct": 64,
+        "daily_use_pct": 20,
+        "output_quality_obstacle_pct": 48,
+        "supervision_pct": 70,
+        "software_fit_pct": 33,
+        "increase_intent_pct": 74,
+        "survey_n": 800
+      },
+      "word_count": 188,
+      "five_values_checked": [
+        "work-not-tech",
+        "quiet-over-loud",
+        "respect-owners",
+        "ship-dont-slide",
+        "map-before-build"
+      ],
+      "pre_publish_eval": {
+        "supergrow": 10,
+        "post_scorer_gates": "voice+values pass",
+        "fix_applied": "added genuine engagement question -> CTA 1/2 to 2/2"
+      },
+      "created_at": "2026-06-13",
+      "scheduled_at": null,
+      "published_at": "2026-06-13",
+      "notes": "Stats re-verified 2026-06-13; original '6% use AI' hook dropped as unsupported. Published via Supergrow MCP (async)."
+    },
+    {
+      "id": "post-011",
+      "pillar": "plain-english-ai-takes",
+      "platform": "linkedin",
+      "status": "published",
+      "hook": "The render looked perfect. It was also a lie.",
+      "body": "The render looked perfect. It was also a lie.\n\nI gave an AI image model a clean floor plan and asked for a render. What came back was beautiful. It was also wrong in ways a client would never catch until move-in day.\n\nThe sofa had jumped to the wrong wall. The pooja unit was gone. The model had invented doors in the back wall that don't exist. And the open half-wall to the dining \u2014 the entire idea of the layout \u2014 was sealed shut into solid brick.\n\nNot ugly. Worse. A room that photographs well and can't be built.\n\nA client approves that, walks onto site, and finds a different home. That's where trust dies.\n\nSo I stopped asking the model to make the plan pretty. I started making it prove the plan held first. A render you can trust is the milestone. A render that looks nice is just a nice picture.\n\nLater today I'll show you exactly how I made it hold \u2014 the full walkthrough, plan to render, on YouTube.\n\n#interiordesign #architecture #aiautomation #render",
+      "hashtags": [
+        "#interiordesign",
+        "#architecture",
+        "#aiautomation",
+        "#render"
+      ],
+      "topic": "Warm-up teaser before the render walkthrough demo \u2014 real V1 spatial failures (sofa flipped, pooja vanished, invented doors, dining sealed); won't ship a render you can't build from; teases same-day YouTube walkthrough.",
+      "role": "warm-up / demo set-up (demo ships same evening)",
+      "idea_id": null,
+      "supergrow_post_id": "1a6ed2aa-266d-4344-8159-af7ecf179c34",
+      "app_url": "https://app.supergrow.ai/write?post_id=1a6ed2aa-266d-4344-8159-af7ecf179c34&workspace_id=e7632ac0-e9c6-43c3-8fef-974b4265e55b",
+      "workspace_id": "e7632ac0-e9c6-43c3-8fef-974b4265e55b",
+      "rubric_score": 37.5,
+      "supergrow_score": 10,
+      "five_values_checked": [
+        "work-not-tech",
+        "quiet-over-loud",
+        "respect-owners",
+        "ship-dont-slide",
+        "map-before-build"
+      ],
+      "pre_publish_eval": {
+        "supergrow": 10,
+        "idea_rubric": 37.5,
+        "voice": "no banned words",
+        "note": "ship-dont-slide is conditional on the demo shipping same day"
+      },
+      "created_at": "2026-06-26",
+      "scheduled_at": null,
+      "published_at": "2026-06-26",
+      "notes": "Published via Supergrow MCP (async). Re-entry after ~2-week gap. Sets up the spatial-method render demo (idea-008) shipping same evening. URL pending \u2014 fetch from LinkedIn once live."
     }
   ]
 }

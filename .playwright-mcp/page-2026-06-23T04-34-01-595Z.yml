@@ -1,0 +1,10 @@
+- banner [ref=e3]:
+  - generic [ref=e4]:
+    - heading "सेतु" [level=1] [ref=e5]
+    - generic [ref=e6]: Content Studio
+  - generic [ref=e7]:
+    - generic [ref=e8] [cursor=pointer]: This Week
+    - generic [ref=e9] [cursor=pointer]: Idea Feed
+    - generic [ref=e10] [cursor=pointer]: + Add Idea
+    - generic [ref=e11] [cursor=pointer]: Calendar
+    - generic [ref=e12] [cursor=pointer]: Published

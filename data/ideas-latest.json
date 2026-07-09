@@ -1,0 +1,196 @@
+{
+  "run_id": "idea-1781202600",
+  "generated_at": "2026-06-12T19:10:00+05:30",
+  "shortlist": [
+    {
+      "id": "idea-008",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "The spatial method that made the AI render hold the floor plan",
+      "angle": "Build Receipt that fulfills post-008's open promise. Stop asking the model to *style* the plan; hand it coordinates, then verify the output against a plan-coords contract. Show V1 (sofa flipped, dining sealed, invented doors) vs V2 (geometry holds) and the exact check that caught the lie.",
+      "pillar": "build-receipts",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 5,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 4,
+        "effort": 4
+      },
+      "total_score": 39.5,
+      "proof_plan": "Screen-record V1 vs V2 renders side by side + the plan-coords.json check that flags the mismatch.",
+      "supporting_research": [
+        {
+          "headline": "AI renders do not preserve exact proportions; dimensional accuracy not guaranteed",
+          "source_url": "https://virtualspaces.tech/blog/the-future-of-interior-design-visualization-ai-transforming-2d-to-3d"
+        },
+        {
+          "headline": "post-008 teased 'the exact spatial method that made the plan stick'",
+          "source_url": "internal:posts.json#post-008"
+        },
+        {
+          "headline": "plan-coords.json verification contract",
+          "source_url": "internal:.tmp/visuals/post008/"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Fulfills post-008's open promise; proof (V2 render + plan-coords.json) is ready; pure map-before-build/ship-don't-slide receipt aimed dead-centre at the ICP.",
+        "when_to_post": "now",
+        "timing_note": "Needs a 30-min screen-rec of V1/V2 + the coordinate check."
+      }
+    },
+    {
+      "id": "idea-009",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "Only 6% of architects actually use AI. You're not behind — the tools don't fit your Friday.",
+      "angle": "Plain-English Take on 2026 survey data (6% regular use, 8% practice-level despite 85% exposure; 33% blame poor software fit). Reframes the 'you're behind' panic: the gap isn't the owner, it's tools built for the demo not the real workflow. Setu's counter = build to the workflow.",
+      "pillar": "plain-english-ai-takes",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 4,
+        "lived_exp": 4,
+        "proof_level": 4,
+        "timeliness": 5,
+        "effort": 5
+      },
+      "total_score": 36.75,
+      "proof_plan": "Cite the named 2026 surveys + contrast with one screenshot of the workflow-fit system running on a real 3BHK.",
+      "supporting_research": [
+        {
+          "headline": "Only 6% of architects regularly use AI; 8% of firms at practice level despite 85% exposure",
+          "source_url": "https://virtualspaces.tech/blog/ai-architecture-interior-design-adoption-gap-foursite-remodroom"
+        },
+        {
+          "headline": "33% cite poor compatibility with current software as the key obstacle",
+          "source_url": "https://blog.chaos.com/the-state-of-ai-in-architecture-survey-insights"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "On-positioning (extends post-006's 'you're not behind, you're buried' thesis), rides a current survey, and the stat is auditable public data.",
+        "when_to_post": "now",
+        "timing_note": "Verify the 6%/8%/33% figures from source before publishing — do not misquote a stat on a brand artefact."
+      }
+    },
+    {
+      "id": "idea-011",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "An AI render in under a minute is easy. A render you can build from is the hard part.",
+      "angle": "Contrarian / honesty post. The market sells one-minute photoreal renders; the dimensions are a polite lie (rooms stretched, doors invented). The trap: a client approves something that can't be built and trust dies on site day. Sequenced AFTER the spatial-method post so it stands on shown proof.",
+      "pillar": "contrarian",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 5,
+        "new_info": 4,
+        "lived_exp": 5,
+        "proof_level": 4,
+        "timeliness": 5,
+        "effort": 4
+      },
+      "total_score": 36.5,
+      "proof_plan": "Reuse the V1 spatial-failure frames as the 'beautiful but wrong' exhibit; contrast with the verified V2.",
+      "supporting_research": [
+        {
+          "headline": "AI tools stretch or compress room dimensions interpreting floor plans",
+          "source_url": "https://genroom.io/blog/ai-design-from-floor-plan"
+        },
+        {
+          "headline": "AI render in under a minute marketed as turnkey",
+          "source_url": "https://www.aimagicx.com/blog/ai-architectural-rendering-visualization-guide-2026"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_later",
+        "reason": "Strong and timely, but overlaps post-008 and is the FIRST Contrarian-pillar post — it must land after the method post (idea-008) so it reads as earned proof, not a repeat complaint.",
+        "when_to_post": "Week 4 (after idea-008 ships)",
+        "timing_note": "Unlocks once idea-008 is published; Contrarian pillar gate (2-3 Build Receipts) already met."
+      }
+    },
+    {
+      "id": "idea-010",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "I built a free AI advisor for design and architecture firms. Ask it anything.",
+      "angle": "Build-in-Public lead magnet, value-first. The live Gemini Gem coaches a firm owner step by step on where AI fits their practice — no sales ask. Standalone dedicated post (post-009 only surfaced it in an auto first-comment).",
+      "pillar": "build-in-public-setu",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 3,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 3,
+        "effort": 5
+      },
+      "total_score": 36.25,
+      "proof_plan": "Share the live Gem link + a 20-sec screen-rec of one real owner question answered well.",
+      "supporting_research": [
+        {
+          "headline": "Gem live at https://da.gd/z52I, already used in post-009 first comment",
+          "source_url": "internal:posts.json#post-009"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Gem is now live (was the week's blocker); pure give-value, no ask, on-ICP. Mild repeat risk vs the post-009 comment — frame as a standalone utility with a concrete example.",
+        "when_to_post": "now",
+        "timing_note": "Value-first; one concrete example question, not a feature list."
+      }
+    },
+    {
+      "id": "idea-013",
+      "created_at": "2026-06-12",
+      "run_id": "idea-1781202600",
+      "title": "My whole content engine runs on about a cent a day",
+      "angle": "Build-in-Public cost receipt. While Claude Fable 5 lands at $10/$50 per M tokens, the router sends ~90% of work to free/near-free models (gemma $0.00, gpt-4o-mini $0.0001) and saves the expensive model for judgment only. Real model_spend.json numbers.",
+      "pillar": "build-in-public-setu",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 4,
+        "new_info": 4,
+        "lived_exp": 5,
+        "proof_level": 4,
+        "timeliness": 4,
+        "effort": 4
+      },
+      "total_score": 34.5,
+      "proof_plan": "Screenshot model_spend.json: gpt-4o $0.0069, gpt-4o-mini $0.0001, gemma $0.00 — daily total.",
+      "supporting_research": [
+        {
+          "headline": "Claude Fable 5 GA Jun 9 at $10/$50 per M tokens",
+          "source_url": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html"
+        },
+        {
+          "headline": "real router spend numbers",
+          "source_url": "internal:model_spend.json"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_later",
+        "reason": "Positioning leak — it's builder-flex, off the design/construction ICP and drifts toward generic AI-builder content. Real and good, but it doesn't help an architecture owner cross the bridge.",
+        "when_to_post": "after first client (reframe as 'how we keep your automation cheap') or repackage for a builder audience",
+        "timing_note": "Reframe to client value before posting; as-is it's off-ICP."
+      }
+    }
+  ]
+}

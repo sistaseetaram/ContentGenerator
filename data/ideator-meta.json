@@ -1,14 +1,71 @@
 {
   "schema_version": "1.0",
-  "runs": [],
+  "runs": [
+    {
+      "run_id": "idea-1781202600",
+      "date": "2026-06-12",
+      "mode": "generate+schedule",
+      "num_beats": 4,
+      "candidates": 6,
+      "shortlisted": 5,
+      "beat_breakdown": {
+        "own-stack-miner": {
+          "candidates": 2,
+          "shortlisted": 2
+        },
+        "owner-pain-points": {
+          "candidates": 2,
+          "shortlisted": 1
+        },
+        "new-releases": {
+          "candidates": 1,
+          "shortlisted": 1
+        },
+        "contrarian-honesty": {
+          "candidates": 1,
+          "shortlisted": 1
+        }
+      },
+      "feedback_quality": "pending",
+      "notes": "First Generate run. Inline gather. Built Schedule (wk3+4) + Skills dashboard tab."
+    }
+  ],
   "beat_performance": {
-    "new-releases": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
-    "pattern-interrupts": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
-    "competitor-gaps": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
-    "build-in-public": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
-    "contrarian-honesty": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
-    "owner-pain-points": {"candidates_generated": 0, "shortlisted": 0, "posted": 0},
-    "own-stack-miner": {"candidates_generated": 0, "shortlisted": 0, "posted": 0}
+    "new-releases": {
+      "candidates_generated": 1,
+      "shortlisted": 1,
+      "posted": 0
+    },
+    "pattern-interrupts": {
+      "candidates_generated": 0,
+      "shortlisted": 0,
+      "posted": 0
+    },
+    "competitor-gaps": {
+      "candidates_generated": 0,
+      "shortlisted": 0,
+      "posted": 0
+    },
+    "build-in-public": {
+      "candidates_generated": 0,
+      "shortlisted": 0,
+      "posted": 0
+    },
+    "contrarian-honesty": {
+      "candidates_generated": 1,
+      "shortlisted": 1,
+      "posted": 0
+    },
+    "owner-pain-points": {
+      "candidates_generated": 2,
+      "shortlisted": 1,
+      "posted": 0
+    },
+    "own-stack-miner": {
+      "candidates_generated": 2,
+      "shortlisted": 2,
+      "posted": 0
+    }
   },
   "rubric_weight_history": [
     {
@@ -39,7 +96,7 @@
     "n_posted_at_computation": 0
   },
   "auto_dev_triggers": {
-    "runs_since_last_beat_analysis": 0,
+    "runs_since_last_beat_analysis": 1,
     "beat_analysis_every_n_runs": 5,
     "posts_since_last_weight_tune": 0,
     "weight_tune_every_n_posts": 10
