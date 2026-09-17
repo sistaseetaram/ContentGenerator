@@ -1,0 +1,197 @@
+- generic [ref=f267e1]:
+  - generic [ref=f267e2]:
+    - banner [ref=f267e4]:
+      - generic [ref=f267e6]:
+        - generic [ref=f267e7]:
+          - button "Guide" [active] [ref=f267e9] [cursor=pointer]
+          - generic [ref=f267e11]:
+            - link "YouTube Home" [ref=f267e12] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f267e16]: IN
+          - button "Skip navigation" [ref=f267e20] [cursor=pointer]
+        - generic [ref=f267e24]:
+          - search [ref=f267e25]:
+            - generic [ref=f267e27]:
+              - generic [ref=f267e28]:
+                - combobox "Search" [expanded] [ref=f267e30]: AI floor plan to render
+                - button "Clear search query" [ref=f267e32] [cursor=pointer]
+              - button "Search" [ref=f267e37] [cursor=pointer]
+          - generic [ref=f267e40]:
+            - button "Search with your voice" [ref=f267e42] [cursor=pointer]
+            - tooltip "tooltip"
+    - navigation [ref=f267e51]
+    - main [ref=f267e53]:
+      - generic [ref=f267e54]:
+        - generic [ref=f267e56]:
+          - tablist [ref=f267e61]:
+            - tab "All" [selected] [ref=f267e65] [cursor=pointer]
+            - tab "Shorts" [ref=f267e71] [cursor=pointer]
+            - tab "Unwatched" [ref=f267e77] [cursor=pointer]
+            - tab "Watched" [ref=f267e83] [cursor=pointer]
+            - tab "Videos" [ref=f267e89] [cursor=pointer]
+            - tab "Recently uploaded" [ref=f267e95] [cursor=pointer]
+            - tab "Live" [ref=f267e101] [cursor=pointer]
+          - generic [ref=f267e105]:
+            - button "Search filters" [ref=f267e107] [cursor=pointer]:
+              - generic: Filters
+            - tooltip "tooltip"
+        - generic [ref=f267e114]:
+          - generic [ref=f267e116]:
+            - generic [ref=f267e125] [cursor=pointer]:
+              - link [aria-hidden] [ref=f267e126]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CBNMop_ypavKiBMHrjMwP3M3AmALNu_3JiQGv6IrxmBZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABoLuEliqpAoXbRHiKW7M-qAMEyAMKqgSqAk_QDA2bRZHMiBG73OWjHLLEtAs0dLCJrKtZcn6GBDkEmaa1sVbRPKsOEFQF8-DIYxMNGW7-G2NKvkBwWLDzV_fv-VxdjdVYzk0UAeQHTmteop_XRn7tu4EKXLnNr4YuC4JkBtNY45iamgPhPUslZy37PgNl12DbYsv8hLxtQUxys3-EEPnZ6V3CUb6ZXGI8brsQZFCJtV_dQI7Fk_hEnoMxRkcnPO_Z0P35xeGqZ7mu0x2rRxceD8Ri-IVi7KZxhWokpGwr4Bp1jiCkWJCeMxfDg-8sEocK0g6Mhws-qYyjFaAGYuliBhPqiXiMRvlGDae7U-VDk2v8DJv4nnszK-YeNNKioy6YoeDHHAROE_qeWD_im8XgwCZ8nqy1BT4qjDUOobnII2yvZm-IBbOqu_xZkgUICBN4noe6pgWgBqEBgAeg89T1BJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLdk5jUlRYTG1yR0WoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjggrHbhPKWA2ABmgkaaHR0cHM6Ly9jb3Vyc2l2LmlvL2R5bmFtaWOxCekI6aJuVsG3yAkXyAmPAcgJwgGYCwG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCCboDBXZpc2lu0AsSogwkKgYKBPDfsQJiFQoTY29tLmNvdXJzaXYuY291cnNpdngAiAEA0gwCEAHaDCUKChCwt8rnoK2EiTQSAgEDGg0Ys6q7_Fkgjc352ecFQAFKAhAfmg0BEqoNAklOyA0B0g32AWh0dHBzOi8vY291cnNpdi5pby9keW5hbWljP3ByY19pZD0xMTA0JnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj0yNDE1MTc3NDUxNSZ1dG1fYWRncm91cGlkPTE5OTYzNjE4MjY2OSZ1dG1fYWQ9ODIzNzEwNzQ2MzM0JnV0bV90eXBlPWRlbWdlbiZ1dG1fYWNjPTEzMDgxNDMyOTEmdXRtX2FsZW49MSZndGdfZW5hYmxlZD10cnVlJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDE1MTc3NDUxNbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRe85lnYbC9kQboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIspKx24TylgMVwTWDAx3cJhAjEAEYASAAEgLD6fD_BwE&num=1&cid=CAASwwHkaHj-rG4b8XxcVvbd7gSThgdbc_XAv4Iixt-g-FHwzwRV7KBusTHPThohWtrncm3i2ilHLF329vigt1pVBppJ_OhsXrfuhdHdK0gXcPZ6fLgPGGI1IciIzHC_Uz05Gf7AIPsOqMpeETKxiLS0N1CGr0xoGoXK7t2U_B0FXkpDNtBKv3ACCdsjIFfsJe5B1n_-JA2aKnuDevhIYhfmV72Zn8t44mAi9wrTjTTSalwHGI7bHhuwHIlh0SlA4v2zZANFlPE&ad_cpn=%5BCPN%5D&sig=AOD64_301J51rTJTpW2-1jauw1xzC7UiBw&ctype=110&video_id=vNcRTXLmrGE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - button [aria-hidden] [ref=f267e132]
+              - generic [ref=f267e136]:
+                - generic [ref=f267e137]:
+                  - generic [ref=f267e138]:
+                    - link "Kick-start your AI journey with Coursiv" [ref=f267e141]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CBNMop_ypavKiBMHrjMwP3M3AmALNu_3JiQGv6IrxmBZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABoLuEliqpAoXbRHiKW7M-qAMEyAMKqgSqAk_QDA2bRZHMiBG73OWjHLLEtAs0dLCJrKtZcn6GBDkEmaa1sVbRPKsOEFQF8-DIYxMNGW7-G2NKvkBwWLDzV_fv-VxdjdVYzk0UAeQHTmteop_XRn7tu4EKXLnNr4YuC4JkBtNY45iamgPhPUslZy37PgNl12DbYsv8hLxtQUxys3-EEPnZ6V3CUb6ZXGI8brsQZFCJtV_dQI7Fk_hEnoMxRkcnPO_Z0P35xeGqZ7mu0x2rRxceD8Ri-IVi7KZxhWokpGwr4Bp1jiCkWJCeMxfDg-8sEocK0g6Mhws-qYyjFaAGYuliBhPqiXiMRvlGDae7U-VDk2v8DJv4nnszK-YeNNKioy6YoeDHHAROE_qeWD_im8XgwCZ8nqy1BT4qjDUOobnII2yvZm-IBbOqu_xZkgUICBN4noe6pgWgBqEBgAeg89T1BJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLdk5jUlRYTG1yR0WoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjggrHbhPKWA2ABmgkaaHR0cHM6Ly9jb3Vyc2l2LmlvL2R5bmFtaWOxCekI6aJuVsG3yAkXyAmPAcgJwgGYCwG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCCboDBXZpc2lu0AsSogwkKgYKBPDfsQJiFQoTY29tLmNvdXJzaXYuY291cnNpdngAiAEA0gwCEAHaDCUKChCwt8rnoK2EiTQSAgEDGg0Ys6q7_Fkgjc352ecFQAFKAhAfmg0BEqoNAklOyA0B0g32AWh0dHBzOi8vY291cnNpdi5pby9keW5hbWljP3ByY19pZD0xMTA0JnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj0yNDE1MTc3NDUxNSZ1dG1fYWRncm91cGlkPTE5OTYzNjE4MjY2OSZ1dG1fYWQ9ODIzNzEwNzQ2MzM0JnV0bV90eXBlPWRlbWdlbiZ1dG1fYWNjPTEzMDgxNDMyOTEmdXRtX2FsZW49MSZndGdfZW5hYmxlZD10cnVlJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDE1MTc3NDUxNbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRe85lnYbC9kQboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIspKx24TylgMVwTWDAx3cJhAjEAEYASAAEgLD6fD_BwE&num=1&cid=CAASwwHkaHj-rG4b8XxcVvbd7gSThgdbc_XAv4Iixt-g-FHwzwRV7KBusTHPThohWtrncm3i2ilHLF329vigt1pVBppJ_OhsXrfuhdHdK0gXcPZ6fLgPGGI1IciIzHC_Uz05Gf7AIPsOqMpeETKxiLS0N1CGr0xoGoXK7t2U_B0FXkpDNtBKv3ACCdsjIFfsJe5B1n_-JA2aKnuDevhIYhfmV72Zn8t44mAi9wrTjTTSalwHGI7bHhuwHIlh0SlA4v2zZANFlPE&ad_cpn=%5BCPN%5D&sig=AOD64_301J51rTJTpW2-1jauw1xzC7UiBw&ctype=110&video_id=vNcRTXLmrGE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - link "Work smarter with AI. Save time, grow your career, unlock potential." [ref=f267e144]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CBNMop_ypavKiBMHrjMwP3M3AmALNu_3JiQGv6IrxmBZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABoLuEliqpAoXbRHiKW7M-qAMEyAMKqgSqAk_QDA2bRZHMiBG73OWjHLLEtAs0dLCJrKtZcn6GBDkEmaa1sVbRPKsOEFQF8-DIYxMNGW7-G2NKvkBwWLDzV_fv-VxdjdVYzk0UAeQHTmteop_XRn7tu4EKXLnNr4YuC4JkBtNY45iamgPhPUslZy37PgNl12DbYsv8hLxtQUxys3-EEPnZ6V3CUb6ZXGI8brsQZFCJtV_dQI7Fk_hEnoMxRkcnPO_Z0P35xeGqZ7mu0x2rRxceD8Ri-IVi7KZxhWokpGwr4Bp1jiCkWJCeMxfDg-8sEocK0g6Mhws-qYyjFaAGYuliBhPqiXiMRvlGDae7U-VDk2v8DJv4nnszK-YeNNKioy6YoeDHHAROE_qeWD_im8XgwCZ8nqy1BT4qjDUOobnII2yvZm-IBbOqu_xZkgUICBN4noe6pgWgBqEBgAeg89T1BJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLdk5jUlRYTG1yR0WoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjggrHbhPKWA2ABmgkaaHR0cHM6Ly9jb3Vyc2l2LmlvL2R5bmFtaWOxCekI6aJuVsG3yAkXyAmPAcgJwgGYCwG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCCboDBXZpc2lu0AsSogwkKgYKBPDfsQJiFQoTY29tLmNvdXJzaXYuY291cnNpdngAiAEA0gwCEAHaDCUKChCwt8rnoK2EiTQSAgEDGg0Ys6q7_Fkgjc352ecFQAFKAhAfmg0BEqoNAklOyA0B0g32AWh0dHBzOi8vY291cnNpdi5pby9keW5hbWljP3ByY19pZD0xMTA0JnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj0yNDE1MTc3NDUxNSZ1dG1fYWRncm91cGlkPTE5OTYzNjE4MjY2OSZ1dG1fYWQ9ODIzNzEwNzQ2MzM0JnV0bV90eXBlPWRlbWdlbiZ1dG1fYWNjPTEzMDgxNDMyOTEmdXRtX2FsZW49MSZndGdfZW5hYmxlZD10cnVlJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDE1MTc3NDUxNbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRe85lnYbC9kQboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIspKx24TylgMVwTWDAx3cJhAjEAEYASAAEgLD6fD_BwE&num=1&cid=CAASwwHkaHj-rG4b8XxcVvbd7gSThgdbc_XAv4Iixt-g-FHwzwRV7KBusTHPThohWtrncm3i2ilHLF329vigt1pVBppJ_OhsXrfuhdHdK0gXcPZ6fLgPGGI1IciIzHC_Uz05Gf7AIPsOqMpeETKxiLS0N1CGr0xoGoXK7t2U_B0FXkpDNtBKv3ACCdsjIFfsJe5B1n_-JA2aKnuDevhIYhfmV72Zn8t44mAi9wrTjTTSalwHGI7bHhuwHIlh0SlA4v2zZANFlPE&ad_cpn=%5BCPN%5D&sig=AOD64_301J51rTJTpW2-1jauw1xzC7UiBw&ctype=110&video_id=vNcRTXLmrGE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=f267e145]:
+                      - button "Coursiv" [ref=f267e149]
+                      - generic [ref=f267e153]:
+                        - generic [ref=f267e154]: Sponsored
+                        - text: ·
+                      - generic [ref=f267e155]: Coursiv
+                  - button "My Ad Centre" [ref=f267e159]
+                - generic [ref=f267e165]:
+                  - link "Watch" [ref=f267e168]:
+                    - /url: /watch?v=vNcRTXLmrGE
+                  - link "Learn more" [ref=f267e174]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CBNMop_ypavKiBMHrjMwP3M3AmALNu_3JiQGv6IrxmBZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABoLuEliqpAoXbRHiKW7M-qAMEyAMKqgSqAk_QDA2bRZHMiBG73OWjHLLEtAs0dLCJrKtZcn6GBDkEmaa1sVbRPKsOEFQF8-DIYxMNGW7-G2NKvkBwWLDzV_fv-VxdjdVYzk0UAeQHTmteop_XRn7tu4EKXLnNr4YuC4JkBtNY45iamgPhPUslZy37PgNl12DbYsv8hLxtQUxys3-EEPnZ6V3CUb6ZXGI8brsQZFCJtV_dQI7Fk_hEnoMxRkcnPO_Z0P35xeGqZ7mu0x2rRxceD8Ri-IVi7KZxhWokpGwr4Bp1jiCkWJCeMxfDg-8sEocK0g6Mhws-qYyjFaAGYuliBhPqiXiMRvlGDae7U-VDk2v8DJv4nnszK-YeNNKioy6YoeDHHAROE_qeWD_im8XgwCZ8nqy1BT4qjDUOobnII2yvZm-IBbOqu_xZkgUICBN4noe6pgWgBqEBgAeg89T1BJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLdk5jUlRYTG1yR0WoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjggrHbhPKWA2ABmgkaaHR0cHM6Ly9jb3Vyc2l2LmlvL2R5bmFtaWOxCekI6aJuVsG3yAkXyAmPAcgJwgGYCwG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCCboDBXZpc2lu0AsSogwkKgYKBPDfsQJiFQoTY29tLmNvdXJzaXYuY291cnNpdngAiAEA0gwCEAHaDCUKChCwt8rnoK2EiTQSAgEDGg0Ys6q7_Fkgjc352ecFQAFKAhAfmg0BEqoNAklOyA0B0g32AWh0dHBzOi8vY291cnNpdi5pby9keW5hbWljP3ByY19pZD0xMTA0JnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj0yNDE1MTc3NDUxNSZ1dG1fYWRncm91cGlkPTE5OTYzNjE4MjY2OSZ1dG1fYWQ9ODIzNzEwNzQ2MzM0JnV0bV90eXBlPWRlbWdlbiZ1dG1fYWNjPTEzMDgxNDMyOTEmdXRtX2FsZW49MSZndGdfZW5hYmxlZD10cnVlJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDE1MTc3NDUxNbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRe85lnYbC9kQboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIspKx24TylgMVwTWDAx3cJhAjEAEYASAAEgLD6fD_BwE&num=1&cid=CAASwwHkaHj-rG4b8XxcVvbd7gSThgdbc_XAv4Iixt-g-FHwzwRV7KBusTHPThohWtrncm3i2ilHLF329vigt1pVBppJ_OhsXrfuhdHdK0gXcPZ6fLgPGGI1IciIzHC_Uz05Gf7AIPsOqMpeETKxiLS0N1CGr0xoGoXK7t2U_B0FXkpDNtBKv3ACCdsjIFfsJe5B1n_-JA2aKnuDevhIYhfmV72Zn8t44mAi9wrTjTTSalwHGI7bHhuwHIlh0SlA4v2zZANFlPE&ad_cpn=%5BCPN%5D&sig=AOD64_301J51rTJTpW2-1jauw1xzC7UiBw&ctype=110&video_id=vNcRTXLmrGE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - generic [ref=f267e179]:
+              - link [aria-hidden] [ref=f267e181] [cursor=pointer]:
+                - /url: /watch?v=qf1qC1Zj1EY&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f267e183] [cursor=pointer]:
+                - generic [ref=f267e184]:
+                  - heading [level=3] [ref=f267e186]:
+                    - link "How to Transform AutoCAD 2D Floor Plans into 4K Realistic Renders with Gemini AI 9 minutes" [ref=f267e187]:
+                      - /url: /watch?v=qf1qC1Zj1EY&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                      - text: How to Transform AutoCAD 2D Floor Plans into 4K Realistic Renders with Gemini AI
+                  - generic [ref=f267e190]:
+                    - generic [ref=f267e191]: 1.7k views
+                    - generic [ref=f267e192]: •6 months ago
+                - generic [ref=f267e193]:
+                  - link "Go to channel ArchitecturalEdge" [ref=f267e194]:
+                    - /url: /@ArchitecturalEdge6
+                  - link "ArchitecturalEdge" [ref=f267e199]:
+                    - /url: /@ArchitecturalEdge6
+                - generic [ref=f267e200]:
+                  - generic [ref=f267e201]: In this tutorial, I show you how to revolutionize your architectural workflow by transforming a basic AutoCAD 2D floor plan into a ...
+                  - tooltip "tooltip"
+                - img "Closed captions" [ref=f267e206]:
+                  - generic [ref=f267e207]: Subtitles
+                - generic [ref=f267e210]:
+                  - generic [ref=f267e211]:
+                    - generic [ref=f267e214]: 6 chapters
+                    - 'button "Intro: The Power of AI in Architecture; what to learn | Prepping your AutoCAD 2D Floor Plan | Uploading to Gemini AI: The Initial Prompt | Advanced Editing: Removing Obstructions & Swapping Materials | Final Upscaling: Getting that 4K Realistic Finish | Outro & Subscriber Challenge" [ref=f267e216]'
+                  - button "More" [ref=f267e221]
+            - generic [ref=f267e225]:
+              - heading "Shorts" [level=2] [ref=f267e233]
+              - generic [ref=f267e235]:
+                - generic [ref=f267e238]:
+                  - link [aria-hidden] [ref=f267e239] [cursor=pointer]:
+                    - /url: /shorts/Dy-4uAK8e5M
+                  - generic [ref=f267e243] [cursor=pointer]:
+                    - 'link "Render FLOOR plan in 1 Minute |NO PHOTOSHOP OR ILLUSTRATOR 🤯 #architecture" [ref=f267e244]':
+                      - /url: /shorts/Dy-4uAK8e5M
+                    - generic [ref=f267e245]: 324k views
+                  - button "More actions" [ref=f267e247] [cursor=pointer]
+                - generic [ref=f267e253]:
+                  - link [aria-hidden] [ref=f267e254] [cursor=pointer]:
+                    - /url: /shorts/aP-9OYMH5A8
+                  - generic [ref=f267e258] [cursor=pointer]:
+                    - 'link "Render 3d floor plan FASTER with Ai #architecture #3dfloorplan #2d #ai #tutorial" [ref=f267e259]':
+                      - /url: /shorts/aP-9OYMH5A8
+                    - generic [ref=f267e260]: 421k views
+                  - button "More actions" [ref=f267e262] [cursor=pointer]
+                - generic [ref=f267e268]:
+                  - link [aria-hidden] [ref=f267e269] [cursor=pointer]:
+                    - /url: /shorts/aCiM8PmrzFw
+                  - generic [ref=f267e273] [cursor=pointer]:
+                    - 'link "How to Transform Your Floor Plan into Stunning 3D Render with AI! 🚀 #interiordesign #floorplan #ai" [ref=f267e274]':
+                      - /url: /shorts/aCiM8PmrzFw
+                    - generic [ref=f267e275]: 74k views
+                  - button "More actions" [ref=f267e277] [cursor=pointer]
+                - generic [ref=f267e283]:
+                  - link [aria-hidden] [ref=f267e284] [cursor=pointer]:
+                    - /url: /shorts/pQ2OE_GmTbo
+                  - generic [ref=f267e288] [cursor=pointer]:
+                    - 'link "How to Turn floor plans into 3D Renders with AI 😱 #architecture" [ref=f267e289]':
+                      - /url: /shorts/pQ2OE_GmTbo
+                    - generic [ref=f267e290]: 24k views
+                  - button "More actions" [ref=f267e292] [cursor=pointer]
+                - generic [ref=f267e298]:
+                  - link [aria-hidden] [ref=f267e299] [cursor=pointer]:
+                    - /url: /shorts/8fGxLYgCOvY
+                  - generic [ref=f267e303] [cursor=pointer]:
+                    - link "💫Make elevation using Chatgpt 🔥#shorts" [ref=f267e304]:
+                      - /url: /shorts/8fGxLYgCOvY
+                    - generic [ref=f267e305]: 320k views
+                  - button "More actions" [ref=f267e307] [cursor=pointer]
+          - generic [ref=f267e325] [cursor=pointer]:
+            - generic [ref=f267e326]:
+              - link "House Plans in 30 Seconds" [ref=f267e329]:
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwjZzsDbhPKWAxUHzjwCHaorJv0YACICCAEQAhoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI2c7A24TylgMVB848Ah2qKyb9EAEYASAAEgJnpvD_BwE&num=1&cid=CAAS0wHkaEZtSpqQkoMTAY0eRtDvh3RGZNVrsFQd-bAdBBdNOCKZabWRx8Dj4mSeNVIa02zK2hjJ8192os7TI2NeAl0yrzJdti8_7CrjXNLx716W3cCbgESIuW8x2TsmCNWK3n-9If9_oMDxet9O_AZesNFZJyX48lwsYy9c8w-C7VVVLtu52hcVBkpnIvqOi9VX1Ry4FW8aYifPnl8L0lfNUbwqmfUFTetl19voGVFQc1L4k61ArBFec0FL4Dy6Crm9DQ8vkZMb8CfiHT9oAVuextvqbdXA&cce=2&category=acrcp_v1_32&sig=AOD64_100_B7zmB2zAY9eJj-ECN3ZZ37kg&adurl=https://homeplannner.com/%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DGoogle_homeplanner%26gad_source%3D2%26gad_campaignid%3D23694179671&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+              - link "AI-Generated House Plans ₹299 - Get AI-powered floor plans in 30 seconds. Simplex, duplex & triplex. Rs 299 only." [ref=f267e332]:
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwjZzsDbhPKWAxUHzjwCHaorJv0YACICCAEQAhoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI2c7A24TylgMVB848Ah2qKyb9EAEYASAAEgJnpvD_BwE&num=1&cid=CAAS0wHkaEZtSpqQkoMTAY0eRtDvh3RGZNVrsFQd-bAdBBdNOCKZabWRx8Dj4mSeNVIa02zK2hjJ8192os7TI2NeAl0yrzJdti8_7CrjXNLx716W3cCbgESIuW8x2TsmCNWK3n-9If9_oMDxet9O_AZesNFZJyX48lwsYy9c8w-C7VVVLtu52hcVBkpnIvqOi9VX1Ry4FW8aYifPnl8L0lfNUbwqmfUFTetl19voGVFQc1L4k61ArBFec0FL4Dy6Crm9DQ8vkZMb8CfiHT9oAVuextvqbdXA&cce=2&category=acrcp_v1_32&sig=AOD64_100_B7zmB2zAY9eJj-ECN3ZZ37kg&adurl=https://homeplannner.com/%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DGoogle_homeplanner%26gad_source%3D2%26gad_campaignid%3D23694179671&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+              - generic [ref=f267e333]:
+                - generic [ref=f267e335]:
+                  - generic [ref=f267e336]: Sponsored
+                  - text: ·
+                - generic [ref=f267e337]: https://www.homeplannner.com/
+            - button "My Ad Centre" [ref=f267e341]
+          - generic [ref=f267e346]:
+            - generic [ref=f267e348]:
+              - link [aria-hidden] [ref=f267e350] [cursor=pointer]:
+                - /url: /watch?v=FFylQt-dbc8&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f267e352] [cursor=pointer]:
+                - generic [ref=f267e353]:
+                  - heading [level=3] [ref=f267e355]:
+                    - link "How to RENDER Architecture Floor Plan in 2 Minutes with AI 9 minutes, 27 seconds" [ref=f267e356]:
+                      - /url: /watch?v=FFylQt-dbc8&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                      - text: How to RENDER Architecture Floor Plan in 2 Minutes with AI
+                  - generic [ref=f267e359]:
+                    - generic [ref=f267e360]: 151k views
+                    - generic [ref=f267e361]: •2 years ago
+                - generic [ref=f267e362]:
+                  - link "Go to channel ArchStylus" [ref=f267e363]:
+                    - /url: /@ArchStylus
+                  - link "ArchStylus" [ref=f267e368]:
+                    - /url: /@ArchStylus
+                - generic [ref=f267e369]:
+                  - generic [ref=f267e370]: "ai #render #promeai How to Render Architecture Floor Plan How to Convert 2D Plan in 3D Floor Plan Best AI Rendering Tool For ..."
+                  - tooltip "tooltip"
+                - img "Closed captions" [ref=f267e375]:
+                  - generic [ref=f267e376]: Subtitles
+                - generic [ref=f267e379]:
+                  - generic [ref=f267e380]:
+                    - generic [ref=f267e381]: Summary
+                    - button "ArchStylus demonstrates how to convert AutoCAD 2D floor plans into 3D renders using AI tools. The process involves exporting CAD drawings as images, utilizing the PromeAI platform for rendering, and refining results with built-in features like object removal, replacement, and high-resolution upscaling." [ref=f267e384]
+                    - text: ·
+                  - button "More" [ref=f267e389]
+            - generic [ref=f267e394]:
+              - link [aria-hidden] [ref=f267e396] [cursor=pointer]:
+                - /url: /watch?v=DRyZ19YO5Eo&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f267e398] [cursor=pointer]:
+                - generic [ref=f267e399]:
+                  - heading [level=3] [ref=f267e401]:
+                    - link "Generate plans with Finch 16 seconds" [ref=f267e402]:
+                      - /url: /watch?v=DRyZ19YO5Eo&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                      - text: Generate plans with Finch
+                  - generic [ref=f267e405]:
+                    - generic [ref=f267e406]: 167k views
+                    - generic [ref=f267e407]: •4 years ago
+                - generic [ref=f267e408]:
+                  - link "Go to channel Jesper Wallgren" [ref=f267e409]:
+                    - /url: /@JesperWallgren
+                  - link "Jesper Wallgren" [ref=f267e414]:
+                    - /url: /@JesperWallgren
+                - generic [ref=f267e415]:
+                  - generic [ref=f267e416]: "Select units, specify the optimization parameters, and start generating optimal plans for your project with #finch3d. Use Finch ..."
+                  - tooltip "tooltip"
+  - generic [ref=f267e419]:
+    - link:
+      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CBNMop_ypavKiBMHrjMwP3M3AmALNu_3JiQGv6IrxmBZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABoLuEliqpAoXbRHiKW7M-qAMEyAMKqgSqAk_QDA2bRZHMiBG73OWjHLLEtAs0dLCJrKtZcn6GBDkEmaa1sVbRPKsOEFQF8-DIYxMNGW7-G2NKvkBwWLDzV_fv-VxdjdVYzk0UAeQHTmteop_XRn7tu4EKXLnNr4YuC4JkBtNY45iamgPhPUslZy37PgNl12DbYsv8hLxtQUxys3-EEPnZ6V3CUb6ZXGI8brsQZFCJtV_dQI7Fk_hEnoMxRkcnPO_Z0P35xeGqZ7mu0x2rRxceD8Ri-IVi7KZxhWokpGwr4Bp1jiCkWJCeMxfDg-8sEocK0g6Mhws-qYyjFaAGYuliBhPqiXiMRvlGDae7U-VDk2v8DJv4nnszK-YeNNKioy6YoeDHHAROE_qeWD_im8XgwCZ8nqy1BT4qjDUOobnII2yvZm-IBbOqu_xZkgUICBN4noe6pgWgBqEBgAeg89T1BJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLdk5jUlRYTG1yR0WoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjggrHbhPKWA2ABmgkaaHR0cHM6Ly9jb3Vyc2l2LmlvL2R5bmFtaWOxCekI6aJuVsG3yAkXyAmPAcgJwgGYCwG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCCboDBXZpc2lu0AsSogwkKgYKBPDfsQJiFQoTY29tLmNvdXJzaXYuY291cnNpdngAiAEA0gwCEAHaDCUKChCwt8rnoK2EiTQSAgEDGg0Ys6q7_Fkgjc352ecFQAFKAhAfmg0BEqoNAklOyA0B0g32AWh0dHBzOi8vY291cnNpdi5pby9keW5hbWljP3ByY19pZD0xMTA0JnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj0yNDE1MTc3NDUxNSZ1dG1fYWRncm91cGlkPTE5OTYzNjE4MjY2OSZ1dG1fYWQ9ODIzNzEwNzQ2MzM0JnV0bV90eXBlPWRlbWdlbiZ1dG1fYWNjPTEzMDgxNDMyOTEmdXRtX2FsZW49MSZndGdfZW5hYmxlZD10cnVlJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDE1MTc3NDUxNbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRe85lnYbC9kQboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIspKx24TylgMVwTWDAx3cJhAjEAEYASAAEgLD6fD_BwE&num=1&cid=CAASwwHkaHj-rG4b8XxcVvbd7gSThgdbc_XAv4Iixt-g-FHwzwRV7KBusTHPThohWtrncm3i2ilHLF329vigt1pVBppJ_OhsXrfuhdHdK0gXcPZ6fLgPGGI1IciIzHC_Uz05Gf7AIPsOqMpeETKxiLS0N1CGr0xoGoXK7t2U_B0FXkpDNtBKv3ACCdsjIFfsJe5B1n_-JA2aKnuDevhIYhfmV72Zn8t44mAi9wrTjTTSalwHGI7bHhuwHIlh0SlA4v2zZANFlPE&ad_cpn=%5BCPN%5D&sig=AOD64_301J51rTJTpW2-1jauw1xzC7UiBw&ctype=110&video_id=vNcRTXLmrGE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+      - generic [ref=f267e420] [cursor=pointer]

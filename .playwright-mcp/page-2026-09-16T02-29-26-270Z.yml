@@ -1,0 +1,191 @@
+- generic [ref=f456e2]:
+  - banner [ref=f456e4]:
+    - generic [ref=f456e6]:
+      - generic [ref=f456e7]:
+        - button "Guide" [active] [ref=f456e9] [cursor=pointer]
+        - generic [ref=f456e11]:
+          - link "YouTube Home" [ref=f456e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f456e16]: IN
+        - button "Skip navigation" [ref=f456e20] [cursor=pointer]
+      - generic [ref=f456e24]:
+        - search [ref=f456e25]:
+          - generic [ref=f456e27]:
+            - generic [ref=f456e28]:
+              - combobox "Search" [expanded] [ref=f456e30]: Pinnacle IIT
+              - button "Clear search query" [ref=f456e32] [cursor=pointer]
+            - button "Search" [ref=f456e37] [cursor=pointer]
+        - generic [ref=f456e40]:
+          - button "Search with your voice" [ref=f456e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f456e47]:
+        - button "Settings" [ref=f456e52] [cursor=pointer]
+        - link "Sign in" [ref=f456e56] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DPinnacle%252BIIT&hl=en-GB&ec=65620
+  - navigation [ref=f456e60]
+  - main [ref=f456e62]:
+    - generic [ref=f456e63]:
+      - generic [ref=f456e65]:
+        - tablist [ref=f456e70]:
+          - tab "All" [selected] [ref=f456e74] [cursor=pointer]
+          - tab "Shorts" [ref=f456e80] [cursor=pointer]
+          - tab "Unwatched" [ref=f456e86] [cursor=pointer]
+          - tab "Watched" [ref=f456e92] [cursor=pointer]
+          - tab "Videos" [ref=f456e98] [cursor=pointer]
+          - tab "Recently uploaded" [ref=f456e104] [cursor=pointer]
+          - tab "Live" [ref=f456e110] [cursor=pointer]
+        - generic [ref=f456e114]:
+          - button "Search filters" [ref=f456e116] [cursor=pointer]:
+            - generic: Filters
+          - tooltip "tooltip"
+      - generic [ref=f456e125]:
+        - generic [ref=f456e138] [cursor=pointer]:
+          - generic [ref=f456e139]:
+            - link "#1 Data Engineering Course" [ref=f456e142]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C9hmMBP-patjbHeTL1_oPmdTlkAu5_pnViQHvrKjJsBOwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGUt_DLPakCYnYhmQJhRj6oAwTIAwqqBJsCT9Dvy6i09Dqrov9CYNZ19_EPgzeQ4s47Ez7322uZcWX_M38rd7LjCV77-UfVNLo9u2TGEWG8Nx3AR5Q84V36v2PavPgcrRiqgy6nA8Yunly5zY1eBe1VaZdeVeY4_SUlfIjNg0S57X1VZ7PJDcChlYzDYUjA4bAEdjZ8xUqqMbKqC8RHHQ1oUlOR8PRY6IPGmMV5ZvxdR_BwjDbYqQU-RtysvIwAZJmVFB9dMS-Nnv4GpcN40tdCsoqR5IuR2RB8qq0hAtyruT4WyiZWcOEOPHTKYzsqzSI1LZWDL6pRlhrETKLGLC1kyUglnwRKOz0cYbO3jkNqNvthhLcyI7kAnzZ7nM9fmspWVQ7XspVvwItjJa7kneiU2cTvmIgF_8qvu1GSBQgIE3iqhciuGKAGboAHlO_AqxiQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYiN-I_IbylgNgAZoJOGh0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2RhdGEtZW5naW5lZXJpbmctY291cnNlsQmLkrS4BvhkT8gJAMgJigKYCwG6CzoIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDAnNp0AsSogwIKgYKBPDfsQLSDAIQAdoMJgoLEJCo_-KrqueH7QESAgEDGg0Y_8qvu1Eg6sTN3vYEQAFKAhAfmg0BEqoNAklOyA0B0g3vAWh0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2RhdGEtZW5naW5lZXJpbmctY291cnNlP3V0bV9jYW1wYWlnbj1HQWRzLURFLU1vRnUtREdlbi1Td2l0Y2hfV1BfSW50MS0xTm92MjQmdXRtX21lZGl1bT1EaXNwbGF5JnV0bV9zb3VyY2U9R29vZ2xlLUFkcyZSZWY9R29vZ2xlQWRzLURFLU1vRnUtREdlbi1Td2l0Y2hfV1BfSW50MS0xTm92MjQmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIxODY3NzgzNTUxuBP___________8BiBQYsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1MksNiHgCHquhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI2O2I_IbylgMV5OVVCR0ZahmyEAEYASAAEgKD1_D_BwE&num=1&cid=CAASwwHkaOPXbzahL8dKV3B4KplfqDmMnYK_mMo6XsbEqbgzbclT9PymPb46Wm_sPQhZXbDJVU5hO6fAFAXJ1O9h2wtykUU1gLLrePS-reKinWLObcexyU-C_T5fYyAH2OXKkkbDM6KyQaoHrdN2FVXjV8CzmoP-kSAAXS8d1y73pKr4a-M-TVGZxUJ3c9bEgXP4eYcR_gI5VPZ2bcYJm4Ghz_Jjhfk87anO6vlO_RQ6nrxSNpfaTKyQ4KpQyPSfjden3B6Nzzk&sig=AOD64_06zVTlFYX_Y_Xmi5SKbRbsvHlwIA&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - link "Become a Data Engineer with Bosscoder Academy" [ref=f456e145]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C9hmMBP-patjbHeTL1_oPmdTlkAu5_pnViQHvrKjJsBOwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGUt_DLPakCYnYhmQJhRj6oAwTIAwqqBJsCT9Dvy6i09Dqrov9CYNZ19_EPgzeQ4s47Ez7322uZcWX_M38rd7LjCV77-UfVNLo9u2TGEWG8Nx3AR5Q84V36v2PavPgcrRiqgy6nA8Yunly5zY1eBe1VaZdeVeY4_SUlfIjNg0S57X1VZ7PJDcChlYzDYUjA4bAEdjZ8xUqqMbKqC8RHHQ1oUlOR8PRY6IPGmMV5ZvxdR_BwjDbYqQU-RtysvIwAZJmVFB9dMS-Nnv4GpcN40tdCsoqR5IuR2RB8qq0hAtyruT4WyiZWcOEOPHTKYzsqzSI1LZWDL6pRlhrETKLGLC1kyUglnwRKOz0cYbO3jkNqNvthhLcyI7kAnzZ7nM9fmspWVQ7XspVvwItjJa7kneiU2cTvmIgF_8qvu1GSBQgIE3iqhciuGKAGboAHlO_AqxiQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYiN-I_IbylgNgAZoJOGh0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2RhdGEtZW5naW5lZXJpbmctY291cnNlsQmLkrS4BvhkT8gJAMgJigKYCwG6CzoIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDAnNp0AsSogwIKgYKBPDfsQLSDAIQAdoMJgoLEJCo_-KrqueH7QESAgEDGg0Y_8qvu1Eg6sTN3vYEQAFKAhAfmg0BEqoNAklOyA0B0g3vAWh0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2RhdGEtZW5naW5lZXJpbmctY291cnNlP3V0bV9jYW1wYWlnbj1HQWRzLURFLU1vRnUtREdlbi1Td2l0Y2hfV1BfSW50MS0xTm92MjQmdXRtX21lZGl1bT1EaXNwbGF5JnV0bV9zb3VyY2U9R29vZ2xlLUFkcyZSZWY9R29vZ2xlQWRzLURFLU1vRnUtREdlbi1Td2l0Y2hfV1BfSW50MS0xTm92MjQmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIxODY3NzgzNTUxuBP___________8BiBQYsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1MksNiHgCHquhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI2O2I_IbylgMV5OVVCR0ZahmyEAEYASAAEgKD1_D_BwE&num=1&cid=CAASwwHkaOPXbzahL8dKV3B4KplfqDmMnYK_mMo6XsbEqbgzbclT9PymPb46Wm_sPQhZXbDJVU5hO6fAFAXJ1O9h2wtykUU1gLLrePS-reKinWLObcexyU-C_T5fYyAH2OXKkkbDM6KyQaoHrdN2FVXjV8CzmoP-kSAAXS8d1y73pKr4a-M-TVGZxUJ3c9bEgXP4eYcR_gI5VPZ2bcYJm4Ghz_Jjhfk87anO6vlO_RQ6nrxSNpfaTKyQ4KpQyPSfjden3B6Nzzk&sig=AOD64_06zVTlFYX_Y_Xmi5SKbRbsvHlwIA&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - generic [ref=f456e146]:
+              - generic [ref=f456e148]:
+                - generic [ref=f456e149]: Sponsored
+                - text: ·
+              - generic [ref=f456e150]: Bosscoder Academy
+          - button "My Ad Centre" [ref=f456e154]
+        - generic [ref=f456e159]:
+          - link [ref=f456e161] [cursor=pointer]:
+            - /url: /@pinnacleeiit
+          - generic [ref=f456e164]:
+            - link "Pinnacle IIT @pinnacleeiit•4.22k subscribers Welcome to Pinnacle IIT, founded by a team of visionary individuals who are proud alumni of the prestigious Indian Institutes of ..." [ref=f456e165] [cursor=pointer]:
+              - /url: /@pinnacleeiit
+              - generic [ref=f456e166]:
+                - generic [ref=f456e167]: Pinnacle IIT
+                - generic [ref=f456e171]: "@pinnacleeiit•4.22k subscribers"
+                - generic [ref=f456e172]: Welcome to Pinnacle IIT, founded by a team of visionary individuals who are proud alumni of the prestigious Indian Institutes of ...
+            - link "Subscribe" [ref=f456e177] [cursor=pointer]:
+              - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fresults%253Fsearch_query%253DPinnacle%252BIIT%26continue_action%3DQUZZTVljRWhQMENBWTl0bUdocDdJbVZZQVVRMnxBTl9pYzRlaWRjWnFZZW1TVFY3ejRJaXpPVFBWOS1UTldpM3ZGOEhMNFpOTzA0ZFF6M0U2MVlJaGMzcm93RTZOYVpjWkJObG51TmptMVBxNjBRZEw1VGpTQW9MU21LZzY3ZU45QTRZeTNWcHRBYzBXckYxVjlvV0Z6MGtjYVRObkp4MS1idGh1cnVFZ2J0VDdMZUFHSUZrRXhBbU13T0VldTdiMDI1REI0blRueWtYb2lnQ191TEF5TnJF&hl=en-GB
+        - generic [ref=f456e182]:
+          - heading "Latest from Pinnacle IIT" [level=2] [ref=f456e185]
+          - generic [ref=f456e189]:
+            - generic [ref=f456e190]:
+              - generic [ref=f456e192]:
+                - link [aria-hidden] [ref=f456e194] [cursor=pointer]:
+                  - /url: /watch?v=2504vhGZE1M&pp=ygUMUGlubmFjbGUgSUlU
+                - generic [ref=f456e196] [cursor=pointer]:
+                  - generic [ref=f456e197]:
+                    - heading [level=3] [ref=f456e199]:
+                      - 'link "From Architecture to BIM: An IITian’s Journey | How BIM Helped in M.Tech | Tejas Nandoskar 9 minutes, 13 seconds" [ref=f456e200]':
+                        - /url: /watch?v=2504vhGZE1M&pp=ygUMUGlubmFjbGUgSUlU
+                        - text: "From Architecture to BIM: An IITian’s Journey | How BIM Helped in M.Tech | Tejas Nandoskar"
+                    - generic [ref=f456e203]:
+                      - generic [ref=f456e204]: 464 views
+                      - generic [ref=f456e205]: •4 weeks ago
+                  - generic [ref=f456e206]:
+                    - link "Go to channel Pinnacle IIT" [ref=f456e207]:
+                      - /url: /@pinnacleeiit
+                    - link "Pinnacle IIT" [ref=f456e212]:
+                      - /url: /@pinnacleeiit
+                  - generic [ref=f456e213]:
+                    - generic [ref=f456e214]: What happens when an Architecture student chooses to learn BIM before starting his M.Tech? In this episode of the Pinnacle IIT ...
+                    - tooltip "tooltip"
+              - generic [ref=f456e216]:
+                - link [aria-hidden] [ref=f456e218] [cursor=pointer]:
+                  - /url: /watch?v=RJL5MBo9s8k&pp=ygUMUGlubmFjbGUgSUlU
+                - generic [ref=f456e220] [cursor=pointer]:
+                  - generic [ref=f456e221]:
+                    - heading [level=3] [ref=f456e223]:
+                      - link "How She Got 5 MNC Offers & an International BIM Job in Israel | AECOM, WSP | Pinnacle IIT Placement 11 minutes, 50 seconds" [ref=f456e224]:
+                        - /url: /watch?v=RJL5MBo9s8k&pp=ygUMUGlubmFjbGUgSUlU
+                        - text: How She Got 5 MNC Offers & an International BIM Job in Israel | AECOM, WSP | Pinnacle IIT Placement
+                    - generic [ref=f456e227]:
+                      - generic [ref=f456e228]: 389 views
+                      - generic [ref=f456e229]: •2 months ago
+                  - generic [ref=f456e230]:
+                    - button "Collaboration channels" [ref=f456e232]
+                    - generic [ref=f456e249]: Pinnacle IIT and Darpan Nagrecha
+                  - generic [ref=f456e252]:
+                    - generic [ref=f456e253]: Can one BIM professional receive multiple MNC offers and land an international remote job? In this exclusive Pinnacle IIT ...
+                    - tooltip "tooltip"
+                  - img "4K" [ref=f456e258]
+            - button "+2 more" [ref=f456e261] [cursor=pointer]
+        - generic [ref=f456e274] [cursor=pointer]:
+          - generic [ref=f456e275]:
+            - link "Student approved" [ref=f456e278]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CzPuVBP-patjbHeTL1_oPmdTlkAvGuc7LiQHlgdqjhhZkEAIgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABx5XBvz6oAwTIAwqqBJoCT9BLA6SU9Kiriv-QGPBf5MMYgS2y7OweABCs5jm_W3bNJH0xVbzBIVjCyFXsIbsso2CZJDOaHQ7yUJYmwWf_xnWImtYLjhq2rimoCN9htRK43ppaP-1vaodKU_dg8HoDZrj8jWvz5CJIdqHFGMydwfiLPlXR87wReiN8wXDqQLK0C8JFEgxkTVaO7vVGarJ77r15P_IcS-twmiaUr0Qw87BHysoAPZfUGARdJz_BmL8I5dwy08dds5Xa5NGDzhJmlrQLFtu39hdC9CFZfewIe1iofvJ8TLg2Pn2NL6pYlhrDX8TbLi1kumtTnwVKO-ZvkbK3jkNqNvphub8BPrAA5hohns9fVuF0VQLDQ5kG3hVzB67qiwThgL1UiAXkv7_DWZIFCAgTeNmmvq4ZoAakAYAHx82RnxmQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYiN-I_IbylgNgAZoJGGh0dHBzOi8vbm90ZWJvb2suZ29vZ2xlL7EJebnVZk6ct_rICQCYCwG6CzoIAxAFGBYgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDAnNp0AsSogxYKgYKBPDfsQJiFwoVY29tLmdvb2dsZS5Ob3RlYm9va0xNajAKLmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmxhYnMubGFuZ3VhZ2UudGFpbHdpbmR4AIgBANIMAhAB2gwmCgsQ8JzmmebXiti3ARICAQMaDRjkv7_DWSDKlfKs6wVAAUoCEB-aDQESqg0CSU7IDQHSDUBodHRwczovL25vdGVib29rLmdvb2dsZS8_Z2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MDMyMzA1MTI0sA6gxauPGbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdA2Zr-TGr017oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI2O2I_IbylgMV5OVVCR0ZahmyEAEYAiAAEgJuQPD_BwE&num=2&cid=CAASwwHkaOPXbzahL8dKV3B4KplfqDmMnYK_mMo6XsbEqbgzbclT9PymPb46Wm_sPQhZXbDJVU5hO6fAFAXJ1O9h2wtykUU1gLLrePS-reKinWLObcexyU-C_T5fYyAH2OXKkkbDM6KyQaoHrdN2FVXjV8CzmoP-kSAAXS8d1y73pKr4a-M-TVGZxUJ3c9bEgXP4eYcR_gI5VPZ2bcYJm4Ghz_Jjhfk87anO6vlO_RQ6nrxSNpfaTKyQ4KpQyPSfjden3B6Nzzk&sig=AOD64_13oFduN8-4ny2PhcfDMHPAAP1XRg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - link "Gemini Notebook is making the grade" [ref=f456e281]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CzPuVBP-patjbHeTL1_oPmdTlkAvGuc7LiQHlgdqjhhZkEAIgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABx5XBvz6oAwTIAwqqBJoCT9BLA6SU9Kiriv-QGPBf5MMYgS2y7OweABCs5jm_W3bNJH0xVbzBIVjCyFXsIbsso2CZJDOaHQ7yUJYmwWf_xnWImtYLjhq2rimoCN9htRK43ppaP-1vaodKU_dg8HoDZrj8jWvz5CJIdqHFGMydwfiLPlXR87wReiN8wXDqQLK0C8JFEgxkTVaO7vVGarJ77r15P_IcS-twmiaUr0Qw87BHysoAPZfUGARdJz_BmL8I5dwy08dds5Xa5NGDzhJmlrQLFtu39hdC9CFZfewIe1iofvJ8TLg2Pn2NL6pYlhrDX8TbLi1kumtTnwVKO-ZvkbK3jkNqNvphub8BPrAA5hohns9fVuF0VQLDQ5kG3hVzB67qiwThgL1UiAXkv7_DWZIFCAgTeNmmvq4ZoAakAYAHx82RnxmQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYiN-I_IbylgNgAZoJGGh0dHBzOi8vbm90ZWJvb2suZ29vZ2xlL7EJebnVZk6ct_rICQCYCwG6CzoIAxAFGBYgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDAnNp0AsSogxYKgYKBPDfsQJiFwoVY29tLmdvb2dsZS5Ob3RlYm9va0xNajAKLmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmxhYnMubGFuZ3VhZ2UudGFpbHdpbmR4AIgBANIMAhAB2gwmCgsQ8JzmmebXiti3ARICAQMaDRjkv7_DWSDKlfKs6wVAAUoCEB-aDQESqg0CSU7IDQHSDUBodHRwczovL25vdGVib29rLmdvb2dsZS8_Z2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MDMyMzA1MTI0sA6gxauPGbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdA2Zr-TGr017oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI2O2I_IbylgMV5OVVCR0ZahmyEAEYAiAAEgJuQPD_BwE&num=2&cid=CAASwwHkaOPXbzahL8dKV3B4KplfqDmMnYK_mMo6XsbEqbgzbclT9PymPb46Wm_sPQhZXbDJVU5hO6fAFAXJ1O9h2wtykUU1gLLrePS-reKinWLObcexyU-C_T5fYyAH2OXKkkbDM6KyQaoHrdN2FVXjV8CzmoP-kSAAXS8d1y73pKr4a-M-TVGZxUJ3c9bEgXP4eYcR_gI5VPZ2bcYJm4Ghz_Jjhfk87anO6vlO_RQ6nrxSNpfaTKyQ4KpQyPSfjden3B6Nzzk&sig=AOD64_13oFduN8-4ny2PhcfDMHPAAP1XRg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - generic [ref=f456e282]:
+              - generic [ref=f456e284]:
+                - generic [ref=f456e285]: Sponsored
+                - text: ·
+              - generic [ref=f456e286]: Gemini Notebook
+          - button "My Ad Centre" [ref=f456e290]
+        - generic [ref=f456e294]:
+          - heading "Latest Shorts from Pinnacle IIT" [level=2] [ref=f456e302]
+          - generic [ref=f456e304]:
+            - generic [ref=f456e307]:
+              - link [aria-hidden] [ref=f456e308] [cursor=pointer]:
+                - /url: /shorts/OwjbBJfKYe8
+                - img [ref=f456e313]:
+                  - generic [ref=f456e314]: New
+              - generic [ref=f456e315] [cursor=pointer]:
+                - 'link "Engineer on Engineers Day 💀⚡ | Wiring Gone Wrong 😂 #Shorts" [ref=f456e316]':
+                  - /url: /shorts/OwjbBJfKYe8
+                - generic [ref=f456e317]: 1.7k views
+              - button "More actions" [ref=f456e319] [cursor=pointer]
+            - generic [ref=f456e325]:
+              - link [aria-hidden] [ref=f456e326] [cursor=pointer]:
+                - /url: /shorts/VgFhDsUuUyw
+              - generic [ref=f456e330] [cursor=pointer]:
+                - 'link "POV: Upgraded from Civil to BIM 😎🚀" [ref=f456e331]':
+                  - /url: /shorts/VgFhDsUuUyw
+                - generic [ref=f456e332]: 1.6k views
+              - button "More actions" [ref=f456e334] [cursor=pointer]
+            - generic [ref=f456e340]:
+              - link [aria-hidden] [ref=f456e341] [cursor=pointer]:
+                - /url: /shorts/wuTzf91NLtA
+              - generic [ref=f456e345] [cursor=pointer]:
+                - link "sorry for cheating 💀" [ref=f456e346]:
+                  - /url: /shorts/wuTzf91NLtA
+                - generic [ref=f456e347]: 1.7k views
+              - button "More actions" [ref=f456e349] [cursor=pointer]
+            - generic [ref=f456e355]:
+              - link [aria-hidden] [ref=f456e356] [cursor=pointer]:
+                - /url: /shorts/Ut6XzYKeJXs
+              - generic [ref=f456e360] [cursor=pointer]:
+                - 'link "wait for the end 🤣 #shorts #shortvideo #shortsfeed" [ref=f456e361]':
+                  - /url: /shorts/Ut6XzYKeJXs
+                - generic [ref=f456e362]: 1.2k views
+              - button "More actions" [ref=f456e364] [cursor=pointer]
+            - generic [ref=f456e370]:
+              - link [aria-hidden] [ref=f456e371] [cursor=pointer]:
+                - /url: /shorts/Mj-LHYDAqvc
+              - generic [ref=f456e375] [cursor=pointer]:
+                - 'link "Modi Ji Ne WFH Bolaa — Phir Pata Chala 16 Ghante Kaam Karna Padega! 😂💀 #shorts" [ref=f456e376]':
+                  - /url: /shorts/Mj-LHYDAqvc
+                - generic [ref=f456e377]: 2k views
+              - button "More actions" [ref=f456e379] [cursor=pointer]
+          - button "Show more" [ref=f456e386] [cursor=pointer]
+        - generic [ref=f456e391]:
+          - link [ref=f456e393] [cursor=pointer]:
+            - /url: /@Pinnaclefuturebuild
+          - generic [ref=f456e396]:
+            - link "Pinnacle @Pinnaclefuturebuild•4.35k subscribers Pinnacle leads the AECO industry worldwide, delivering transformative build solutions that connect design, engineering, ..." [ref=f456e397] [cursor=pointer]:
+              - /url: /@Pinnaclefuturebuild
+              - generic [ref=f456e398]:
+                - generic [ref=f456e399]: Pinnacle
+                - generic [ref=f456e403]: "@Pinnaclefuturebuild•4.35k subscribers"
+                - generic [ref=f456e404]: Pinnacle leads the AECO industry worldwide, delivering transformative build solutions that connect design, engineering, ...
+            - link "Subscribe" [ref=f456e409] [cursor=pointer]:
+              - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fresults%253Fsearch_query%253DPinnacle%252BIIT%26continue_action%3DQUZZTVljSHg5bXA4TTBHVXlPWXg5TnJ3U2g3UXxBTl9pYzRlRElUUWo4NnpwM2syVlI5cDdSRFpKVnppQjVCVHhnS2hhenZabVZRbDltZFcyZnhhYWxuQmVqYUR1eS1EaHhsak10ZDRjNF9rLWwxUFBRZFNiNTNkVk9TODNTc1dmUHVGY2NnNjZ3SU9HYlQ3U0l6bnF1NExzY1hnX2NPYzFyVExraTctQ0tzQzhXdlFLZUtlaklfdUx5SUhTVlV4RU9fc0E0WkNTT1lxcklWWFJtUlozbmY0&hl=en-GB
+        - generic [ref=f456e425] [cursor=pointer]:
+          - generic [ref=f456e426]:
+            - link "Moving the World, Together" [ref=f456e429]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-bmjBP-patjbHeTL1_oPmdTlkAvfx8u_iQHo07vl_RKwkB8QAyAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHL0t6wAakCGSdKAXt8tD6oAwTIAwqqBJMCT9Dvy6i09Dqrov9CYNZ19_EPgzeQ4s47Ez7322uZcWX_M38rd7LjCV77-UfVNLo9u2TGEWG8Nx3AR5Q84V36v2PavPgcrRiqgy6nA8Yunly5zY1eBe1VaZdeVeY4_SUlfIjNg0S57X1VZ7PJDcChlYzDYUjA4bAEdjZ8xUqqMbKqC8RHHQ1oUlOR8PRY6IPGmMV5ZvxdR_BwjDbYqQU-RtysvIwAZJmVFB9dMS-Nnv4GpcN40tdCsoqR5IuR2RB8qq0hAtyruT4WyiZWcOEOPHTKYzsqzSI14L-D6mBWt5vOLG3FNzLz_Fvs6RSFqUaW1TPXHvDSNCO69qfXglkKMLvxPOWEhGXtZyzbqhb6_JfBvoSIBcqg5JROkgUICBN4_5GflgGgBm6AB_T__5UBkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWIjfiPyG8pYDYAGaCStodHRwczovL3d3dy5tc2MuY29tL2VuL2xwL3NoaXBwaW5nLXdpdGgtbXNjsQm1BB18Bf5RWsgJAMgJigK6CzoIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBboDAnNp0AsS4AsBogwnKgYKBPDfsQJqGAoWY29tLm1zY3BoaWxzLm1zY21vYmlsZXgAiAEA0gwCEAHaDCYKCxCg2I292cekn4kBEgIBAxoNGMqg5JROIJ-srN7mBEABSgIQH5oNARKqDQJJTsgNAdINjQRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDg3MTYyNjY5MjYmZHNfYV9jaWQ9MzE1MDgzMDA3JmRzX2FfY2FpZD0yMDk4MTU1MTE3OCZkc19hX2FnaWQ9MTY1MDE3MjI4ODMxJmRzX2FfZmlpZD0mZHNfYV9saWQ9YXVkLTIzMzQxNTI0OTIzMDcmZHNfYV9leHRpZD0mJmRzX2VfYWRpZD02OTg5Nzc2NDYxNDImZHNfZV9tYXRjaHR5cGU9JmRzX2VfZGV2aWNlPWMmZHNfZV9uZXR3b3JrPSYmZHNfdXJsX3Y9MiZkc19kZXN0X3VybD1odHRwczovL3d3dy5tc2MuY29tL2VuL2xwL3NoaXBwaW5nLXdpdGgtbXNjP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj0yMDk4MTU1MTE3OCZ1dG1fdGVybT1NLSZ1dG1fYWRncnA9MTY1MDE3MjI4ODMxJnV0bV9zb3VyY2VfcGxhdGZvcm09R29vZ2xlK0FkcyZ1dG1faWQ9JmFkc19ybD04NjgyMzIwNzk0JiYmJmdjbHNyYz1hdy5kcyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjA5ODE1NTExNzi4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXxpv9z1EdOli6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI2O2I_IbylgMV5OVVCR0ZahmyEAEYAyAAEgIfHPD_BwE&num=3&cid=CAASwwHkaOPXbzahL8dKV3B4KplfqDmMnYK_mMo6XsbEqbgzbclT9PymPb46Wm_sPQhZXbDJVU5hO6fAFAXJ1O9h2wtykUU1gLLrePS-reKinWLObcexyU-C_T5fYyAH2OXKkkbDM6KyQaoHrdN2FVXjV8CzmoP-kSAAXS8d1y73pKr4a-M-TVGZxUJ3c9bEgXP4eYcR_gI5VPZ2bcYJm4Ghz_Jjhfk87anO6vlO_RQ6nrxSNpfaTKyQ4KpQyPSfjden3B6Nzzk&sig=AOD64_3mZh49fMSUqj2vFLXKal5Je6SRSA&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - 'link "Choose MSC for your Shipment: Search Schedules and Get an Instant Quote Today" [ref=f456e432]':
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-bmjBP-patjbHeTL1_oPmdTlkAvfx8u_iQHo07vl_RKwkB8QAyAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHL0t6wAakCGSdKAXt8tD6oAwTIAwqqBJMCT9Dvy6i09Dqrov9CYNZ19_EPgzeQ4s47Ez7322uZcWX_M38rd7LjCV77-UfVNLo9u2TGEWG8Nx3AR5Q84V36v2PavPgcrRiqgy6nA8Yunly5zY1eBe1VaZdeVeY4_SUlfIjNg0S57X1VZ7PJDcChlYzDYUjA4bAEdjZ8xUqqMbKqC8RHHQ1oUlOR8PRY6IPGmMV5ZvxdR_BwjDbYqQU-RtysvIwAZJmVFB9dMS-Nnv4GpcN40tdCsoqR5IuR2RB8qq0hAtyruT4WyiZWcOEOPHTKYzsqzSI14L-D6mBWt5vOLG3FNzLz_Fvs6RSFqUaW1TPXHvDSNCO69qfXglkKMLvxPOWEhGXtZyzbqhb6_JfBvoSIBcqg5JROkgUICBN4_5GflgGgBm6AB_T__5UBkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWIjfiPyG8pYDYAGaCStodHRwczovL3d3dy5tc2MuY29tL2VuL2xwL3NoaXBwaW5nLXdpdGgtbXNjsQm1BB18Bf5RWsgJAMgJigK6CzoIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBboDAnNp0AsS4AsBogwnKgYKBPDfsQJqGAoWY29tLm1zY3BoaWxzLm1zY21vYmlsZXgAiAEA0gwCEAHaDCYKCxCg2I292cekn4kBEgIBAxoNGMqg5JROIJ-srN7mBEABSgIQH5oNARKqDQJJTsgNAdINjQRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDg3MTYyNjY5MjYmZHNfYV9jaWQ9MzE1MDgzMDA3JmRzX2FfY2FpZD0yMDk4MTU1MTE3OCZkc19hX2FnaWQ9MTY1MDE3MjI4ODMxJmRzX2FfZmlpZD0mZHNfYV9saWQ9YXVkLTIzMzQxNTI0OTIzMDcmZHNfYV9leHRpZD0mJmRzX2VfYWRpZD02OTg5Nzc2NDYxNDImZHNfZV9tYXRjaHR5cGU9JmRzX2VfZGV2aWNlPWMmZHNfZV9uZXR3b3JrPSYmZHNfdXJsX3Y9MiZkc19kZXN0X3VybD1odHRwczovL3d3dy5tc2MuY29tL2VuL2xwL3NoaXBwaW5nLXdpdGgtbXNjP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj0yMDk4MTU1MTE3OCZ1dG1fdGVybT1NLSZ1dG1fYWRncnA9MTY1MDE3MjI4ODMxJnV0bV9zb3VyY2VfcGxhdGZvcm09R29vZ2xlK0FkcyZ1dG1faWQ9JmFkc19ybD04NjgyMzIwNzk0JiYmJmdjbHNyYz1hdy5kcyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjA5ODE1NTExNzi4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXxpv9z1EdOli6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI2O2I_IbylgMV5OVVCR0ZahmyEAEYAyAAEgIfHPD_BwE&num=3&cid=CAASwwHkaOPXbzahL8dKV3B4KplfqDmMnYK_mMo6XsbEqbgzbclT9PymPb46Wm_sPQhZXbDJVU5hO6fAFAXJ1O9h2wtykUU1gLLrePS-reKinWLObcexyU-C_T5fYyAH2OXKkkbDM6KyQaoHrdN2FVXjV8CzmoP-kSAAXS8d1y73pKr4a-M-TVGZxUJ3c9bEgXP4eYcR_gI5VPZ2bcYJm4Ghz_Jjhfk87anO6vlO_RQ6nrxSNpfaTKyQ4KpQyPSfjden3B6Nzzk&sig=AOD64_3mZh49fMSUqj2vFLXKal5Je6SRSA&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - generic [ref=f456e433]:
+              - generic [ref=f456e435]:
+                - generic [ref=f456e436]: Sponsored
+                - text: ·
+              - generic [ref=f456e437]: MSC Cargo
+          - button "My Ad Centre" [ref=f456e441]

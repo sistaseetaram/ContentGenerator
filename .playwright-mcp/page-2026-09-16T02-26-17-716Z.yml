@@ -1,0 +1,292 @@
+- generic [ref=f392e2]:
+  - banner [ref=f392e4]:
+    - generic [ref=f392e6]:
+      - generic [ref=f392e7]:
+        - button "Guide" [active] [ref=f392e9] [cursor=pointer]
+        - generic [ref=f392e11]:
+          - link "YouTube Home" [ref=f392e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f392e16]: IN
+        - button "Skip navigation" [ref=f392e20] [cursor=pointer]
+      - generic [ref=f392e24]:
+        - search [ref=f392e25]:
+          - generic [ref=f392e27]:
+            - generic [ref=f392e28]:
+              - combobox "Search" [expanded] [ref=f392e30]: "\"Starting from Scratch\" \"Becoming an Architect Entrepreneur\""
+              - button "Clear search query" [ref=f392e32] [cursor=pointer]
+            - button "Search" [ref=f392e37] [cursor=pointer]
+        - generic [ref=f392e40]:
+          - button "Search with your voice" [ref=f392e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f392e51]
+  - main [ref=f392e53]:
+    - generic [ref=f392e54]:
+      - generic [ref=f392e56]:
+        - tablist [ref=f392e61]:
+          - tab "All" [selected] [ref=f392e65] [cursor=pointer]
+          - tab "Shorts" [ref=f392e71] [cursor=pointer]
+          - tab "Unwatched" [ref=f392e77] [cursor=pointer]
+          - tab "Watched" [ref=f392e83] [cursor=pointer]
+          - tab "Videos" [ref=f392e89] [cursor=pointer]
+          - tab "Recently uploaded" [ref=f392e95] [cursor=pointer]
+          - tab "Live" [ref=f392e101] [cursor=pointer]
+        - generic [ref=f392e105]:
+          - button "Search filters" [ref=f392e107] [cursor=pointer]:
+            - generic: Filters
+          - tooltip "tooltip"
+      - generic [ref=f392e114]:
+        - generic [ref=f392e129] [cursor=pointer]:
+          - generic [ref=f392e130]:
+            - link "Business Architecture & Strategic Planning" [ref=f392e133]:
+              - /url: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwipi7yihvKWAxWoh2YCHQj7CocYACICCAEQABoCc20&co=1&ase=2&gclid=EAIaIQobChMIqYu8oobylgMVqIdmAh0I-wqHEAAYASAAEgKhyvD_BwE&cid=CAAS0wHkaD6XJ4beVPCAriZyjBh3VOjWodoSrpYVkWxt7M-ks4iXsBU2nnCOLd8xfIrCVNRkC8OXYppbOT1LAtBr0FEti6QdpRiW48I4pMUUoYLf4c0HrDVcOTNUURqo2Y5yoyY-qqucVIHGiiYQULPQTIh95JHAedjHaAD0h0mogApZXAoCWsSoj6vti_4NE5n-faw62D1Efm8o6FUjZ4OwL8O9fof7CQQXRGBMDJ55y8ynOoCjmu7MS_ZQHD8hZJ1kss29j4LS4tOOnBb7dkzm9JK14cD3&cce=2&category=acrcp_v1_32&sig=AOD64_1wquvEZODikRX1rrYecqdkFtagZQ&adurl=https://www.udemy.com/course/business-architecture-strategic-planning/%3Futm_campaign%3DSearch_DSA_Beta_Prof_la.EN_cc.India%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DIndia%26utm_audience%3Dmx%26utm_tactic%3Dnb%26utm_term%3D_._ag_160270535465_._ad_696202838328_._kw_%26utm_content%3Ds%26funnel%3D%26test%3D%26gad_source%3D2%26gad_campaignid%3D21178559974%26gclid%3DEAIaIQobChMIqYu8oobylgMVqIdmAh0I-wqHEAAYASAAEgKhyvD_BwE&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+            - link "Shop thousands of high-quality on-demand online courses. 30-day satisfaction guarantee. Learn online at your own pace. Start today..." [ref=f392e136]:
+              - /url: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwipi7yihvKWAxWoh2YCHQj7CocYACICCAEQABoCc20&co=1&ase=2&gclid=EAIaIQobChMIqYu8oobylgMVqIdmAh0I-wqHEAAYASAAEgKhyvD_BwE&cid=CAAS0wHkaD6XJ4beVPCAriZyjBh3VOjWodoSrpYVkWxt7M-ks4iXsBU2nnCOLd8xfIrCVNRkC8OXYppbOT1LAtBr0FEti6QdpRiW48I4pMUUoYLf4c0HrDVcOTNUURqo2Y5yoyY-qqucVIHGiiYQULPQTIh95JHAedjHaAD0h0mogApZXAoCWsSoj6vti_4NE5n-faw62D1Efm8o6FUjZ4OwL8O9fof7CQQXRGBMDJ55y8ynOoCjmu7MS_ZQHD8hZJ1kss29j4LS4tOOnBb7dkzm9JK14cD3&cce=2&category=acrcp_v1_32&sig=AOD64_1wquvEZODikRX1rrYecqdkFtagZQ&adurl=https://www.udemy.com/course/business-architecture-strategic-planning/%3Futm_campaign%3DSearch_DSA_Beta_Prof_la.EN_cc.India%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DIndia%26utm_audience%3Dmx%26utm_tactic%3Dnb%26utm_term%3D_._ag_160270535465_._ad_696202838328_._kw_%26utm_content%3Ds%26funnel%3D%26test%3D%26gad_source%3D2%26gad_campaignid%3D21178559974%26gclid%3DEAIaIQobChMIqYu8oobylgMVqIdmAh0I-wqHEAAYASAAEgKhyvD_BwE&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+            - generic [ref=f392e137]:
+              - generic [ref=f392e139]:
+                - generic [ref=f392e140]: Sponsored
+                - text: ·
+              - generic [ref=f392e141]: https://www.udemy.com/
+          - button "My Ad Centre" [ref=f392e145]
+        - generic [ref=f392e150]:
+          - generic [ref=f392e152]:
+            - link [aria-hidden] [ref=f392e154] [cursor=pointer]:
+              - /url: /watch?v=0S2T6crurEE&pp=ygU8IlN0YXJ0aW5nIGZyb20gU2NyYXRjaCIgIkJlY29taW5nIGFuIEFyY2hpdGVjdCBFbnRyZXByZW5ldXIi
+            - generic [ref=f392e156] [cursor=pointer]:
+              - generic [ref=f392e157]:
+                - heading [level=3] [ref=f392e159]:
+                  - 'link "Starting from Scratch : Becoming an Architect Entrepreneur 37 minutes" [ref=f392e160]':
+                    - /url: /watch?v=0S2T6crurEE&pp=ygU8IlN0YXJ0aW5nIGZyb20gU2NyYXRjaCIgIkJlY29taW5nIGFuIEFyY2hpdGVjdCBFbnRyZXByZW5ldXIi
+                    - text: "Starting from Scratch : Becoming an Architect Entrepreneur"
+                - generic [ref=f392e163]:
+                  - generic [ref=f392e164]: 627k views
+                  - generic [ref=f392e165]: •4 years ago
+              - generic [ref=f392e166]:
+                - link "Go to channel 30X40 Design Workshop" [ref=f392e167]:
+                  - /url: /@30by40
+                - generic [ref=f392e169]:
+                  - link "30X40 Design Workshop" [ref=f392e173]:
+                    - /url: /@30by40
+                  - img "Verified" [ref=f392e178]
+              - generic [ref=f392e180]:
+                - text: I'm starting over. With no clients, no audience, no studio, no social following and no income; this is what I'd do if I were starting my ...
+                - tooltip "tooltip"
+              - generic [ref=f392e183]:
+                - generic [ref=f392e184]:
+                  - generic [ref=f392e187]: 24 chapters
+                  - 'button "20% Pay Cut | Financial Worries | Motivation | Cash flows | Finding Clients | Building Your Portfolio | Rejection and more rejection | Too much work? | Reactive vs. Strategic Plan | Key concept: Source into Resource | Congrats, you''re hired! | But, how - exactly - do you do this? | Document while you create | Getting \"hired\" | It''s not about you | An Important Pivot | Making the business model work | 1K True Fans | What will you make? Start here. | Playing Hard to Get | A Case Study | Meet them where they''re | My advice... | And, my heroes" [ref=f392e189]'
+                - button "More" [ref=f392e194]
+          - generic [ref=f392e199]:
+            - link [aria-hidden] [ref=f392e201] [cursor=pointer]:
+              - /url: /watch?v=sMRNjmnF2cw&pp=ygU8IlN0YXJ0aW5nIGZyb20gU2NyYXRjaCIgIkJlY29taW5nIGFuIEFyY2hpdGVjdCBFbnRyZXByZW5ldXIi
+            - generic [ref=f392e203] [cursor=pointer]:
+              - generic [ref=f392e204]:
+                - heading [level=3] [ref=f392e206]:
+                  - 'link "Starting from Scratch: Inspiring Story of Becoming an Architect Entrepreneur 32 minutes" [ref=f392e207]':
+                    - /url: /watch?v=sMRNjmnF2cw&pp=ygU8IlN0YXJ0aW5nIGZyb20gU2NyYXRjaCIgIkJlY29taW5nIGFuIEFyY2hpdGVjdCBFbnRyZXByZW5ldXIi
+                    - text: "Starting from Scratch: Inspiring Story of Becoming an Architect Entrepreneur"
+                - generic [ref=f392e210]:
+                  - generic [ref=f392e211]: 1.4k views
+                  - generic [ref=f392e212]: •3 years ago
+              - generic [ref=f392e213]:
+                - link "Go to channel Beyond The Blueprint Podcast" [ref=f392e214]:
+                  - /url: /@beyondtheblueprintpodcast
+                - link "Beyond The Blueprint Podcast" [ref=f392e220]:
+                  - /url: /@beyondtheblueprintpodcast
+              - generic [ref=f392e221]:
+                - text: Welcome to Beyond the Blueprint YouTube channel! In today's video, I sat down with Dan Farmer, Principle at Farmer Architecture ...
+                - tooltip "tooltip"
+          - generic [ref=f392e234] [cursor=pointer]:
+            - generic [ref=f392e235]:
+              - link "8-Month Data Engineering Program" [ref=f392e238]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C0RLXSP6patOsFdKU3LUPsMW54A2-wta_iQGysurpsxOwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGUt_DLPakCYnYhmQJhRj6oAwTIAwqqBMsCT9AiHYH01lHNATFHLu_Dggy8OQOKH19y0LVVQVHWtGiCvua7MeA3Kzumm8w7Pxg67qEZ6q3p0periPA22bwvbCUsCxImxxOoF5OmhPU_bQjpAJla9rw1WLLb17uEX8HSDBJQ3XTJ9BikbWHyHCaSe1v14f8XvlZiXpPYQ8v1tS95U40-qlV6L2U5qTh4l1KQ0haYudmTtU29zP94QFrhk0fnqwsgORYxejJc_MXV4NtP8xhSCwqB5Nx84eYGmM-MCiUK4vanXTNMxwQW_yPPi5cYF2KDPjC6mcmdUh20-PeG1FkYo6Ab_EBuiIa3OieqWILI0KT0Bgb24EIeDFwUcE5vFlV_E-6pAQylCJFQaPux-aw-kjPz0TufQexEPWgbGJBm7mNyjMwDv3JpqjG1adWrgBPuLOlY4632G9wuwZPjTVL7o0LRn7NGz4gFioGT6FGSBQgIE3iqhciuGKAGboAHlO_AqxiQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRY-NqtoobylgNgAZoJOGh0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2RhdGEtZW5naW5lZXJpbmctY291cnNlsQkTMHt6w-TBccgJAMgJigKYCwG6CzoIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDAnNp0AsSogwIKgYKBPDfsQLSDAIQAdoMJgoLEOCvi8Wn_vibpgESAgEDGg0YioGT6FEg0tKLjYQFQAFKAhAfmg0BEqoNAklOyA0B0g3ZAWh0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2RhdGEtZW5naW5lZXJpbmctY291cnNlP3V0bV9jYW1wYWlnbj1ERS1WMi1ER2VuLUdvb2dsZUFkcyZ1dG1fbWVkaXVtPURpc3BsYXkmdXRtX3NvdXJjZT1Hb29nbGUtQWRzJlJlZj1Hb29nbGVBZHMtREUtRGdlbi1WMi1PbGREU01MLTI5Tm92MjQtSW50MSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjE5NjE2ODcxNzi4E____________wGIFBmwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXUySw2IeAIeq6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI0_CtoobylgMVUgq3AB2wYg7cEAEYASAAEgL2afD_BwE&num=1&cid=CAASwwHkaHPtKiKotvG4kxUSmEkAl0ONCEhtKAl5-VUmkSCL0eHNNK6gMroS8SsxHvpLisTsXojV5LGG3NPFfP5A3yr0bG76oLWIeq51edu8Sw16OuFtZ09GJRLfHqH7P2BEN3FTLsoTeBLCoqVTlH9aL2jxzMPlwm6iTwcqAEw4lZEqXeEn4_hY2BwL_-FVft_Flu6FLSV-rw2PGZgB-mA_JcM5WKFlX4abwhVsVjdCdnyQUBxzn_4oRIdXFRTTHUSf3H3-mnY&sig=AOD64_2suoHx6TU6yZzDVSR92J8YpVwQYA&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Designed for working professionals to switch into high-demand data engineering roles." [ref=f392e241]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C0RLXSP6patOsFdKU3LUPsMW54A2-wta_iQGysurpsxOwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGUt_DLPakCYnYhmQJhRj6oAwTIAwqqBMsCT9AiHYH01lHNATFHLu_Dggy8OQOKH19y0LVVQVHWtGiCvua7MeA3Kzumm8w7Pxg67qEZ6q3p0periPA22bwvbCUsCxImxxOoF5OmhPU_bQjpAJla9rw1WLLb17uEX8HSDBJQ3XTJ9BikbWHyHCaSe1v14f8XvlZiXpPYQ8v1tS95U40-qlV6L2U5qTh4l1KQ0haYudmTtU29zP94QFrhk0fnqwsgORYxejJc_MXV4NtP8xhSCwqB5Nx84eYGmM-MCiUK4vanXTNMxwQW_yPPi5cYF2KDPjC6mcmdUh20-PeG1FkYo6Ab_EBuiIa3OieqWILI0KT0Bgb24EIeDFwUcE5vFlV_E-6pAQylCJFQaPux-aw-kjPz0TufQexEPWgbGJBm7mNyjMwDv3JpqjG1adWrgBPuLOlY4632G9wuwZPjTVL7o0LRn7NGz4gFioGT6FGSBQgIE3iqhciuGKAGboAHlO_AqxiQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRY-NqtoobylgNgAZoJOGh0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2RhdGEtZW5naW5lZXJpbmctY291cnNlsQkTMHt6w-TBccgJAMgJigKYCwG6CzoIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDAnNp0AsSogwIKgYKBPDfsQLSDAIQAdoMJgoLEOCvi8Wn_vibpgESAgEDGg0YioGT6FEg0tKLjYQFQAFKAhAfmg0BEqoNAklOyA0B0g3ZAWh0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2RhdGEtZW5naW5lZXJpbmctY291cnNlP3V0bV9jYW1wYWlnbj1ERS1WMi1ER2VuLUdvb2dsZUFkcyZ1dG1fbWVkaXVtPURpc3BsYXkmdXRtX3NvdXJjZT1Hb29nbGUtQWRzJlJlZj1Hb29nbGVBZHMtREUtRGdlbi1WMi1PbGREU01MLTI5Tm92MjQtSW50MSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjE5NjE2ODcxNzi4E____________wGIFBmwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXUySw2IeAIeq6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI0_CtoobylgMVUgq3AB2wYg7cEAEYASAAEgL2afD_BwE&num=1&cid=CAASwwHkaHPtKiKotvG4kxUSmEkAl0ONCEhtKAl5-VUmkSCL0eHNNK6gMroS8SsxHvpLisTsXojV5LGG3NPFfP5A3yr0bG76oLWIeq51edu8Sw16OuFtZ09GJRLfHqH7P2BEN3FTLsoTeBLCoqVTlH9aL2jxzMPlwm6iTwcqAEw4lZEqXeEn4_hY2BwL_-FVft_Flu6FLSV-rw2PGZgB-mA_JcM5WKFlX4abwhVsVjdCdnyQUBxzn_4oRIdXFRTTHUSf3H3-mnY&sig=AOD64_2suoHx6TU6yZzDVSR92J8YpVwQYA&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=f392e242]:
+                - generic [ref=f392e244]:
+                  - generic [ref=f392e245]: Sponsored
+                  - text: ·
+                - generic [ref=f392e246]: Bosscoder Academy
+            - button "My Ad Centre" [ref=f392e250]
+          - generic [ref=f392e255]:
+            - link [aria-hidden] [ref=f392e257] [cursor=pointer]:
+              - /url: /watch?v=4vwNqO5QjNg&pp=ygU8IlN0YXJ0aW5nIGZyb20gU2NyYXRjaCIgIkJlY29taW5nIGFuIEFyY2hpdGVjdCBFbnRyZXByZW5ldXIi
+            - generic [ref=f392e259] [cursor=pointer]:
+              - generic [ref=f392e260]:
+                - heading [level=3] [ref=f392e262]:
+                  - 'link "how to do startup in architecture Starting from Scratch : Becoming an Architect Entrepreneur 15 minutes" [ref=f392e263]':
+                    - /url: /watch?v=4vwNqO5QjNg&pp=ygU8IlN0YXJ0aW5nIGZyb20gU2NyYXRjaCIgIkJlY29taW5nIGFuIEFyY2hpdGVjdCBFbnRyZXByZW5ldXIi
+                    - text: "how to do startup in architecture Starting from Scratch : Becoming an Architect Entrepreneur"
+                - generic [ref=f392e266]:
+                  - generic [ref=f392e267]: 3.6k views
+                  - generic [ref=f392e268]: •4 years ago
+              - generic [ref=f392e269]:
+                - link "Go to channel Design Daily" [ref=f392e270]:
+                  - /url: /@DesignDaily
+                - link "Design Daily" [ref=f392e275]:
+                  - /url: /@DesignDaily
+              - generic [ref=f392e276]:
+                - generic [ref=f392e277]: "how to do startup in architecture Starting from Scratch : Becoming an Architect Entrepreneur How I Earned More Than 1 Lakh As ..."
+                - tooltip "tooltip"
+              - img "4K" [ref=f392e282]
+          - generic [ref=f392e285]:
+            - link [aria-hidden] [ref=f392e287] [cursor=pointer]:
+              - /url: /watch?v=DWgvRTo97uw&pp=ygU8IlN0YXJ0aW5nIGZyb20gU2NyYXRjaCIgIkJlY29taW5nIGFuIEFyY2hpdGVjdCBFbnRyZXByZW5ldXIi
+            - generic [ref=f392e289] [cursor=pointer]:
+              - generic [ref=f392e290]:
+                - heading [level=3] [ref=f392e292]:
+                  - 'link "286: Starting and Growing a Residential Architecture Firm with Ignacio Rodriguez 35 minutes" [ref=f392e293]':
+                    - /url: /watch?v=DWgvRTo97uw&pp=ygU8IlN0YXJ0aW5nIGZyb20gU2NyYXRjaCIgIkJlY29taW5nIGFuIEFyY2hpdGVjdCBFbnRyZXByZW5ldXIi
+                    - text: "286: Starting and Growing a Residential Architecture Firm with Ignacio Rodriguez"
+                - generic [ref=f392e296]:
+                  - generic [ref=f392e297]: 2.6k views
+                  - generic [ref=f392e298]: •7 years ago
+              - generic [ref=f392e299]:
+                - link "Go to channel Business of Architecture" [ref=f392e300]:
+                  - /url: /@BusinessofArchitecture
+                - link "Business of Architecture" [ref=f392e305]:
+                  - /url: /@BusinessofArchitecture
+              - generic [ref=f392e306]:
+                - text: "End chaos in your firm—300+ peers use this framework. Free video here: https://www.businessofarchitecture.com/framework ..."
+                - tooltip "tooltip"
+          - generic [ref=f392e319] [cursor=pointer]:
+            - generic [ref=f392e320]:
+              - link "Springs @ NeoPolis The Landmark" [ref=f392e323]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C6PdASP6patOsFdKU3LUPsMW54A2d0PiNiQHh2LvP6BVkEAIgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB9N2ShimpAmJ2IZkCYUY-qAMEyAMKqgTaAk_QIh2B9NZRzQExRy7vw4IMvDkDih9fctC1VUFR1rRogr7muzHgNys7ppvMOz8YOu6hGeqt6dKXq4jwNtm8L2wlLAsSJscTqBeTpoT1P20I6QCZWva8NViy29e7hF_B0gwSUN10yfQYpG1h8hwmkntb9eH_F75WYl6T2EPL9bUveVONPqpVei9lOak4eJdSkNIWmLnZk7VNvcz_eEBa4ZNH56sLIDkWMXoyXPzF1eDbT_MYUgsKgeTcfOHmBpjPjAolCuL2p10zTMcEFv8jz4uXGBdigz4wupnJnVIdtPj3htRZGKOgG_xAboiGtzonqliCyNCk9AYG9uBCHgxcFHBObxZVfxPuqTDMZMqfnaJR6LqHwm_VOp5R2-s5gV72EiJ2tuT74rXnzJUYUxIKUwOj9SghAkca19GFPwpijAgAyYmkLzpoJxZkw-xE-6Vx8sn7x35tejxC_3qIBdnSivlZkgUICBN4z-XvjASgBm6AB_SV4-UDkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPjaraKG8pYDYAGaCRhodHRwczovL2F2ZW51ZXJlYWx0eS5pbi-xCR-3NJMIcmdpyAkAyAmKApgLAboLOggDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMCc2nQCxKiDAgqBgoE8N-xAtIMAhAB2gwmCgsQgN3l1b6mlOfXARICAQMaDRjZ0or5WSCzuZmI8gVAAUoCEB-aDQESqg0CSU7IDQHSDa8BaHR0cHM6Ly9hdmVudWVyZWFsdHkuaW4vP3V0bV9zb3VyY2U9R29vZ2xlJnV0bV9tZWRpdW09VmlkZW8mdXRtX2NhbXBhaWduPU5lb1BvbGlzX0RnZW5fSW1hZ2VfYWRfMTgwODIwMjYmdXRtX3Rlcm09b3BlbnBsb3RzaW52aWpheWF3YWRhJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDE0NDY4NTQwMbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRfqFwQ_1eLFiLoXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI0_CtoobylgMVUgq3AB2wYg7cEAEYAiAAEgKSZ_D_BwE&num=2&cid=CAASwwHkaHPtKiKotvG4kxUSmEkAl0ONCEhtKAl5-VUmkSCL0eHNNK6gMroS8SsxHvpLisTsXojV5LGG3NPFfP5A3yr0bG76oLWIeq51edu8Sw16OuFtZ09GJRLfHqH7P2BEN3FTLsoTeBLCoqVTlH9aL2jxzMPlwm6iTwcqAEw4lZEqXeEn4_hY2BwL_-FVft_Flu6FLSV-rw2PGZgB-mA_JcM5WKFlX4abwhVsVjdCdnyQUBxzn_4oRIdXFRTTHUSf3H3-mnY&sig=AOD64_1yTLeuTdPHxEuRlPCWUKO7sh61XA&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Your landmark address awaits in Edupugallu, Vijayawada. Explore now." [ref=f392e326]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C6PdASP6patOsFdKU3LUPsMW54A2d0PiNiQHh2LvP6BVkEAIgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB9N2ShimpAmJ2IZkCYUY-qAMEyAMKqgTaAk_QIh2B9NZRzQExRy7vw4IMvDkDih9fctC1VUFR1rRogr7muzHgNys7ppvMOz8YOu6hGeqt6dKXq4jwNtm8L2wlLAsSJscTqBeTpoT1P20I6QCZWva8NViy29e7hF_B0gwSUN10yfQYpG1h8hwmkntb9eH_F75WYl6T2EPL9bUveVONPqpVei9lOak4eJdSkNIWmLnZk7VNvcz_eEBa4ZNH56sLIDkWMXoyXPzF1eDbT_MYUgsKgeTcfOHmBpjPjAolCuL2p10zTMcEFv8jz4uXGBdigz4wupnJnVIdtPj3htRZGKOgG_xAboiGtzonqliCyNCk9AYG9uBCHgxcFHBObxZVfxPuqTDMZMqfnaJR6LqHwm_VOp5R2-s5gV72EiJ2tuT74rXnzJUYUxIKUwOj9SghAkca19GFPwpijAgAyYmkLzpoJxZkw-xE-6Vx8sn7x35tejxC_3qIBdnSivlZkgUICBN4z-XvjASgBm6AB_SV4-UDkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPjaraKG8pYDYAGaCRhodHRwczovL2F2ZW51ZXJlYWx0eS5pbi-xCR-3NJMIcmdpyAkAyAmKApgLAboLOggDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMCc2nQCxKiDAgqBgoE8N-xAtIMAhAB2gwmCgsQgN3l1b6mlOfXARICAQMaDRjZ0or5WSCzuZmI8gVAAUoCEB-aDQESqg0CSU7IDQHSDa8BaHR0cHM6Ly9hdmVudWVyZWFsdHkuaW4vP3V0bV9zb3VyY2U9R29vZ2xlJnV0bV9tZWRpdW09VmlkZW8mdXRtX2NhbXBhaWduPU5lb1BvbGlzX0RnZW5fSW1hZ2VfYWRfMTgwODIwMjYmdXRtX3Rlcm09b3BlbnBsb3RzaW52aWpheWF3YWRhJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDE0NDY4NTQwMbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRfqFwQ_1eLFiLoXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI0_CtoobylgMVUgq3AB2wYg7cEAEYAiAAEgKSZ_D_BwE&num=2&cid=CAASwwHkaHPtKiKotvG4kxUSmEkAl0ONCEhtKAl5-VUmkSCL0eHNNK6gMroS8SsxHvpLisTsXojV5LGG3NPFfP5A3yr0bG76oLWIeq51edu8Sw16OuFtZ09GJRLfHqH7P2BEN3FTLsoTeBLCoqVTlH9aL2jxzMPlwm6iTwcqAEw4lZEqXeEn4_hY2BwL_-FVft_Flu6FLSV-rw2PGZgB-mA_JcM5WKFlX4abwhVsVjdCdnyQUBxzn_4oRIdXFRTTHUSf3H3-mnY&sig=AOD64_1yTLeuTdPHxEuRlPCWUKO7sh61XA&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=f392e327]:
+                - generic [ref=f392e329]:
+                  - generic [ref=f392e330]: Sponsored
+                  - text: ·
+                - generic [ref=f392e331]: Avenue Realty
+            - button "My Ad Centre" [ref=f392e335]
+          - generic [ref=f392e340] [cursor=pointer]:
+            - link [aria-hidden] [ref=f392e341]:
+              - /url: /watch?v=0S2T6crurEE&list=PLfZk8rEeNrQQ7_hNh-_Pulh0-odwGghP1
+              - generic [ref=f392e343]: 13 videos
+            - generic [ref=f392e356]:
+              - 'heading "Starting from Scratch : Becoming an Architect Entrepreneur by 30X40 Design Workshop and more" [level=3] [ref=f392e357]':
+                - 'link "Starting from Scratch : Becoming an Architect Entrepreneur by 30X40 Design Workshop and more" [ref=f392e358]':
+                  - /url: /watch?v=0S2T6crurEE&list=PLfZk8rEeNrQQ7_hNh-_Pulh0-odwGghP1
+              - generic [ref=f392e360]:
+                - group [ref=f392e361]:
+                  - link "CyndiMerrill" [ref=f392e364]:
+                    - /url: /@CyndiMerrill
+                  - generic [aria-hidden] [ref=f392e365]: •
+                  - link "Playlist" [ref=f392e368]:
+                    - /url: /@CyndiMerrill
+                - group [ref=f392e369]
+                - group [ref=f392e370]:
+                  - 'link "Starting from Scratch : Becoming an Architect Entrepreneur · 37:50" [ref=f392e372]':
+                    - /url: /watch?v=0S2T6crurEE&list=PLfZk8rEeNrQQ7_hNh-_Pulh0-odwGghP1
+                - group [ref=f392e373]:
+                  - link "How to make an award winning architecture project. · 8:02" [ref=f392e375]:
+                    - /url: /watch?v=ZiTuKjB1bP4&list=PLfZk8rEeNrQQ7_hNh-_Pulh0-odwGghP1
+                - group [ref=f392e376]
+                - group [ref=f392e377]:
+                  - link "View full playlist" [ref=f392e380]:
+                    - /url: /playlist?list=PLfZk8rEeNrQQ7_hNh-_Pulh0-odwGghP1
+          - generic [ref=f392e382] [cursor=pointer]:
+            - link [aria-hidden] [ref=f392e383]:
+              - /url: /watch?v=Q35TRCRo2IM&list=PL0hLO8SUxlxbjgPxPHwPwMcZ1C-3QzS9c
+              - generic [ref=f392e385]: 6 videos
+            - generic [ref=f392e398]:
+              - heading "Becoming an Architect" [level=3] [ref=f392e399]:
+                - link "Becoming an Architect" [ref=f392e400]:
+                  - /url: /watch?v=Q35TRCRo2IM&list=PL0hLO8SUxlxbjgPxPHwPwMcZ1C-3QzS9c
+              - generic [ref=f392e402]:
+                - group [ref=f392e403]:
+                  - link "Charles Crawford Jr." [ref=f392e406]:
+                    - /url: /@charlescrawfordjr.1771
+                  - generic [aria-hidden] [ref=f392e407]: •
+                  - link "Playlist" [ref=f392e410]:
+                    - /url: /@charlescrawfordjr.1771
+                - group [ref=f392e411]
+                - group [ref=f392e412]:
+                  - link "Becoming an Architect · 4:06" [ref=f392e414]:
+                    - /url: /watch?v=Q35TRCRo2IM&list=PL0hLO8SUxlxbjgPxPHwPwMcZ1C-3QzS9c
+                - group [ref=f392e415]:
+                  - 'link "Starting from Scratch : Becoming an Architect Entrepreneur · 37:50" [ref=f392e417]':
+                    - /url: /watch?v=0S2T6crurEE&list=PL0hLO8SUxlxbjgPxPHwPwMcZ1C-3QzS9c&pp=0gcJCfUE0aJEHMZM
+                - group [ref=f392e418]
+                - group [ref=f392e419]:
+                  - link "View full playlist" [ref=f392e422]:
+                    - /url: /playlist?list=PL0hLO8SUxlxbjgPxPHwPwMcZ1C-3QzS9c
+          - generic [ref=f392e424]:
+            - link [aria-hidden] [ref=f392e426] [cursor=pointer]:
+              - /url: /watch?v=vE26DJboQbQ&pp=ygU8IlN0YXJ0aW5nIGZyb20gU2NyYXRjaCIgIkJlY29taW5nIGFuIEFyY2hpdGVjdCBFbnRyZXByZW5ldXIi
+            - generic [ref=f392e428] [cursor=pointer]:
+              - generic [ref=f392e429]:
+                - heading [level=3] [ref=f392e431]:
+                  - 'link "471: The 7-Figure Architect with Enoch & Rion 1 hour, 13 minutes" [ref=f392e432]':
+                    - /url: /watch?v=vE26DJboQbQ&pp=ygU8IlN0YXJ0aW5nIGZyb20gU2NyYXRjaCIgIkJlY29taW5nIGFuIEFyY2hpdGVjdCBFbnRyZXByZW5ldXIi
+                    - text: "471: The 7-Figure Architect with Enoch & Rion"
+                - generic [ref=f392e435]:
+                  - generic [ref=f392e436]: 4.5k views
+                  - generic [ref=f392e437]: •3 years ago
+              - generic [ref=f392e438]:
+                - link "Go to channel Business of Architecture" [ref=f392e439]:
+                  - /url: /@BusinessofArchitecture
+                - link "Business of Architecture" [ref=f392e444]:
+                  - /url: /@BusinessofArchitecture
+              - generic [ref=f392e445]:
+                - text: "End chaos in your firm—300+ peers use this framework. Free video here: https://www.businessofarchitecture.com/framework ..."
+                - tooltip "tooltip"
+              - generic [ref=f392e448]:
+                - generic [ref=f392e449]:
+                  - generic [ref=f392e450]: Summary
+                  - button "Enoch and Rion explore the mindset and business practices necessary for firm owners to achieve seven-figure personal incomes. They discuss overcoming limiting beliefs, the importance of financial literacy, and implementing effective management systems that treat architecture practices as powerful vehicles for wealth creation." [ref=f392e453]
+                  - text: ·
+                - button "More" [ref=f392e458]
+          - generic [ref=f392e463] [cursor=pointer]:
+            - link [aria-hidden] [ref=f392e464]:
+              - /url: /watch?v=JblrN5oNse4&list=PLSMu3GPayX_Ni_srza_a4D55j9MC830B6
+              - generic [ref=f392e466]: 10 videos
+            - generic [ref=f392e479]:
+              - heading "Everything You Need to Know Before Starting Architecture by DamiLee, etc" [level=3] [ref=f392e480]:
+                - link "Everything You Need to Know Before Starting Architecture by DamiLee, etc" [ref=f392e481]:
+                  - /url: /watch?v=JblrN5oNse4&list=PLSMu3GPayX_Ni_srza_a4D55j9MC830B6
+              - generic [ref=f392e483]:
+                - group [ref=f392e484]:
+                  - link "cosmospring" [ref=f392e487]:
+                    - /url: /@cosmospring
+                  - generic [aria-hidden] [ref=f392e488]: •
+                  - link "Playlist" [ref=f392e491]:
+                    - /url: /@cosmospring
+                - group [ref=f392e492]
+                - group [ref=f392e493]:
+                  - link "Everything You Need to Know Before Starting Architecture · 18:48" [ref=f392e495]:
+                    - /url: /watch?v=JblrN5oNse4&list=PLSMu3GPayX_Ni_srza_a4D55j9MC830B6
+                - group [ref=f392e496]:
+                  - link "Why Do We Despise The Jack Of All Trades? · 16:47" [ref=f392e498]:
+                    - /url: /watch?v=QOMMfUkwktQ&list=PLSMu3GPayX_Ni_srza_a4D55j9MC830B6
+                - group [ref=f392e499]
+                - group [ref=f392e500]:
+                  - link "View full playlist" [ref=f392e503]:
+                    - /url: /playlist?list=PLSMu3GPayX_Ni_srza_a4D55j9MC830B6
+          - generic [ref=f392e505] [cursor=pointer]:
+            - link [aria-hidden] [ref=f392e506]:
+              - /url: /watch?v=E4AnY-Z5gXQ&list=PL5gvk4MdjELHDb_xzQKd_pba7ra54md94&pp=0gcJCf8COCosWNin
+              - generic [ref=f392e508]: 16 videos
+            - generic [ref=f392e521]:
+              - heading "\"The steps to become an Architect\" by DamiLee, etc" [level=3] [ref=f392e522]:
+                - link "\"The steps to become an Architect\" by DamiLee, etc" [ref=f392e523]:
+                  - /url: /watch?v=E4AnY-Z5gXQ&list=PL5gvk4MdjELHDb_xzQKd_pba7ra54md94&pp=0gcJCf8COCosWNin
+              - generic [ref=f392e525]:
+                - group [ref=f392e526]:
+                  - link "KieranTeasdale" [ref=f392e529]:
+                    - /url: /@kieranteasdale1502
+                  - generic [aria-hidden] [ref=f392e530]: •
+                  - link "Playlist" [ref=f392e533]:
+                    - /url: /@kieranteasdale1502
+                - group [ref=f392e534]
+                - group [ref=f392e535]:
+                  - link "The steps to become an Architect · 14:49" [ref=f392e537]:
+                    - /url: /watch?v=E4AnY-Z5gXQ&list=PL5gvk4MdjELHDb_xzQKd_pba7ra54md94
+                - group [ref=f392e538]:
+                  - link "What does an Architect Do? · 6:06" [ref=f392e540]:
+                    - /url: /watch?v=mfYj9mJh8Zk&list=PL5gvk4MdjELHDb_xzQKd_pba7ra54md94
+                - group [ref=f392e541]
+                - group [ref=f392e542]:
+                  - link "View full playlist" [ref=f392e545]:
+                    - /url: /playlist?list=PL5gvk4MdjELHDb_xzQKd_pba7ra54md94

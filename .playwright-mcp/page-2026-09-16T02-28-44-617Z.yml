@@ -1,0 +1,441 @@
+- generic [ref=f447e2]:
+  - banner [ref=f447e4]:
+    - generic [ref=f447e6]:
+      - generic [ref=f447e7]:
+        - button "Guide" [ref=f447e9] [cursor=pointer]
+        - generic [ref=f447e11]:
+          - link "YouTube Home" [ref=f447e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f447e16]: IN
+        - button "Skip navigation" [ref=f447e20] [cursor=pointer]
+      - generic [ref=f447e24]:
+        - search [ref=f447e25]:
+          - generic [ref=f447e27]:
+            - combobox "Search" [expanded] [ref=f447e30]
+            - button "Search" [ref=f447e31] [cursor=pointer]
+        - generic [ref=f447e34]:
+          - button "Search with your voice" [ref=f447e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f447e45]
+  - main [ref=f447e47]:
+    - generic [ref=f447e54]:
+      - generic [ref=f447e70]:
+        - heading "The AI Architects | Tom Crawshaw" [level=1] [ref=f447e72]
+        - generic [ref=f447e73]:
+          - group [ref=f447e74]:
+            - generic [ref=f447e75]: "@theaiarchitectswithtom"
+          - generic [aria-hidden] [ref=f447e76]: •
+          - group [ref=f447e77]:
+            - generic "19.2 thousand subscribers" [ref=f447e78]: 19.2k subscribers
+            - generic [aria-hidden] [ref=f447e79]: •
+            - generic [ref=f447e80]: 118 videos
+        - generic [ref=f447e82] [cursor=pointer]:
+          - generic [ref=f447e83]: I'm Tom Crawshaw. Builder, advisor, sworn enemy of the bookmark.
+          - button "Description. I'm Tom Crawshaw. Builder, advisor, sworn enemy of the bookm…tap for more." [ref=f447e84]:
+            - generic [ref=f447e85]: ...more
+        - generic [ref=f447e86]:
+          - link [ref=f447e89] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRTVFZzIzS2Q3YlJxR2c1Wl9oOVJBM3xBTl9pYzRkSXVndkRZZEFsUTY3cnVHWlA3d1VQWW9DdmNqWVNrcWxnaDNsSTFwTTRYLXB4aV94RzFEeEpXWGRDQV9tUHlXUXpHbDk1aEhLbWZCMmgzNjZiZ2o4UnFnR2ZJYTVN&q=https%3A%2F%2Ftheaiarchitects.com%2Fyt%2Fblueprint%2Fbio
+          - button "and 1 more link" [ref=f447e94] [cursor=pointer]
+        - button "Subscribe" [ref=f447e98] [cursor=pointer]
+      - tablist [ref=f447e105]:
+        - tablist [ref=f447e109]:
+          - tab "Home" [selected] [ref=f447e110] [cursor=pointer]
+          - tab "Videos" [ref=f447e112] [cursor=pointer]
+          - tab "Shorts" [ref=f447e114] [cursor=pointer]
+          - tab "Live" [ref=f447e116] [cursor=pointer]
+          - tab "Playlists" [ref=f447e118] [cursor=pointer]
+          - button "Search" [ref=f447e123] [cursor=pointer]
+    - generic [ref=f447e130]:
+      - generic [ref=f447e134]:
+        - heading [level=2] [ref=f447e137]:
+          - link "Claude Code FULL Course (Start Here)" [ref=f447e140] [cursor=pointer]:
+            - /url: /playlist?list=PLRcOOSRjCUeE
+          - link "Play all" [ref=f447e145] [cursor=pointer]:
+            - /url: /watch?v=Sh3LAwUh5VE&list=PLRcOOSRjCUeE
+        - generic [ref=f447e150]:
+          - generic [ref=f447e153]:
+            - generic [ref=f447e155] [cursor=pointer]:
+              - link [aria-hidden] [ref=f447e156]:
+                - /url: /watch?v=Sh3LAwUh5VE
+                - img [ref=f447e162]:
+                  - generic [ref=f447e163]: 1:20:38
+              - generic [ref=f447e165]:
+                - generic [ref=f447e166]:
+                  - heading "The ONLY Claude Code Tutorial You’ll Ever Need" [level=3] [ref=f447e167]:
+                    - link "The ONLY Claude Code Tutorial You’ll Ever Need 1 hour, 20 minutes" [ref=f447e168]:
+                      - /url: /watch?v=Sh3LAwUh5VE
+                      - text: The ONLY Claude Code Tutorial You’ll Ever Need
+                  - generic [ref=f447e170]:
+                    - group [ref=f447e171]:
+                      - link "The AI Architects | Tom Crawshaw" [ref=f447e174]:
+                        - /url: /@theaiarchitectswithtom
+                    - group [ref=f447e175]:
+                      - generic [ref=f447e176]: 1.8k views
+                      - generic [aria-hidden] [ref=f447e177]: •
+                      - generic "2 months ago" [ref=f447e178]
+                - button "More actions" [ref=f447e181]
+            - generic [ref=f447e186] [cursor=pointer]:
+              - link [aria-hidden] [ref=f447e187]:
+                - /url: /watch?v=u7efw7JkR8U
+                - img [ref=f447e193]:
+                  - generic [ref=f447e194]: 28:59
+              - generic [ref=f447e196]:
+                - generic [ref=f447e197]:
+                  - heading "I Spent 1,000 Hours in Claude Code, Here Are 10 Hacks I'd Never Skip" [level=3] [ref=f447e198]:
+                    - link "I Spent 1,000 Hours in Claude Code, Here Are 10 Hacks I'd Never Skip 28 minutes" [ref=f447e199]:
+                      - /url: /watch?v=u7efw7JkR8U
+                      - text: I Spent 1,000 Hours in Claude Code, Here Are 10 Hacks I'd Never Skip
+                  - generic [ref=f447e201]:
+                    - group [ref=f447e202]:
+                      - link "The AI Architects | Tom Crawshaw" [ref=f447e205]:
+                        - /url: /@theaiarchitectswithtom
+                    - group [ref=f447e206]:
+                      - generic [ref=f447e207]: 1.3k views
+                      - generic [aria-hidden] [ref=f447e208]: •
+                      - generic "2 months ago" [ref=f447e209]
+                    - group [ref=f447e210]:
+                      - img "Closed captions" [ref=f447e213]:
+                        - generic [ref=f447e214]: Subtitles
+                - button "More actions" [ref=f447e217]
+            - generic [ref=f447e222] [cursor=pointer]:
+              - link [aria-hidden] [ref=f447e223]:
+                - /url: /watch?v=ACM_l3z05do
+                - img [ref=f447e229]:
+                  - generic [ref=f447e230]: 19:24
+              - generic [ref=f447e232]:
+                - generic [ref=f447e233]:
+                  - heading "5 Mind-Blowing Use Cases for Claude Code" [level=3] [ref=f447e234]:
+                    - link "5 Mind-Blowing Use Cases for Claude Code 19 minutes" [ref=f447e235]:
+                      - /url: /watch?v=ACM_l3z05do
+                      - text: 5 Mind-Blowing Use Cases for Claude Code
+                  - generic [ref=f447e237]:
+                    - group [ref=f447e238]:
+                      - link "The AI Architects | Tom Crawshaw" [ref=f447e241]:
+                        - /url: /@theaiarchitectswithtom
+                    - group [ref=f447e242]:
+                      - generic [ref=f447e243]: 2.7k views
+                      - generic [aria-hidden] [ref=f447e244]: •
+                      - generic "3 months ago" [ref=f447e245]
+                - button "More actions" [ref=f447e248]
+            - generic [ref=f447e253] [cursor=pointer]:
+              - link [aria-hidden] [ref=f447e254]:
+                - /url: /watch?v=BgXEz4b-fjw
+                - img [ref=f447e260]:
+                  - generic [ref=f447e261]: 12:22
+              - generic [ref=f447e263]:
+                - generic [ref=f447e264]:
+                  - heading "If You Only Watch One Claude Code Video, Make It This" [level=3] [ref=f447e265]:
+                    - link "If You Only Watch One Claude Code Video, Make It This 12 minutes, 22 seconds" [ref=f447e266]:
+                      - /url: /watch?v=BgXEz4b-fjw
+                      - text: If You Only Watch One Claude Code Video, Make It This
+                  - generic [ref=f447e268]:
+                    - group [ref=f447e269]:
+                      - link "The AI Architects | Tom Crawshaw" [ref=f447e272]:
+                        - /url: /@theaiarchitectswithtom
+                    - group [ref=f447e273]:
+                      - generic [ref=f447e274]: 1.1k views
+                      - generic [aria-hidden] [ref=f447e275]: •
+                      - generic "3 months ago" [ref=f447e276]
+                    - group [ref=f447e277]:
+                      - img "Closed captions" [ref=f447e280]:
+                        - generic [ref=f447e281]: Subtitles
+                - button "More actions" [ref=f447e284]
+            - generic [ref=f447e289] [cursor=pointer]:
+              - link [aria-hidden] [ref=f447e290]:
+                - /url: /watch?v=VXCsqkH4IAI
+                - img [ref=f447e296]:
+                  - generic [ref=f447e297]: 48:15
+              - generic [ref=f447e299]:
+                - generic [ref=f447e300]:
+                  - heading "I Turned Claude Code Into a 12-Agent Team With Paperclip (Full Tutorial)" [level=3] [ref=f447e301]:
+                    - link "I Turned Claude Code Into a 12-Agent Team With Paperclip (Full Tutorial) 48 minutes" [ref=f447e302]:
+                      - /url: /watch?v=VXCsqkH4IAI
+                      - text: I Turned Claude Code Into a 12-Agent Team With Paperclip (Full Tutorial)
+                  - generic [ref=f447e304]:
+                    - group [ref=f447e305]:
+                      - link "The AI Architects | Tom Crawshaw" [ref=f447e308]:
+                        - /url: /@theaiarchitectswithtom
+                    - group [ref=f447e309]:
+                      - generic [ref=f447e310]: 782 views
+                      - generic [aria-hidden] [ref=f447e311]: •
+                      - generic "Streamed 2 months ago" [ref=f447e312]
+                - button "More actions" [ref=f447e315]
+            - generic [ref=f447e320] [cursor=pointer]:
+              - link [aria-hidden] [ref=f447e321]:
+                - /url: /watch?v=v_Wu1InQyOs
+                - img [ref=f447e327]:
+                  - generic [ref=f447e328]: 24:08
+              - generic [ref=f447e330]:
+                - generic [ref=f447e331]:
+                  - heading "How I Built a Full AI Content Creation Team with Claude Code" [level=3] [ref=f447e332]:
+                    - link "How I Built a Full AI Content Creation Team with Claude Code 24 minutes" [ref=f447e333]:
+                      - /url: /watch?v=v_Wu1InQyOs
+                      - text: How I Built a Full AI Content Creation Team with Claude Code
+                  - generic [ref=f447e335]:
+                    - group [ref=f447e336]:
+                      - link "The AI Architects | Tom Crawshaw" [ref=f447e339]:
+                        - /url: /@theaiarchitectswithtom
+                    - group [ref=f447e340]:
+                      - generic [ref=f447e341]: 3.8k views
+                      - generic [aria-hidden] [ref=f447e342]: •
+                      - generic "3 months ago" [ref=f447e343]
+                - button "More actions" [ref=f447e346]
+          - button "Next" [ref=f447e352] [cursor=pointer]
+      - generic [ref=f447e359]:
+        - heading [level=2] [ref=f447e362]:
+          - link "Student Interviews (The AI Architects)" [ref=f447e365] [cursor=pointer]:
+            - /url: /playlist?list=PL7Jg8fmzYtosIYv4uacXFnvkVnO4vifrI
+          - link "Play all" [ref=f447e370] [cursor=pointer]:
+            - /url: /watch?v=2Ir23Dsqirw&list=PL7Jg8fmzYtosIYv4uacXFnvkVnO4vifrI&pp=0gcJCboEgXWwhyeT
+        - generic [ref=f447e378]:
+          - generic [ref=f447e380] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e381]:
+              - /url: /watch?v=2Ir23Dsqirw&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f447e387]:
+                - generic [ref=f447e388]: 34:44
+            - generic [ref=f447e390]:
+              - generic [ref=f447e391]:
+                - heading "How an HVAC Company Saved $100K+ With n8n & Claude" [level=3] [ref=f447e392]:
+                  - link "How an HVAC Company Saved $100K+ With n8n & Claude 34 minutes" [ref=f447e393]:
+                    - /url: /watch?v=2Ir23Dsqirw&pp=0gcJCSQMAYcqIYzv
+                    - text: How an HVAC Company Saved $100K+ With n8n & Claude
+                - generic [ref=f447e395]:
+                  - group [ref=f447e396]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e399]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e400]:
+                    - generic [ref=f447e401]: 513 views
+                    - generic [aria-hidden] [ref=f447e402]: •
+                    - generic "3 months ago" [ref=f447e403]
+              - button "More actions" [ref=f447e406]
+          - generic [ref=f447e411] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e412]:
+              - /url: /watch?v=r-MAmd9y7hA
+              - img [ref=f447e418]:
+                - generic [ref=f447e419]: 17:29
+            - generic [ref=f447e421]:
+              - generic [ref=f447e422]:
+                - heading "How an Attorney Built His Own AI Dashboard With n8n + Claude (Case Study Interview)" [level=3] [ref=f447e423]:
+                  - link "How an Attorney Built His Own AI Dashboard With n8n + Claude (Case Study Interview) 17 minutes" [ref=f447e424]:
+                    - /url: /watch?v=r-MAmd9y7hA
+                    - text: How an Attorney Built His Own AI Dashboard With n8n + Claude (Case Study Interview)
+                - generic [ref=f447e426]:
+                  - group [ref=f447e427]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e430]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e431]:
+                    - generic [ref=f447e432]: 1.4k views
+                    - generic [aria-hidden] [ref=f447e433]: •
+                    - generic "4 months ago" [ref=f447e434]
+              - button "More actions" [ref=f447e437]
+          - generic [ref=f447e442] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e443]:
+              - /url: /watch?v=j7AjCeXVuQw
+              - img [ref=f447e449]:
+                - generic [ref=f447e450]: 42:02
+            - generic [ref=f447e452]:
+              - generic [ref=f447e453]:
+                - 'heading "Case Study: He Started Building AI Agents in Just 4 Months (No Coding Background)" [level=3] [ref=f447e454]':
+                  - 'link "Case Study: He Started Building AI Agents in Just 4 Months (No Coding Background) 42 minutes" [ref=f447e455]':
+                    - /url: /watch?v=j7AjCeXVuQw
+                    - text: "Case Study: He Started Building AI Agents in Just 4 Months (No Coding Background)"
+                - generic [ref=f447e457]:
+                  - group [ref=f447e458]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e461]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e462]:
+                    - generic [ref=f447e463]: 288 views
+                    - generic [aria-hidden] [ref=f447e464]: •
+                    - generic "4 months ago" [ref=f447e465]
+              - button "More actions" [ref=f447e468]
+          - generic [ref=f447e473] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e474]:
+              - /url: /watch?v=0yVqx3kGUbY
+              - img [ref=f447e480]:
+                - generic [ref=f447e481]: 22:50
+            - generic [ref=f447e483]:
+              - generic [ref=f447e484]:
+                - heading "This Civil Engineer Installed a System That Turns 2 Days of Data Entry Into 80 Seconds (No Code)" [level=3] [ref=f447e485]:
+                  - link "This Civil Engineer Installed a System That Turns 2 Days of Data Entry Into 80 Seconds (No Code) 22 minutes" [ref=f447e486]:
+                    - /url: /watch?v=0yVqx3kGUbY
+                    - text: This Civil Engineer Installed a System That Turns 2 Days of Data Entry Into 80 Seconds (No Code)
+                - generic [ref=f447e488]:
+                  - group [ref=f447e489]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e492]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e493]:
+                    - generic [ref=f447e494]: 365 views
+                    - generic [aria-hidden] [ref=f447e495]: •
+                    - generic "7 months ago" [ref=f447e496]
+              - button "More actions" [ref=f447e499]
+          - generic [ref=f447e504] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e505]:
+              - /url: /watch?v=OOK7N6vnQHo
+              - img [ref=f447e511]:
+                - generic [ref=f447e512]: 19:52
+            - generic [ref=f447e514]:
+              - generic [ref=f447e515]:
+                - heading "He Wrote for The Economist. Now He Builds AI Agents" [level=3] [ref=f447e516]:
+                  - link "He Wrote for The Economist. Now He Builds AI Agents 19 minutes" [ref=f447e517]:
+                    - /url: /watch?v=OOK7N6vnQHo
+                    - text: He Wrote for The Economist. Now He Builds AI Agents
+                - generic [ref=f447e519]:
+                  - group [ref=f447e520]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e523]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e524]:
+                    - generic [ref=f447e525]: 335 views
+                    - generic [aria-hidden] [ref=f447e526]: •
+                    - generic "9 months ago" [ref=f447e527]
+              - button "More actions" [ref=f447e530]
+          - generic [ref=f447e535] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e536]:
+              - /url: /watch?v=GWPo9X-927c
+              - img [ref=f447e542]:
+                - generic [ref=f447e543]: 11:59
+            - generic [ref=f447e545]:
+              - generic [ref=f447e546]:
+                - heading "How a Non-Technical CMO Built AI Agents in 30 Days (After Being Stuck for Months)" [level=3] [ref=f447e547]:
+                  - link "How a Non-Technical CMO Built AI Agents in 30 Days (After Being Stuck for Months) 11 minutes, 59 seconds" [ref=f447e548]:
+                    - /url: /watch?v=GWPo9X-927c
+                    - text: How a Non-Technical CMO Built AI Agents in 30 Days (After Being Stuck for Months)
+                - generic [ref=f447e550]:
+                  - group [ref=f447e551]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e554]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e555]:
+                    - generic [ref=f447e556]: 341 views
+                    - generic [aria-hidden] [ref=f447e557]: •
+                    - generic "10 months ago" [ref=f447e558]
+              - button "More actions" [ref=f447e561]
+      - generic [ref=f447e568]:
+        - heading [level=2] [ref=f447e571]:
+          - link "AI Automation Advice" [ref=f447e574] [cursor=pointer]:
+            - /url: /playlist?list=PL7Jg8fmzYtou0O0HgFsjWdVwxuqZE924V
+          - link "Play all" [ref=f447e579] [cursor=pointer]:
+            - /url: /watch?v=lqPzWrSJTL4&list=PL7Jg8fmzYtou0O0HgFsjWdVwxuqZE924V
+        - generic [ref=f447e587]:
+          - generic [ref=f447e589] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e590]:
+              - /url: /watch?v=lqPzWrSJTL4
+              - img [ref=f447e596]:
+                - generic [ref=f447e597]: 10:12
+            - generic [ref=f447e599]:
+              - generic [ref=f447e600]:
+                - heading "The NEW Way To Use AI In Your Business" [level=3] [ref=f447e601]:
+                  - link "The NEW Way To Use AI In Your Business 10 minutes, 12 seconds" [ref=f447e602]:
+                    - /url: /watch?v=lqPzWrSJTL4
+                    - text: The NEW Way To Use AI In Your Business
+                - generic [ref=f447e604]:
+                  - group [ref=f447e605]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e608]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e609]:
+                    - generic [ref=f447e610]: 748 views
+                    - generic [aria-hidden] [ref=f447e611]: •
+                    - generic "1 month ago" [ref=f447e612]
+              - button "More actions" [ref=f447e615]
+          - generic [ref=f447e620] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e621]:
+              - /url: /watch?v=BgXEz4b-fjw
+              - img [ref=f447e627]:
+                - generic [ref=f447e628]: 12:22
+            - generic [ref=f447e630]:
+              - generic [ref=f447e631]:
+                - heading "If You Only Watch One Claude Code Video, Make It This" [level=3] [ref=f447e632]:
+                  - link "If You Only Watch One Claude Code Video, Make It This 12 minutes, 22 seconds" [ref=f447e633]:
+                    - /url: /watch?v=BgXEz4b-fjw
+                    - text: If You Only Watch One Claude Code Video, Make It This
+                - generic [ref=f447e635]:
+                  - group [ref=f447e636]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e639]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e640]:
+                    - generic [ref=f447e641]: 1.1k views
+                    - generic [aria-hidden] [ref=f447e642]: •
+                    - generic "3 months ago" [ref=f447e643]
+                  - group [ref=f447e644]:
+                    - img "Closed captions" [ref=f447e647]:
+                      - generic [ref=f447e648]: Subtitles
+              - button "More actions" [ref=f447e651]
+          - generic [ref=f447e656] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e657]:
+              - /url: /watch?v=y77ds0P70mg
+              - img [ref=f447e663]:
+                - generic [ref=f447e664]: 22:21
+            - generic [ref=f447e666]:
+              - generic [ref=f447e667]:
+                - heading "My Unfiltered Advice for Anyone Learning AI in 2026" [level=3] [ref=f447e668]:
+                  - link "My Unfiltered Advice for Anyone Learning AI in 2026 22 minutes" [ref=f447e669]:
+                    - /url: /watch?v=y77ds0P70mg
+                    - text: My Unfiltered Advice for Anyone Learning AI in 2026
+                - generic [ref=f447e671]:
+                  - group [ref=f447e672]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e675]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e676]:
+                    - generic [ref=f447e677]: 1.3k views
+                    - generic [aria-hidden] [ref=f447e678]: •
+                    - generic "4 months ago" [ref=f447e679]
+              - button "More actions" [ref=f447e682]
+          - generic [ref=f447e687] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e688]:
+              - /url: /watch?v=uYXpZWSaKIs
+              - img [ref=f447e694]:
+                - generic [ref=f447e695]: 16:22
+            - generic [ref=f447e697]:
+              - generic [ref=f447e698]:
+                - heading "You DON'T Need to Grind 24/7 to Succeed in AI" [level=3] [ref=f447e699]:
+                  - link "You DON'T Need to Grind 24/7 to Succeed in AI 16 minutes" [ref=f447e700]:
+                    - /url: /watch?v=uYXpZWSaKIs
+                    - text: You DON'T Need to Grind 24/7 to Succeed in AI
+                - generic [ref=f447e702]:
+                  - group [ref=f447e703]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e706]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e707]:
+                    - generic [ref=f447e708]: 407 views
+                    - generic [aria-hidden] [ref=f447e709]: •
+                    - generic "4 months ago" [ref=f447e710]
+              - button "More actions" [ref=f447e713]
+          - generic [ref=f447e718] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e719]:
+              - /url: /watch?v=tCksDSndkYw
+              - img [ref=f447e725]:
+                - generic [ref=f447e726]: 14:50
+            - generic [ref=f447e728]:
+              - generic [ref=f447e729]:
+                - heading "AI Just Declared a War On Your Job (it's terrifying)" [level=3] [ref=f447e730]:
+                  - link "AI Just Declared a War On Your Job (it's terrifying) 14 minutes, 50 seconds" [ref=f447e731]:
+                    - /url: /watch?v=tCksDSndkYw
+                    - text: AI Just Declared a War On Your Job (it's terrifying)
+                - generic [ref=f447e733]:
+                  - group [ref=f447e734]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e737]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e738]:
+                    - generic [ref=f447e739]: 559 views
+                    - generic [aria-hidden] [ref=f447e740]: •
+                    - generic "5 months ago" [ref=f447e741]
+              - button "More actions" [ref=f447e744]
+          - generic [ref=f447e749] [cursor=pointer]:
+            - link [aria-hidden] [ref=f447e750]:
+              - /url: /watch?v=curCiHiyg7w
+              - img [ref=f447e756]:
+                - generic [ref=f447e757]: 14:44
+            - generic [ref=f447e759]:
+              - generic [ref=f447e760]:
+                - heading "OpenClaw Is NOT What You Think It Is (The Truth Nobody's Telling You)" [level=3] [ref=f447e761]:
+                  - link "OpenClaw Is NOT What You Think It Is (The Truth Nobody's Telling You) 14 minutes, 44 seconds" [ref=f447e762]:
+                    - /url: /watch?v=curCiHiyg7w
+                    - text: OpenClaw Is NOT What You Think It Is (The Truth Nobody's Telling You)
+                - generic [ref=f447e764]:
+                  - group [ref=f447e765]:
+                    - link "The AI Architects | Tom Crawshaw" [ref=f447e768]:
+                      - /url: /@theaiarchitectswithtom
+                  - group [ref=f447e769]:
+                    - generic [ref=f447e770]: 3.1k views
+                    - generic [aria-hidden] [ref=f447e771]: •
+                    - generic "6 months ago" [ref=f447e772]
+              - button "More actions" [ref=f447e775]

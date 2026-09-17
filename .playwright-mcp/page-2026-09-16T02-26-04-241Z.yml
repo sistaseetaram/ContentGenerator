@@ -1,0 +1,182 @@
+- generic [active] [ref=f385e1]:
+  - generic [ref=f385e3]:
+    - banner [ref=f385e5]:
+      - generic [ref=f385e7]:
+        - generic [ref=f385e8]:
+          - button "Guide" [ref=f385e10] [cursor=pointer]
+          - generic [ref=f385e12]:
+            - link:
+              - /url: /
+        - search [ref=f385e14]:
+          - generic [ref=f385e16]:
+            - combobox [expanded] [ref=f385e19]
+            - button "Search" [ref=f385e20] [cursor=pointer]
+    - navigation [ref=f385e27]
+    - main [ref=f385e29]:
+      - generic [ref=f385e36]:
+        - generic [ref=f385e52]:
+          - heading "Urban Decoders" [level=1] [ref=f385e54]
+          - generic [ref=f385e55]:
+            - group [ref=f385e56]:
+              - generic [ref=f385e57]: "@Urban_Decoders"
+            - generic [aria-hidden] [ref=f385e58]: •
+            - group [ref=f385e59]:
+              - generic "21.4 thousand subscribers" [ref=f385e60]: 21.4k subscribers
+              - generic [aria-hidden] [ref=f385e61]: •
+              - generic [ref=f385e62]: 154 videos
+          - generic [ref=f385e64] [cursor=pointer]:
+            - generic [ref=f385e65]: Decoding the cutting edge of Digital Twins, Architecture and AI
+            - button "Description. Decoding the cutting edge of Digital Twins, Architecture and…tap for more." [ref=f385e66]:
+              - generic [ref=f385e67]: ...more
+          - generic [ref=f385e68]:
+            - link [ref=f385e71] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljSEZzdW54am5XNlBuN2Z5QUlGRWpacXxBTl9pYzRjNURnVjJZV2RIUVZrMFJXTkdRcmlMbTVNTDktbnlIbGVDX2c4M3k1Y0FRVF9TMlA4NGdLamRTbjN6dzhqUzMtakpIRVpaUUtzZG1oQkp0Y3drYUQxZ0VRUEdZVHpv&q=https%3A%2F%2Fwww.instagram.com%2Furbandecoders%2F
+            - button "and 1 more link" [ref=f385e76] [cursor=pointer]
+          - button "Subscribe" [ref=f385e80] [cursor=pointer]
+        - tablist [ref=f385e87]:
+          - button [ref=f385e88] [cursor=pointer]
+          - tablist [ref=f385e93]:
+            - tab "Home" [selected] [ref=f385e94] [cursor=pointer]
+            - tab "Videos" [ref=f385e96] [cursor=pointer]
+            - tab "Shorts" [ref=f385e98] [cursor=pointer]
+            - tab "Playlists" [ref=f385e100] [cursor=pointer]
+            - button "Search" [ref=f385e105] [cursor=pointer]
+          - button [ref=f385e108] [cursor=pointer]
+      - generic [ref=f385e113]:
+        - generic [ref=f385e120]:
+          - generic [ref=f385e121]:
+            - heading "Architects Are Switching to Claude | Here's Why - FULL Guide 18 minutes" [level=3] [ref=f385e122]:
+              - link "Architects Are Switching to Claude | Here's Why - FULL Guide" [ref=f385e123] [cursor=pointer]:
+                - /url: /watch?v=la8Ml1fQfOg
+            - generic [ref=f385e126]:
+              - generic [ref=f385e127]: 115,516 views
+              - generic [ref=f385e128]: •1 month ago
+          - generic [ref=f385e129]:
+            - generic [ref=f385e131]:
+              - text: "Discover why architects are making the switch to Claude. In this comprehensive guide, we'll jump into the world of ai for architects and explore how Claude ai is transforming the industry. With its cutting-edge technology and user-friendly interface, Claude tutorial sessions have become increasingly popular among architects looking to enhance their ai productivity. By leveraging the power of Claude, architects can focus on high-level creative tasks, while the AI handles more mundane and time-consuming aspects of the design process. Whether you're an experienced architect or just starting out, this full guide will provide you with a deeper understanding of how Claude can help you work more efficiently and effectively. 00:00 Intro 00:32 Features, Memory & Instructions 02:06 Claude AI Models 03:05 Structured Prompting 04:24 Skills 06:30 Privacy, data & training 07:15 Projects 08:52 Deep Research 09:45 MCP for Software 11:23 MCP for Image Gen 12:25 Claude Design 14:58 Claude CoWork 16:30 Claude Code 17:50 Outro OpenArt with MCP +: Claude"
+              - link "https://tolt.link/urbandecoders" [ref=f385e132] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSHJTZGZfT3J3elNqRi1sUk9rLWJGTXxBTl9pYzRkUWdrS1ZkUGdGTVZ0Q3VSaDlKWlZsU19hYXdvaWxuX2dJeS1ST2lkdXBsLTMyZ3JRRjFPa2dBLW1Cajktd1RXRGhDUW0zUUlGMHEyZ2tuX0tJZ1NuVzc1MEwxX3RQ&q=https%3A%2F%2Ftolt.link%2Furbandecoders
+              - text: "Instagram:"
+              - link "https://www.instagram.com/urbandecoders/" [ref=f385e133] [cursor=pointer]:
+                - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSEdJQ19mZFlYdHBXeTloM256MjJvaHxBTl9pYzRmejY4RXFZMkRFMmZCenpkMTNUeU1pQXE5WVdHVVhVdklYZGEyZGdMSXBHa08yeVhnNmhEeUJOWkdmU2NvdTFIaktDUE83MmpROXB2MldRcVB2TnQyZU9DYWVRMUlf&q=https%3A%2F%2Fwww.instagram.com%2Furbandecoders%2F
+              - link "#claude" [ref=f385e134] [cursor=pointer]:
+                - /url: /hashtag/claude
+              - link "#anthropic" [ref=f385e135] [cursor=pointer]:
+                - /url: /hashtag/anthropic
+              - link "#ai" [ref=f385e136] [cursor=pointer]:
+                - /url: /hashtag/ai
+              - link "#architecture" [ref=f385e137] [cursor=pointer]:
+                - /url: /hashtag/architecture
+              - link "#generativeai" [ref=f385e138] [cursor=pointer]:
+                - /url: /hashtag/generativeai
+              - link "#claudeworkflows" [ref=f385e139] [cursor=pointer]:
+                - /url: /hashtag/claudeworkflows
+              - link "#fable" [ref=f385e140] [cursor=pointer]:
+                - /url: /hashtag/fable
+              - link "#opus" [ref=f385e141] [cursor=pointer]:
+                - /url: /hashtag/opus
+            - button [ref=f385e142] [cursor=pointer]:
+              - link "Read more" [ref=f385e144]:
+                - /url: /watch?v=la8Ml1fQfOg
+        - generic [ref=f385e148]:
+          - heading [level=2] [ref=f385e151]:
+            - link "Videos" [ref=f385e154] [cursor=pointer]:
+              - /url: /@Urban_Decoders/videos?view=0&sort=dd&shelf_id=1
+          - generic [ref=f385e160]:
+            - generic [ref=f385e162] [cursor=pointer]:
+              - link [aria-hidden] [ref=f385e163]:
+                - /url: /watch?v=SsBLhNgqTqQ
+                - img [ref=f385e169]:
+                  - generic [ref=f385e170]: 10:24
+              - generic [ref=f385e172]:
+                - generic [ref=f385e173]:
+                  - heading "I Tested GPT Astra for 3D Modeling - This is Getting Serious" [level=3] [ref=f385e174]:
+                    - link "I Tested GPT Astra for 3D Modeling - This is Getting Serious 10 minutes, 24 seconds" [ref=f385e175]:
+                      - /url: /watch?v=SsBLhNgqTqQ
+                      - text: I Tested GPT Astra for 3D Modeling - This is Getting Serious
+                  - group [ref=f385e178]:
+                    - generic [ref=f385e179]: 124k views
+                    - generic [aria-hidden] [ref=f385e180]: •
+                    - generic "2 days ago" [ref=f385e181]
+                - button "More actions" [ref=f385e184]
+            - generic [ref=f385e189] [cursor=pointer]:
+              - link [aria-hidden] [ref=f385e190]:
+                - /url: /watch?v=la8Ml1fQfOg
+                - img [ref=f385e196]:
+                  - generic [ref=f385e197]: 18:15
+              - generic [ref=f385e199]:
+                - generic [ref=f385e200]:
+                  - heading "Architects Are Switching to Claude | Here's Why - FULL Guide" [level=3] [ref=f385e201]:
+                    - link "Architects Are Switching to Claude | Here's Why - FULL Guide 18 minutes" [ref=f385e202]:
+                      - /url: /watch?v=la8Ml1fQfOg
+                      - text: Architects Are Switching to Claude | Here's Why - FULL Guide
+                  - group [ref=f385e205]:
+                    - generic [ref=f385e206]: 115k views
+                    - generic [aria-hidden] [ref=f385e207]: •
+                    - generic "1 month ago" [ref=f385e208]
+                - button "More actions" [ref=f385e211]
+            - generic [ref=f385e216] [cursor=pointer]:
+              - link [aria-hidden] [ref=f385e217]:
+                - /url: /watch?v=S4nvfDQ3ifk
+                - img [ref=f385e223]:
+                  - generic [ref=f385e224]: 12:36
+              - generic [ref=f385e226]:
+                - generic [ref=f385e227]:
+                  - heading "Place Buildings in Real Locations, Generate Infinite Design Options with AI" [level=3] [ref=f385e228]:
+                    - link "Place Buildings in Real Locations, Generate Infinite Design Options with AI 12 minutes, 36 seconds" [ref=f385e229]:
+                      - /url: /watch?v=S4nvfDQ3ifk
+                      - text: Place Buildings in Real Locations, Generate Infinite Design Options with AI
+                  - group [ref=f385e232]:
+                    - generic [ref=f385e233]: 4.6k views
+                    - generic [aria-hidden] [ref=f385e234]: •
+                    - generic "3 months ago" [ref=f385e235]
+                - button "More actions" [ref=f385e238]
+            - generic [ref=f385e243] [cursor=pointer]:
+              - link [aria-hidden] [ref=f385e244]:
+                - /url: /watch?v=gOHTYtAFr-M
+                - img [ref=f385e250]:
+                  - generic [ref=f385e251]: 9:13
+              - generic [ref=f385e253]:
+                - generic [ref=f385e254]:
+                  - heading "The Secret to Maps That Are Both Accurate and Stunning" [level=3] [ref=f385e255]:
+                    - link "The Secret to Maps That Are Both Accurate and Stunning 9 minutes, 13 seconds" [ref=f385e256]:
+                      - /url: /watch?v=gOHTYtAFr-M
+                      - text: The Secret to Maps That Are Both Accurate and Stunning
+                  - group [ref=f385e259]:
+                    - generic [ref=f385e260]: 1.7k views
+                    - generic [aria-hidden] [ref=f385e261]: •
+                    - generic "4 months ago" [ref=f385e262]
+                - button "More actions" [ref=f385e265]
+            - generic [ref=f385e270] [cursor=pointer]:
+              - link [aria-hidden] [ref=f385e271]:
+                - /url: /watch?v=PxKgZGG_fEc
+                - img [ref=f385e277]:
+                  - generic [ref=f385e278]: 8:02
+              - generic [ref=f385e280]:
+                - generic [ref=f385e281]:
+                  - heading "From Photo to Unreal Engine in Seconds | AI 3D Generation" [level=3] [ref=f385e282]:
+                    - link "From Photo to Unreal Engine in Seconds | AI 3D Generation 8 minutes, 2 seconds" [ref=f385e283]:
+                      - /url: /watch?v=PxKgZGG_fEc
+                      - text: From Photo to Unreal Engine in Seconds | AI 3D Generation
+                  - group [ref=f385e286]:
+                    - generic [ref=f385e287]: 1.5k views
+                    - generic [aria-hidden] [ref=f385e288]: •
+                    - generic "5 months ago" [ref=f385e289]
+                - button "More actions" [ref=f385e292]
+            - generic [ref=f385e297] [cursor=pointer]:
+              - link [aria-hidden] [ref=f385e298]:
+                - /url: /watch?v=X8UTudfyBZ0
+                - img [ref=f385e304]:
+                  - generic [ref=f385e305]: 8:05
+              - generic [ref=f385e307]:
+                - generic [ref=f385e308]:
+                  - 'heading "One Image, Full 3D Model: Tripo AI Architecture Workflow" [level=3] [ref=f385e309]':
+                    - 'link "One Image, Full 3D Model: Tripo AI Architecture Workflow 8 minutes, 5 seconds" [ref=f385e310]':
+                      - /url: /watch?v=X8UTudfyBZ0
+                      - text: "One Image, Full 3D Model: Tripo AI Architecture Workflow"
+                  - group [ref=f385e313]:
+                    - generic [ref=f385e314]: 4.6k views
+                    - generic [aria-hidden] [ref=f385e315]: •
+                    - generic "5 months ago" [ref=f385e316]
+                - button "More actions" [ref=f385e319]
+  - button

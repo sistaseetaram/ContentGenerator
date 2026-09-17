@@ -1,0 +1,543 @@
+- generic [ref=f519e2]:
+  - banner [ref=f519e4]:
+    - generic [ref=f519e6]:
+      - generic [ref=f519e7]:
+        - button "Guide" [ref=f519e9] [cursor=pointer]
+        - generic [ref=f519e11]:
+          - link "YouTube Home" [ref=f519e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f519e16]: IN
+        - button "Skip navigation" [ref=f519e20] [cursor=pointer]
+      - generic [ref=f519e24]:
+        - search [ref=f519e25]:
+          - generic [ref=f519e27]:
+            - combobox "Search" [expanded] [ref=f519e30]
+            - button "Search" [ref=f519e31] [cursor=pointer]
+        - generic [ref=f519e34]:
+          - button "Search with your voice" [ref=f519e36] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f519e41]:
+        - button "Settings" [ref=f519e46] [cursor=pointer]
+        - link "Sign in" [ref=f519e50] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%2540nateherk%252Fvideos&hl=en-GB&ec=65620
+  - navigation [ref=f519e54]
+  - main [ref=f519e56]:
+    - generic [ref=f519e63]:
+      - generic [ref=f519e79]:
+        - heading "Nate Herk | AI Automation, verified" [level=1] [ref=f519e81]:
+          - generic [ref=f519e82]: Nate Herk | AI Automation
+        - generic [ref=f519e86]:
+          - group [ref=f519e87]:
+            - generic [ref=f519e88]: "@nateherk"
+          - generic [aria-hidden] [ref=f519e89]: •
+          - group [ref=f519e90]:
+            - generic "1.01 million subscribers" [ref=f519e91]: 1.01m subscribers
+            - generic [aria-hidden] [ref=f519e92]: •
+            - generic [ref=f519e93]: 511 videos
+        - generic [ref=f519e95] [cursor=pointer]:
+          - generic [ref=f519e96]: Nate Herk is an AI educator, entrepreneur, and creator who helps people use AI to work smarter, build better businesses, and unlock new opportunities.
+          - button "Description. Nate Herk is an AI educator, entrepreneur, and creator who h…tap for more." [ref=f519e97]:
+            - generic [ref=f519e98]: ...more
+        - generic [ref=f519e99]:
+          - link [ref=f519e102] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljSHZ2eUYwdkhKZmFXYjg2UU83YzdZdXxBTl9pYzRmYi1abkNzS2RqSWM5VnNES2FmZWhfN3hCZkpnakNvOGRfdWlsMzI5R0xLajlyUGFPbmkyLVdCSUM4U0FlOE5XR05IdDB4eDNiQkw5R3BwYlJkN2hCcHhGVGhRNzl3&q=https%3A%2F%2Fwww.skool.com%2Fai-automation-society%2Fabout
+          - button "and 5 more links" [ref=f519e107] [cursor=pointer]
+        - button "Subscribe" [ref=f519e111] [cursor=pointer]
+      - tablist [ref=f519e118]:
+        - tablist [ref=f519e122]:
+          - tab "Home" [ref=f519e123] [cursor=pointer]
+          - tab "Videos" [selected] [ref=f519e125] [cursor=pointer]
+          - tab "Shorts" [ref=f519e127] [cursor=pointer]
+          - tab "Podcasts" [ref=f519e129] [cursor=pointer]
+          - tab "Playlists" [ref=f519e131] [cursor=pointer]
+          - tab "Posts" [ref=f519e133] [cursor=pointer]
+          - button "Search" [ref=f519e138] [cursor=pointer]
+    - generic [ref=f519e144]:
+      - tablist [ref=f519e147]:
+        - tab "Latest" [selected] [ref=f519e150] [cursor=pointer]
+        - tab "Popular" [ref=f519e155] [cursor=pointer]
+        - tab "Oldest" [ref=f519e160] [cursor=pointer]
+      - generic [ref=f519e163]:
+        - generic [ref=f519e167] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e168]:
+            - /url: /watch?v=ff7om2bBLKM
+            - img [ref=f519e174]:
+              - generic [ref=f519e175]: 14:29
+          - generic [ref=f519e177]:
+            - generic [ref=f519e178]:
+              - heading "Grok Bot Manages My Inbox (and has its own)" [level=3] [ref=f519e179]:
+                - link "Grok Bot Manages My Inbox (and has its own) 14 minutes, 29 seconds" [ref=f519e180]:
+                  - /url: /watch?v=ff7om2bBLKM
+                  - text: Grok Bot Manages My Inbox (and has its own)
+              - group [ref=f519e183]:
+                - generic [ref=f519e184]: 810 views
+                - generic [aria-hidden] [ref=f519e185]: •
+                - generic "2 hours ago" [ref=f519e186]
+            - button "More actions" [ref=f519e189]
+        - generic [ref=f519e196] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e197]:
+            - /url: /watch?v=68HH9HVFJDM
+            - img [ref=f519e203]:
+              - generic [ref=f519e204]: 10:26
+          - generic [ref=f519e206]:
+            - generic [ref=f519e207]:
+              - 'heading "AI News in 10 mins: 10% chance AI kills all humans" [level=3] [ref=f519e208]':
+                - 'link "AI News in 10 mins: 10% chance AI kills all humans 10 minutes, 26 seconds" [ref=f519e209]':
+                  - /url: /watch?v=68HH9HVFJDM
+                  - text: "AI News in 10 mins: 10% chance AI kills all humans"
+              - group [ref=f519e212]:
+                - generic [ref=f519e213]: 32k views
+                - generic [aria-hidden] [ref=f519e214]: •
+                - generic "2 days ago" [ref=f519e215]
+            - button "More actions" [ref=f519e218]
+        - generic [ref=f519e225] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e226]:
+            - /url: /watch?v=HIRDzMtuWFk
+            - img [ref=f519e232]:
+              - generic [ref=f519e233]: 9:48
+          - generic [ref=f519e235]:
+            - generic [ref=f519e236]:
+              - 'heading "Anthropic Engineer Explains: What to Build Instead of AI Agents" [level=3] [ref=f519e237]':
+                - 'link "Anthropic Engineer Explains: What to Build Instead of AI Agents 9 minutes, 48 seconds" [ref=f519e238]':
+                  - /url: /watch?v=HIRDzMtuWFk
+                  - text: "Anthropic Engineer Explains: What to Build Instead of AI Agents"
+              - group [ref=f519e241]:
+                - generic [ref=f519e242]: 185k views
+                - generic [aria-hidden] [ref=f519e243]: •
+                - generic "2 days ago" [ref=f519e244]
+            - button "More actions" [ref=f519e247]
+        - generic [ref=f519e254] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e255]:
+            - /url: /watch?v=6LNlCpQPYFc
+            - img [ref=f519e261]:
+              - generic [ref=f519e262]: 34:09
+          - generic [ref=f519e264]:
+            - generic [ref=f519e265]:
+              - heading "How to Actually Choose the Right AI Agent" [level=3] [ref=f519e266]:
+                - link "How to Actually Choose the Right AI Agent 34 minutes" [ref=f519e267]:
+                  - /url: /watch?v=6LNlCpQPYFc
+                  - text: How to Actually Choose the Right AI Agent
+              - generic [ref=f519e269]:
+                - group [ref=f519e270]:
+                  - generic [ref=f519e271]: Nate Herk | AI Automationand Mark Kashef
+                - group [ref=f519e276]:
+                  - generic [ref=f519e277]: 62k views
+                  - generic [aria-hidden] [ref=f519e278]: •
+                  - generic "4 days ago" [ref=f519e279]
+            - button "More actions" [ref=f519e282]
+        - generic [ref=f519e289] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e290]:
+            - /url: /watch?v=5QmOhvVssxY&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f519e296]:
+              - generic [ref=f519e297]: 6:40
+          - generic [ref=f519e299]:
+            - generic [ref=f519e300]:
+              - heading "Thank You for 1M Subscribers" [level=3] [ref=f519e301]:
+                - link "Thank You for 1M Subscribers 6 minutes, 40 seconds" [ref=f519e302]:
+                  - /url: /watch?v=5QmOhvVssxY&pp=0gcJCSQMAYcqIYzv
+                  - text: Thank You for 1M Subscribers
+              - group [ref=f519e305]:
+                - generic [ref=f519e306]: 34k views
+                - generic [aria-hidden] [ref=f519e307]: •
+                - generic "6 days ago" [ref=f519e308]
+            - button "More actions" [ref=f519e311]
+        - generic [ref=f519e318] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e319]:
+            - /url: /watch?v=o3IEkKXXXvo&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f519e325]:
+              - generic [ref=f519e326]: 29:58
+          - generic [ref=f519e328]:
+            - generic [ref=f519e329]:
+              - heading "GPT-6 Astra Finally Solves AI Video Editing (full guide)" [level=3] [ref=f519e330]:
+                - link "GPT-6 Astra Finally Solves AI Video Editing (full guide) 29 minutes" [ref=f519e331]:
+                  - /url: /watch?v=o3IEkKXXXvo&pp=0gcJCSQMAYcqIYzv
+                  - text: GPT-6 Astra Finally Solves AI Video Editing (full guide)
+              - group [ref=f519e334]:
+                - generic [ref=f519e335]: 279k views
+                - generic [aria-hidden] [ref=f519e336]: •
+                - generic "7 days ago" [ref=f519e337]
+            - button "More actions" [ref=f519e340]
+        - generic [ref=f519e347] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e348]:
+            - /url: /watch?v=TLQLfa7yH4I&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f519e354]:
+              - generic [ref=f519e355]: 17:05
+          - generic [ref=f519e357]:
+            - generic [ref=f519e358]:
+              - heading "I Turned GPT-6 Astra Into a 24/7 Stock Trader (tutorial)" [level=3] [ref=f519e359]:
+                - link "I Turned GPT-6 Astra Into a 24/7 Stock Trader (tutorial) 17 minutes" [ref=f519e360]:
+                  - /url: /watch?v=TLQLfa7yH4I&pp=0gcJCSQMAYcqIYzv
+                  - text: I Turned GPT-6 Astra Into a 24/7 Stock Trader (tutorial)
+              - group [ref=f519e363]:
+                - generic [ref=f519e364]: 378k views
+                - generic [aria-hidden] [ref=f519e365]: •
+                - generic "8 days ago" [ref=f519e366]
+            - button "More actions" [ref=f519e369]
+        - generic [ref=f519e376] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e377]:
+            - /url: /watch?v=yysILVsfLFM
+            - img [ref=f519e383]:
+              - generic [ref=f519e384]: 19:49
+          - generic [ref=f519e386]:
+            - generic [ref=f519e387]:
+              - heading "I Turned GPT-6 Astra Into the Ultimate AI Second Brain" [level=3] [ref=f519e388]:
+                - link "I Turned GPT-6 Astra Into the Ultimate AI Second Brain 19 minutes" [ref=f519e389]:
+                  - /url: /watch?v=yysILVsfLFM
+                  - text: I Turned GPT-6 Astra Into the Ultimate AI Second Brain
+              - group [ref=f519e392]:
+                - generic [ref=f519e393]: 188k views
+                - generic [aria-hidden] [ref=f519e394]: •
+                - generic "9 days ago" [ref=f519e395]
+            - button "More actions" [ref=f519e398]
+        - generic [ref=f519e405] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e406]:
+            - /url: /watch?v=WfJPBVXPt8k
+            - img [ref=f519e412]:
+              - generic [ref=f519e413]: 38:36
+          - generic [ref=f519e415]:
+            - generic [ref=f519e416]:
+              - heading "I Tested GPT-6 Astra vs Fable 5.1 on 15 Real Use Cases" [level=3] [ref=f519e417]:
+                - link "I Tested GPT-6 Astra vs Fable 5.1 on 15 Real Use Cases 38 minutes" [ref=f519e418]:
+                  - /url: /watch?v=WfJPBVXPt8k
+                  - text: I Tested GPT-6 Astra vs Fable 5.1 on 15 Real Use Cases
+              - group [ref=f519e421]:
+                - generic [ref=f519e422]: 369k views
+                - generic [aria-hidden] [ref=f519e423]: •
+                - generic "9 days ago" [ref=f519e424]
+            - button "More actions" [ref=f519e427]
+        - generic [ref=f519e434] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e435]:
+            - /url: /watch?v=9oi-b5Dvtso
+            - img [ref=f519e441]:
+              - generic [ref=f519e442]: 14:45
+          - generic [ref=f519e444]:
+            - generic [ref=f519e445]:
+              - heading "GPT-6 Astra Voice Mode Automates Literally Anything" [level=3] [ref=f519e446]:
+                - link "GPT-6 Astra Voice Mode Automates Literally Anything 14 minutes, 45 seconds" [ref=f519e447]:
+                  - /url: /watch?v=9oi-b5Dvtso
+                  - text: GPT-6 Astra Voice Mode Automates Literally Anything
+              - group [ref=f519e450]:
+                - generic [ref=f519e451]: 198k views
+                - generic [aria-hidden] [ref=f519e452]: •
+                - generic "10 days ago" [ref=f519e453]
+            - button "More actions" [ref=f519e456]
+        - generic [ref=f519e463] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e464]:
+            - /url: /watch?v=QhmhUgccaS0
+            - img [ref=f519e470]:
+              - generic [ref=f519e471]: 8:37
+          - generic [ref=f519e473]:
+            - generic [ref=f519e474]:
+              - heading "GPT-6 Astra FINALLY Kills AI Website Slop" [level=3] [ref=f519e475]:
+                - link "GPT-6 Astra FINALLY Kills AI Website Slop 8 minutes, 37 seconds" [ref=f519e476]:
+                  - /url: /watch?v=QhmhUgccaS0
+                  - text: GPT-6 Astra FINALLY Kills AI Website Slop
+              - group [ref=f519e479]:
+                - generic [ref=f519e480]: 301k views
+                - generic [aria-hidden] [ref=f519e481]: •
+                - generic "11 days ago" [ref=f519e482]
+            - button "More actions" [ref=f519e485]
+        - generic [ref=f519e492] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e493]:
+            - /url: /watch?v=dT5-x3u5nCg
+            - img [ref=f519e499]:
+              - generic [ref=f519e500]: 4:39
+          - generic [ref=f519e502]:
+            - generic [ref=f519e503]:
+              - heading "GPT-6 Astra Made This Entire Video" [level=3] [ref=f519e504]:
+                - link "GPT-6 Astra Made This Entire Video 4 minutes, 39 seconds" [ref=f519e505]:
+                  - /url: /watch?v=dT5-x3u5nCg
+                  - text: GPT-6 Astra Made This Entire Video
+              - group [ref=f519e508]:
+                - generic [ref=f519e509]: 428k views
+                - generic [aria-hidden] [ref=f519e510]: •
+                - generic "11 days ago" [ref=f519e511]
+            - button "More actions" [ref=f519e514]
+        - generic [ref=f519e521] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e522]:
+            - /url: /watch?v=5FukkI4fbiU
+            - img [ref=f519e528]:
+              - generic [ref=f519e529]: 12:37
+          - generic [ref=f519e531]:
+            - generic [ref=f519e532]:
+              - heading "I Had Fable 5.1 and 5 Build Me the Same App" [level=3] [ref=f519e533]:
+                - link "I Had Fable 5.1 and 5 Build Me the Same App 12 minutes, 37 seconds" [ref=f519e534]:
+                  - /url: /watch?v=5FukkI4fbiU
+                  - text: I Had Fable 5.1 and 5 Build Me the Same App
+              - group [ref=f519e537]:
+                - generic [ref=f519e538]: 64k views
+                - generic [aria-hidden] [ref=f519e539]: •
+                - generic "12 days ago" [ref=f519e540]
+            - button "More actions" [ref=f519e543]
+        - generic [ref=f519e550] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e551]:
+            - /url: /watch?v=NbUTIFEEXLY
+            - img [ref=f519e557]:
+              - generic [ref=f519e558]: 5:42
+          - generic [ref=f519e560]:
+            - generic [ref=f519e561]:
+              - 'heading "AI News in 5 Mins: GPT-6 Astra" [level=3] [ref=f519e562]':
+                - 'link "AI News in 5 Mins: GPT-6 Astra 5 minutes, 42 seconds" [ref=f519e563]':
+                  - /url: /watch?v=NbUTIFEEXLY
+                  - text: "AI News in 5 Mins: GPT-6 Astra"
+              - group [ref=f519e566]:
+                - generic [ref=f519e567]: 229k views
+                - generic [aria-hidden] [ref=f519e568]: •
+                - generic "12 days ago" [ref=f519e569]
+            - button "More actions" [ref=f519e572]
+        - generic [ref=f519e579] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e580]:
+            - /url: /watch?v=FBVNS1l5Vb8
+            - img [ref=f519e586]:
+              - generic [ref=f519e587]: 11:32
+          - generic [ref=f519e589]:
+            - generic [ref=f519e590]:
+              - heading "How Anthropic ACTUALLY Prompts Fable 5.1" [level=3] [ref=f519e591]:
+                - link "How Anthropic ACTUALLY Prompts Fable 5.1 11 minutes, 32 seconds" [ref=f519e592]:
+                  - /url: /watch?v=FBVNS1l5Vb8
+                  - text: How Anthropic ACTUALLY Prompts Fable 5.1
+              - group [ref=f519e595]:
+                - generic [ref=f519e596]: 77k views
+                - generic [aria-hidden] [ref=f519e597]: •
+                - generic "13 days ago" [ref=f519e598]
+            - button "More actions" [ref=f519e601]
+        - generic [ref=f519e608] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e609]:
+            - /url: /watch?v=FFWtxjvW2ts
+            - img [ref=f519e615]:
+              - generic [ref=f519e616]: 16:13
+          - generic [ref=f519e618]:
+            - generic [ref=f519e619]:
+              - heading "Fable 5.1 FINALLY Kills AI Website Slop" [level=3] [ref=f519e620]:
+                - link "Fable 5.1 FINALLY Kills AI Website Slop 16 minutes" [ref=f519e621]:
+                  - /url: /watch?v=FFWtxjvW2ts
+                  - text: Fable 5.1 FINALLY Kills AI Website Slop
+              - group [ref=f519e624]:
+                - generic [ref=f519e625]: 212k views
+                - generic [aria-hidden] [ref=f519e626]: •
+                - generic "2 weeks ago" [ref=f519e627]
+            - button "More actions" [ref=f519e630]
+        - generic [ref=f519e637] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e638]:
+            - /url: /watch?v=8IyORt-7rOQ
+            - img [ref=f519e644]:
+              - generic [ref=f519e645]: 5:31
+          - generic [ref=f519e647]:
+            - generic [ref=f519e648]:
+              - heading "Fable 5.1 Just Dropped. It Looks Unreal." [level=3] [ref=f519e649]:
+                - link "Fable 5.1 Just Dropped. It Looks Unreal. 5 minutes, 31 seconds" [ref=f519e650]:
+                  - /url: /watch?v=8IyORt-7rOQ
+                  - text: Fable 5.1 Just Dropped. It Looks Unreal.
+              - group [ref=f519e653]:
+                - generic [ref=f519e654]: 105k views
+                - generic [aria-hidden] [ref=f519e655]: •
+                - generic "2 weeks ago" [ref=f519e656]
+            - button "More actions" [ref=f519e659]
+        - generic [ref=f519e666] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e667]:
+            - /url: /watch?v=Lbax7_pW2Nw
+            - img [ref=f519e673]:
+              - generic [ref=f519e674]: 14:20
+          - generic [ref=f519e676]:
+            - generic [ref=f519e677]:
+              - heading "Anthropic is Teaching Claude to be Evil (real results)" [level=3] [ref=f519e678]:
+                - link "Anthropic is Teaching Claude to be Evil (real results) 14 minutes, 20 seconds" [ref=f519e679]:
+                  - /url: /watch?v=Lbax7_pW2Nw
+                  - text: Anthropic is Teaching Claude to be Evil (real results)
+              - group [ref=f519e682]:
+                - generic [ref=f519e683]: 25k views
+                - generic [aria-hidden] [ref=f519e684]: •
+                - generic "2 weeks ago" [ref=f519e685]
+            - button "More actions" [ref=f519e688]
+        - generic [ref=f519e695] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e696]:
+            - /url: /watch?v=NyfYxpXiw_0
+            - img [ref=f519e702]:
+              - generic [ref=f519e703]: 21:32
+          - generic [ref=f519e705]:
+            - generic [ref=f519e706]:
+              - heading "Every Grok Bot Concept Explained for Normal People" [level=3] [ref=f519e707]:
+                - link "Every Grok Bot Concept Explained for Normal People 21 minutes" [ref=f519e708]:
+                  - /url: /watch?v=NyfYxpXiw_0
+                  - text: Every Grok Bot Concept Explained for Normal People
+              - group [ref=f519e711]:
+                - generic [ref=f519e712]: 236k views
+                - generic [aria-hidden] [ref=f519e713]: •
+                - generic "2 weeks ago" [ref=f519e714]
+            - button "More actions" [ref=f519e717]
+        - generic [ref=f519e724] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e725]:
+            - /url: /watch?v=4hKJ9X6rGFo
+            - img [ref=f519e731]:
+              - generic [ref=f519e732]: 1:45:42
+          - generic [ref=f519e734]:
+            - generic [ref=f519e735]:
+              - heading "Build & Sell Grok Bots (2 Hour Course)" [level=3] [ref=f519e736]:
+                - link "Build & Sell Grok Bots (2 Hour Course) 1 hour, 45 minutes" [ref=f519e737]:
+                  - /url: /watch?v=4hKJ9X6rGFo
+                  - text: Build & Sell Grok Bots (2 Hour Course)
+              - group [ref=f519e740]:
+                - generic [ref=f519e741]: 207k views
+                - generic [aria-hidden] [ref=f519e742]: •
+                - generic "2 weeks ago" [ref=f519e743]
+            - button "More actions" [ref=f519e746]
+        - generic [ref=f519e753] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e754]:
+            - /url: /watch?v=PYjbeY8sGLs
+            - img [ref=f519e760]:
+              - generic [ref=f519e761]: 14:00
+          - generic [ref=f519e763]:
+            - generic [ref=f519e764]:
+              - heading "I Cloned Calendly and Now It’s Free Forever" [level=3] [ref=f519e765]:
+                - link "I Cloned Calendly and Now It’s Free Forever 14 minutes" [ref=f519e766]:
+                  - /url: /watch?v=PYjbeY8sGLs
+                  - text: I Cloned Calendly and Now It’s Free Forever
+              - group [ref=f519e769]:
+                - generic [ref=f519e770]: 64k views
+                - generic [aria-hidden] [ref=f519e771]: •
+                - generic "2 weeks ago" [ref=f519e772]
+            - button "More actions" [ref=f519e775]
+        - generic [ref=f519e782] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e783]:
+            - /url: /watch?v=gQef3d3erOs&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f519e789]:
+              - generic [ref=f519e790]: 14:21
+          - generic [ref=f519e792]:
+            - generic [ref=f519e793]:
+              - heading "Set Up a Personal Hermes in 14 Mins (no VPS or mac mini)" [level=3] [ref=f519e794]:
+                - link "Set Up a Personal Hermes in 14 Mins (no VPS or mac mini) 14 minutes, 21 seconds" [ref=f519e795]:
+                  - /url: /watch?v=gQef3d3erOs&pp=0gcJCSQMAYcqIYzv
+                  - text: Set Up a Personal Hermes in 14 Mins (no VPS or mac mini)
+              - group [ref=f519e798]:
+                - generic [ref=f519e799]: 55k views
+                - generic [aria-hidden] [ref=f519e800]: •
+                - generic "2 weeks ago" [ref=f519e801]
+            - button "More actions" [ref=f519e804]
+        - generic [ref=f519e811] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e812]:
+            - /url: /watch?v=bg0C-2iUUqM
+            - img [ref=f519e818]:
+              - generic [ref=f519e819]: 20:34
+          - generic [ref=f519e821]:
+            - generic [ref=f519e822]:
+              - heading "I Tested Claude Code vs. Codex on Design. It Wasn't Even Close." [level=3] [ref=f519e823]:
+                - link "I Tested Claude Code vs. Codex on Design. It Wasn't Even Close. 20 minutes" [ref=f519e824]:
+                  - /url: /watch?v=bg0C-2iUUqM
+                  - text: I Tested Claude Code vs. Codex on Design. It Wasn't Even Close.
+              - group [ref=f519e827]:
+                - generic [ref=f519e828]: 79k views
+                - generic [aria-hidden] [ref=f519e829]: •
+                - generic "2 weeks ago" [ref=f519e830]
+            - button "More actions" [ref=f519e833]
+        - generic [ref=f519e840] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e841]:
+            - /url: /watch?v=DoHPZf7jEQ4
+            - img [ref=f519e847]:
+              - generic [ref=f519e848]: 28:35
+          - generic [ref=f519e850]:
+            - generic [ref=f519e851]:
+              - heading "The 3-Step System Behind My $20K/Month AI Agency Retainers" [level=3] [ref=f519e852]:
+                - link "The 3-Step System Behind My $20K/Month AI Agency Retainers 28 minutes" [ref=f519e853]:
+                  - /url: /watch?v=DoHPZf7jEQ4
+                  - text: The 3-Step System Behind My $20K/Month AI Agency Retainers
+              - group [ref=f519e856]:
+                - generic [ref=f519e857]: 27k views
+                - generic [aria-hidden] [ref=f519e858]: •
+                - generic "3 weeks ago" [ref=f519e859]
+            - button "More actions" [ref=f519e862]
+        - generic [ref=f519e869] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e870]:
+            - /url: /watch?v=ZzHsJW10iq4
+            - img [ref=f519e876]:
+              - generic [ref=f519e877]: 10:21
+          - generic [ref=f519e879]:
+            - generic [ref=f519e880]:
+              - heading "Everything Goldman Sachs Taught Me About AI (In 10 minutes)" [level=3] [ref=f519e881]:
+                - link "Everything Goldman Sachs Taught Me About AI (In 10 minutes) 10 minutes, 21 seconds" [ref=f519e882]:
+                  - /url: /watch?v=ZzHsJW10iq4
+                  - text: Everything Goldman Sachs Taught Me About AI (In 10 minutes)
+              - group [ref=f519e885]:
+                - generic [ref=f519e886]: 18k views
+                - generic [aria-hidden] [ref=f519e887]: •
+                - generic "3 weeks ago" [ref=f519e888]
+            - button "More actions" [ref=f519e891]
+        - generic [ref=f519e898] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e899]:
+            - /url: /watch?v=UsfCe5fJK6A
+            - img [ref=f519e905]:
+              - generic [ref=f519e906]: 18:02
+          - generic [ref=f519e908]:
+            - generic [ref=f519e909]:
+              - heading "100 Hours Testing Deepseek Harness vs. Claude Code. What You Need to Know." [level=3] [ref=f519e910]:
+                - link "100 Hours Testing Deepseek Harness vs. Claude Code. What You Need to Know. 18 minutes" [ref=f519e911]:
+                  - /url: /watch?v=UsfCe5fJK6A
+                  - text: 100 Hours Testing Deepseek Harness vs. Claude Code. What You Need to Know.
+              - group [ref=f519e914]:
+                - generic [ref=f519e915]: 161k views
+                - generic [aria-hidden] [ref=f519e916]: •
+                - generic "3 weeks ago" [ref=f519e917]
+            - button "More actions" [ref=f519e920]
+        - generic [ref=f519e927] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e928]:
+            - /url: /watch?v=QUI6Ug4cHnE
+            - img [ref=f519e934]:
+              - generic [ref=f519e935]: 16:44
+          - generic [ref=f519e937]:
+            - generic [ref=f519e938]:
+              - heading "I Built The Ultimate Claude Website Design Skill (steal this)" [level=3] [ref=f519e939]:
+                - link "I Built The Ultimate Claude Website Design Skill (steal this) 16 minutes" [ref=f519e940]:
+                  - /url: /watch?v=QUI6Ug4cHnE
+                  - text: I Built The Ultimate Claude Website Design Skill (steal this)
+              - group [ref=f519e943]:
+                - generic [ref=f519e944]: 201k views
+                - generic [aria-hidden] [ref=f519e945]: •
+                - generic "3 weeks ago" [ref=f519e946]
+            - button "More actions" [ref=f519e949]
+        - generic [ref=f519e956] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e957]:
+            - /url: /watch?v=_kK_4cOYF4o&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f519e963]:
+              - generic [ref=f519e964]: 13:34
+          - generic [ref=f519e966]:
+            - generic [ref=f519e967]:
+              - heading "This Stealth Model Makes Claude Code Free. Here's How." [level=3] [ref=f519e968]:
+                - link "This Stealth Model Makes Claude Code Free. Here's How. 13 minutes, 34 seconds" [ref=f519e969]:
+                  - /url: /watch?v=_kK_4cOYF4o&pp=0gcJCSQMAYcqIYzv
+                  - text: This Stealth Model Makes Claude Code Free. Here's How.
+              - group [ref=f519e972]:
+                - generic [ref=f519e973]: 45k views
+                - generic [aria-hidden] [ref=f519e974]: •
+                - generic "3 weeks ago" [ref=f519e975]
+            - button "More actions" [ref=f519e978]
+        - generic [ref=f519e985] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e986]:
+            - /url: /watch?v=yCACmFTiCto
+            - img [ref=f519e992]:
+              - generic [ref=f519e993]: 38:29
+          - generic [ref=f519e995]:
+            - generic [ref=f519e996]:
+              - heading "Turn Claude Into a One Person Marketing Team in 38 Mins" [level=3] [ref=f519e997]:
+                - link "Turn Claude Into a One Person Marketing Team in 38 Mins 38 minutes" [ref=f519e998]:
+                  - /url: /watch?v=yCACmFTiCto
+                  - text: Turn Claude Into a One Person Marketing Team in 38 Mins
+              - group [ref=f519e1001]:
+                - generic [ref=f519e1002]: 60k views
+                - generic [aria-hidden] [ref=f519e1003]: •
+                - generic "3 weeks ago" [ref=f519e1004]
+            - button "More actions" [ref=f519e1007]
+        - generic [ref=f519e1014] [cursor=pointer]:
+          - link [aria-hidden] [ref=f519e1015]:
+            - /url: /watch?v=tgjYMym_0-c
+            - img [ref=f519e1021]:
+              - generic [ref=f519e1022]: 10:46
+          - generic [ref=f519e1024]:
+            - generic [ref=f519e1025]:
+              - heading "Sell These 5 Most In Demand AI Automations in 2026" [level=3] [ref=f519e1026]:
+                - link "Sell These 5 Most In Demand AI Automations in 2026 10 minutes, 46 seconds" [ref=f519e1027]:
+                  - /url: /watch?v=tgjYMym_0-c
+                  - text: Sell These 5 Most In Demand AI Automations in 2026
+              - group [ref=f519e1030]:
+                - generic [ref=f519e1031]: 35k views
+                - generic [aria-hidden] [ref=f519e1032]: •
+                - generic "3 weeks ago" [ref=f519e1033]
+            - button "More actions" [ref=f519e1036]

@@ -1,0 +1,208 @@
+- generic [ref=f311e2]:
+  - banner [ref=f311e4]:
+    - generic [ref=f311e6]:
+      - generic [ref=f311e7]:
+        - button "Guide" [active] [ref=f311e9] [cursor=pointer]
+        - generic [ref=f311e11]:
+          - link "YouTube Home" [ref=f311e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f311e16]: IN
+        - button "Skip navigation" [ref=f311e20] [cursor=pointer]
+      - generic [ref=f311e24]:
+        - search [ref=f311e25]:
+          - generic [ref=f311e27]:
+            - generic [ref=f311e28]:
+              - combobox "Search" [expanded] [ref=f311e30]: "\"New ChatGPT features for Architects & Interior Designers\""
+              - button "Clear search query" [ref=f311e32] [cursor=pointer]
+            - button "Search" [ref=f311e37] [cursor=pointer]
+        - generic [ref=f311e40]:
+          - button "Search with your voice" [ref=f311e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f311e47]:
+        - button "Settings" [ref=f311e52] [cursor=pointer]
+        - link "Sign in" [ref=f311e56] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253D%252522New%252BChatGPT%252Bfeatures%252Bfor%252BArchitects%252B%252526%252BInterior%252BDesigners%252522&hl=en-GB&ec=65620
+  - navigation [ref=f311e60]
+  - main [ref=f311e62]:
+    - generic [ref=f311e63]:
+      - generic [ref=f311e65]:
+        - tablist [ref=f311e70]:
+          - tab "All" [selected] [ref=f311e74] [cursor=pointer]
+          - tab "Shorts" [ref=f311e80] [cursor=pointer]
+          - tab "Unwatched" [ref=f311e86] [cursor=pointer]
+          - tab "Watched" [ref=f311e92] [cursor=pointer]
+          - tab "Videos" [ref=f311e98] [cursor=pointer]
+          - tab "Recently uploaded" [ref=f311e104] [cursor=pointer]
+          - tab "Live" [ref=f311e110] [cursor=pointer]
+        - generic [ref=f311e114]:
+          - button "Search filters" [ref=f311e116] [cursor=pointer]:
+            - generic: Filters
+          - tooltip "tooltip"
+      - generic [ref=f311e123]:
+        - generic [ref=f311e138] [cursor=pointer]:
+          - generic [ref=f311e139]:
+            - 'link "ChatGPT for Architects: AI Tools for Design, Content & Jobs" [ref=f311e142]':
+              - /url: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjGgO-9hfKWAxWiCoMDHbiNO-MYACICCAEQABoCc2Y&co=1&ase=2&gclid=EAIaIQobChMIxoDvvYXylgMVogqDAx24jTvjEAAYASAAEgJ3hfD_BwE&cid=CAAS0wHkaLFngNRH9RdHQzPeGaToi9uiicwg6hhA2yeAolMdL2er_LgT2LgiXNi3n4RRHG8RkWc2IWvRWTSy4XBsG98QDbEv028lDGEA0i3CfFsNOSyCNL64rxR8JWrmILPXopnuqOtAb1nX7680Ut5pI0GrBm7xgU0MK18q1fUD5v6Xalcp9y898O1EvigsyO4sEL-m4Cx5IqJsm8TCv70ubIh7TrzH2BYtwCFq7AIMMPWD8VqQmsMXfL_d0g5-cFw1qzqAlu-DgPi3fZQ4d3koeZqCIuSv&cce=2&category=acrcp_v1_32&sig=AOD64_1v00BUxkrAy1WGM_JNYmGH5baivQ&adurl=https://www.udemy.com/course/chatgpt-for-architects-ai-tools-for-design-content-jobs/%3Futm_campaign%3DSearch_DSA_Beta_Prof_la.EN_cc.India%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DIndia%26utm_audience%3Dmx%26utm_tactic%3Dnb%26utm_term%3D_._ag_160270535705_._ad_696202838343_._kw_%26utm_content%3Ds%26funnel%3D%26test%3D%26gad_source%3D2%26gad_campaignid%3D21178559974%26gclid%3DEAIaIQobChMIxoDvvYXylgMVogqDAx24jTvjEAAYASAAEgJ3hfD_BwE&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+            - link "Find the right instructor for you. Choose from many topics, skill levels, and languages. Join millions of learners from around the world..." [ref=f311e145]:
+              - /url: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjGgO-9hfKWAxWiCoMDHbiNO-MYACICCAEQABoCc2Y&co=1&ase=2&gclid=EAIaIQobChMIxoDvvYXylgMVogqDAx24jTvjEAAYASAAEgJ3hfD_BwE&cid=CAAS0wHkaLFngNRH9RdHQzPeGaToi9uiicwg6hhA2yeAolMdL2er_LgT2LgiXNi3n4RRHG8RkWc2IWvRWTSy4XBsG98QDbEv028lDGEA0i3CfFsNOSyCNL64rxR8JWrmILPXopnuqOtAb1nX7680Ut5pI0GrBm7xgU0MK18q1fUD5v6Xalcp9y898O1EvigsyO4sEL-m4Cx5IqJsm8TCv70ubIh7TrzH2BYtwCFq7AIMMPWD8VqQmsMXfL_d0g5-cFw1qzqAlu-DgPi3fZQ4d3koeZqCIuSv&cce=2&category=acrcp_v1_32&sig=AOD64_1v00BUxkrAy1WGM_JNYmGH5baivQ&adurl=https://www.udemy.com/course/chatgpt-for-architects-ai-tools-for-design-content-jobs/%3Futm_campaign%3DSearch_DSA_Beta_Prof_la.EN_cc.India%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DIndia%26utm_audience%3Dmx%26utm_tactic%3Dnb%26utm_term%3D_._ag_160270535705_._ad_696202838343_._kw_%26utm_content%3Ds%26funnel%3D%26test%3D%26gad_source%3D2%26gad_campaignid%3D21178559974%26gclid%3DEAIaIQobChMIxoDvvYXylgMVogqDAx24jTvjEAAYASAAEgJ3hfD_BwE&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+            - generic [ref=f311e146]:
+              - generic [ref=f311e148]:
+                - generic [ref=f311e149]: Sponsored
+                - text: ·
+              - generic [ref=f311e150]: https://www.udemy.com/
+          - button "My Ad Centre" [ref=f311e154]
+        - generic [ref=f311e159]:
+          - generic [ref=f311e161]:
+            - link [aria-hidden] [ref=f311e163] [cursor=pointer]:
+              - /url: /watch?v=BDFNdx0vRqo&pp=ygU6Ik5ldyBDaGF0R1BUIGZlYXR1cmVzIGZvciBBcmNoaXRlY3RzICYgSW50ZXJpb3IgRGVzaWduZXJzIg%3D%3D
+            - generic [ref=f311e165] [cursor=pointer]:
+              - generic [ref=f311e166]:
+                - heading [level=3] [ref=f311e168]:
+                  - link "New ChatGPT features for Architects & Interior Designers 🤯 Insanely good? Or bad 🤔 14 minutes, 49 seconds" [ref=f311e169]:
+                    - /url: /watch?v=BDFNdx0vRqo&pp=ygU6Ik5ldyBDaGF0R1BUIGZlYXR1cmVzIGZvciBBcmNoaXRlY3RzICYgSW50ZXJpb3IgRGVzaWduZXJzIg%3D%3D
+                    - text: New ChatGPT features for Architects & Interior Designers 🤯 Insanely good? Or bad 🤔
+                - generic [ref=f311e172]:
+                  - generic [ref=f311e173]: 449k views
+                  - generic [ref=f311e174]: •1 year ago
+              - generic [ref=f311e175]:
+                - link "Go to channel Archi Hacks" [ref=f311e176]:
+                  - /url: /@ArchiHacks
+                - link "Archi Hacks" [ref=f311e181]:
+                  - /url: /@ArchiHacks
+              - generic [ref=f311e182]:
+                - text: "If you are in the architecture or interior design field, you have to try these ChatGPT features!! Credits: Amir Hossein Noori: ..."
+                - tooltip "tooltip"
+              - generic [ref=f311e185]:
+                - generic [ref=f311e186]:
+                  - generic [ref=f311e189]: 6 chapters
+                  - button "Intro | Screenshot to Render | View change | Plan to render | Apply mood board | Image to CAD" [ref=f311e191]
+                - button "More" [ref=f311e196]
+          - generic [ref=f311e201] [cursor=pointer]:
+            - link [aria-hidden] [ref=f311e202]:
+              - /url: /watch?v=CtC7FbcaBh4&list=PLSSEaKeomSxSIxMY910p9oId14ulSF0WE
+              - generic [ref=f311e204]: 56 videos
+            - generic [ref=f311e217]:
+              - heading "!!2025-Interior Design & AI" [level=3] [ref=f311e218]:
+                - link "!!2025-Interior Design & AI" [ref=f311e219]:
+                  - /url: /watch?v=CtC7FbcaBh4&list=PLSSEaKeomSxSIxMY910p9oId14ulSF0WE
+              - generic [ref=f311e221]:
+                - group [ref=f311e222]:
+                  - link "Maria Flynn" [ref=f311e225]:
+                    - /url: /@mariaflynn4620
+                  - generic [aria-hidden] [ref=f311e226]: •
+                  - link "Playlist" [ref=f311e229]:
+                    - /url: /@mariaflynn4620
+                - group [ref=f311e230]
+                - group [ref=f311e231]:
+                  - link "Top 5 AI-Powered Interior Design Tools | Ultimate Review 2005 · 5:05" [ref=f311e233]:
+                    - /url: /watch?v=CtC7FbcaBh4&list=PLSSEaKeomSxSIxMY910p9oId14ulSF0WE
+                - group [ref=f311e234]:
+                  - link "I tried 12 AI interior design tools (NOT midjourney).. Here's my verdict. · 30:02" [ref=f311e236]:
+                    - /url: /watch?v=dceRdf6Bw-k&list=PLSSEaKeomSxSIxMY910p9oId14ulSF0WE
+                - group [ref=f311e237]
+                - group [ref=f311e238]:
+                  - link "View full playlist" [ref=f311e241]:
+                    - /url: /playlist?list=PLSSEaKeomSxSIxMY910p9oId14ulSF0WE
+        - generic [ref=f311e256] [cursor=pointer]:
+          - generic [ref=f311e257]:
+            - link "ChatGPT for Architects - ChatGPT Powered Architecture - Generate Renders with ChatGPT" [ref=f311e260]:
+              - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwjGgO-9hfKWAxWiCoMDHbiNO-MYACICCAEQAhoCc2Y&co=1&ase=2&gclid=EAIaIQobChMIxoDvvYXylgMVogqDAx24jTvjEAEYASAAEgJFQPD_BwE&num=2&cid=CAAS0wHkaLFngNRH9RdHQzPeGaToi9uiicwg6hhA2yeAolMdL2er_LgT2LgiXNi3n4RRHG8RkWc2IWvRWTSy4XBsG98QDbEv028lDGEA0i3CfFsNOSyCNL64rxR8JWrmILPXopnuqOtAb1nX7680Ut5pI0GrBm7xgU0MK18q1fUD5v6Xalcp9y898O1EvigsyO4sEL-m4Cx5IqJsm8TCv70ubIh7TrzH2BYtwCFq7AIMMPWD8VqQmsMXfL_d0g5-cFw1qzqAlu-DgPi3fZQ4d3koeZqCIuSv&cce=2&category=acrcp_v1_32&sig=AOD64_05ZHSml3MdxYsCKu4Wxsbnwq1nbQ&adurl=https://rerenderai.com/landing/chatgpt-architecture%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D23943507000%26utm_content%3D813147019909%26utm_term%3D%26network%3Ds%26device%3Dc%26devicemodel%3D%26matchtype%3Da%26adposition%3D%26adgroupid%3D196304181983%26gad_source%3D2%26gad_campaignid%3D23943507000&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+            - link "Generate 4K photoreal architectural renders from any 3D model, sketch, or text prompt. Upload your design and generate accurate..." [ref=f311e263]:
+              - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwjGgO-9hfKWAxWiCoMDHbiNO-MYACICCAEQAhoCc2Y&co=1&ase=2&gclid=EAIaIQobChMIxoDvvYXylgMVogqDAx24jTvjEAEYASAAEgJFQPD_BwE&num=2&cid=CAAS0wHkaLFngNRH9RdHQzPeGaToi9uiicwg6hhA2yeAolMdL2er_LgT2LgiXNi3n4RRHG8RkWc2IWvRWTSy4XBsG98QDbEv028lDGEA0i3CfFsNOSyCNL64rxR8JWrmILPXopnuqOtAb1nX7680Ut5pI0GrBm7xgU0MK18q1fUD5v6Xalcp9y898O1EvigsyO4sEL-m4Cx5IqJsm8TCv70ubIh7TrzH2BYtwCFq7AIMMPWD8VqQmsMXfL_d0g5-cFw1qzqAlu-DgPi3fZQ4d3koeZqCIuSv&cce=2&category=acrcp_v1_32&sig=AOD64_05ZHSml3MdxYsCKu4Wxsbnwq1nbQ&adurl=https://rerenderai.com/landing/chatgpt-architecture%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D23943507000%26utm_content%3D813147019909%26utm_term%3D%26network%3Ds%26device%3Dc%26devicemodel%3D%26matchtype%3Da%26adposition%3D%26adgroupid%3D196304181983%26gad_source%3D2%26gad_campaignid%3D23943507000&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+            - generic [ref=f311e264]:
+              - generic [ref=f311e266]:
+                - generic [ref=f311e267]: Sponsored
+                - text: ·
+              - generic [ref=f311e268]: https://www.rerenderai.com/
+          - button "My Ad Centre" [ref=f311e272]
+        - generic [ref=f311e277]:
+          - generic [ref=f311e279] [cursor=pointer]:
+            - link [aria-hidden] [ref=f311e280]:
+              - /url: /watch?v=hLH7-rem3V0&list=PLXrd1dJZStaYNPOlHszwkpt0WNbzsG4z4
+              - generic [ref=f311e282]: 9 videos
+            - generic [ref=f311e295]:
+              - heading "AI Architecture" [level=3] [ref=f311e296]:
+                - link "AI Architecture" [ref=f311e297]:
+                  - /url: /watch?v=hLH7-rem3V0&list=PLXrd1dJZStaYNPOlHszwkpt0WNbzsG4z4
+              - generic [ref=f311e299]:
+                - group [ref=f311e300]:
+                  - link "Archi Hacks" [ref=f311e303]:
+                    - /url: /@ArchiHacks
+                  - generic [aria-hidden] [ref=f311e304]: •
+                  - link "Playlist" [ref=f311e307]:
+                    - /url: /@ArchiHacks
+                - group [ref=f311e308]
+                - group [ref=f311e309]:
+                  - link "Mind Blowing AI Architecture Projects 🤯 · 9:35" [ref=f311e311]:
+                    - /url: /watch?v=hLH7-rem3V0&list=PLXrd1dJZStaYNPOlHszwkpt0WNbzsG4z4
+                - group [ref=f311e312]:
+                  - link "New ChatGPT features for Architects & Interior Designers 🤯 Insanely good? Or bad 🤔 · 14:49" [ref=f311e314]:
+                    - /url: /watch?v=BDFNdx0vRqo&list=PLXrd1dJZStaYNPOlHszwkpt0WNbzsG4z4
+                - group [ref=f311e315]
+                - group [ref=f311e316]:
+                  - link "View full playlist" [ref=f311e319]:
+                    - /url: /playlist?list=PLXrd1dJZStaYNPOlHszwkpt0WNbzsG4z4
+          - generic [ref=f311e321] [cursor=pointer]:
+            - link [aria-hidden] [ref=f311e322]:
+              - /url: /watch?v=e8vkAVNa5Mw&list=PLRNEuMSOjFb1qcYUuGJHLsGTtFdBoNkD7
+              - generic [ref=f311e324]: 28 videos
+            - generic [ref=f311e337]:
+              - heading "AI for design" [level=3] [ref=f311e338]:
+                - link "AI for design" [ref=f311e339]:
+                  - /url: /watch?v=e8vkAVNa5Mw&list=PLRNEuMSOjFb1qcYUuGJHLsGTtFdBoNkD7
+              - generic [ref=f311e341]:
+                - group [ref=f311e342]:
+                  - link "arcH_AI_ FD" [ref=f311e345]:
+                    - /url: /@arcH_AI_FD
+                  - generic [aria-hidden] [ref=f311e346]: •
+                  - link "Playlist" [ref=f311e349]:
+                    - /url: /@arcH_AI_FD
+                - group [ref=f311e350]
+                - group [ref=f311e351]:
+                  - link "Goodbye Midjourney... Ultimate ChatGPT-4 Image Guide 2026 (ChatGPT for beginners) · 20:41" [ref=f311e353]:
+                    - /url: /watch?v=e8vkAVNa5Mw&list=PLRNEuMSOjFb1qcYUuGJHLsGTtFdBoNkD7
+                - group [ref=f311e354]:
+                  - 'link "ChatGPT 4o Interior Renders: Prompting Formula for Designers · 25:30" [ref=f311e356]':
+                    - /url: /watch?v=Xj7b5Rm7c0s&list=PLRNEuMSOjFb1qcYUuGJHLsGTtFdBoNkD7
+                - group [ref=f311e357]
+                - group [ref=f311e358]:
+                  - link "View full playlist" [ref=f311e361]:
+                    - /url: /playlist?list=PLRNEuMSOjFb1qcYUuGJHLsGTtFdBoNkD7
+          - generic [ref=f311e374] [cursor=pointer]:
+            - generic [ref=f311e375]:
+              - link "Upskill Now @ ₹1699" [ref=f311e378]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-gIHdf2pau_LFrGz88EP-8Dz4QeB1IyWgwGs2a6o1xRkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABpr-pugOpAmJ2IZkCYUY-qAMEyAMKqgTKAk_QFl14ngZdyi42bY2oeEqT5sK4Qp6TKlD_ARdIwvpMPDE5omavIWhTLEEwQEz8EYL7K08Hd_ed-VV7qnrjo33P1lkYbsrOIRkzog2YCujK8JglKERzL5VOHT5LhNTKDA_V487u_YVZZ9XopuofJaUMVRxEffhhbr9zPOv6Fb1_Yyhhy3CGbvh6b_WqPMbCd6tFMhFHA1ZscgMDzx_4BQA1mH-XErK4Zx09AULVdK1dBsewzjm7TAreM74AYpI4smE028LbHWKigBt7xjA9IUSIS09CefYaPRgVTKz1IHq_2gD-RRNbZq2lBro_ybrvVNFVfs2S7iWNnCDO-z8RvdJah05y-tMli8VYO4-W6sDZDXj68Y2jz05h6rKtNn6vBtTp0jI-PQ32HDoxe1KAKjiRz4JszGFLpwmyD5nqTm4binH45Yf9REeJzYgF1pjYuFaSBQgIE3ivoPn3AqAGpAGAB9Hd0vYCkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWMDJ4L2F8pYDYAGaCUlodHRwczovL3d3dy5jb3Vyc2VyYS5vcmcvcHJvZmVzc2lvbmFsLWNlcnRpZmljYXRlcy9pYm0tcmFnLWFuZC1hZ2VudGljLWFpsQkwu5hGruKBecgJAJgLAboLPQgDEAUYFiAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIJugMFdmlzaW7QCxKiDD4qBgoE8N-xAmIXChVvcmcuY291cnNlcmEuY291cnNlcmFqFgoUb3JnLmNvdXJzZXJhLmFuZHJvaWR4AIgBANIMAhAB2gwlCgoQ8JfTzr61sIYpEgIBAxoNGNaY2LhWIMWpwcK7BUABSgIQH5oNARKqDQJJTsgNAdINrANodHRwczovL3d3dy5jb3Vyc2VyYS5vcmcvcHJvZmVzc2lvbmFsLWNlcnRpZmljYXRlcy9pYm0tcmFnLWFuZC1hZ2VudGljLWFpP3V0bV9tZWRpdW09c2VtJnV0bV9zb3VyY2U9Z2cmdXRtX2NhbXBhaWduPWIyY19pbmRpYV9pYm0tcmFnLWFuZC1hZ2VudGljLWFpX2libV9mdGNvZl9wcm9mZXNzaW9uYWwtY2VydGlmaWNhdGVzX2N4X2RyX2JhdV9nZ19wbWF4X3ByX2luX2FsbF9tX2h5Yl8yNi0wM19kZXNrdG9wJmNhbXBhaWduaWQ9MjMyMDk1NTc4MDkmYWRncm91cGlkPSZkZXZpY2U9YyZrZXl3b3JkPSZtYXRjaHR5cGU9Jm5ldHdvcms9eCZkZXZpY2Vtb2RlbD0mY3JlYXRpdmVpZD0mYXNzZXRncm91cGlkPTY2MjYxMDI1MzkmdGFyZ2V0aWQ9JmV4dGVuc2lvbmlkPSZwbGFjZW1lbnQ9JmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzIwNDMzNDY3OLAOi5rJ1xi4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXvE08SdRdGmW6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIr9rgvYXylgMVsdk8Ah174Dx8EAEYASAAEgLB4fD_BwE&num=1&cid=CAASwwHkaMd83mP_XvBB9uJXQYEWjSh5I0gY5vutGyxbXEqmw0X9gXipUvzg9bO-0rGA8xaof4I6TBgjpZKO91IcAhmje5qkpk0Br_HQov6NJ_JJyd3WZ77QRjgJFaBlS-LivFik4veqJWhy4iZmRf8qDFeossPP8MejNjqpDfUUSz2dVoS1qhDcyeyLOl68VX6jDlNgti9QSBWhkFwcE5pCnL6pB9_naBp64GOTT7QgDAjJVtHr4quyOvTurje2sRAHem9Z6ak&sig=AOD64_0yJ7qBU-6h4lmuxSxdo_u_rX52vw&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Go beyond the basics of AI by building RAG and agentic systems with IBM as your guide." [ref=f311e381]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-gIHdf2pau_LFrGz88EP-8Dz4QeB1IyWgwGs2a6o1xRkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABpr-pugOpAmJ2IZkCYUY-qAMEyAMKqgTKAk_QFl14ngZdyi42bY2oeEqT5sK4Qp6TKlD_ARdIwvpMPDE5omavIWhTLEEwQEz8EYL7K08Hd_ed-VV7qnrjo33P1lkYbsrOIRkzog2YCujK8JglKERzL5VOHT5LhNTKDA_V487u_YVZZ9XopuofJaUMVRxEffhhbr9zPOv6Fb1_Yyhhy3CGbvh6b_WqPMbCd6tFMhFHA1ZscgMDzx_4BQA1mH-XErK4Zx09AULVdK1dBsewzjm7TAreM74AYpI4smE028LbHWKigBt7xjA9IUSIS09CefYaPRgVTKz1IHq_2gD-RRNbZq2lBro_ybrvVNFVfs2S7iWNnCDO-z8RvdJah05y-tMli8VYO4-W6sDZDXj68Y2jz05h6rKtNn6vBtTp0jI-PQ32HDoxe1KAKjiRz4JszGFLpwmyD5nqTm4binH45Yf9REeJzYgF1pjYuFaSBQgIE3ivoPn3AqAGpAGAB9Hd0vYCkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWMDJ4L2F8pYDYAGaCUlodHRwczovL3d3dy5jb3Vyc2VyYS5vcmcvcHJvZmVzc2lvbmFsLWNlcnRpZmljYXRlcy9pYm0tcmFnLWFuZC1hZ2VudGljLWFpsQkwu5hGruKBecgJAJgLAboLPQgDEAUYFiAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIJugMFdmlzaW7QCxKiDD4qBgoE8N-xAmIXChVvcmcuY291cnNlcmEuY291cnNlcmFqFgoUb3JnLmNvdXJzZXJhLmFuZHJvaWR4AIgBANIMAhAB2gwlCgoQ8JfTzr61sIYpEgIBAxoNGNaY2LhWIMWpwcK7BUABSgIQH5oNARKqDQJJTsgNAdINrANodHRwczovL3d3dy5jb3Vyc2VyYS5vcmcvcHJvZmVzc2lvbmFsLWNlcnRpZmljYXRlcy9pYm0tcmFnLWFuZC1hZ2VudGljLWFpP3V0bV9tZWRpdW09c2VtJnV0bV9zb3VyY2U9Z2cmdXRtX2NhbXBhaWduPWIyY19pbmRpYV9pYm0tcmFnLWFuZC1hZ2VudGljLWFpX2libV9mdGNvZl9wcm9mZXNzaW9uYWwtY2VydGlmaWNhdGVzX2N4X2RyX2JhdV9nZ19wbWF4X3ByX2luX2FsbF9tX2h5Yl8yNi0wM19kZXNrdG9wJmNhbXBhaWduaWQ9MjMyMDk1NTc4MDkmYWRncm91cGlkPSZkZXZpY2U9YyZrZXl3b3JkPSZtYXRjaHR5cGU9Jm5ldHdvcms9eCZkZXZpY2Vtb2RlbD0mY3JlYXRpdmVpZD0mYXNzZXRncm91cGlkPTY2MjYxMDI1MzkmdGFyZ2V0aWQ9JmV4dGVuc2lvbmlkPSZwbGFjZW1lbnQ9JmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzIwNDMzNDY3OLAOi5rJ1xi4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXvE08SdRdGmW6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIr9rgvYXylgMVsdk8Ah174Dx8EAEYASAAEgLB4fD_BwE&num=1&cid=CAASwwHkaMd83mP_XvBB9uJXQYEWjSh5I0gY5vutGyxbXEqmw0X9gXipUvzg9bO-0rGA8xaof4I6TBgjpZKO91IcAhmje5qkpk0Br_HQov6NJ_JJyd3WZ77QRjgJFaBlS-LivFik4veqJWhy4iZmRf8qDFeossPP8MejNjqpDfUUSz2dVoS1qhDcyeyLOl68VX6jDlNgti9QSBWhkFwcE5pCnL6pB9_naBp64GOTT7QgDAjJVtHr4quyOvTurje2sRAHem9Z6ak&sig=AOD64_0yJ7qBU-6h4lmuxSxdo_u_rX52vw&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=f311e382]:
+                - generic [ref=f311e384]:
+                  - generic [ref=f311e385]: Sponsored
+                  - text: ·
+                - generic [ref=f311e386]: Coursera
+            - button "My Ad Centre" [ref=f311e390]
+          - generic [ref=f311e395] [cursor=pointer]:
+            - link [aria-hidden] [ref=f311e396]:
+              - /url: /watch?v=TZe5UqlUg0c&list=PLoVayXzVHh8KZLAsfuX9RIoK02npNYWDD
+              - generic [ref=f311e398]: 6 videos
+            - generic [ref=f311e411]:
+              - heading "AI Tools" [level=3] [ref=f311e412]:
+                - link "AI Tools" [ref=f311e413]:
+                  - /url: /watch?v=TZe5UqlUg0c&list=PLoVayXzVHh8KZLAsfuX9RIoK02npNYWDD
+              - generic [ref=f311e415]:
+                - group [ref=f311e416]:
+                  - link "Arq. Diego SU" [ref=f311e419]:
+                    - /url: /@diegosu9349
+                  - generic [aria-hidden] [ref=f311e420]: •
+                  - link "Playlist" [ref=f311e423]:
+                    - /url: /@diegosu9349
+                - group [ref=f311e424]
+                - group [ref=f311e425]:
+                  - link "7 Best AI Tools You NEED to Try (Free & Powerful!) 💡 · 7:49" [ref=f311e427]:
+                    - /url: /watch?v=TZe5UqlUg0c&list=PLoVayXzVHh8KZLAsfuX9RIoK02npNYWDD
+                - group [ref=f311e428]:
+                  - link "13 AI Tools Every Architect Should Know in 2026 · 12:56" [ref=f311e430]:
+                    - /url: /watch?v=3Y0PIoOrrBo&list=PLoVayXzVHh8KZLAsfuX9RIoK02npNYWDD
+                - group [ref=f311e431]
+                - group [ref=f311e432]:
+                  - link "View full playlist" [ref=f311e435]:
+                    - /url: /playlist?list=PLoVayXzVHh8KZLAsfuX9RIoK02npNYWDD

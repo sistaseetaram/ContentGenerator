@@ -1,0 +1,562 @@
+- generic [ref=f5e2]:
+  - banner [ref=f5e4]:
+    - generic [ref=f5e6]:
+      - generic [ref=f5e7]:
+        - button "Guide" [active] [ref=f5e9] [cursor=pointer]
+        - generic [ref=f5e11]:
+          - link "YouTube Home" [ref=f5e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f5e16]: IN
+        - button "Skip navigation" [ref=f5e20] [cursor=pointer]
+      - generic [ref=f5e24]:
+        - search [ref=f5e25]:
+          - generic [ref=f5e27]:
+            - generic [ref=f5e28]:
+              - combobox "Search" [expanded] [ref=f5e30]: AI floor plan to render
+              - button "Clear search query" [ref=f5e32] [cursor=pointer]
+            - button "Search" [ref=f5e37] [cursor=pointer]
+        - generic [ref=f5e40]:
+          - button "Search with your voice" [ref=f5e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f5e47]:
+        - button "Settings" [ref=f5e52] [cursor=pointer]
+        - link "Sign in" [ref=f5e56] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DAI%252Bfloor%252Bplan%252Bto%252Brender&hl=en-GB&ec=65620
+  - navigation [ref=f5e60]:
+    - generic [ref=f5e61]:
+      - link "Home" [ref=f5e63] [cursor=pointer]:
+        - /url: /
+      - link "Shorts" [ref=f5e67] [cursor=pointer]:
+        - /url: /shorts/
+      - link "Subscriptions" [ref=f5e71] [cursor=pointer]:
+        - /url: /feed/subscriptions
+      - link "You" [ref=f5e75] [cursor=pointer]:
+        - /url: /feed/you
+  - generic [ref=f5e78]:
+    - main [ref=f5e79]:
+      - generic [ref=f5e80]:
+        - generic [ref=f5e82]:
+          - tablist [ref=f5e87]:
+            - tab "All" [selected] [ref=f5e91] [cursor=pointer]
+            - tab "Shorts" [ref=f5e97] [cursor=pointer]
+            - tab "Unwatched" [ref=f5e103] [cursor=pointer]
+            - tab "Watched" [ref=f5e109] [cursor=pointer]
+            - tab "Videos" [ref=f5e115] [cursor=pointer]
+            - tab "Recently uploaded" [ref=f5e121] [cursor=pointer]
+            - tab "Live" [ref=f5e127] [cursor=pointer]
+          - generic [ref=f5e131]:
+            - button "Search filters" [ref=f5e133] [cursor=pointer]:
+              - generic: Filters
+            - tooltip "tooltip"
+        - generic [ref=f5e140]:
+          - generic [ref=f5e142]:
+            - generic [ref=f5e155] [cursor=pointer]:
+              - generic [ref=f5e156]:
+                - link "Affordable House Plans in ₹299" [ref=f5e159]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CtNm6iPqpaqXsA6i81_oP98bN2QST2OHpiAGuys2jwxVkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABtuiLpAOpAmJ2IZkCYUY-qAMEyAMKqgSmAk_Qfor5GvoGBMypIowkyxblewkCi1QJKAy_8_5FPFyE3zGTu9Xw97NqJjfX7Ckjix-HUBylzgh8UDusoHUdBjRXaBOkvUS9nu0rl-QF5q0uqa0jbHzejr9b1iEQ_3RL5Thl5VrJXxQiQxfTMDAkZ6DLVU2DpfFIrHvm3wB1MSVWQhzi6StAw8wPvzAm8p58W6_a0eB9T24xTpp8E1SSsDgiAa4B0FgGuaKPj9megz_hPx_0c316HMlLbG6CeUUsfCG1caWFYDu6cDqiglSsnY310Qito--0kTh5l2JaR4GfF7Gz49YtzqmI7Lp5M9jBd2gboYQjlRbHJvNfkAPW7uthNWZx4RrD_dHybpy8Jctf5jb-OXBYzG_P5Fx6e2areRDztiQs4YgFw-z6oViSBQcIE3jXppJcoAakAYAHspf0W5AHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjguLrYgvKWA2ABmgkZaHR0cHM6Ly9ob21lcGxhbm5uZXIuY29tL7EJr9oJrY0dQmLICQCYCwG6CzoIAxAFGBYgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDAnNp0AsSogwkKgYKBPDfsQJqFQoTY29tLmFwcC5tYWtlbXlob3VzZXgAiAEA0gwCEAHaDCYKCxDwuIimjNvpxrIBEgIBAxoNGMPs-qFYIPXAmPLJBUABSgIQH5oNARKqDQJJTsgNAdINggFodHRwczovL2hvbWVwbGFubm5lci5jb20vP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj1Hb29nbGVfaG9tZXBsYW5uZXImZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNjkzNTM4ODgzsA6bnqP3GLgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqReTH4FjedI9VLoXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIpdC62ILylgMVKN5VCR13YzNLEAEYASAAEgLfyPD_BwE&num=1&cid=CAASwwHkaC_XTWaXuPbLf_cJwz2n-dW6YE4r-_UD-ZZaMzOVmHr72wYXHtNgfUdS0BQd9hJYGYk3DrC7Q-C64RfGvQ12UhWXgz-a0I-QhBlJUc0Sxo6JhJYy9iQ5h774aoFJKYhovH3IS8k7b2Z-H0aylOCRHs3hIwczZydh94T4lpHOeUGSyORXoDChf0smNYFIBc50h_j_YQfhuyN6HyQrXgUN43-7bFTNc4-C0YAc1tv3bKvd-okq80OhXHPv1iuljaleRDc&sig=AOD64_0GJrVQuG0gwqsmRsq81Hs8kAFUfw&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - link "Get AI-powered floor plans in 30 seconds. Simplex, duplex & triplex. Rs 299 only." [ref=f5e162]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CtNm6iPqpaqXsA6i81_oP98bN2QST2OHpiAGuys2jwxVkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABtuiLpAOpAmJ2IZkCYUY-qAMEyAMKqgSmAk_Qfor5GvoGBMypIowkyxblewkCi1QJKAy_8_5FPFyE3zGTu9Xw97NqJjfX7Ckjix-HUBylzgh8UDusoHUdBjRXaBOkvUS9nu0rl-QF5q0uqa0jbHzejr9b1iEQ_3RL5Thl5VrJXxQiQxfTMDAkZ6DLVU2DpfFIrHvm3wB1MSVWQhzi6StAw8wPvzAm8p58W6_a0eB9T24xTpp8E1SSsDgiAa4B0FgGuaKPj9megz_hPx_0c316HMlLbG6CeUUsfCG1caWFYDu6cDqiglSsnY310Qito--0kTh5l2JaR4GfF7Gz49YtzqmI7Lp5M9jBd2gboYQjlRbHJvNfkAPW7uthNWZx4RrD_dHybpy8Jctf5jb-OXBYzG_P5Fx6e2areRDztiQs4YgFw-z6oViSBQcIE3jXppJcoAakAYAHspf0W5AHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFjguLrYgvKWA2ABmgkZaHR0cHM6Ly9ob21lcGxhbm5uZXIuY29tL7EJr9oJrY0dQmLICQCYCwG6CzoIAxAFGBYgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDAnNp0AsSogwkKgYKBPDfsQJqFQoTY29tLmFwcC5tYWtlbXlob3VzZXgAiAEA0gwCEAHaDCYKCxDwuIimjNvpxrIBEgIBAxoNGMPs-qFYIPXAmPLJBUABSgIQH5oNARKqDQJJTsgNAdINggFodHRwczovL2hvbWVwbGFubm5lci5jb20vP3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj1Hb29nbGVfaG9tZXBsYW5uZXImZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNjkzNTM4ODgzsA6bnqP3GLgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqReTH4FjedI9VLoXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIpdC62ILylgMVKN5VCR13YzNLEAEYASAAEgLfyPD_BwE&num=1&cid=CAASwwHkaC_XTWaXuPbLf_cJwz2n-dW6YE4r-_UD-ZZaMzOVmHr72wYXHtNgfUdS0BQd9hJYGYk3DrC7Q-C64RfGvQ12UhWXgz-a0I-QhBlJUc0Sxo6JhJYy9iQ5h774aoFJKYhovH3IS8k7b2Z-H0aylOCRHs3hIwczZydh94T4lpHOeUGSyORXoDChf0smNYFIBc50h_j_YQfhuyN6HyQrXgUN43-7bFTNc4-C0YAc1tv3bKvd-okq80OhXHPv1iuljaleRDc&sig=AOD64_0GJrVQuG0gwqsmRsq81Hs8kAFUfw&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - generic [ref=f5e163]:
+                  - generic [ref=f5e165]:
+                    - generic [ref=f5e166]: Sponsored
+                    - text: ·
+                  - generic [ref=f5e167]: Make My House
+              - button "My Ad Centre" [ref=f5e171]
+            - generic [ref=f5e176]:
+              - link [aria-hidden] [ref=f5e178] [cursor=pointer]:
+                - /url: /watch?v=lIOp9f0t0Jw&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e180] [cursor=pointer]:
+                - generic [ref=f5e181]:
+                  - generic [ref=f5e182]:
+                    - heading [level=3] [ref=f5e183]:
+                      - link "How to Transform Flat Floor Plans into STUNNING 3D Visualizations with Gemini AI 4 minutes, 48 seconds" [ref=f5e184]:
+                        - /url: /watch?v=lIOp9f0t0Jw&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: How to Transform Flat Floor Plans into STUNNING 3D Visualizations with Gemini AI
+                    - button "Action menu" [ref=f5e188]
+                  - generic [ref=f5e192]:
+                    - generic [ref=f5e193]: 72k views
+                    - generic [ref=f5e194]: •10 months ago
+                - generic [ref=f5e195]:
+                  - link "Go to channel AsapGuide" [ref=f5e196]:
+                    - /url: /@asapguide
+                  - link "AsapGuide" [ref=f5e201]:
+                    - /url: /@asapguide
+                - generic [ref=f5e202]:
+                  - generic [ref=f5e203]: In this video, I will show you how to transform your flat 2D floor plan into a stunning photorealistic 3D render using AI tools and ...
+                  - tooltip "tooltip"
+            - generic [ref=f5e204]:
+              - heading "Shorts" [level=2] [ref=f5e212]
+              - generic [ref=f5e214]:
+                - generic [ref=f5e217]:
+                  - link [aria-hidden] [ref=f5e218] [cursor=pointer]:
+                    - /url: /shorts/pQ2OE_GmTbo
+                  - generic [ref=f5e222] [cursor=pointer]:
+                    - 'link "How to Turn floor plans into 3D Renders with AI 😱 #architecture" [ref=f5e223]':
+                      - /url: /shorts/pQ2OE_GmTbo
+                    - generic [ref=f5e224]: 24k views
+                  - button "More actions" [ref=f5e226] [cursor=pointer]
+                - generic [ref=f5e232]:
+                  - link [aria-hidden] [ref=f5e233] [cursor=pointer]:
+                    - /url: /shorts/Dy-4uAK8e5M
+                  - generic [ref=f5e237] [cursor=pointer]:
+                    - 'link "Render FLOOR plan in 1 Minute |NO PHOTOSHOP OR ILLUSTRATOR 🤯 #architecture" [ref=f5e238]':
+                      - /url: /shorts/Dy-4uAK8e5M
+                    - generic [ref=f5e239]: 324k views
+                  - button "More actions" [ref=f5e241] [cursor=pointer]
+                - generic [ref=f5e247]:
+                  - link [aria-hidden] [ref=f5e248] [cursor=pointer]:
+                    - /url: /shorts/aP-9OYMH5A8
+                  - generic [ref=f5e252] [cursor=pointer]:
+                    - 'link "Render 3d floor plan FASTER with Ai #architecture #3dfloorplan #2d #ai #tutorial" [ref=f5e253]':
+                      - /url: /shorts/aP-9OYMH5A8
+                    - generic [ref=f5e254]: 421k views
+                  - button "More actions" [ref=f5e256] [cursor=pointer]
+                - generic [ref=f5e262]:
+                  - link [aria-hidden] [ref=f5e263] [cursor=pointer]:
+                    - /url: /shorts/aCiM8PmrzFw
+                  - generic [ref=f5e267] [cursor=pointer]:
+                    - 'link "How to Transform Your Floor Plan into Stunning 3D Render with AI! 🚀 #interiordesign #floorplan #ai" [ref=f5e268]':
+                      - /url: /shorts/aCiM8PmrzFw
+                    - generic [ref=f5e269]: 74k views
+                  - button "More actions" [ref=f5e271] [cursor=pointer]
+                - generic [ref=f5e277]:
+                  - link [aria-hidden] [ref=f5e278] [cursor=pointer]:
+                    - /url: /shorts/GePtGBgEu3c
+                    - img [ref=f5e283]:
+                      - generic [ref=f5e284]: New
+                  - generic [ref=f5e285] [cursor=pointer]:
+                    - link "Floor Plan to Photoreal 3D in One Chat Window - Rendair AI" [ref=f5e286]:
+                      - /url: /shorts/GePtGBgEu3c
+                    - generic [ref=f5e287]: 121 views
+                  - button "More actions" [ref=f5e289] [cursor=pointer]
+          - generic [ref=f5e307] [cursor=pointer]:
+            - generic [ref=f5e308]:
+              - link "House Plans in 30 Seconds" [ref=f5e311]:
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwj5l8nYgvKWAxUDJoMDHXU3CxkYACICCAEQBBoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI-ZfJ2ILylgMVAyaDAx11NwsZEAEYASAAEgJHLfD_BwE&num=1&cid=CAAS0wHkaLya-CLBB_8rM1tFIqzLVl-835Xmd20KduaRlL67toKuVGKaGNdi3TYxM4blw0iBcRb9hB3Cm-XuVqrITLUc97K7y0q6A5NcRdYZWD7KMQBGnafdjc-Knf7eiIVQJmE9MXmCsMsqSSiWIxosTllZyE68iHumZ2NCGQGr8gVVrMfB_WU98YPN3EmwIsnHx9dwIlseAmEPJJbm3yqjz7LGiwakXeQY_rfMUIj0NnOIHU4OIog_HVnuOCzj1FleLWpKwmqyEnNazi5WA2CglsuIQ4jc&cce=2&category=acrcp_v1_32&sig=AOD64_0Hs6clcP2VS6-UUKXXNDUBiM6I6A&adurl=https://homeplannner.com/%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DGoogle_homeplanner%26gad_source%3D2%26gad_campaignid%3D23694179671&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+              - link "AI-Generated House Plans ₹299 - Get AI-powered floor plans in 30 seconds. Simplex, duplex & triplex. Rs 299 only." [ref=f5e314]:
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwj5l8nYgvKWAxUDJoMDHXU3CxkYACICCAEQBBoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI-ZfJ2ILylgMVAyaDAx11NwsZEAEYASAAEgJHLfD_BwE&num=1&cid=CAAS0wHkaLya-CLBB_8rM1tFIqzLVl-835Xmd20KduaRlL67toKuVGKaGNdi3TYxM4blw0iBcRb9hB3Cm-XuVqrITLUc97K7y0q6A5NcRdYZWD7KMQBGnafdjc-Knf7eiIVQJmE9MXmCsMsqSSiWIxosTllZyE68iHumZ2NCGQGr8gVVrMfB_WU98YPN3EmwIsnHx9dwIlseAmEPJJbm3yqjz7LGiwakXeQY_rfMUIj0NnOIHU4OIog_HVnuOCzj1FleLWpKwmqyEnNazi5WA2CglsuIQ4jc&cce=2&category=acrcp_v1_32&sig=AOD64_0Hs6clcP2VS6-UUKXXNDUBiM6I6A&adurl=https://homeplannner.com/%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DGoogle_homeplanner%26gad_source%3D2%26gad_campaignid%3D23694179671&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+              - generic [ref=f5e315]:
+                - generic [ref=f5e317]:
+                  - generic [ref=f5e318]: Sponsored
+                  - text: ·
+                - generic [ref=f5e319]: https://www.homeplannner.com/
+            - button "My Ad Centre" [ref=f5e323]
+          - generic [ref=f5e328]:
+            - generic [ref=f5e330]:
+              - link [aria-hidden] [ref=f5e332] [cursor=pointer]:
+                - /url: /watch?v=DRyZ19YO5Eo&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e334] [cursor=pointer]:
+                - generic [ref=f5e335]:
+                  - generic [ref=f5e336]:
+                    - heading [level=3] [ref=f5e337]:
+                      - link "Generate plans with Finch 16 seconds" [ref=f5e338]:
+                        - /url: /watch?v=DRyZ19YO5Eo&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: Generate plans with Finch
+                    - button "Action menu" [ref=f5e342]
+                  - generic [ref=f5e346]:
+                    - generic [ref=f5e347]: 167k views
+                    - generic [ref=f5e348]: •4 years ago
+                - generic [ref=f5e349]:
+                  - link "Go to channel Jesper Wallgren" [ref=f5e350]:
+                    - /url: /@JesperWallgren
+                  - link "Jesper Wallgren" [ref=f5e355]:
+                    - /url: /@JesperWallgren
+                - generic [ref=f5e356]:
+                  - generic [ref=f5e357]: "Select units, specify the optimization parameters, and start generating optimal plans for your project with #finch3d. Use Finch ..."
+                  - tooltip "tooltip"
+            - generic [ref=f5e359]:
+              - link [aria-hidden] [ref=f5e361] [cursor=pointer]:
+                - /url: /watch?v=iYIRSdMCsHs&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e363] [cursor=pointer]:
+                - generic [ref=f5e364]:
+                  - generic [ref=f5e365]:
+                    - heading [level=3] [ref=f5e366]:
+                      - link "How to Render Architecture Floor Plan in 02 minutes 2 minutes, 39 seconds" [ref=f5e367]:
+                        - /url: /watch?v=iYIRSdMCsHs&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: How to Render Architecture Floor Plan in 02 minutes
+                    - button "Action menu" [ref=f5e371]
+                  - generic [ref=f5e375]:
+                    - generic [ref=f5e376]: 180k views
+                    - generic [ref=f5e377]: •2 years ago
+                - generic [ref=f5e378]:
+                  - link "Go to channel Skills Inside Out" [ref=f5e379]:
+                    - /url: /@SkillsInsideOut
+                  - link "Skills Inside Out" [ref=f5e384]:
+                    - /url: /@SkillsInsideOut
+                - generic [ref=f5e385]:
+                  - generic [ref=f5e386]: "architecture #floorplan #render #photoshop #ai In this video I will teach you how to render architecture floor plan in 02 minutes ..."
+                  - tooltip "tooltip"
+                - generic [ref=f5e389]:
+                  - generic [ref=f5e390]:
+                    - generic [ref=f5e391]: Summary
+                    - button "Skills Inside Out demonstrates a fast method to render architectural floor plans using PrompAI, an AI-powered tool. The tutorial covers importing CAD drawings into the browser for automated rendering, followed by a technique to refine the output using Photoshop." [ref=f5e394]
+                    - text: ·
+                  - button "More" [ref=f5e399]
+          - generic [ref=f5e417] [cursor=pointer]:
+            - generic [ref=f5e418]:
+              - link "Easy 3D Floor Planner - Build a 3D Home in 10 Minutes" [ref=f5e421]:
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwj5l8nYgvKWAxUDJoMDHXU3CxkYACICCAEQABoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI-ZfJ2ILylgMVAyaDAx11NwsZEAEYAiAAEgKqwPD_BwE&num=2&cid=CAAS0wHkaLya-CLBB_8rM1tFIqzLVl-835Xmd20KduaRlL67toKuVGKaGNdi3TYxM4blw0iBcRb9hB3Cm-XuVqrITLUc97K7y0q6A5NcRdYZWD7KMQBGnafdjc-Knf7eiIVQJmE9MXmCsMsqSSiWIxosTllZyE68iHumZ2NCGQGr8gVVrMfB_WU98YPN3EmwIsnHx9dwIlseAmEPJJbm3yqjz7LGiwakXeQY_rfMUIj0NnOIHU4OIog_HVnuOCzj1FleLWpKwmqyEnNazi5WA2CglsuIQ4jc&cce=2&category=acrcp_v1_32&sig=AOD64_3kVt4gACIsjLgrL8n1uUoTtGQbNQ&adurl=https://www.coohom.com%3Futm_source%3Dgooglead%26utm_medium%3Dcpc%26utm_campaign%3DB2C_MAX_Com_Global_EN_20231130%26utm_source%3Dgooglead%26utm_medium%3Dcpc%26utm_campaign%3D20823380761%26utm_agid%3D%26utm_term%3D%26device%3Dc%26gad_source%3D2%26gad_campaignid%3D20823382030&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+              - link "Design your dream home with Coohom's powerful AI tool and extensive 3D model library." [ref=f5e424]:
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwj5l8nYgvKWAxUDJoMDHXU3CxkYACICCAEQABoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI-ZfJ2ILylgMVAyaDAx11NwsZEAEYAiAAEgKqwPD_BwE&num=2&cid=CAAS0wHkaLya-CLBB_8rM1tFIqzLVl-835Xmd20KduaRlL67toKuVGKaGNdi3TYxM4blw0iBcRb9hB3Cm-XuVqrITLUc97K7y0q6A5NcRdYZWD7KMQBGnafdjc-Knf7eiIVQJmE9MXmCsMsqSSiWIxosTllZyE68iHumZ2NCGQGr8gVVrMfB_WU98YPN3EmwIsnHx9dwIlseAmEPJJbm3yqjz7LGiwakXeQY_rfMUIj0NnOIHU4OIog_HVnuOCzj1FleLWpKwmqyEnNazi5WA2CglsuIQ4jc&cce=2&category=acrcp_v1_32&sig=AOD64_3kVt4gACIsjLgrL8n1uUoTtGQbNQ&adurl=https://www.coohom.com%3Futm_source%3Dgooglead%26utm_medium%3Dcpc%26utm_campaign%3DB2C_MAX_Com_Global_EN_20231130%26utm_source%3Dgooglead%26utm_medium%3Dcpc%26utm_campaign%3D20823380761%26utm_agid%3D%26utm_term%3D%26device%3Dc%26gad_source%3D2%26gad_campaignid%3D20823382030&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+              - generic [ref=f5e425]:
+                - generic [ref=f5e427]:
+                  - generic [ref=f5e428]: Sponsored
+                  - text: ·
+                - generic [ref=f5e429]: https://www.coohom.com/
+            - button "My Ad Centre" [ref=f5e433]
+          - generic [ref=f5e438]:
+            - generic [ref=f5e440]:
+              - link [aria-hidden] [ref=f5e442] [cursor=pointer]:
+                - /url: /watch?v=eKKpqMowytA&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e444] [cursor=pointer]:
+                - generic [ref=f5e445]:
+                  - generic [ref=f5e446]:
+                    - heading [level=3] [ref=f5e447]:
+                      - link "GPT-6 Astra Can Now Build Architectural 3D Models 8 minutes, 12 seconds" [ref=f5e448]:
+                        - /url: /watch?v=eKKpqMowytA&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: GPT-6 Astra Can Now Build Architectural 3D Models
+                    - button "Action menu" [ref=f5e452]
+                  - generic [ref=f5e456]:
+                    - generic [ref=f5e457]: 247k views
+                    - generic [ref=f5e458]: •7 days ago
+                - generic [ref=f5e459]:
+                  - link "Go to channel Salmaan Mohamed" [ref=f5e460]:
+                    - /url: /@salmaanarchitect
+                  - link "Salmaan Mohamed" [ref=f5e465]:
+                    - /url: /@salmaanarchitect
+                - generic [ref=f5e466]:
+                  - generic [ref=f5e467]: "AI Visualization Mastery Course: 2̶0̶0̶$̶ 109$ https://salmaanmohamed.gumroad.com/l/aivisualization Realistic floor plan ..."
+                  - tooltip "tooltip"
+                - img "4K" [ref=f5e472]
+                - generic [ref=f5e476]:
+                  - generic [ref=f5e477]:
+                    - generic [ref=f5e478]: Summary
+                    - button "Salmaan Mohamed demonstrates a workflow for converting various 2D CAD drawings and JPEG floor plans into structured 3D SketchUp models. The process involves utilizing specialized prompts and the GPT-6 Astra model to generate geometry, apply materials, and organize architectural components through tags and labels on a desktop environment." [ref=f5e481]
+                    - text: ·
+                  - button "More" [ref=f5e486]
+            - generic [ref=f5e490]:
+              - heading "Shorts" [level=2] [ref=f5e498]
+              - generic [ref=f5e499]:
+                - generic [ref=f5e500]:
+                  - generic [ref=f5e503]:
+                    - link [aria-hidden] [ref=f5e504] [cursor=pointer]:
+                      - /url: /shorts/A4KiQvkYHU8
+                    - generic [ref=f5e508] [cursor=pointer]:
+                      - 'link "Create RENDERS from FLOOR PLAN with Nano Banana 🤯 #architecture" [ref=f5e509]':
+                        - /url: /shorts/A4KiQvkYHU8
+                      - generic [ref=f5e510]: 99k views
+                    - button "More actions" [ref=f5e512] [cursor=pointer]
+                  - generic [ref=f5e518]:
+                    - link [aria-hidden] [ref=f5e519] [cursor=pointer]:
+                      - /url: /shorts/8fGxLYgCOvY
+                    - generic [ref=f5e523] [cursor=pointer]:
+                      - link "💫Make elevation using Chatgpt 🔥#shorts" [ref=f5e524]:
+                        - /url: /shorts/8fGxLYgCOvY
+                      - generic [ref=f5e525]: 320k views
+                    - button "More actions" [ref=f5e527] [cursor=pointer]
+                  - generic [ref=f5e533]:
+                    - link [aria-hidden] [ref=f5e534] [cursor=pointer]:
+                      - /url: /shorts/KRYlvfu5bwk
+                    - generic [ref=f5e538] [cursor=pointer]:
+                      - link "Design Your Dream House in Seconds — Free AI Tool! 🏡✨" [ref=f5e539]:
+                        - /url: /shorts/KRYlvfu5bwk
+                      - generic [ref=f5e540]: 249k views
+                    - button "More actions" [ref=f5e542] [cursor=pointer]
+                  - generic [ref=f5e548]:
+                    - link [aria-hidden] [ref=f5e549] [cursor=pointer]:
+                      - /url: /shorts/PcDkLiVpqW0
+                    - generic [ref=f5e553] [cursor=pointer]:
+                      - link "From Sketch to Dream House in SECONDS! | PromeAI Floor-Plan & Facade 3D Rendering Demo" [ref=f5e554]:
+                        - /url: /shorts/PcDkLiVpqW0
+                      - generic [ref=f5e555]: 19k views
+                    - button "More actions" [ref=f5e557] [cursor=pointer]
+                  - generic [ref=f5e563]:
+                    - link [aria-hidden] [ref=f5e564] [cursor=pointer]:
+                      - /url: /shorts/VCfilCwpBag
+                    - generic [ref=f5e568] [cursor=pointer]:
+                      - link "CONVERTING AUTOCAD TO RENDER" [ref=f5e569]:
+                        - /url: /shorts/VCfilCwpBag
+                      - generic [ref=f5e570]: 70k views
+                    - button "More actions" [ref=f5e572] [cursor=pointer]
+                - generic [ref=f5e576]:
+                  - generic [ref=f5e579]:
+                    - link [aria-hidden] [ref=f5e580] [cursor=pointer]:
+                      - /url: /shorts/-ViO5IcylxQ
+                    - generic [ref=f5e584] [cursor=pointer]:
+                      - link "Floor Plan to Render in 9.8 Seconds | AI Rendering in Architecture" [ref=f5e585]:
+                        - /url: /shorts/-ViO5IcylxQ
+                      - generic [ref=f5e586]: 5.3k views
+                    - button "More actions" [ref=f5e588] [cursor=pointer]
+                  - generic [ref=f5e594]:
+                    - link [aria-hidden] [ref=f5e595] [cursor=pointer]:
+                      - /url: /shorts/jnvgd3uaGZ4
+                    - generic [ref=f5e599] [cursor=pointer]:
+                      - link "This App Turns Floor Plans into 3D Models in Seconds!" [ref=f5e600]:
+                        - /url: /shorts/jnvgd3uaGZ4
+                      - generic [ref=f5e601]: 3.2m views
+                    - button "More actions" [ref=f5e603] [cursor=pointer]
+                  - generic [ref=f5e609]:
+                    - link [aria-hidden] [ref=f5e610] [cursor=pointer]:
+                      - /url: /shorts/D9cgULAMF4o
+                    - generic [ref=f5e614] [cursor=pointer]:
+                      - 'link "How to Design Your Dream Home Using AI #ai" [ref=f5e615]':
+                        - /url: /shorts/D9cgULAMF4o
+                      - generic [ref=f5e616]: 1.2m views
+                    - button "More actions" [ref=f5e618] [cursor=pointer]
+                  - generic [ref=f5e624]:
+                    - link [aria-hidden] [ref=f5e625] [cursor=pointer]:
+                      - /url: /shorts/POEFAlOaENM
+                    - generic [ref=f5e629] [cursor=pointer]:
+                      - 'link "Ai Floor Plans #architecture #architecturestudent #architectureschool #ai" [ref=f5e630]':
+                        - /url: /shorts/POEFAlOaENM
+                      - generic [ref=f5e631]: 158k views
+                    - button "More actions" [ref=f5e633] [cursor=pointer]
+                  - generic [ref=f5e639]:
+                    - link [aria-hidden] [ref=f5e640] [cursor=pointer]:
+                      - /url: /shorts/6AeKkwRdza4
+                    - generic [ref=f5e644] [cursor=pointer]:
+                      - 'link "Can AI Design Floor Plans? #ai #architect" [ref=f5e645]':
+                        - /url: /shorts/6AeKkwRdza4
+                      - generic [ref=f5e646]: 19k views
+                    - button "More actions" [ref=f5e648] [cursor=pointer]
+              - button "Show more" [ref=f5e655] [cursor=pointer]
+            - generic [ref=f5e660]:
+              - link [aria-hidden] [ref=f5e662] [cursor=pointer]:
+                - /url: /watch?v=FFylQt-dbc8&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e664] [cursor=pointer]:
+                - generic [ref=f5e665]:
+                  - generic [ref=f5e666]:
+                    - heading [level=3] [ref=f5e667]:
+                      - link "How to RENDER Architecture Floor Plan in 2 Minutes with AI 9 minutes, 27 seconds" [ref=f5e668]:
+                        - /url: /watch?v=FFylQt-dbc8&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: How to RENDER Architecture Floor Plan in 2 Minutes with AI
+                    - button "Action menu" [ref=f5e672]
+                  - generic [ref=f5e676]:
+                    - generic [ref=f5e677]: 151k views
+                    - generic [ref=f5e678]: •2 years ago
+                - generic [ref=f5e679]:
+                  - link "Go to channel ArchStylus" [ref=f5e680]:
+                    - /url: /@ArchStylus
+                  - link "ArchStylus" [ref=f5e685]:
+                    - /url: /@ArchStylus
+                - generic [ref=f5e686]:
+                  - generic [ref=f5e687]: "ai #render #promeai How to Render Architecture Floor Plan How to Convert 2D Plan in 3D Floor Plan Best AI Rendering Tool For ..."
+                  - tooltip "tooltip"
+                - img "Closed captions" [ref=f5e692]:
+                  - generic [ref=f5e693]: Subtitles
+                - generic [ref=f5e696]:
+                  - generic [ref=f5e697]:
+                    - generic [ref=f5e698]: Summary
+                    - button "ArchStylus demonstrates how to convert AutoCAD 2D floor plans into 3D renders using AI tools. The process involves exporting CAD drawings as images, utilizing the PromeAI platform for rendering, and refining results with built-in features like object removal, replacement, and high-resolution upscaling." [ref=f5e701]
+                    - text: ·
+                  - button "More" [ref=f5e706]
+            - generic [ref=f5e711]:
+              - link [aria-hidden] [ref=f5e713] [cursor=pointer]:
+                - /url: /watch?v=wZYfncQtNNk&t=570s&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e715] [cursor=pointer]:
+                - generic [ref=f5e716]:
+                  - generic [ref=f5e717]:
+                    - heading [level=3] [ref=f5e718]:
+                      - link "Complete Interior Project with AI | Google AI Studio Tutorial 18 minutes" [ref=f5e719]:
+                        - /url: /watch?v=wZYfncQtNNk&t=570s&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: Complete Interior Project with AI | Google AI Studio Tutorial
+                    - button "Action menu" [ref=f5e723]
+                  - generic [ref=f5e727]:
+                    - generic [ref=f5e728]: 33k views
+                    - generic [ref=f5e729]: •11 months ago
+                - generic [ref=f5e730]:
+                  - link "Go to channel Design Show" [ref=f5e731]:
+                    - /url: /@DesignShow
+                  - link "Design Show" [ref=f5e736]:
+                    - /url: /@DesignShow
+                - generic [ref=f5e737]:
+                  - generic [ref=f5e738]: Can AI really complete an interior design project from just a floor plan? In this video, I'll guide you step by step on how to use ...
+                  - tooltip "tooltip"
+                - img "4K" [ref=f5e743]
+            - generic [ref=f5e746]:
+              - link [aria-hidden] [ref=f5e748] [cursor=pointer]:
+                - /url: /watch?v=ltx8sQ6gV-0&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e750] [cursor=pointer]:
+                - generic [ref=f5e751]:
+                  - generic [ref=f5e752]:
+                    - heading [level=3] [ref=f5e753]:
+                      - link "Instant AI House Plan Generator | Design Custom Home & Floor Plans Fast with Ideal House 38 seconds" [ref=f5e754]:
+                        - /url: /watch?v=ltx8sQ6gV-0&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: Instant AI House Plan Generator | Design Custom Home & Floor Plans Fast with Ideal House
+                    - button "Action menu" [ref=f5e758]
+                  - generic [ref=f5e762]:
+                    - generic [ref=f5e763]: 18k views
+                    - generic [ref=f5e764]: •10 months ago
+                - generic [ref=f5e765]:
+                  - link "Go to channel Ideal House AI" [ref=f5e766]:
+                    - /url: /@IdealHouseAI
+                  - link "Ideal House AI" [ref=f5e771]:
+                    - /url: /@IdealHouseAI
+                - generic [ref=f5e772]:
+                  - generic [ref=f5e773]: Experience the future of home design with Ideal House's AI Floor Plan Generator and House Plan Generator. In this video, see ...
+                  - tooltip "tooltip"
+          - generic [ref=f5e788] [cursor=pointer]:
+            - generic [ref=f5e789]:
+              - 'link "Rerender AI: 4K in 20 Seconds - Photoreal AI Architecture - 0 to 4K in 30 Seconds" [ref=f5e792]':
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwj5l8nYgvKWAxUDJoMDHXU3CxkYACICCAEQAhoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI-ZfJ2ILylgMVAyaDAx11NwsZEAEYAyAAEgIJq_D_BwE&num=3&cid=CAAS0wHkaLya-CLBB_8rM1tFIqzLVl-835Xmd20KduaRlL67toKuVGKaGNdi3TYxM4blw0iBcRb9hB3Cm-XuVqrITLUc97K7y0q6A5NcRdYZWD7KMQBGnafdjc-Knf7eiIVQJmE9MXmCsMsqSSiWIxosTllZyE68iHumZ2NCGQGr8gVVrMfB_WU98YPN3EmwIsnHx9dwIlseAmEPJJbm3yqjz7LGiwakXeQY_rfMUIj0NnOIHU4OIog_HVnuOCzj1FleLWpKwmqyEnNazi5WA2CglsuIQ4jc&cce=2&category=acrcp_v1_32&sig=AOD64_2AnSmtd1hBcLVE9Z9oOFYxQ1m69Q&adurl=https://rerenderai.com%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D23943507000%26utm_content%3D813147019909%26utm_term%3Drender%2520house%26network%3Ds%26device%3Dc%26devicemodel%3D%26matchtype%3Dp%26adposition%3D%26adgroupid%3D196304181983%26gad_source%3D2%26gad_campaignid%3D23943507000&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+              - link "Why wait 3 days? Turn sketches into 4K reality instantly. Unlimited renders, one price. Change wood to marble in seconds. Drop a..." [ref=f5e795]:
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwj5l8nYgvKWAxUDJoMDHXU3CxkYACICCAEQAhoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI-ZfJ2ILylgMVAyaDAx11NwsZEAEYAyAAEgIJq_D_BwE&num=3&cid=CAAS0wHkaLya-CLBB_8rM1tFIqzLVl-835Xmd20KduaRlL67toKuVGKaGNdi3TYxM4blw0iBcRb9hB3Cm-XuVqrITLUc97K7y0q6A5NcRdYZWD7KMQBGnafdjc-Knf7eiIVQJmE9MXmCsMsqSSiWIxosTllZyE68iHumZ2NCGQGr8gVVrMfB_WU98YPN3EmwIsnHx9dwIlseAmEPJJbm3yqjz7LGiwakXeQY_rfMUIj0NnOIHU4OIog_HVnuOCzj1FleLWpKwmqyEnNazi5WA2CglsuIQ4jc&cce=2&category=acrcp_v1_32&sig=AOD64_2AnSmtd1hBcLVE9Z9oOFYxQ1m69Q&adurl=https://rerenderai.com%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D23943507000%26utm_content%3D813147019909%26utm_term%3Drender%2520house%26network%3Ds%26device%3Dc%26devicemodel%3D%26matchtype%3Dp%26adposition%3D%26adgroupid%3D196304181983%26gad_source%3D2%26gad_campaignid%3D23943507000&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+              - generic [ref=f5e796]:
+                - generic [ref=f5e798]:
+                  - generic [ref=f5e799]: Sponsored
+                  - text: ·
+                - generic [ref=f5e800]: https://www.rerenderai.com/
+            - button "My Ad Centre" [ref=f5e804]
+          - generic [ref=f5e809]:
+            - generic [ref=f5e811]:
+              - link [aria-hidden] [ref=f5e813] [cursor=pointer]:
+                - /url: /watch?v=FGJ1RpAXsxA&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e815] [cursor=pointer]:
+                - generic [ref=f5e816]:
+                  - generic [ref=f5e817]:
+                    - heading [level=3] [ref=f5e818]:
+                      - link "Turn AutoCAD Floor Plans into Stunning AI Renders 7 minutes, 52 seconds" [ref=f5e819]:
+                        - /url: /watch?v=FGJ1RpAXsxA&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: Turn AutoCAD Floor Plans into Stunning AI Renders
+                    - button "Action menu" [ref=f5e823]
+                  - generic [ref=f5e827]:
+                    - generic [ref=f5e828]: 7.5k views
+                    - generic [ref=f5e829]: •1 month ago
+                - generic [ref=f5e830]:
+                  - link "Go to channel Salmaan Mohamed" [ref=f5e831]:
+                    - /url: /@salmaanarchitect
+                  - link "Salmaan Mohamed" [ref=f5e836]:
+                    - /url: /@salmaanarchitect
+                - generic [ref=f5e837]:
+                  - generic [ref=f5e838]: "EXCLUSIVE Realistic floor plan rendering with Nano Banana Pro: ..."
+                  - tooltip "tooltip"
+                - img "4K" [ref=f5e843]
+                - generic [ref=f5e847]:
+                  - generic [ref=f5e848]:
+                    - generic [ref=f5e849]: Summary
+                    - button "Salmaan Mohamed introduces a streamlined professional workflow using Google AI Studio and Photoshop to create editable, high-end floor plan visualizations. Learn how to refine CAD drawings, generate tailored prompts with ChatGPT, and utilize material ID passes to maintain precise control over design elements and textures throughout the rendering process." [ref=f5e852]
+                    - text: ·
+                  - button "More" [ref=f5e857]
+            - generic [ref=f5e862]:
+              - link [aria-hidden] [ref=f5e864] [cursor=pointer]:
+                - /url: /watch?v=M3Jd5pruRQY&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e866] [cursor=pointer]:
+                - generic [ref=f5e867]:
+                  - generic [ref=f5e868]:
+                    - heading [level=3] [ref=f5e869]:
+                      - link "2D Floor Plan to Realistic 3D Villa Using AI | ChatGPT + Generative AI Architecture Workflow 10 minutes, 36 seconds" [ref=f5e870]:
+                        - /url: /watch?v=M3Jd5pruRQY&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: 2D Floor Plan to Realistic 3D Villa Using AI | ChatGPT + Generative AI Architecture Workflow
+                    - button "Action menu" [ref=f5e874]
+                  - generic [ref=f5e878]:
+                    - generic [ref=f5e879]: 2.6k views
+                    - generic [ref=f5e880]: •3 months ago
+                - generic [ref=f5e881]:
+                  - link "Go to channel SOMALI SINHA" [ref=f5e882]:
+                    - /url: /@SOMALISINHA-q5m
+                  - link "SOMALI SINHA" [ref=f5e887]:
+                    - /url: /@SOMALISINHA-q5m
+                - generic [ref=f5e888]:
+                  - generic [ref=f5e889]: In this video, I demonstrate how to transform a 2D architectural floor plan into a realistic 3D villa visualization using Generative AI ...
+                  - tooltip "tooltip"
+            - generic [ref=f5e891]:
+              - link [aria-hidden] [ref=f5e893] [cursor=pointer]:
+                - /url: /watch?v=-jz7086GKlM&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e895] [cursor=pointer]:
+                - generic [ref=f5e896]:
+                  - generic [ref=f5e897]:
+                    - heading [level=3] [ref=f5e898]:
+                      - link "Turn Any Floor Plan Into a Photorealistic Render with ChatGPT AI 3 minutes, 28 seconds" [ref=f5e899]:
+                        - /url: /watch?v=-jz7086GKlM&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: Turn Any Floor Plan Into a Photorealistic Render with ChatGPT AI
+                    - button "Action menu" [ref=f5e903]
+                  - generic [ref=f5e907]:
+                    - generic [ref=f5e908]: 2k views
+                    - generic [ref=f5e909]: •3 months ago
+                - generic [ref=f5e910]:
+                  - link "Go to channel Designrepublic" [ref=f5e911]:
+                    - /url: /@DeRepublica
+                  - link "Designrepublic" [ref=f5e916]:
+                    - /url: /@DeRepublica
+                - generic [ref=f5e917]:
+                  - generic [ref=f5e918]: In this tutorial, I'll show you how to transform a simple 2D architectural floor plan into a stunning photorealistic render using ...
+                  - tooltip "tooltip"
+                - img "4K" [ref=f5e923]
+            - generic [ref=f5e926]:
+              - link [aria-hidden] [ref=f5e928] [cursor=pointer]:
+                - /url: /watch?v=9s0jwcuh-3M&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e930] [cursor=pointer]:
+                - generic [ref=f5e931]:
+                  - generic [ref=f5e932]:
+                    - heading [level=3] [ref=f5e933]:
+                      - link "AI Floor Plan Generator - FloorPlan-AI 1 minute, 9 seconds" [ref=f5e934]:
+                        - /url: /watch?v=9s0jwcuh-3M&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: AI Floor Plan Generator - FloorPlan-AI
+                    - button "Action menu" [ref=f5e938]
+                  - generic [ref=f5e942]:
+                    - generic [ref=f5e943]: 11k views
+                    - generic [ref=f5e944]: •5 months ago
+                - generic [ref=f5e945]:
+                  - link "Go to channel FloorPlan-AI" [ref=f5e946]:
+                    - /url: /@FloorPlan-AI
+                  - link "FloorPlan-AI" [ref=f5e951]:
+                    - /url: /@FloorPlan-AI
+                - generic [ref=f5e952]:
+                  - generic [ref=f5e953]: Use AI to design floor plans in minutes. Create your perfect home layout with an advanced AI room planner and AI floor plan ...
+                  - tooltip "tooltip"
+            - generic [ref=f5e955]:
+              - link [aria-hidden] [ref=f5e957] [cursor=pointer]:
+                - /url: /watch?v=Cojs4tyNx44&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e959] [cursor=pointer]:
+                - generic [ref=f5e960]:
+                  - generic [ref=f5e961]:
+                    - heading [level=3] [ref=f5e962]:
+                      - link "NEW Floor Plan Generation with AI (Insane Results!) 10 minutes, 39 seconds" [ref=f5e963]:
+                        - /url: /watch?v=Cojs4tyNx44&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: NEW Floor Plan Generation with AI (Insane Results!)
+                    - button "Action menu" [ref=f5e967]
+                  - generic [ref=f5e971]:
+                    - generic [ref=f5e972]: 12k views
+                    - generic [ref=f5e973]: •2 months ago
+                - generic [ref=f5e974]:
+                  - link "Go to channel Melos Azemi" [ref=f5e975]:
+                    - /url: /@MelosAzemi
+                  - link "Melos Azemi" [ref=f5e980]:
+                    - /url: /@MelosAzemi
+                - generic [ref=f5e981]:
+                  - generic [ref=f5e982]: "Try Synaps for FREE: https://i.synapshq.com/l2emt Get my Prompts for Realistic Renders: https://archuide.com/ 0:00 Convert a ..."
+                  - tooltip "tooltip"
+                - generic [ref=f5e985]:
+                  - generic [ref=f5e986]:
+                    - generic [ref=f5e989]: 3 chapters
+                    - button "Convert a Floor Plan Image to Editable Project | Precise Drafting for Construction Documentation | AI Floor Plan Generator from a Boundary" [ref=f5e991]
+                  - button "More" [ref=f5e996]
+            - generic [ref=f5e1001]:
+              - link [aria-hidden] [ref=f5e1003] [cursor=pointer]:
+                - /url: /watch?v=VPaeZWgt4TI&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+              - generic [ref=f5e1005] [cursor=pointer]:
+                - generic [ref=f5e1006]:
+                  - generic [ref=f5e1007]:
+                    - heading [level=3] [ref=f5e1008]:
+                      - 'link "Generative floor plan design using AI- Maket.ai #ai #architecture 3 minutes, 3 seconds" [ref=f5e1009]':
+                        - /url: /watch?v=VPaeZWgt4TI&pp=ygUXQUkgZmxvb3IgcGxhbiB0byByZW5kZXI%3D
+                        - text: "Generative floor plan design using AI- Maket.ai #ai #architecture"
+                    - button "Action menu" [ref=f5e1013]
+                  - generic [ref=f5e1017]:
+                    - generic [ref=f5e1018]: 754k views
+                    - generic [ref=f5e1019]: •3 years ago
+                - generic [ref=f5e1020]:
+                  - link "Go to channel Archi Lab" [ref=f5e1021]:
+                    - /url: /@archilabstudios
+                  - link "Archi Lab" [ref=f5e1026]:
+                    - /url: /@archilabstudios
+                - generic [ref=f5e1027]:
+                  - generic [ref=f5e1028]: In this video, we'll discuss how to use AI to generate a floor plan for a building. By using Maket.ai, we'll be able to create a plan ...
+                  - tooltip "tooltip"
+                - generic [ref=f5e1031]:
+                  - generic [ref=f5e1032]:
+                    - generic [ref=f5e1033]: Summary
+                    - button "Archi Lab introduces Maket.ai for quick residential design, allowing users to customize parameters or use the surprise me feature for random floor plans. The tool offers options to export designs in JPEG and DXF formats and includes a visualizer for generating exterior views based on prompts." [ref=f5e1036]
+                    - text: ·
+                  - button "More" [ref=f5e1041]
+    - text: •

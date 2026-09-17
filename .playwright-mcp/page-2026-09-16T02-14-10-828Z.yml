@@ -1,0 +1,593 @@
+- generic [active] [ref=f181e1]:
+  - region [ref=f181e2]:
+    - generic [ref=f181e3]:
+      - img "logo" [ref=f181e7]
+      - tablist [ref=f181e9]:
+        - tab "Consent" [selected] [ref=f181e10] [cursor=pointer]
+        - tab "Details" [ref=f181e11] [cursor=pointer]
+        - tab "About" [ref=f181e12] [cursor=pointer]
+      - tabpanel "Consent" [ref=f181e14]:
+        - generic [ref=f181e16]:
+          - heading "We use cookies to improve your experience" [level=2] [ref=f181e17]
+          - paragraph [ref=f181e19]: We use cookies to personalize content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+        - group "Consent Selection" [ref=f181e26]:
+          - generic [ref=f181e28]:
+            - generic [ref=f181e29]:
+              - strong [ref=f181e31]: Necessary
+              - generic [ref=f181e32]:
+                - checkbox "Necessary" [checked] [disabled]
+            - generic [ref=f181e33]:
+              - strong [ref=f181e35] [cursor=pointer]: Preferences
+              - switch "Preferences" [checked] [ref=f181e37] [cursor=pointer]
+            - generic [ref=f181e38]:
+              - strong [ref=f181e40] [cursor=pointer]: Statistics
+              - switch "Statistics" [checked] [ref=f181e42] [cursor=pointer]
+            - generic [ref=f181e43]:
+              - strong [ref=f181e45] [cursor=pointer]: Marketing
+              - switch "Marketing" [checked] [ref=f181e47] [cursor=pointer]
+      - generic [ref=f181e51]:
+        - button "Deny" [ref=f181e52] [cursor=pointer]
+        - button "Allow selection" [ref=f181e53] [cursor=pointer]
+        - button "Allow all" [ref=f181e54] [cursor=pointer]
+  - generic [ref=f181e55]:
+    - region "Notifications (F8)":
+      - list
+    - region "Notifications alt+T"
+    - generic [ref=f181e57]:
+      - navigation [ref=f181e58]:
+        - generic [ref=f181e61]:
+          - link [ref=f181e62] [cursor=pointer]:
+            - /url: /
+            - img "Gendo" [ref=f181e63]
+          - generic [ref=f181e64]:
+            - link "Features" [ref=f181e65] [cursor=pointer]:
+              - /url: /product
+            - link "Solutions" [ref=f181e66] [cursor=pointer]:
+              - /url: /workflows
+            - link "Resources" [ref=f181e67] [cursor=pointer]:
+              - /url: /resources
+            - link "Pricing" [ref=f181e68] [cursor=pointer]:
+              - /url: /pricing
+            - button "About" [ref=f181e70] [cursor=pointer]
+          - generic [ref=f181e73]:
+            - link "Log In" [ref=f181e74] [cursor=pointer]:
+              - /url: https://gendo.ai/app/sign-in
+            - link "Start creating" [ref=f181e75] [cursor=pointer]:
+              - /url: https://gendo.ai/app/sign-up
+      - generic [ref=f181e77]:
+        - generic [ref=f181e78]:
+          - paragraph [ref=f181e79]: Pricing
+          - heading "Simple, transparent pricing" [level=1] [ref=f181e80]: Simple, transparentpricing
+          - paragraph [ref=f181e81]: Choose the plan that fits your studio. Scale as you grow.
+        - generic [ref=f181e83]:
+          - generic [ref=f181e84]:
+            - button "Monthly" [ref=f181e85] [cursor=pointer]
+            - button "Yearly 2 months free" [ref=f181e86] [cursor=pointer]:
+              - text: Yearly
+              - generic [ref=f181e87]: 2 months free
+          - button "£ GBP" [ref=f181e88] [cursor=pointer]
+        - generic [ref=f181e91]:
+          - generic [ref=f181e93]:
+            - heading "Free" [level=3] [ref=f181e94]
+            - generic [ref=f181e96]:
+              - generic [ref=f181e97]: £0
+              - generic [ref=f181e98]: /mo
+            - generic [ref=f181e99]:
+              - paragraph [ref=f181e100]: For individuals exploring design workflows and want to try Gendo.
+              - paragraph [ref=f181e101]: Free, unlimited generations
+            - link "Start creating" [ref=f181e102] [cursor=pointer]:
+              - /url: https://gendo.ai/app/sign-up
+            - paragraph [ref=f181e103]: No credit card required
+            - list [ref=f181e104]:
+              - listitem [ref=f181e105]:
+                - generic [ref=f181e108]: 1 active project canvas
+              - listitem [ref=f181e109]:
+                - generic [ref=f181e112]: Up to 50 assets per canvas
+              - listitem [ref=f181e113]:
+                - generic [ref=f181e116]: Access to all specialist architecture image tooling
+              - listitem [ref=f181e117]:
+                - generic [ref=f181e120]: Publicly shareable Link
+              - listitem [ref=f181e121]:
+                - generic [ref=f181e124]: 1 Free Onboarding Call
+              - listitem [ref=f181e125]:
+                - generic [ref=f181e128]: Gendo Watermark
+              - listitem [ref=f181e129]:
+                - generic [ref=f181e132]: 1k Export
+              - listitem [ref=f181e133]:
+                - generic [ref=f181e136]: Invite 1 collaborator
+              - listitem [ref=f181e137]:
+                - generic [ref=f181e140]: History limited to 10 Image Sets
+          - generic [ref=f181e141]:
+            - generic [ref=f181e142]: Recommended
+            - generic [ref=f181e143]:
+              - heading "Studio" [level=3] [ref=f181e144]
+              - generic [ref=f181e145]:
+                - generic [ref=f181e146]:
+                  - generic [ref=f181e147]: £79
+                  - generic [ref=f181e148]: £66
+                  - generic [ref=f181e149]: Save £158/yr
+                - paragraph [ref=f181e150]: /mo · billed annually (excl. tax)
+                - paragraph [ref=f181e151]: £790/year
+              - generic [ref=f181e152]:
+                - paragraph [ref=f181e153]: For professional studios ready to collaborate and share with your team, clients, and stakeholders.
+                - generic [ref=f181e154]: Private by default · No training on your data
+              - generic [ref=f181e159]:
+                - paragraph [ref=f181e161]: +4 seats free with every plan
+                - button "Add more" [ref=f181e162] [cursor=pointer]
+              - link "Start with Studio" [ref=f181e165] [cursor=pointer]:
+                - /url: https://gendo.ai/app/sign-up
+              - paragraph [ref=f181e166]: "Everything in Free, plus:"
+              - list [ref=f181e167]:
+                - listitem [ref=f181e168]:
+                  - generic [ref=f181e171]: Unlimited projects
+                - listitem [ref=f181e172]:
+                  - generic [ref=f181e175]: Unlimited assets on canvas
+                - listitem [ref=f181e176]:
+                  - generic [ref=f181e179]: Unlimited image generations
+                - listitem [ref=f181e180]:
+                  - generic [ref=f181e183]: 15 free video seconds (one-off)
+                - listitem [ref=f181e184]:
+                  - generic [ref=f181e187]: Buy video second packs
+                - listitem [ref=f181e188]:
+                  - generic [ref=f181e191]: Commercial license (client and NDA-safe)
+                - listitem [ref=f181e192]:
+                  - generic [ref=f181e195]: Free viewer seats
+                - listitem [ref=f181e196]:
+                  - generic [ref=f181e199]: Parallel Rendering
+                - listitem [ref=f181e200]:
+                  - generic [ref=f181e203]: No watermark
+                - listitem [ref=f181e204]:
+                  - generic [ref=f181e207]: 2x & 4x Upscaling
+                - listitem [ref=f181e208]:
+                  - generic [ref=f181e211]: Full History
+                - listitem [ref=f181e212]:
+                  - generic [ref=f181e215]: Multi-Factor Authentication
+                - listitem [ref=f181e216]:
+                  - generic [ref=f181e219]: Private Studio workspaces with team roles
+          - generic [ref=f181e221]:
+            - heading "Studio Scale" [level=3] [ref=f181e222]
+            - generic [ref=f181e223]:
+              - generic [ref=f181e224]:
+                - generic [ref=f181e225]: £299
+                - generic [ref=f181e226]: /month
+              - paragraph [ref=f181e227]: /mo · billed monthly (excl. tax) · 5 seats included
+              - generic [ref=f181e228]: Early access pricing
+            - generic [ref=f181e229]:
+              - paragraph [ref=f181e230]: For studios scaling AI across the practice, with unlimited video and organisation-level visibility. Includes 5 seats.
+              - generic [ref=f181e231]: Private by default · No training on your data
+            - link "Talk to us about Scale" [ref=f181e235] [cursor=pointer]:
+              - /url: mailto:sales@gendo.ai?subject=Studio%20Scale%20—%20Early%20Access
+            - paragraph [ref=f181e236]: "Everything in Studio, plus:"
+            - list [ref=f181e237]:
+              - listitem [ref=f181e238]:
+                - generic [ref=f181e241]: 5 seats included (extra seats available)
+              - listitem [ref=f181e242]:
+                - generic [ref=f181e245]: Unlimited video generation
+              - listitem [ref=f181e246]:
+                - generic [ref=f181e249]: Organisation-level analytics & usage visibility
+              - listitem [ref=f181e250]:
+                - generic [ref=f181e253]: VIP onboarding & priority support
+              - listitem [ref=f181e254]:
+                - paragraph [ref=f181e255]: Coming soon
+                - list [ref=f181e256]:
+                  - listitem [ref=f181e257]:
+                    - generic [ref=f181e261]: More granular video generation controls
+                  - listitem [ref=f181e262]:
+                    - generic [ref=f181e266]: Custom studio styles
+                  - listitem [ref=f181e267]:
+                    - generic [ref=f181e271]: Shared material catalogues
+                  - listitem [ref=f181e272]:
+                    - generic [ref=f181e276]: More features on the way
+          - generic [ref=f181e278]:
+            - heading "Enterprise" [level=3] [ref=f181e279]
+            - paragraph [ref=f181e281]: Custom Pricing
+            - generic [ref=f181e282]:
+              - paragraph [ref=f181e283]: For studios needing absolute data security and flexible billing. Minimum 20 seats.
+              - generic [ref=f181e284]: Private by default · No training on your data
+              - paragraph [ref=f181e288]: Evaluation periods available.
+            - generic [ref=f181e289]:
+              - generic [ref=f181e290]:
+                - generic [ref=f181e291]: How many seats does your team need?
+                - spinbutton "e.g. 25" [ref=f181e292]
+              - button "Enter seat count to continue" [disabled]
+              - link "Contact Sales" [ref=f181e293] [cursor=pointer]:
+                - /url: mailto:sales@gendo.ai?subject=Enterprise%20Enquiry
+            - paragraph [ref=f181e294]: "Everything in Free, plus:"
+            - list [ref=f181e295]:
+              - listitem [ref=f181e296]:
+                - generic [ref=f181e299]: Evaluation period available
+              - listitem [ref=f181e300]:
+                - generic [ref=f181e303]: SSO & user provisioning
+              - listitem [ref=f181e304]:
+                - generic [ref=f181e307]: Usage analytics & reporting
+              - listitem [ref=f181e308]:
+                - generic [ref=f181e311]: Dedicated account & SLA
+              - listitem [ref=f181e312]:
+                - generic [ref=f181e315]: Trained Custom Models
+              - listitem [ref=f181e316]:
+                - generic [ref=f181e319]: Custom Catalogue
+        - generic [ref=f181e321]:
+          - generic [ref=f181e322]:
+            - generic [ref=f181e323]: New · Add-on
+            - heading "Video packs" [level=2] [ref=f181e324]
+            - paragraph [ref=f181e325]: Top up your video generation. One-time purchase, available on any paid plan. Billed by the second.
+          - generic [ref=f181e326]:
+            - generic [ref=f181e327]:
+              - heading "100 seconds" [level=3] [ref=f181e328]
+              - paragraph [ref=f181e329]: £0.40 / sec
+              - generic [ref=f181e330]:
+                - generic [ref=f181e331]: £40
+                - generic [ref=f181e332]: one-time
+              - link "Login to buy pack" [ref=f181e333] [cursor=pointer]:
+                - /url: https://gendo.ai/app/sign-in
+            - generic [ref=f181e334]:
+              - heading "250 seconds" [level=3] [ref=f181e335]
+              - paragraph [ref=f181e336]: £0.30 / sec
+              - generic [ref=f181e337]:
+                - generic [ref=f181e338]: £75
+                - generic [ref=f181e339]: one-time
+              - link "Login to buy pack" [ref=f181e340] [cursor=pointer]:
+                - /url: https://gendo.ai/app/sign-in
+            - generic [ref=f181e341]:
+              - generic [ref=f181e342]: Best value
+              - heading "500 seconds" [level=3] [ref=f181e343]
+              - paragraph [ref=f181e344]: £0.25 / sec
+              - generic [ref=f181e345]:
+                - generic [ref=f181e346]: £125
+                - generic [ref=f181e347]: one-time
+              - link "Login to buy pack" [ref=f181e348] [cursor=pointer]:
+                - /url: https://gendo.ai/app/sign-in
+          - paragraph [ref=f181e349]: Requires an active subscription. Unused seconds remain available while your subscription stays active. Prices exclude tax.
+        - generic [ref=f181e352]:
+          - generic [ref=f181e353]:
+            - generic [ref=f181e354]:
+              - generic [ref=f181e355]: Students
+              - generic [ref=f181e356]: Educational Plan
+            - paragraph [ref=f181e357]: Free access for students and educators. Create multiple canvases, explore AI-powered design tools, and learn without limits.
+            - generic [ref=f181e358]:
+              - generic [ref=f181e359]: Multiple canvases
+              - generic [ref=f181e363]: No watermarks
+              - generic [ref=f181e367]: Full AI tooling access
+              - generic [ref=f181e371]: 15 sec free video
+              - generic [ref=f181e375]: No commercial use
+          - generic [ref=f181e380]:
+            - generic [ref=f181e381]:
+              - generic [ref=f181e382]: Free
+              - generic [ref=f181e383]: for students
+            - link "Sign up with student email" [ref=f181e384] [cursor=pointer]:
+              - /url: https://gendo.ai/app/sign-up
+            - paragraph [ref=f181e385]:
+              - text: Auto-enrolled with .edu and .ac email addresses ·
+              - link "Learn more" [ref=f181e386] [cursor=pointer]:
+                - /url: /educational
+        - paragraph [ref=f181e387]:
+          - text: "*"
+          - link "Fair Use Policy" [ref=f181e388] [cursor=pointer]:
+            - /url: /fair-use-policy
+          - text: applies. All plans include access to our latest AI models.All prices exclude applicable taxes.
+      - generic [ref=f181e390]:
+        - generic [ref=f181e391]:
+          - paragraph [ref=f181e392]: Compare Plans
+          - heading "Feature comparison" [level=2] [ref=f181e393]
+          - paragraph [ref=f181e394]: A detailed breakdown of what's included in each plan.
+        - table [ref=f181e397]:
+          - rowgroup [ref=f181e398]:
+            - row [ref=f181e399]:
+              - columnheader "Feature" [ref=f181e400]
+              - columnheader "Free" [ref=f181e401]
+              - columnheader "Studio" [ref=f181e402]
+              - columnheader "Studio Scale" [ref=f181e403]
+              - columnheader "Enterprise" [ref=f181e404]
+          - rowgroup [ref=f181e405]:
+            - row [ref=f181e406]:
+              - cell "Canvases & Projects" [ref=f181e407]
+            - row [ref=f181e408]:
+              - cell "Active project canvases" [ref=f181e409]
+              - cell "1" [ref=f181e410]
+              - cell "Unlimited" [ref=f181e413]
+              - cell "Unlimited" [ref=f181e416]
+              - cell "Unlimited" [ref=f181e419]
+            - row [ref=f181e422]:
+              - cell "Assets on Canvas" [ref=f181e423]
+              - cell "Up to 50" [ref=f181e424]
+              - cell "Unlimited" [ref=f181e427]
+              - cell "Unlimited" [ref=f181e430]
+              - cell "Unlimited" [ref=f181e433]
+            - row [ref=f181e436]:
+              - cell "Image Set history" [ref=f181e437]
+              - cell "10 Image Sets" [ref=f181e438]
+              - cell "Unlimited" [ref=f181e441]
+              - cell "Unlimited" [ref=f181e444]
+              - cell "Unlimited" [ref=f181e447]
+            - row [ref=f181e450]:
+              - cell "Version control" [ref=f181e451]
+              - cell [ref=f181e452]
+              - cell [ref=f181e457]
+              - cell [ref=f181e461]
+              - cell [ref=f181e465]
+            - row [ref=f181e469]:
+              - cell "AI & Rendering" [ref=f181e470]
+            - row [ref=f181e471]:
+              - cell "AI architecture tooling" [ref=f181e472]
+              - cell [ref=f181e473]
+              - cell [ref=f181e477]
+              - cell [ref=f181e481]
+              - cell [ref=f181e485]
+            - row [ref=f181e489]:
+              - cell "Material Transfer" [ref=f181e490]
+              - cell [ref=f181e491]
+              - cell [ref=f181e495]
+              - cell [ref=f181e499]
+              - cell [ref=f181e503]
+            - row [ref=f181e507]:
+              - cell "Enhance & Upscale" [ref=f181e508]
+              - cell [ref=f181e509]
+              - cell [ref=f181e513]
+              - cell [ref=f181e517]
+              - cell [ref=f181e521]
+            - row [ref=f181e525]:
+              - cell "Populate" [ref=f181e526]
+              - cell [ref=f181e527]
+              - cell [ref=f181e531]
+              - cell [ref=f181e535]
+              - cell [ref=f181e539]
+            - row [ref=f181e543]:
+              - cell "Text to Image" [ref=f181e544]
+              - cell [ref=f181e545]
+              - cell [ref=f181e550]
+              - cell [ref=f181e554]
+              - cell [ref=f181e558]
+            - row [ref=f181e562]:
+              - cell "Latest AI models" [ref=f181e563]
+              - cell [ref=f181e564]
+              - cell [ref=f181e569]
+              - cell [ref=f181e573]
+              - cell [ref=f181e577]
+            - row [ref=f181e581]:
+              - cell "Parallel rendering" [ref=f181e582]
+              - cell [ref=f181e583]
+              - cell [ref=f181e588]
+              - cell [ref=f181e592]
+              - cell [ref=f181e596]
+            - row [ref=f181e600]:
+              - cell "Custom trained models" [ref=f181e601]
+              - cell [ref=f181e602]
+              - cell [ref=f181e607]
+              - cell [ref=f181e612]
+              - cell [ref=f181e617]
+            - row [ref=f181e621]:
+              - cell "Export & Output" [ref=f181e622]
+            - row [ref=f181e623]:
+              - cell "Export resolution" [ref=f181e624]
+              - cell "1x" [ref=f181e625]
+              - cell "2x & 4x" [ref=f181e628]
+              - cell "2x & 4x" [ref=f181e631]
+              - cell "2x & 4x" [ref=f181e634]
+            - row [ref=f181e637]:
+              - cell "Watermark-free exports" [ref=f181e638]
+              - cell [ref=f181e639]
+              - cell [ref=f181e644]
+              - cell [ref=f181e648]
+              - cell [ref=f181e652]
+            - row [ref=f181e656]:
+              - cell "Commercial license" [ref=f181e657]
+              - cell [ref=f181e658]
+              - cell [ref=f181e663]
+              - cell [ref=f181e667]
+              - cell [ref=f181e671]
+            - row [ref=f181e675]:
+              - cell "Video" [ref=f181e676]
+            - row [ref=f181e677]:
+              - cell "Free video seconds (one-off)" [ref=f181e678]
+              - cell [ref=f181e679]
+              - cell "15 seconds" [ref=f181e684]
+              - cell "Unlimited" [ref=f181e687]
+              - cell "15 seconds" [ref=f181e690]
+            - row [ref=f181e693]:
+              - cell "Unlimited video generation" [ref=f181e694]
+              - cell [ref=f181e695]
+              - cell [ref=f181e700]
+              - cell [ref=f181e705]
+              - cell [ref=f181e709]
+            - row [ref=f181e714]:
+              - cell "Video second packs (add-on)" [ref=f181e715]
+              - cell [ref=f181e716]
+              - cell [ref=f181e721]
+              - cell "Not needed" [ref=f181e725]
+              - cell [ref=f181e728]
+            - row [ref=f181e732]:
+              - cell "Granular video controls" [ref=f181e733]
+              - cell [ref=f181e734]
+              - cell [ref=f181e739]
+              - cell "Coming soon" [ref=f181e744]
+              - cell [ref=f181e747]
+            - row [ref=f181e752]:
+              - cell "Collaboration" [ref=f181e753]
+            - row [ref=f181e754]:
+              - cell "Team members" [ref=f181e755]
+              - cell "Up to 2" [ref=f181e756]
+              - cell "Up to 5" [ref=f181e759]
+              - cell "Up to 5" [ref=f181e762]
+              - cell "Unlimited" [ref=f181e765]
+            - row [ref=f181e768]:
+              - cell "Additional seats" [ref=f181e769]
+              - cell [ref=f181e770]
+              - cell "Add-on" [ref=f181e775]
+              - cell "Add-on" [ref=f181e778]
+              - cell "Included" [ref=f181e781]
+            - row [ref=f181e784]:
+              - cell "Viewer seats" [ref=f181e785]
+              - cell "Unlimited" [ref=f181e786]
+              - cell "Unlimited" [ref=f181e789]
+              - cell "Unlimited" [ref=f181e792]
+              - cell "Unlimited" [ref=f181e795]
+            - row [ref=f181e798]:
+              - cell "Shareable links" [ref=f181e799]
+              - cell "Public only" [ref=f181e800]
+              - cell "Private & Public" [ref=f181e803]
+              - cell "Private & Public" [ref=f181e806]
+              - cell "Private & Public" [ref=f181e809]
+            - row [ref=f181e812]:
+              - cell "Custom studio styles" [ref=f181e813]
+              - cell [ref=f181e814]
+              - cell [ref=f181e819]
+              - cell "Coming soon" [ref=f181e824]
+              - cell [ref=f181e827]
+            - row [ref=f181e832]:
+              - cell "Shared material catalogues" [ref=f181e833]
+              - cell [ref=f181e834]
+              - cell [ref=f181e839]
+              - cell "Coming soon" [ref=f181e844]
+              - cell [ref=f181e847]
+            - row [ref=f181e852]:
+              - cell "Team workspaces" [ref=f181e853]
+              - cell [ref=f181e854]
+              - cell [ref=f181e859]
+              - cell [ref=f181e864]
+              - cell [ref=f181e869]
+            - row [ref=f181e873]:
+              - cell "Role management" [ref=f181e874]
+              - cell [ref=f181e875]
+              - cell [ref=f181e880]
+              - cell [ref=f181e885]
+              - cell [ref=f181e890]
+            - row [ref=f181e894]:
+              - cell "Security & Privacy" [ref=f181e895]
+            - row [ref=f181e896]:
+              - cell "Project privacy" [ref=f181e897]
+              - cell "Public" [ref=f181e898]
+              - cell "Private by default" [ref=f181e901]
+              - cell "Private by default" [ref=f181e904]
+              - cell "Private by default" [ref=f181e907]
+            - row [ref=f181e910]:
+              - cell "SSO & user provisioning" [ref=f181e911]
+              - cell [ref=f181e912]
+              - cell [ref=f181e917]
+              - cell [ref=f181e922]
+              - cell [ref=f181e927]
+            - row [ref=f181e931]:
+              - cell "Multi-factor authentication (MFA)" [ref=f181e932]
+              - cell [ref=f181e933]
+              - cell [ref=f181e937]
+              - cell [ref=f181e941]
+              - cell [ref=f181e945]
+            - row [ref=f181e949]:
+              - cell "Enterprise-grade encryption" [ref=f181e950]
+              - cell [ref=f181e951]
+              - cell [ref=f181e956]
+              - cell [ref=f181e960]
+              - cell [ref=f181e964]
+            - row [ref=f181e968]:
+              - cell "Support" [ref=f181e969]
+            - row [ref=f181e970]:
+              - cell "Onboarding call" [ref=f181e971]
+              - cell "1 free call" [ref=f181e972]
+              - cell [ref=f181e975]
+              - cell "VIP onboarding" [ref=f181e979]
+              - cell [ref=f181e982]
+            - row [ref=f181e986]:
+              - cell "Support channel" [ref=f181e987]
+              - cell "Email" [ref=f181e988]
+              - cell "Priority Email" [ref=f181e991]
+              - cell "VIP support" [ref=f181e994]
+              - cell "Dedicated Account" [ref=f181e997]
+            - row [ref=f181e1000]:
+              - cell "Usage analytics" [ref=f181e1001]
+              - cell [ref=f181e1002]
+              - cell [ref=f181e1007]
+              - cell "Organisation-level" [ref=f181e1012]
+              - cell [ref=f181e1015]
+      - generic [ref=f181e1020]:
+        - generic [ref=f181e1021]:
+          - paragraph [ref=f181e1022]: FAQ
+          - heading "Frequently asked questions" [level=2] [ref=f181e1023]
+          - paragraph [ref=f181e1024]: Everything you need to know about our plans.
+        - generic [ref=f181e1026]:
+          - heading [level=3] [ref=f181e1028]:
+            - button "How much does Studio cost?" [ref=f181e1029] [cursor=pointer]
+          - heading [level=3] [ref=f181e1033]:
+            - button "Can I add more team members to Studio?" [ref=f181e1034] [cursor=pointer]
+          - heading [level=3] [ref=f181e1038]:
+            - button "Which plans include video?" [ref=f181e1039] [cursor=pointer]
+          - heading [level=3] [ref=f181e1043]:
+            - button "What counts as a 'generation' under the Fair Use Policy?" [ref=f181e1044] [cursor=pointer]
+          - heading [level=3] [ref=f181e1048]:
+            - button "Can I upgrade or downgrade my plan at any time?" [ref=f181e1049] [cursor=pointer]
+          - heading [level=3] [ref=f181e1053]:
+            - button "What does 'Private by default' mean for Studio and Enterprise?" [ref=f181e1054] [cursor=pointer]
+          - heading [level=3] [ref=f181e1058]:
+            - button "How does the commercial license work?" [ref=f181e1059] [cursor=pointer]
+          - heading [level=3] [ref=f181e1063]:
+            - button "What AI models are included?" [ref=f181e1064] [cursor=pointer]
+          - heading [level=3] [ref=f181e1068]:
+            - button "Is there a contract or commitment for Enterprise plans?" [ref=f181e1069] [cursor=pointer]
+          - heading [level=3] [ref=f181e1073]:
+            - button "How does the Educational plan work?" [ref=f181e1074] [cursor=pointer]
+          - heading [level=3] [ref=f181e1078]:
+            - button "What support is available?" [ref=f181e1079] [cursor=pointer]
+        - generic [ref=f181e1082]:
+          - paragraph [ref=f181e1083]: Still have questions? We're here to help.
+          - link "Contact Us" [ref=f181e1084] [cursor=pointer]:
+            - /url: mailto:hello@gendo.ai
+      - contentinfo [ref=f181e1085]:
+        - generic [ref=f181e1088]:
+          - generic [ref=f181e1089]:
+            - generic [ref=f181e1090]:
+              - link "Gendo" [ref=f181e1091] [cursor=pointer]:
+                - /url: "#"
+              - paragraph [ref=f181e1092]: A living canvas for visual exploration, iteration, and decision-making.
+            - generic [ref=f181e1093]:
+              - heading "Product" [level=3] [ref=f181e1094]
+              - list [ref=f181e1095]:
+                - listitem [ref=f181e1096]:
+                  - link "Product" [ref=f181e1097] [cursor=pointer]:
+                    - /url: /product
+                - listitem [ref=f181e1101]:
+                  - link "Why Gendo" [ref=f181e1102] [cursor=pointer]:
+                    - /url: /why-gendo
+                - listitem [ref=f181e1106]:
+                  - link "Pricing" [ref=f181e1107] [cursor=pointer]:
+                    - /url: /pricing
+                - listitem [ref=f181e1111]:
+                  - link "FAQs" [ref=f181e1112] [cursor=pointer]:
+                    - /url: /faqs
+            - generic [ref=f181e1116]:
+              - heading "Company" [level=3] [ref=f181e1117]
+              - list [ref=f181e1118]:
+                - listitem [ref=f181e1119]:
+                  - link "About Us" [ref=f181e1120] [cursor=pointer]:
+                    - /url: /about-us
+                - listitem [ref=f181e1121]:
+                  - link "Career" [ref=f181e1122] [cursor=pointer]:
+                    - /url: /career
+                - listitem [ref=f181e1123]:
+                  - link "Environmental Statement" [ref=f181e1124] [cursor=pointer]:
+                    - /url: /about/environmental-statement
+                - listitem [ref=f181e1125]:
+                  - link "Blog" [ref=f181e1126] [cursor=pointer]:
+                    - /url: /resources/insights
+                - listitem [ref=f181e1127]:
+                  - link "Contact Us" [ref=f181e1128] [cursor=pointer]:
+                    - /url: /book-call
+            - generic [ref=f181e1129]:
+              - heading "Connect" [level=3] [ref=f181e1130]
+              - list [ref=f181e1131]:
+                - listitem [ref=f181e1132]:
+                  - link "LinkedIn" [ref=f181e1133] [cursor=pointer]:
+                    - /url: https://linkedin.com/company/gendo-ai
+                - listitem [ref=f181e1137]:
+                  - link "Instagram" [ref=f181e1138] [cursor=pointer]:
+                    - /url: https://instagram.com/gendo.ai
+                - listitem [ref=f181e1142]:
+                  - link "YouTube" [ref=f181e1143] [cursor=pointer]:
+                    - /url: https://youtube.com/@Gendo-ai
+          - generic [ref=f181e1147]:
+            - paragraph [ref=f181e1148]: © 2026 Gendo. All rights reserved.
+            - generic [ref=f181e1149]:
+              - link "Licenses" [ref=f181e1150] [cursor=pointer]:
+                - /url: /licenses
+              - link "Terms of Service" [ref=f181e1151] [cursor=pointer]:
+                - /url: /terms-of-service
+              - link "Privacy Policy" [ref=f181e1152] [cursor=pointer]:
+                - /url: /privacy-policy
+  - iframe [aria-hidden] [ref=f181e1153]

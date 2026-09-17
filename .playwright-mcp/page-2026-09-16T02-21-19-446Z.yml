@@ -1,0 +1,341 @@
+- generic [ref=f288e2]:
+  - banner [ref=f288e4]:
+    - generic [ref=f288e6]:
+      - generic [ref=f288e7]:
+        - button "Guide" [active] [ref=f288e9] [cursor=pointer]
+        - generic [ref=f288e11]:
+          - link "YouTube Home" [ref=f288e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f288e16]: IN
+        - button "Skip navigation" [ref=f288e20] [cursor=pointer]
+      - generic [ref=f288e24]:
+        - search [ref=f288e25]:
+          - generic [ref=f288e27]:
+            - generic [ref=f288e28]:
+              - combobox "Search" [expanded] [ref=f288e30]: "\"SECRET Workflows to Convert ANY Image to 3D\""
+              - button "Clear search query" [ref=f288e32] [cursor=pointer]
+            - button "Search" [ref=f288e37] [cursor=pointer]
+        - generic [ref=f288e40]:
+          - button "Search with your voice" [ref=f288e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f288e51]
+  - main [ref=f288e53]:
+    - generic [ref=f288e54]:
+      - generic [ref=f288e56]:
+        - tablist [ref=f288e61]:
+          - tab "All" [selected] [ref=f288e65] [cursor=pointer]
+          - tab "Shorts" [ref=f288e71] [cursor=pointer]
+          - tab "Unwatched" [ref=f288e77] [cursor=pointer]
+          - tab "Watched" [ref=f288e83] [cursor=pointer]
+          - tab "Videos" [ref=f288e89] [cursor=pointer]
+          - tab "Recently uploaded" [ref=f288e95] [cursor=pointer]
+          - tab "Live" [ref=f288e101] [cursor=pointer]
+        - generic [ref=f288e105]:
+          - button "Search filters" [ref=f288e107] [cursor=pointer]:
+            - generic: Filters
+          - tooltip "tooltip"
+      - generic [ref=f288e114]:
+        - generic [ref=f288e121]:
+          - generic [ref=f288e122]: Image to 3D in Seconds
+          - generic [ref=f288e129]:
+            - generic [ref=f288e130] [cursor=pointer]:
+              - generic [ref=f288e131]:
+                - link "Make STL Files in Seconds - Upload a photo or type a prompt — get a fully textured 3D model to download. AI retopology, PBR textures, auto-rigging — everything..." [ref=f288e134]:
+                  - /url: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjBkP-ThfKWAxW0hmYCHXaMHiAYACICCAEQABoCc20&co=1&ase=2&gclid=EAIaIQobChMIwZD_k4XylgMVtIZmAh12jB4gEAAYASAAEgI-cPD_BwE&cid=CAAS0wHkaM1Ob31LV_WsSycINm1QUfHcjjBylrbTFvj-zVf8jOUVpZnglim-Vm05PTNWum5Kil2up-iShaGVj1q5D39VH3LoHRt6Z5Jj871Rw5aQ1upnfmrjk1V68VUp6v1TrNaly4ozpOnivf_-V9MepT1QSnfrb62CkVadaF2nNxWQzi04mNcnIdO6PGewLukuhNvZqM5TPUw6pok6WICx821saT5GRlRdG-XGM-HzDKuVUWTIgYe2ZkYweVVbp4g0IyknlFh2mBSO5oRMRVwFfAkAW7_F&cce=2&category=acrcp_v1_32&sig=AOD64_0rmVcxa-gx5pDkkvt-s2Oq9Uz7jg&adurl=https://www.meshy.ai/%3Futm_content%3D6742354362%26utm_source%3Dgoogle%26utm_medium%3Dpmax%26utm_campaign%3D23809479107%26gad_source%3D2%26gad_campaignid%3D23814039529%26gclid%3DEAIaIQobChMIwZD_k4XylgMVtIZmAh12jB4gEAAYASAAEgI-cPD_BwE&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+                - generic [ref=f288e135]:
+                  - generic [ref=f288e137]:
+                    - generic [ref=f288e138]: Sponsored
+                    - text: ·
+                  - generic [ref=f288e139]: https://www.meshy.ai/
+              - button "My Ad Centre" [ref=f288e143]
+            - generic [ref=f288e147]:
+              - link "Convert Image to 3D" [ref=f288e148]
+              - link "Meshy 7 - Try It Now" [ref=f288e150]
+              - link "Sign Up Today" [ref=f288e152]
+              - 'link "New: Meshy 7 Upgrades" [ref=f288e154]'
+              - 'link "Last Chance: 50% off" [ref=f288e156]'
+              - link "AI Image Generator" [ref=f288e158]
+        - generic [ref=f288e161]:
+          - generic [ref=f288e163]:
+            - link [aria-hidden] [ref=f288e165] [cursor=pointer]:
+              - /url: /watch?v=D58XyZQp7gA&pp=ygUtIlNFQ1JFVCBXb3JrZmxvd3MgdG8gQ29udmVydCBBTlkgSW1hZ2UgdG8gM0Qi
+            - generic [ref=f288e167] [cursor=pointer]:
+              - generic [ref=f288e168]:
+                - heading [level=3] [ref=f288e170]:
+                  - link "The SECRET Workflows to Convert ANY Image to 3D | Hitem3D Review 11 minutes, 34 seconds" [ref=f288e171]:
+                    - /url: /watch?v=D58XyZQp7gA&pp=ygUtIlNFQ1JFVCBXb3JrZmxvd3MgdG8gQ29udmVydCBBTlkgSW1hZ2UgdG8gM0Qi
+                    - text: The SECRET Workflows to Convert ANY Image to 3D | Hitem3D Review
+                - generic [ref=f288e174]:
+                  - generic [ref=f288e175]: 1.3m views
+                  - generic [ref=f288e176]: •5 months ago
+              - generic [ref=f288e177]:
+                - link "Go to channel Salmaan Mohamed" [ref=f288e178]:
+                  - /url: /@salmaanarchitect
+                - link "Salmaan Mohamed" [ref=f288e184]:
+                  - /url: /@salmaanarchitect
+              - generic [ref=f288e185]:
+                - text: "EXCLUSIVE Get 30% off on Hitem3D annual plan. Try Hitem3D: ..."
+                - tooltip "tooltip"
+              - img "4K" [ref=f288e190]
+              - generic [ref=f288e194]:
+                - generic [ref=f288e195]:
+                  - generic [ref=f288e198]: 8 chapters
+                  - button "Introduction | How to Access | Furniture to 3D | Google Earth to 3D | Concept Sketch to 3D | Context Specific Human Assets | Image to 3D Print | Architectural Details to 3D" [ref=f288e200]
+                - button "More" [ref=f288e205]
+          - generic [ref=f288e210] [cursor=pointer]:
+            - link [aria-hidden] [ref=f288e211]:
+              - /url: /watch?v=2xr9V-8zyZQ&list=PLkm6b_Mew-7ExBP23qMC4FWmUZDqSpixu
+              - generic [ref=f288e213]: 23 videos
+            - generic [ref=f288e226]:
+              - heading "AI Architecture" [level=3] [ref=f288e227]:
+                - link "AI Architecture" [ref=f288e228]:
+                  - /url: /watch?v=2xr9V-8zyZQ&list=PLkm6b_Mew-7ExBP23qMC4FWmUZDqSpixu
+              - generic [ref=f288e230]:
+                - group [ref=f288e231]:
+                  - link "Eleni Skalkou" [ref=f288e234]:
+                    - /url: /@eleni7466
+                  - generic [aria-hidden] [ref=f288e235]: •
+                  - link "Playlist" [ref=f288e238]:
+                    - /url: /@eleni7466
+                - group [ref=f288e239]
+                - group [ref=f288e240]:
+                  - link "Transform Your Architecture SKETCH Into A Masterpiece Using MIDJOURNEY AI · 7:19" [ref=f288e242]:
+                    - /url: /watch?v=2xr9V-8zyZQ&list=PLkm6b_Mew-7ExBP23qMC4FWmUZDqSpixu
+                - group [ref=f288e243]:
+                  - link "AI Tool for Landscape Design | Sketch to Rendering | Rendering Style Fusion · 8:03" [ref=f288e245]:
+                    - /url: /watch?v=KZ-50T5jams&list=PLkm6b_Mew-7ExBP23qMC4FWmUZDqSpixu
+                - group [ref=f288e246]
+                - group [ref=f288e247]:
+                  - link "View full playlist" [ref=f288e250]:
+                    - /url: /playlist?list=PLkm6b_Mew-7ExBP23qMC4FWmUZDqSpixu
+          - generic [ref=f288e252] [cursor=pointer]:
+            - link [aria-hidden] [ref=f288e253]:
+              - /url: /watch?v=66xvLqx4hHc&list=PLK4rGtsXO2Gl7hN1ct2FaRPqF-tY6UZMc
+              - generic [ref=f288e255]: 50 videos
+            - generic [ref=f288e268]:
+              - heading "AI For Architects" [level=3] [ref=f288e269]:
+                - link "AI For Architects" [ref=f288e270]:
+                  - /url: /watch?v=66xvLqx4hHc&list=PLK4rGtsXO2Gl7hN1ct2FaRPqF-tY6UZMc
+              - generic [ref=f288e272]:
+                - group [ref=f288e273]:
+                  - link "Salmaan Mohamed" [ref=f288e276]:
+                    - /url: /@salmaanarchitect
+                  - generic [aria-hidden] [ref=f288e277]: •
+                  - link "Playlist" [ref=f288e280]:
+                    - /url: /@salmaanarchitect
+                  - generic [aria-hidden] [ref=f288e281]: •
+                  - generic [ref=f288e282]: Updated yesterday
+                - group [ref=f288e283]
+                - group [ref=f288e284]:
+                  - link "Create Realistic RENDERS from CRUSHED PAPER For FREE | LookX AI · 9:05" [ref=f288e286]:
+                    - /url: /watch?v=66xvLqx4hHc&list=PLK4rGtsXO2Gl7hN1ct2FaRPqF-tY6UZMc&pp=0gcJCfUE0aJEHMZM
+                - group [ref=f288e287]:
+                  - link "Architectural Animation 2D HACK | MUST KNOW! · 5:28" [ref=f288e289]:
+                    - /url: /watch?v=lA2oNWJTi2o&list=PLK4rGtsXO2Gl7hN1ct2FaRPqF-tY6UZMc
+                - group [ref=f288e290]
+                - group [ref=f288e291]:
+                  - link "View full playlist" [ref=f288e294]:
+                    - /url: /playlist?list=PLK4rGtsXO2Gl7hN1ct2FaRPqF-tY6UZMc
+          - generic [ref=f288e295]:
+            - heading "Shorts" [level=2] [ref=f288e303]
+            - generic [ref=f288e305]:
+              - generic [ref=f288e308]:
+                - link [aria-hidden] [ref=f288e309] [cursor=pointer]:
+                  - /url: /shorts/uQ3zCtRNFB4
+                  - img [ref=f288e314]:
+                    - generic [ref=f288e315]: New
+                - generic [ref=f288e316] [cursor=pointer]:
+                  - 'link "Turn Any Image into a 3D-Printable Model with V2Fun #v2fun#ai3d #3dprinting #3dmodeling" [ref=f288e317]':
+                    - /url: /shorts/uQ3zCtRNFB4
+                  - generic [ref=f288e318]: 1.2k views
+                - button "More actions" [ref=f288e320] [cursor=pointer]
+              - generic [ref=f288e326]:
+                - link [aria-hidden] [ref=f288e327] [cursor=pointer]:
+                  - /url: /shorts/6X1LbWhrDQY
+                  - img [ref=f288e332]:
+                    - generic [ref=f288e333]: New
+                - generic [ref=f288e334] [cursor=pointer]:
+                  - 'link "Tutorial: Creating 3D CADs from an Image" [ref=f288e335]':
+                    - /url: /shorts/6X1LbWhrDQY
+                  - generic [ref=f288e336]: 45 views
+                - button "More actions" [ref=f288e338] [cursor=pointer]
+              - generic [ref=f288e344]:
+                - link [aria-hidden] [ref=f288e345] [cursor=pointer]:
+                  - /url: /shorts/mIsSYnxlEU4
+                  - img [ref=f288e350]:
+                    - generic [ref=f288e351]: New
+                - generic [ref=f288e352] [cursor=pointer]:
+                  - 'link "Watch an Image Become a 3D Printable Model #TripoAI #3DPrinting #3DTutorial #3DModeling" [ref=f288e353]':
+                    - /url: /shorts/mIsSYnxlEU4
+                  - generic [ref=f288e354]: 24 views
+                - button "More actions" [ref=f288e356] [cursor=pointer]
+              - generic [ref=f288e362]:
+                - link [aria-hidden] [ref=f288e363] [cursor=pointer]:
+                  - /url: /shorts/QC7a1YWSq1M
+                  - img [ref=f288e368]:
+                    - generic [ref=f288e369]: New
+                - generic [ref=f288e370] [cursor=pointer]:
+                  - 'link "Text To 3D Model In Seconds? 3 Best AI Tools! 🤯 #TechShorts #shorts" [ref=f288e371]':
+                    - /url: /shorts/QC7a1YWSq1M
+                  - generic [ref=f288e372]: 10 views
+                - button "More actions" [ref=f288e374] [cursor=pointer]
+              - generic [ref=f288e380]:
+                - link [aria-hidden] [ref=f288e381] [cursor=pointer]:
+                  - /url: /shorts/drY4zZK3jBc
+                - generic [ref=f288e385] [cursor=pointer]:
+                  - link "Convert 2D images to 3D in seconds!" [ref=f288e386]:
+                    - /url: /shorts/drY4zZK3jBc
+                  - generic [ref=f288e387]: 209k views
+                - button "More actions" [ref=f288e389] [cursor=pointer]
+          - generic [ref=f288e394] [cursor=pointer]:
+            - link [aria-hidden] [ref=f288e395]:
+              - /url: /watch?v=utgUqZT8mmo&list=PLkSzskzk-yCRt0SSF7idfF8yhbQ8T0B77&pp=0gcJCbwFa94AFGB0
+              - generic [ref=f288e397]: 242 videos
+            - generic [ref=f288e410]:
+              - heading "ARCHITECTURE" [level=3] [ref=f288e411]:
+                - link "ARCHITECTURE" [ref=f288e412]:
+                  - /url: /watch?v=utgUqZT8mmo&list=PLkSzskzk-yCRt0SSF7idfF8yhbQ8T0B77&pp=0gcJCbwFa94AFGB0
+              - generic [ref=f288e414]:
+                - group [ref=f288e415]:
+                  - link "Christian Sese" [ref=f288e418]:
+                    - /url: /@christiansese3480
+                  - generic [aria-hidden] [ref=f288e419]: •
+                  - link "Playlist" [ref=f288e422]:
+                    - /url: /@christiansese3480
+                  - generic [aria-hidden] [ref=f288e423]: •
+                  - generic [ref=f288e424]: Updated 3 days ago
+                - group [ref=f288e425]
+                - group [ref=f288e426]:
+                  - 'link "Casa Narra: Natapos na! House Tour Video · 11:24" [ref=f288e428]':
+                    - /url: /watch?v=utgUqZT8mmo&list=PLkSzskzk-yCRt0SSF7idfF8yhbQ8T0B77
+                - group [ref=f288e429]:
+                  - link "Why does Metro Manila keep flooding? Urban planner Paulo Alcazaren explains | At the Forefront · 24:29" [ref=f288e431]:
+                    - /url: /watch?v=T0phhM1F3tM&list=PLkSzskzk-yCRt0SSF7idfF8yhbQ8T0B77
+                - group [ref=f288e432]
+                - group [ref=f288e433]:
+                  - link "View full playlist" [ref=f288e436]:
+                    - /url: /playlist?list=PLkSzskzk-yCRt0SSF7idfF8yhbQ8T0B77
+          - generic [ref=f288e438] [cursor=pointer]:
+            - link [aria-hidden] [ref=f288e439]:
+              - /url: /watch?v=g45D-ulsY00&list=PLeiSPSyAsRQ0ejQ1mKr_ci7atHzqAwZvq
+              - generic [ref=f288e441]: 317 videos
+            - generic [ref=f288e454]:
+              - heading "Real Estate Business" [level=3] [ref=f288e455]:
+                - link "Real Estate Business" [ref=f288e456]:
+                  - /url: /watch?v=g45D-ulsY00&list=PLeiSPSyAsRQ0ejQ1mKr_ci7atHzqAwZvq
+              - generic [ref=f288e458]:
+                - group [ref=f288e459]:
+                  - link "Rahman Digital Agency | Marketing Service & Course" [ref=f288e462]:
+                    - /url: /@RahmanDigitalAgency
+                  - generic [aria-hidden] [ref=f288e463]: •
+                  - link "Playlist" [ref=f288e466]:
+                    - /url: /@RahmanDigitalAgency
+                  - generic [aria-hidden] [ref=f288e467]: •
+                  - generic [ref=f288e468]: Updated today
+                - group [ref=f288e469]
+                - group [ref=f288e470]:
+                  - link "How This Singaporean Retired At 35 Without Getting Rich | Money Mind · 10:20" [ref=f288e472]:
+                    - /url: /watch?v=g45D-ulsY00&list=PLeiSPSyAsRQ0ejQ1mKr_ci7atHzqAwZvq
+                - group [ref=f288e473]:
+                  - link "দোকানে কমেছে বেচাকেনা; বেশি মামলা মোহাম্মদপুর থানায় | Dhaka Crime News | Crime Update | Ekhon TV · 3:37" [ref=f288e475]:
+                    - /url: /watch?v=zdY4Eqdz-wM&list=PLeiSPSyAsRQ0ejQ1mKr_ci7atHzqAwZvq
+                - group [ref=f288e476]
+                - group [ref=f288e477]:
+                  - link "View full playlist" [ref=f288e480]:
+                    - /url: /playlist?list=PLeiSPSyAsRQ0ejQ1mKr_ci7atHzqAwZvq
+          - generic [ref=f288e481]:
+            - heading "Shorts" [level=2] [ref=f288e489]
+            - generic [ref=f288e490]:
+              - generic [ref=f288e491]:
+                - generic [ref=f288e494]:
+                  - link [aria-hidden] [ref=f288e495] [cursor=pointer]:
+                    - /url: /shorts/PL70L0lAiEY
+                  - generic [ref=f288e499] [cursor=pointer]:
+                    - 'link "Convert ANY Image to 3D Model 🔥🤯 Foyr Neo #architecture #interiordesign" [ref=f288e500]':
+                      - /url: /shorts/PL70L0lAiEY
+                    - generic [ref=f288e501]: 131k views
+                  - button "More actions" [ref=f288e503] [cursor=pointer]
+                - generic [ref=f288e509]:
+                  - link [aria-hidden] [ref=f288e510] [cursor=pointer]:
+                    - /url: /shorts/H1zcBqCWh1Q
+                    - img [ref=f288e515]:
+                      - generic [ref=f288e516]: New
+                  - generic [ref=f288e517] [cursor=pointer]:
+                    - 'link "Turn an image into a printable 3D model #3DModeling #Maker #Shorts #3DTutorial" [ref=f288e518]':
+                      - /url: /shorts/H1zcBqCWh1Q
+                    - generic [ref=f288e519]: 231 views
+                  - button "More actions" [ref=f288e521] [cursor=pointer]
+                - generic [ref=f288e527]:
+                  - link [aria-hidden] [ref=f288e528] [cursor=pointer]:
+                    - /url: /shorts/mWQ49Hg64Gc
+                  - generic [ref=f288e532] [cursor=pointer]:
+                    - 'link "Convert Your 2D image into 3D using AI for free 🔥 #techshorts #avsolutions" [ref=f288e533]':
+                      - /url: /shorts/mWQ49Hg64Gc
+                    - generic [ref=f288e534]: 65k views
+                  - button "More actions" [ref=f288e536] [cursor=pointer]
+                - generic [ref=f288e542]:
+                  - link [aria-hidden] [ref=f288e543] [cursor=pointer]:
+                    - /url: /shorts/2NS0rlF-Hag
+                  - generic [ref=f288e547] [cursor=pointer]:
+                    - 'link "turn any image into a perfect 3D model instantly #3d #3dmodeling #3danimation #ai #aitools #coding" [ref=f288e548]':
+                      - /url: /shorts/2NS0rlF-Hag
+                    - generic [ref=f288e549]: 1.5m views
+                  - button "More actions" [ref=f288e551] [cursor=pointer]
+                - generic [ref=f288e557]:
+                  - link [aria-hidden] [ref=f288e558] [cursor=pointer]:
+                    - /url: /shorts/ZC3RwEBLMgY
+                  - generic [ref=f288e562] [cursor=pointer]:
+                    - link "From 2D to 3D | How to Animate Your Images with AI in a Few Clicks" [ref=f288e563]:
+                      - /url: /shorts/ZC3RwEBLMgY
+                    - generic [ref=f288e564]: 117k views
+                  - button "More actions" [ref=f288e566] [cursor=pointer]
+              - generic [ref=f288e570]:
+                - generic [ref=f288e573]:
+                  - link [aria-hidden] [ref=f288e574] [cursor=pointer]:
+                    - /url: /shorts/kznEfUsjM00
+                    - img [ref=f288e579]:
+                      - generic [ref=f288e580]: New
+                  - generic [ref=f288e581] [cursor=pointer]:
+                    - link "How Do You Turn a Detailed Religious Sculpture into a 3D Model with AI?" [ref=f288e582]:
+                      - /url: /shorts/kznEfUsjM00
+                    - generic [ref=f288e583]: No views
+                  - button "More actions" [ref=f288e585] [cursor=pointer]
+                - generic [ref=f288e591]:
+                  - link [aria-hidden] [ref=f288e592] [cursor=pointer]:
+                    - /url: /shorts/E4sqg3nez2A
+                    - img [ref=f288e597]:
+                      - generic [ref=f288e598]: New
+                  - generic [ref=f288e599] [cursor=pointer]:
+                    - 'link "Turn an image into a printable 3D model #TripoAI #3DModeling #3DPrinting #DIY" [ref=f288e600]':
+                      - /url: /shorts/E4sqg3nez2A
+                    - generic [ref=f288e601]: 1.2k views
+                  - button "More actions" [ref=f288e603] [cursor=pointer]
+                - generic [ref=f288e609]:
+                  - link [aria-hidden] [ref=f288e610] [cursor=pointer]:
+                    - /url: /shorts/XTjgwbdkwmA
+                    - img [ref=f288e615]:
+                      - generic [ref=f288e616]: New
+                  - generic [ref=f288e617] [cursor=pointer]:
+                    - 'link "Turn an image into a printable 3D model #PrintTok #Maker #3DTutorial #TripoAI" [ref=f288e618]':
+                      - /url: /shorts/XTjgwbdkwmA
+                    - generic [ref=f288e619]: 913 views
+                  - button "More actions" [ref=f288e621] [cursor=pointer]
+                - generic [ref=f288e627]:
+                  - link [aria-hidden] [ref=f288e628] [cursor=pointer]:
+                    - /url: /shorts/Iyvo2ZWhfcM
+                  - generic [ref=f288e632] [cursor=pointer]:
+                    - 'link "Convert Images to 3D Models With AI #shorts #shortvideo #ai #youtubeshorts #aishorts #ytshorts" [ref=f288e633]':
+                      - /url: /shorts/Iyvo2ZWhfcM
+                    - generic [ref=f288e634]: 580k views
+                  - button "More actions" [ref=f288e636] [cursor=pointer]
+                - generic [ref=f288e642]:
+                  - link [aria-hidden] [ref=f288e643] [cursor=pointer]:
+                    - /url: /shorts/E0npiZPp-14
+                    - img [ref=f288e648]:
+                      - generic [ref=f288e649]: New
+                  - generic [ref=f288e650] [cursor=pointer]:
+                    - link "HOW I TRANSFORM BEN 10 FOUR ARMS FROM 2D PIC TO REAL 3D MODEL USING MESHY AI 7" [ref=f288e651]:
+                      - /url: /shorts/E0npiZPp-14
+                    - generic [ref=f288e652]: 4 views
+                  - button "More actions" [ref=f288e654] [cursor=pointer]
+            - button "Show more" [ref=f288e661] [cursor=pointer]

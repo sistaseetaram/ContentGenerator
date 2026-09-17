@@ -1,0 +1,211 @@
+- generic [ref=f52e2]:
+  - banner [ref=f52e4]:
+    - generic [ref=f52e6]:
+      - generic [ref=f52e7]:
+        - button "Guide" [active] [ref=f52e9] [cursor=pointer]
+        - generic [ref=f52e11]:
+          - link "YouTube Home" [ref=f52e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f52e16]: IN
+        - button "Skip navigation" [ref=f52e20] [cursor=pointer]
+      - generic [ref=f52e24]:
+        - search [ref=f52e25]:
+          - generic [ref=f52e27]:
+            - generic [ref=f52e28]:
+              - combobox "Search" [expanded] [ref=f52e30]: AI rendering architecture accurate floor plan
+              - button "Clear search query" [ref=f52e32] [cursor=pointer]
+            - button "Search" [ref=f52e37] [cursor=pointer]
+        - generic [ref=f52e40]:
+          - button "Search with your voice" [ref=f52e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f52e47]:
+        - button "Settings" [ref=f52e52] [cursor=pointer]
+        - link "Sign in" [ref=f52e56] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DAI%252Brendering%252Barchitecture%252Baccurate%252Bfloor%252Bplan&hl=en-GB&ec=65620
+  - navigation [ref=f52e60]
+  - main [ref=f52e62]:
+    - generic [ref=f52e63]:
+      - generic [ref=f52e65]:
+        - tablist [ref=f52e70]:
+          - tab "All" [selected] [ref=f52e74] [cursor=pointer]
+          - tab "Shorts" [ref=f52e80] [cursor=pointer]
+          - tab "Unwatched" [ref=f52e86] [cursor=pointer]
+          - tab "Watched" [ref=f52e92] [cursor=pointer]
+          - tab "Videos" [ref=f52e98] [cursor=pointer]
+          - tab "Recently uploaded" [ref=f52e104] [cursor=pointer]
+          - tab "Live" [ref=f52e110] [cursor=pointer]
+        - generic [ref=f52e114]:
+          - button "Search filters" [ref=f52e116] [cursor=pointer]:
+            - generic: Filters
+          - tooltip "tooltip"
+      - generic [ref=f52e123]:
+        - generic [ref=f52e125]:
+          - generic [ref=f52e138] [cursor=pointer]:
+            - generic [ref=f52e139]:
+              - link "Instant House Designs in ₹299" [ref=f52e142]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CcngiGPupaq_VPIq088EP3O65iAST2OHpiAGuys2jwxVkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABtuiLpAOpAmJ2IZkCYUY-qAMEyAMKqgS8Ak_QZCPNW6zcvgzqVhjUBMuTxH0hwjBrmdadZiQZexRA7wILhtQVkQ3A2TMkbSDQw7opcKqpe7TLDVz0XmC1mo1cfEfIVtJQtgsLpjjCtLMF-_uhMBWjGtNnFmYLXhrX6LDg1Arx5b1C06kiirUQoK7Et4UgZIx3Ohtn9FzJqyCX1LmwLmpFMisHJfdRE5J9X5dT2pcvnEPcNF_aFY3VlROK1TfKXkXQnTR1eR-WRNxECp2ed62biq9dQEMLtW9wcFGLxkAxcAxwQb1KHEdTv5RWgJ4tZBGK0Bm5wry5X0tSUnIgZ7aSp7y_uojAV7fCw8IgSGvwhT9G-wrBni8DNDAL4p1B7PtHWXqqTn-WnyJwEOT41s_pl4OdlNwcThs8sOVX4ctRJ66I2K-K5MEOqLyBE3LZprjn8W3unmmIBcPs-qFYkgUHCBN416aSXKAGpAGAB7KX9FuQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYgLLInYPylgNgAZoJGWh0dHBzOi8vaG9tZXBsYW5ubmVyLmNvbS-xCa_aCa2NHUJiyAkAmAsBugs9CAMQBRgWIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgW6AwV2aXNpbtALEqIMJCoGCgTw37ECahUKE2NvbS5hcHAubWFrZW15aG91c2V4AIgBANIMAhAB2gwmCgsQwOblntyJpfHxARICAQMaDRjD7PqhWCD1wJjyyQVAAUoCEB-aDQESqg0CSU7IDQHSDYIBaHR0cHM6Ly9ob21lcGxhbm5uZXIuY29tLz91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1fY2FtcGFpZ249R29vZ2xlX2hvbWVwbGFubmVyJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzY5MzUzODg4M7AOm56j9xi4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXkx-BY3nSPVS6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIr8HInYPylgMVCto8Ah1cdw5BEAEYASAAEgJKkfD_BwE&num=1&cid=CAASwwHkaH24CbK-RT7POy43abeX5u0HYJsgUKOlvcYqHozXZ54X21EipP2E0Ux0sXOLv1S2Pg6OXFiR_Ug7ZUZ9CHIR-mhNPdeql5mTb4v1nUlDlU1gaSwQjTgSDA9mWzyJMSs5m8iix_UqErvkYCrBjgiR-7fG-IPypsPnj5iMcOSoY1o7RX-O9eRjmgeX-1lFOOoDn2iVbchg7wONoBRM_MRZj3NjnYV8D4RYvKd1z5Drb5AU8PLLQVcrzWmk6CIQs1T0q2U&sig=AOD64_144PtsdxVbDiVWSRpO1G9J4m7PxA&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Get AI-powered floor plans in 30 seconds. Simplex, duplex & triplex. Rs 299 only." [ref=f52e145]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CcngiGPupaq_VPIq088EP3O65iAST2OHpiAGuys2jwxVkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABtuiLpAOpAmJ2IZkCYUY-qAMEyAMKqgS8Ak_QZCPNW6zcvgzqVhjUBMuTxH0hwjBrmdadZiQZexRA7wILhtQVkQ3A2TMkbSDQw7opcKqpe7TLDVz0XmC1mo1cfEfIVtJQtgsLpjjCtLMF-_uhMBWjGtNnFmYLXhrX6LDg1Arx5b1C06kiirUQoK7Et4UgZIx3Ohtn9FzJqyCX1LmwLmpFMisHJfdRE5J9X5dT2pcvnEPcNF_aFY3VlROK1TfKXkXQnTR1eR-WRNxECp2ed62biq9dQEMLtW9wcFGLxkAxcAxwQb1KHEdTv5RWgJ4tZBGK0Bm5wry5X0tSUnIgZ7aSp7y_uojAV7fCw8IgSGvwhT9G-wrBni8DNDAL4p1B7PtHWXqqTn-WnyJwEOT41s_pl4OdlNwcThs8sOVX4ctRJ66I2K-K5MEOqLyBE3LZprjn8W3unmmIBcPs-qFYkgUHCBN416aSXKAGpAGAB7KX9FuQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYgLLInYPylgNgAZoJGWh0dHBzOi8vaG9tZXBsYW5ubmVyLmNvbS-xCa_aCa2NHUJiyAkAmAsBugs9CAMQBRgWIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgW6AwV2aXNpbtALEqIMJCoGCgTw37ECahUKE2NvbS5hcHAubWFrZW15aG91c2V4AIgBANIMAhAB2gwmCgsQwOblntyJpfHxARICAQMaDRjD7PqhWCD1wJjyyQVAAUoCEB-aDQESqg0CSU7IDQHSDYIBaHR0cHM6Ly9ob21lcGxhbm5uZXIuY29tLz91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1fY2FtcGFpZ249R29vZ2xlX2hvbWVwbGFubmVyJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzY5MzUzODg4M7AOm56j9xi4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXkx-BY3nSPVS6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIr8HInYPylgMVCto8Ah1cdw5BEAEYASAAEgJKkfD_BwE&num=1&cid=CAASwwHkaH24CbK-RT7POy43abeX5u0HYJsgUKOlvcYqHozXZ54X21EipP2E0Ux0sXOLv1S2Pg6OXFiR_Ug7ZUZ9CHIR-mhNPdeql5mTb4v1nUlDlU1gaSwQjTgSDA9mWzyJMSs5m8iix_UqErvkYCrBjgiR-7fG-IPypsPnj5iMcOSoY1o7RX-O9eRjmgeX-1lFOOoDn2iVbchg7wONoBRM_MRZj3NjnYV8D4RYvKd1z5Drb5AU8PLLQVcrzWmk6CIQs1T0q2U&sig=AOD64_144PtsdxVbDiVWSRpO1G9J4m7PxA&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=f52e146]:
+                - generic [ref=f52e148]:
+                  - generic [ref=f52e149]: Sponsored
+                  - text: ·
+                - generic [ref=f52e150]: Make My House
+            - button "My Ad Centre" [ref=f52e154]
+          - generic [ref=f52e158]:
+            - heading "Shorts" [level=2] [ref=f52e166]
+            - generic [ref=f52e168]:
+              - generic [ref=f52e171]:
+                - link [aria-hidden] [ref=f52e172] [cursor=pointer]:
+                  - /url: /shorts/aCiM8PmrzFw
+                - generic [ref=f52e176] [cursor=pointer]:
+                  - 'link "How to Transform Your Floor Plan into Stunning 3D Render with AI! 🚀 #interiordesign #floorplan #ai" [ref=f52e177]':
+                    - /url: /shorts/aCiM8PmrzFw
+                  - generic [ref=f52e178]: 74k views
+                - button "More actions" [ref=f52e180] [cursor=pointer]
+              - generic [ref=f52e186]:
+                - link [aria-hidden] [ref=f52e187] [cursor=pointer]:
+                  - /url: /shorts/pQ2OE_GmTbo
+                - generic [ref=f52e191] [cursor=pointer]:
+                  - 'link "How to Turn floor plans into 3D Renders with AI 😱 #architecture" [ref=f52e192]':
+                    - /url: /shorts/pQ2OE_GmTbo
+                  - generic [ref=f52e193]: 24k views
+                - button "More actions" [ref=f52e195] [cursor=pointer]
+              - generic [ref=f52e201]:
+                - link [aria-hidden] [ref=f52e202] [cursor=pointer]:
+                  - /url: /shorts/POWO4xBUDfU
+                - generic [ref=f52e206] [cursor=pointer]:
+                  - 'link "Render MASTERPLAN with AI ACCURATELY 🔥 🤯 #architecture" [ref=f52e207]':
+                    - /url: /shorts/POWO4xBUDfU
+                  - generic [ref=f52e208]: 76k views
+                - button "More actions" [ref=f52e210] [cursor=pointer]
+              - generic [ref=f52e216]:
+                - link [aria-hidden] [ref=f52e217] [cursor=pointer]:
+                  - /url: /shorts/ijCapvy2gjE
+                - generic [ref=f52e221] [cursor=pointer]:
+                  - 'link "Render 3D with AI in 1 Minute! #architecture #ai #promeai #rendering #sketchup #vray #lumion" [ref=f52e222]':
+                    - /url: /shorts/ijCapvy2gjE
+                  - generic [ref=f52e223]: 465k views
+                - button "More actions" [ref=f52e225] [cursor=pointer]
+              - generic [ref=f52e231]:
+                - link [aria-hidden] [ref=f52e232] [cursor=pointer]:
+                  - /url: /shorts/PcDkLiVpqW0
+                - generic [ref=f52e236] [cursor=pointer]:
+                  - link "From Sketch to Dream House in SECONDS! | PromeAI Floor-Plan & Facade 3D Rendering Demo" [ref=f52e237]:
+                    - /url: /shorts/PcDkLiVpqW0
+                  - generic [ref=f52e238]: 19k views
+                - button "More actions" [ref=f52e240] [cursor=pointer]
+          - generic [ref=f52e245]:
+            - link [aria-hidden] [ref=f52e247] [cursor=pointer]:
+              - /url: /watch?v=eKKpqMowytA&pp=ygUtQUkgcmVuZGVyaW5nIGFyY2hpdGVjdHVyZSBhY2N1cmF0ZSBmbG9vciBwbGFu
+            - generic [ref=f52e249] [cursor=pointer]:
+              - generic [ref=f52e250]:
+                - heading [level=3] [ref=f52e252]:
+                  - link "GPT-6 Astra Can Now Build Architectural 3D Models 8 minutes, 12 seconds" [ref=f52e253]:
+                    - /url: /watch?v=eKKpqMowytA&pp=ygUtQUkgcmVuZGVyaW5nIGFyY2hpdGVjdHVyZSBhY2N1cmF0ZSBmbG9vciBwbGFu
+                    - text: GPT-6 Astra Can Now Build Architectural 3D Models
+                - generic [ref=f52e256]:
+                  - generic [ref=f52e257]: 247k views
+                  - generic [ref=f52e258]: •7 days ago
+              - generic [ref=f52e259]:
+                - link "Go to channel Salmaan Mohamed" [ref=f52e260]:
+                  - /url: /@salmaanarchitect
+                - link "Salmaan Mohamed" [ref=f52e265]:
+                  - /url: /@salmaanarchitect
+              - generic [ref=f52e266]:
+                - generic [ref=f52e267]: "AI Visualization Mastery Course: 2̶0̶0̶$̶ 109$ https://salmaanmohamed.gumroad.com/l/aivisualization Realistic floor plan ..."
+                - tooltip "tooltip"
+              - img "4K" [ref=f52e272]
+              - generic [ref=f52e276]:
+                - generic [ref=f52e277]:
+                  - generic [ref=f52e278]: Summary
+                  - button "Salmaan Mohamed demonstrates a workflow for converting various 2D CAD drawings and JPEG floor plans into structured 3D SketchUp models. The process involves utilizing specialized prompts and the GPT-6 Astra model to generate geometry, apply materials, and organize architectural components through tags and labels on a desktop environment." [ref=f52e281]
+                  - text: ·
+                - button "More" [ref=f52e286]
+        - generic [ref=f52e304] [cursor=pointer]:
+          - generic [ref=f52e305]:
+            - link "House Plans in 30 Seconds" [ref=f52e308]:
+              - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiU8tidg_KWAxVbqmYCHXFtCM0YACICCAEQDRoCc20&co=1&ase=2&gclid=EAIaIQobChMIlPLYnYPylgMVW6pmAh1xbQjNEAEYASAAEgJ83vD_BwE&num=1&cid=CAAS0wHkaM6gAQEDLyQN4Lslb0_Rw0lxyp9LQJROY88FGSr2my9CyyYy1Z20CYHWc0Hzk_E_cYSWwKcxW68UyGplxxCDlxQfmwOcSqfhPS8X4MssCTUStKquUQwtlaX4AcuD-FirixlZCOozokuCg3vmsWTgEfmATbs1nkHH4TIjTpXp0C3Vy5uqItMjxR6NHbpDwbQcJfO12dlrfc0jTPQVmiZswnHwaMOpMcEsSCGpq98WiQSom3AxOquHc6yZobtv_7hlmIknd8ZBVf1v636QMCOAiv8C&cce=2&category=acrcp_v1_32&sig=AOD64_045_qQEIjc-R54jaxCogUGacqgbg&adurl=https://homeplannner.com/%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DGoogle_homeplanner%26gad_source%3D2%26gad_campaignid%3D23694179671&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+            - link "AI-Generated House Plans ₹299 - Get AI-powered floor plans in 30 seconds. Simplex, duplex & triplex. Rs 299 only." [ref=f52e311]:
+              - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiU8tidg_KWAxVbqmYCHXFtCM0YACICCAEQDRoCc20&co=1&ase=2&gclid=EAIaIQobChMIlPLYnYPylgMVW6pmAh1xbQjNEAEYASAAEgJ83vD_BwE&num=1&cid=CAAS0wHkaM6gAQEDLyQN4Lslb0_Rw0lxyp9LQJROY88FGSr2my9CyyYy1Z20CYHWc0Hzk_E_cYSWwKcxW68UyGplxxCDlxQfmwOcSqfhPS8X4MssCTUStKquUQwtlaX4AcuD-FirixlZCOozokuCg3vmsWTgEfmATbs1nkHH4TIjTpXp0C3Vy5uqItMjxR6NHbpDwbQcJfO12dlrfc0jTPQVmiZswnHwaMOpMcEsSCGpq98WiQSom3AxOquHc6yZobtv_7hlmIknd8ZBVf1v636QMCOAiv8C&cce=2&category=acrcp_v1_32&sig=AOD64_045_qQEIjc-R54jaxCogUGacqgbg&adurl=https://homeplannner.com/%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DGoogle_homeplanner%26gad_source%3D2%26gad_campaignid%3D23694179671&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+            - generic [ref=f52e312]:
+              - generic [ref=f52e314]:
+                - generic [ref=f52e315]: Sponsored
+                - text: ·
+              - generic [ref=f52e316]: https://www.homeplannner.com/
+          - button "My Ad Centre" [ref=f52e320]
+        - generic [ref=f52e325]:
+          - generic [ref=f52e327]:
+            - link [aria-hidden] [ref=f52e329] [cursor=pointer]:
+              - /url: /watch?v=CWBL_tH4fI4&pp=ygUtQUkgcmVuZGVyaW5nIGFyY2hpdGVjdHVyZSBhY2N1cmF0ZSBmbG9vciBwbGFu0gcJCSQMAYcqIYzv
+            - generic [ref=f52e331] [cursor=pointer]:
+              - generic [ref=f52e332]:
+                - heading [level=3] [ref=f52e334]:
+                  - link "GOOGLE Nano Banana has CHANGED Architecture Forever | Step-By-Step Walkthrough 7 minutes, 20 seconds" [ref=f52e335]:
+                    - /url: /watch?v=CWBL_tH4fI4&pp=ygUtQUkgcmVuZGVyaW5nIGFyY2hpdGVjdHVyZSBhY2N1cmF0ZSBmbG9vciBwbGFu0gcJCSQMAYcqIYzv
+                    - text: GOOGLE Nano Banana has CHANGED Architecture Forever | Step-By-Step Walkthrough
+                - generic [ref=f52e338]:
+                  - generic [ref=f52e339]: 301k views
+                  - generic [ref=f52e340]: •1 year ago
+              - generic [ref=f52e341]:
+                - link "Go to channel Salmaan Mohamed" [ref=f52e342]:
+                  - /url: /@salmaanarchitect
+                - link "Salmaan Mohamed" [ref=f52e347]:
+                  - /url: /@salmaanarchitect
+              - generic [ref=f52e348]:
+                - generic [ref=f52e349]: "EXCLUSIVE Realistic floor plan rendering with Nano Banana + Photoshop: ..."
+                - tooltip "tooltip"
+              - generic [ref=f52e350]:
+                - link "7 minutes, 2 seconds ... to check the master class where you can learn how to create architecturally <b>accurate floor plan renders</b> with Nano Banana and&nbsp;..." [ref=f52e351]:
+                  - /url: /watch?v=CWBL_tH4fI4&t=422s
+                  - text: 7:02
+                  - generic [ref=f52e352]: ... to check the master class where you can learn how to create architecturally accurate floor plan renders with Nano Banana and ...
+                - tooltip "tooltip"
+              - img "4K" [ref=f52e357]
+          - generic [ref=f52e360]:
+            - link [aria-hidden] [ref=f52e362] [cursor=pointer]:
+              - /url: /watch?v=0RSwAlweqxY&pp=ygUtQUkgcmVuZGVyaW5nIGFyY2hpdGVjdHVyZSBhY2N1cmF0ZSBmbG9vciBwbGFu
+            - generic [ref=f52e364] [cursor=pointer]:
+              - generic [ref=f52e365]:
+                - heading [level=3] [ref=f52e367]:
+                  - link "AutoCAD to 3D Floor Plan Using AI (Screenshot Method | Gemini AI) 7 minutes, 25 seconds" [ref=f52e368]:
+                    - /url: /watch?v=0RSwAlweqxY&pp=ygUtQUkgcmVuZGVyaW5nIGFyY2hpdGVjdHVyZSBhY2N1cmF0ZSBmbG9vciBwbGFu
+                    - text: AutoCAD to 3D Floor Plan Using AI (Screenshot Method | Gemini AI)
+                - generic [ref=f52e371]:
+                  - generic [ref=f52e372]: 139k views
+                  - generic [ref=f52e373]: •7 months ago
+              - generic [ref=f52e374]:
+                - link "Go to channel Designrepublic" [ref=f52e375]:
+                  - /url: /@DeRepublica
+                - link "Designrepublic" [ref=f52e380]:
+                  - /url: /@DeRepublica
+              - generic [ref=f52e381]:
+                - generic [ref=f52e382]: In this tutorial, I'll show you how to convert an AutoCAD floor plan into a realistic 3D floor plan render using AI. We start by taking a ...
+                - tooltip "tooltip"
+              - generic [ref=f52e383]:
+                - link "2 minutes, 4 seconds ... me simply go with add files upload file and <b>floor plan</b> to <b>AI render</b> let&#39;s bring it in and make sure you are on pro and create image&nbsp;..." [ref=f52e384]:
+                  - /url: /watch?v=0RSwAlweqxY&t=124s
+                  - text: 2:04
+                  - generic [ref=f52e385]: ... me simply go with add files upload file and floor plan to AI render let's bring it in and make sure you are on pro and create image ...
+                - tooltip "tooltip"
+              - img "4K" [ref=f52e390]
+        - generic [ref=f52e398]:
+          - generic [ref=f52e399]: Image to 3D in Seconds
+          - generic [ref=f52e406]:
+            - generic [ref=f52e407] [cursor=pointer]:
+              - generic [ref=f52e408]:
+                - 'link "Print-Ready 3D in Seconds - Upload a photo or type a prompt — get a fully textured 3D model to download. AI retopology, PBR textures, auto-rigging — everything for game-ready 3D. API Available. Animation Available. AI Texturing. Read Blog. View Community. See Solutions. Models: Unity, Blender." [ref=f52e411]':
+                  - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiU8tidg_KWAxVbqmYCHXFtCM0YACICCAEQABoCc20&co=1&ase=2&gclid=EAIaIQobChMIlPLYnYPylgMVW6pmAh1xbQjNEAEYAiAAEgJz8fD_BwE&num=2&cid=CAAS0wHkaM6gAQEDLyQN4Lslb0_Rw0lxyp9LQJROY88FGSr2my9CyyYy1Z20CYHWc0Hzk_E_cYSWwKcxW68UyGplxxCDlxQfmwOcSqfhPS8X4MssCTUStKquUQwtlaX4AcuD-FirixlZCOozokuCg3vmsWTgEfmATbs1nkHH4TIjTpXp0C3Vy5uqItMjxR6NHbpDwbQcJfO12dlrfc0jTPQVmiZswnHwaMOpMcEsSCGpq98WiQSom3AxOquHc6yZobtv_7hlmIknd8ZBVf1v636QMCOAiv8C&cce=2&category=acrcp_v1_32&sig=AOD64_1M1sGQC6-f4j-eDa2iNwrzvk7Cfw&adurl=https://www.meshy.ai/%3Futm_content%3D6742354362%26utm_source%3Dgoogle%26utm_medium%3Dpmax%26utm_campaign%3D23809479107%26gad_source%3D2%26gad_campaignid%3D23814039529&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+                - generic [ref=f52e412]:
+                  - generic [ref=f52e414]:
+                    - generic [ref=f52e415]: Sponsored
+                    - text: ·
+                  - generic [ref=f52e416]: https://www.meshy.ai/
+              - button "My Ad Centre" [ref=f52e420]
+            - generic [ref=f52e424]:
+              - link "Convert Image to 3D" [ref=f52e425]
+              - link "Meshy 7 - Try It Now" [ref=f52e427]
+              - 'link "New: Meshy 7 Upgrades" [ref=f52e429]'
+              - link "Sign Up Today" [ref=f52e431]
+              - 'link "Last Chance: 50% off" [ref=f52e433]'
+              - link "AI Image Generator" [ref=f52e435]

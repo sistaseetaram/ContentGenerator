@@ -1,0 +1,427 @@
+- generic [ref=f435e2]:
+  - banner [ref=f435e4]:
+    - generic [ref=f435e6]:
+      - generic [ref=f435e7]:
+        - button "Guide" [ref=f435e9] [cursor=pointer]
+        - generic [ref=f435e11]:
+          - link "YouTube Home" [ref=f435e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f435e16]: IN
+        - button "Skip navigation" [ref=f435e20] [cursor=pointer]
+      - generic [ref=f435e24]:
+        - search [ref=f435e25]:
+          - generic [ref=f435e27]:
+            - combobox "Search" [expanded] [ref=f435e30]
+            - button "Search" [ref=f435e31] [cursor=pointer]
+        - generic [ref=f435e34]:
+          - button "Search with your voice" [ref=f435e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f435e45]
+  - main [ref=f435e47]:
+    - generic [ref=f435e54]:
+      - generic [ref=f435e70]:
+        - heading "Parametric Architecture" [level=1] [ref=f435e72]
+        - generic [ref=f435e73]:
+          - group [ref=f435e74]:
+            - generic [ref=f435e75]: "@ParametricArchitecture"
+          - generic [aria-hidden] [ref=f435e76]: •
+          - group [ref=f435e77]:
+            - generic "29 thousand subscribers" [ref=f435e78]: 29k subscribers
+            - generic [aria-hidden] [ref=f435e79]: •
+            - generic [ref=f435e80]: 217 videos
+        - generic [ref=f435e82] [cursor=pointer]:
+          - generic [ref=f435e83]: Parametric Architecture (PA) is a global platform exploring the future of design at the intersection of architecture, AI, and computational workflows, connecting architects, designers, and innovators through cutting-edge content, education, and community.
+          - button "Description. Parametric Architecture (PA) is a global platform exploring …tap for more." [ref=f435e84]:
+            - generic [ref=f435e85]: ...more
+        - generic [ref=f435e86]:
+          - link [ref=f435e89] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRUsxUTJHWUVvUXBwMm5KeWl2dzY3VHxBTl9pYzRlc1JUWDhweFFBb05hcGdMejVWS0VxbUVOQ1RJVG9zQXg2ci1LWFZVUnJ0eUdTV2NsVDhKclZIR0I1VmYzM25ZQ3loeFBWdV9BOXBTZWJZaklFd1VhMEVEWWdRR3hr&q=https%3A%2F%2Fwww.parametric-architecture.com
+          - button "and 6 more links" [ref=f435e94] [cursor=pointer]
+        - button "Subscribe" [ref=f435e98] [cursor=pointer]
+      - tablist [ref=f435e105]:
+        - tablist [ref=f435e109]:
+          - tab "Home" [selected] [ref=f435e110] [cursor=pointer]
+          - tab "Videos" [ref=f435e112] [cursor=pointer]
+          - tab "Shorts" [ref=f435e114] [cursor=pointer]
+          - tab "Live" [ref=f435e116] [cursor=pointer]
+          - tab "Podcasts" [ref=f435e118] [cursor=pointer]
+          - tab "Playlists" [ref=f435e120] [cursor=pointer]
+          - tab "Posts" [ref=f435e122] [cursor=pointer]
+          - button "Search" [ref=f435e127] [cursor=pointer]
+    - generic [ref=f435e134]:
+      - generic [ref=f435e141]:
+        - generic [ref=f435e142]:
+          - heading "Parametric Design in Architecture 7 minutes, 52 seconds" [level=3] [ref=f435e143]:
+            - link "Parametric Design in Architecture" [ref=f435e144] [cursor=pointer]:
+              - /url: /watch?v=vIcGTBRoKlg
+          - generic [ref=f435e147]:
+            - generic [ref=f435e148]: 99,554 views
+            - generic [ref=f435e149]: •4 years ago
+        - generic [ref=f435e150]:
+          - generic [ref=f435e152]:
+            - text: "As an algorithm-based method merging the design intent with the design outcome, Parametric design has been the most debated design approach among architects. It catches almost everyone’s attention by forming complicated geometries and structures through the interplay of elements. Therefore, this video explains the popular question of what is parametric design. The video explores the origins of parametric design and its applications, including the earliest instances of parametric design in history, major contributing architects, and the most recent software of the realm. Read more:"
+            - link "https://parametric-architecture.com/w..." [ref=f435e153] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSHpyRTducHBwYVpocDdDWEdENzlNenxBTl9pYzRjWUphbVBRdnZtSmVmRF9qWUU3YUhtR1pYa1JHdUVfMlRRVW51UWJMVVU1Y1RLM0dWbTNvVnNXaF9oNU1TX1pkQWx0WXRLdnFhQ2UxOHJseVVGOHlIb3MzeS1YY3J0&q=https%3A%2F%2Fparametric-architecture.com%2Fwhat-is-parametric-design-in-architecture%2F
+            - text: "Visit PAACADEMY's studio workshops:"
+            - link "https://parametric-architecture.com/p..." [ref=f435e154] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRWVvd21Makp4dHdXYlk4aDl3bXVFMnxBTl9pYzRmd2JxdndmUmUyU1pKOUVKRDBXd0hwTkJ5dUJiVFpYTFV0QWhORTJnNW5KZERWQ0VFRW9VTkYzVEJMX2tfLW52NGktTWlVNE16Vzkwb2lPd2lVUmFoemNJWFAzYmlY&q=https%3A%2F%2Fparametric-architecture.com%2Fpaacademy%2F
+            - text: "Mars Architecture:"
+            - link "https://parametric-architecture.com/m..." [ref=f435e155] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRnJ1cnQ2U0tpamx0R213eEd5NEhZYnxBTl9pYzRkc1JwUVRJZzFfMVFFUk5MZjdDTmdNczQwZUJTeVR2azZGSVRXR2E3d1RRbHN4TEozQ1VZeV82eVhLdjRlWEJYbC13RWs0WW5LckVLX2NacDJFbDNoQThmZEEtakZY&q=https%3A%2F%2Fparametric-architecture.com%2Fmars-architecture-studio-valentina-sumini%2F
+            - text: "Stone Architecture:"
+            - link "https://parametric-architecture.com/s..." [ref=f435e156] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRWVJaEdKVlYyUGZjZW1BMm1oSHZJTHxBTl9pYzRkWlpSOHRWeHpZd2phUUJkTG5iblRPYnlqcmFLNnVuMFdXVnJucjRpSS1wOW5IaDlxeUVFcW1MRHotZ180WnpNTHNLeVl4WUpfZ050WmNQaEU5OUl5ektBd3EwelNs&q=https%3A%2F%2Fparametric-architecture.com%2Fstone-architecture-studio-giuseppe-fallacara%2F
+            - link "#parametricdesign" [ref=f435e157] [cursor=pointer]:
+              - /url: /hashtag/parametricdesign
+            - link "#rhino" [ref=f435e158] [cursor=pointer]:
+              - /url: /hashtag/rhino
+            - link "#grasshopper" [ref=f435e159] [cursor=pointer]:
+              - /url: /hashtag/grasshopper
+            - link "#parametricarchitecture" [ref=f435e160] [cursor=pointer]:
+              - /url: /hashtag/parametricarchitecture
+          - button [ref=f435e161] [cursor=pointer]:
+            - link "Read more" [ref=f435e163]:
+              - /url: /watch?v=vIcGTBRoKlg
+      - generic [ref=f435e167]:
+        - heading [level=2] [ref=f435e170]:
+          - link "Free Webinars" [ref=f435e173] [cursor=pointer]:
+            - /url: /playlist?list=PL7upRiEaKOZNDFKV6YIkAPIpohuqTLAFh
+          - link "Play all" [ref=f435e178] [cursor=pointer]:
+            - /url: /watch?v=FCKhn42cxHk&list=PL7upRiEaKOZNDFKV6YIkAPIpohuqTLAFh
+        - generic [ref=f435e183]:
+          - generic [ref=f435e186]:
+            - generic [ref=f435e188] [cursor=pointer]:
+              - link [aria-hidden] [ref=f435e189]:
+                - /url: /watch?v=FCKhn42cxHk
+                - img [ref=f435e195]:
+                  - generic [ref=f435e196]: 3:23:18
+              - generic [ref=f435e198]:
+                - generic [ref=f435e199]:
+                  - heading "@PAACADEMYY AI-Driven Design Practice – Stable Diffusion in Architecture (Cas Esbach / MVRDV)" [level=3] [ref=f435e200]:
+                    - link "@PAACADEMYY AI-Driven Design Practice – Stable Diffusion in Architecture (Cas Esbach / MVRDV) 3 hours, 23 minutes" [ref=f435e201]:
+                      - /url: /watch?v=FCKhn42cxHk
+                      - text: "@PAACADEMYY AI-Driven Design Practice – Stable Diffusion in Architecture (Cas Esbach / MVRDV)"
+                  - generic [ref=f435e203]:
+                    - group [ref=f435e204]:
+                      - link "Parametric Architecture" [ref=f435e207]:
+                        - /url: /@ParametricArchitecture
+                    - group [ref=f435e208]:
+                      - generic [ref=f435e209]: 60k views
+                      - generic [aria-hidden] [ref=f435e210]: •
+                      - generic "Streamed 2 years ago" [ref=f435e211]
+                - button "More actions" [ref=f435e214]
+            - generic [ref=f435e219] [cursor=pointer]:
+              - link [aria-hidden] [ref=f435e220]:
+                - /url: /watch?v=9ffiFjtSfYA
+                - img [ref=f435e226]:
+                  - generic [ref=f435e227]: 5:08:23
+              - generic [ref=f435e229]:
+                - generic [ref=f435e230]:
+                  - heading "@PAACADEMYY Synthetic Vernacular via Artificial Intelligence – Studio Aikin Karr" [level=3] [ref=f435e231]:
+                    - link "@PAACADEMYY Synthetic Vernacular via Artificial Intelligence – Studio Aikin Karr 5 hours, 8 minutes" [ref=f435e232]:
+                      - /url: /watch?v=9ffiFjtSfYA
+                      - text: "@PAACADEMYY Synthetic Vernacular via Artificial Intelligence – Studio Aikin Karr"
+                  - generic [ref=f435e234]:
+                    - group [ref=f435e235]:
+                      - link "Parametric Architecture" [ref=f435e238]:
+                        - /url: /@ParametricArchitecture
+                    - group [ref=f435e239]:
+                      - generic [ref=f435e240]: 6.7k views
+                      - generic [aria-hidden] [ref=f435e241]: •
+                      - generic "Streamed 2 years ago" [ref=f435e242]
+                - button "More actions" [ref=f435e245]
+            - generic [ref=f435e250] [cursor=pointer]:
+              - link [aria-hidden] [ref=f435e251]:
+                - /url: /watch?v=iuwy5hm8duk
+                - img [ref=f435e257]:
+                  - generic [ref=f435e258]: 1:39:21
+              - generic [ref=f435e260]:
+                - generic [ref=f435e261]:
+                  - heading "@PAACADEMY AI Panel Talk – Matias del Campo and Daniel Koehler" [level=3] [ref=f435e262]:
+                    - link "@PAACADEMY AI Panel Talk – Matias del Campo and Daniel Koehler 1 hour, 39 minutes" [ref=f435e263]:
+                      - /url: /watch?v=iuwy5hm8duk
+                      - text: "@PAACADEMY AI Panel Talk – Matias del Campo and Daniel Koehler"
+                  - generic [ref=f435e265]:
+                    - group [ref=f435e266]:
+                      - link "Parametric Architecture" [ref=f435e269]:
+                        - /url: /@ParametricArchitecture
+                    - group [ref=f435e270]:
+                      - generic [ref=f435e271]: 1.5k views
+                      - generic [aria-hidden] [ref=f435e272]: •
+                      - generic "Streamed 2 years ago" [ref=f435e273]
+                - button "More actions" [ref=f435e276]
+            - generic [ref=f435e281] [cursor=pointer]:
+              - link [aria-hidden] [ref=f435e282]:
+                - /url: /watch?v=QBJJd6uptSE
+                - img [ref=f435e288]:
+                  - generic [ref=f435e289]: 59:00
+              - generic [ref=f435e291]:
+                - generic [ref=f435e292]:
+                  - heading "@PAACADEMY Building Our Future with AI | TIM FU" [level=3] [ref=f435e293]:
+                    - link "@PAACADEMY Building Our Future with AI | TIM FU 59 minutes" [ref=f435e294]:
+                      - /url: /watch?v=QBJJd6uptSE
+                      - text: "@PAACADEMY Building Our Future with AI | TIM FU"
+                  - generic [ref=f435e296]:
+                    - group [ref=f435e297]:
+                      - link "Parametric Architecture" [ref=f435e300]:
+                        - /url: /@ParametricArchitecture
+                    - group [ref=f435e301]:
+                      - generic [ref=f435e302]: 16k views
+                      - generic [aria-hidden] [ref=f435e303]: •
+                      - generic "Streamed 2 years ago" [ref=f435e304]
+                - button "More actions" [ref=f435e307]
+            - generic [ref=f435e312] [cursor=pointer]:
+              - link [aria-hidden] [ref=f435e313]:
+                - /url: /watch?v=6xvwrQBFM30
+                - img [ref=f435e319]:
+                  - generic [ref=f435e320]: 51:39
+              - generic [ref=f435e322]:
+                - generic [ref=f435e323]:
+                  - heading "@PAACADEMYY Part 1 - Parametric Modelling - Arturo Tedeschi with Hamid Hassanzadeh" [level=3] [ref=f435e324]:
+                    - link "@PAACADEMYY Part 1 - Parametric Modelling - Arturo Tedeschi with Hamid Hassanzadeh 51 minutes" [ref=f435e325]:
+                      - /url: /watch?v=6xvwrQBFM30
+                      - text: "@PAACADEMYY Part 1 - Parametric Modelling - Arturo Tedeschi with Hamid Hassanzadeh"
+                  - generic [ref=f435e327]:
+                    - group [ref=f435e328]:
+                      - link "Parametric Architecture" [ref=f435e331]:
+                        - /url: /@ParametricArchitecture
+                    - group [ref=f435e332]:
+                      - generic [ref=f435e333]: 2.9k views
+                      - generic [aria-hidden] [ref=f435e334]: •
+                      - generic "Streamed 6 years ago" [ref=f435e335]
+                - button "More actions" [ref=f435e338]
+            - generic [ref=f435e343] [cursor=pointer]:
+              - link [aria-hidden] [ref=f435e344]:
+                - /url: /watch?v=RZ5gTfd8sb4
+                - img [ref=f435e350]:
+                  - generic [ref=f435e351]: 5:36
+              - generic [ref=f435e353]:
+                - generic [ref=f435e354]:
+                  - heading "@PAACADEMYY Part 2 - Parametric Modelling - Arturo Tedeschi with Hamid Hassanzadeh" [level=3] [ref=f435e355]:
+                    - link "@PAACADEMYY Part 2 - Parametric Modelling - Arturo Tedeschi with Hamid Hassanzadeh 5 minutes, 36 seconds" [ref=f435e356]:
+                      - /url: /watch?v=RZ5gTfd8sb4
+                      - text: "@PAACADEMYY Part 2 - Parametric Modelling - Arturo Tedeschi with Hamid Hassanzadeh"
+                  - generic [ref=f435e358]:
+                    - group [ref=f435e359]:
+                      - link "Parametric Architecture" [ref=f435e362]:
+                        - /url: /@ParametricArchitecture
+                    - group [ref=f435e363]:
+                      - generic [ref=f435e364]: 1k views
+                      - generic [aria-hidden] [ref=f435e365]: •
+                      - generic "Streamed 6 years ago" [ref=f435e366]
+                - button "More actions" [ref=f435e369]
+          - button "Next" [ref=f435e375] [cursor=pointer]
+      - generic [ref=f435e382]:
+        - generic [ref=f435e383]:
+          - heading [level=2] [ref=f435e385]:
+            - link "Designing Forward ↗️" [ref=f435e388] [cursor=pointer]:
+              - /url: /playlist?list=PL7upRiEaKOZNB9m3npkqLd15rt63qENsY
+            - link "Play all" [ref=f435e393] [cursor=pointer]:
+              - /url: /watch?v=tyZkX3uKU6Y&list=PL7upRiEaKOZNB9m3npkqLd15rt63qENsY
+          - generic [ref=f435e397]: Designing Forward ↗️ (previously PA Talks) is a podcast by Parametric Architecture exploring the people, ideas, and technologies shaping what comes next. Hosted by Hamid Hasanzade, each conversation brings together architects, designers, artists, technologists, and creative thinkers who are challenging conventions and redefining the future of design. From architecture and AI to technology, culture, and everything in between, Designing Forward is about the minds designing tomorrow.
+        - generic [ref=f435e402]:
+          - generic [ref=f435e404] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e405]:
+              - /url: /watch?v=tyZkX3uKU6Y
+              - img [ref=f435e411]:
+                - generic [ref=f435e412]: 43:38
+            - generic [ref=f435e414]:
+              - generic [ref=f435e415]:
+                - heading "#73 — AI Is About to Change Architecture Forever, Tim Fu on Astra, AI Agents | @PAACADEMY" [level=3] [ref=f435e416]:
+                  - link "#73 — AI Is About to Change Architecture Forever, Tim Fu on Astra, AI Agents | @PAACADEMY 43 minutes" [ref=f435e417]:
+                    - /url: /watch?v=tyZkX3uKU6Y
+                    - text: "#73 — AI Is About to Change Architecture Forever, Tim Fu on Astra, AI Agents | @PAACADEMY"
+                - generic [ref=f435e419]:
+                  - group [ref=f435e420]:
+                    - link "Parametric Architecture" [ref=f435e423]:
+                      - /url: /@ParametricArchitecture
+                  - group [ref=f435e424]:
+                    - generic [ref=f435e425]: 3.6k views
+                    - generic [aria-hidden] [ref=f435e426]: •
+                    - generic "4 days ago" [ref=f435e427]
+              - button "More actions" [ref=f435e430]
+          - generic [ref=f435e435] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e436]:
+              - /url: /watch?v=g0NGrbGfBLQ
+              - img [ref=f435e442]:
+                - generic [ref=f435e443]: 43:48
+            - generic [ref=f435e445]:
+              - generic [ref=f435e446]:
+                - heading "#72 Eduardo “Roth” Neira | Azulik & Organic Architecture" [level=3] [ref=f435e447]:
+                  - link "#72 Eduardo “Roth” Neira | Azulik & Organic Architecture 43 minutes" [ref=f435e448]:
+                    - /url: /watch?v=g0NGrbGfBLQ
+                    - text: "#72 Eduardo “Roth” Neira | Azulik & Organic Architecture"
+                - generic [ref=f435e450]:
+                  - group [ref=f435e451]:
+                    - link "Parametric Architecture" [ref=f435e454]:
+                      - /url: /@ParametricArchitecture
+                  - group [ref=f435e455]:
+                    - generic [ref=f435e456]: 1.5k views
+                    - generic [aria-hidden] [ref=f435e457]: •
+                    - generic "6 months ago" [ref=f435e458]
+              - button "More actions" [ref=f435e461]
+          - generic [ref=f435e466] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e467]:
+              - /url: /watch?v=NuBwW1Py520
+              - img [ref=f435e473]:
+                - generic [ref=f435e474]: 41:53
+            - generic [ref=f435e476]:
+              - generic [ref=f435e477]:
+                - heading "#71 - Pablo Zamorano Mosnaim - Heatherwick Studio, Computational Design, AI, Technology" [level=3] [ref=f435e478]:
+                  - link "#71 - Pablo Zamorano Mosnaim - Heatherwick Studio, Computational Design, AI, Technology 41 minutes" [ref=f435e479]:
+                    - /url: /watch?v=NuBwW1Py520
+                    - text: "#71 - Pablo Zamorano Mosnaim - Heatherwick Studio, Computational Design, AI, Technology"
+                - generic [ref=f435e481]:
+                  - group [ref=f435e482]:
+                    - link "Parametric Architecture" [ref=f435e485]:
+                      - /url: /@ParametricArchitecture
+                  - group [ref=f435e486]:
+                    - generic [ref=f435e487]: 3.8k views
+                    - generic [aria-hidden] [ref=f435e488]: •
+                    - generic "1 year ago" [ref=f435e489]
+              - button "More actions" [ref=f435e492]
+          - generic [ref=f435e497] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e498]:
+              - /url: /watch?v=EFjWLYBOlEY
+              - img [ref=f435e504]:
+                - generic [ref=f435e505]: 43:29
+            - generic [ref=f435e507]:
+              - generic [ref=f435e508]:
+                - heading "#70 - Ben van Berkel | PATALKS | UNStudio" [level=3] [ref=f435e509]:
+                  - link "#70 - Ben van Berkel | PATALKS | UNStudio 43 minutes" [ref=f435e510]:
+                    - /url: /watch?v=EFjWLYBOlEY
+                    - text: "#70 - Ben van Berkel | PATALKS | UNStudio"
+                - generic [ref=f435e512]:
+                  - group [ref=f435e513]:
+                    - link "Parametric Architecture" [ref=f435e516]:
+                      - /url: /@ParametricArchitecture
+                  - group [ref=f435e517]:
+                    - generic [ref=f435e518]: 4.4k views
+                    - generic [aria-hidden] [ref=f435e519]: •
+                    - generic "1 year ago" [ref=f435e520]
+              - button "More actions" [ref=f435e523]
+          - generic [ref=f435e528] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e529]:
+              - /url: /watch?v=-E6JEueeN6Q&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f435e535]:
+                - generic [ref=f435e536]: 42:10
+            - generic [ref=f435e538]:
+              - generic [ref=f435e539]:
+                - heading "#69 - Shajay Bhooshan | PATALKS | Zaha Hadid Architects" [level=3] [ref=f435e540]:
+                  - link "#69 - Shajay Bhooshan | PATALKS | Zaha Hadid Architects 42 minutes" [ref=f435e541]:
+                    - /url: /watch?v=-E6JEueeN6Q&pp=0gcJCSQMAYcqIYzv
+                    - text: "#69 - Shajay Bhooshan | PATALKS | Zaha Hadid Architects"
+                - generic [ref=f435e543]:
+                  - group [ref=f435e544]:
+                    - link "Parametric Architecture" [ref=f435e547]:
+                      - /url: /@ParametricArchitecture
+                  - group [ref=f435e548]:
+                    - generic [ref=f435e549]: 2.4k views
+                    - generic [aria-hidden] [ref=f435e550]: •
+                    - generic "1 year ago" [ref=f435e551]
+              - button "More actions" [ref=f435e554]
+          - generic [ref=f435e559] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e560]:
+              - /url: /watch?v=78JO48w2S78
+              - img [ref=f435e566]:
+                - generic [ref=f435e567]: 6:29
+            - generic [ref=f435e569]:
+              - generic [ref=f435e570]:
+                - 'heading "Exploring AI and Technology with Tim Fu: \"Adapt or Die!\"" [level=3] [ref=f435e571]':
+                  - 'link "Exploring AI and Technology with Tim Fu: \"Adapt or Die!\" 6 minutes, 29 seconds" [ref=f435e572]':
+                    - /url: /watch?v=78JO48w2S78
+                    - text: "Exploring AI and Technology with Tim Fu: \"Adapt or Die!\""
+                - generic [ref=f435e574]:
+                  - group [ref=f435e575]:
+                    - link "Parametric Architecture" [ref=f435e578]:
+                      - /url: /@ParametricArchitecture
+                  - group [ref=f435e579]:
+                    - generic [ref=f435e580]: 2.6k views
+                    - generic [aria-hidden] [ref=f435e581]: •
+                    - generic "1 year ago" [ref=f435e582]
+              - button "More actions" [ref=f435e585]
+      - generic [ref=f435e592]:
+        - heading [level=2] [ref=f435e595]:
+          - link "Popular videos" [ref=f435e598] [cursor=pointer]:
+            - /url: /@ParametricArchitecture/videos?view=0&sort=p&shelf_id=4
+        - generic [ref=f435e604]:
+          - generic [ref=f435e606] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e607]:
+              - /url: /watch?v=3VYlYMnONS8
+              - img [ref=f435e613]:
+                - generic [ref=f435e614]: 7:19
+            - generic [ref=f435e616]:
+              - generic [ref=f435e617]:
+                - heading "What is Building Information Modeling (BIM)?" [level=3] [ref=f435e618]:
+                  - link "What is Building Information Modeling (BIM)? 7 minutes, 19 seconds" [ref=f435e619]:
+                    - /url: /watch?v=3VYlYMnONS8
+                    - text: What is Building Information Modeling (BIM)?
+                - group [ref=f435e622]:
+                  - generic [ref=f435e623]: 136k views
+                  - generic [aria-hidden] [ref=f435e624]: •
+                  - generic "4 years ago" [ref=f435e625]
+              - button "More actions" [ref=f435e628]
+          - generic [ref=f435e633] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e634]:
+              - /url: /watch?v=HeiXnuVXofE
+              - img [ref=f435e640]:
+                - generic [ref=f435e641]: 1:38
+            - generic [ref=f435e643]:
+              - generic [ref=f435e644]:
+                - heading "The Abstract and Kinetic Sculpture; Stingray by Apical Reform" [level=3] [ref=f435e645]:
+                  - link "The Abstract and Kinetic Sculpture; Stingray by Apical Reform 1 minute, 38 seconds" [ref=f435e646]:
+                    - /url: /watch?v=HeiXnuVXofE
+                    - text: The Abstract and Kinetic Sculpture; Stingray by Apical Reform
+                - group [ref=f435e649]:
+                  - generic [ref=f435e650]: 106k views
+                  - generic [aria-hidden] [ref=f435e651]: •
+                  - generic "7 years ago" [ref=f435e652]
+              - button "More actions" [ref=f435e655]
+          - generic [ref=f435e660] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e661]:
+              - /url: /watch?v=vIcGTBRoKlg
+              - img [ref=f435e667]:
+                - generic [ref=f435e668]: 7:52
+            - generic [ref=f435e670]:
+              - generic [ref=f435e671]:
+                - heading "Parametric Design in Architecture" [level=3] [ref=f435e672]:
+                  - link "Parametric Design in Architecture 7 minutes, 52 seconds" [ref=f435e673]:
+                    - /url: /watch?v=vIcGTBRoKlg
+                    - text: Parametric Design in Architecture
+                - group [ref=f435e676]:
+                  - generic [ref=f435e677]: 99k views
+                  - generic [aria-hidden] [ref=f435e678]: •
+                  - generic "4 years ago" [ref=f435e679]
+              - button "More actions" [ref=f435e682]
+          - generic [ref=f435e687] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e688]:
+              - /url: /watch?v=x4nhA8h_gjU
+              - img [ref=f435e694]:
+                - generic [ref=f435e695]: 7:12
+            - generic [ref=f435e697]:
+              - generic [ref=f435e698]:
+                - heading "The use of AI in Construction Management and Automation" [level=3] [ref=f435e699]:
+                  - link "The use of AI in Construction Management and Automation 7 minutes, 12 seconds" [ref=f435e700]:
+                    - /url: /watch?v=x4nhA8h_gjU
+                    - text: The use of AI in Construction Management and Automation
+                - group [ref=f435e703]:
+                  - generic [ref=f435e704]: 57k views
+                  - generic [aria-hidden] [ref=f435e705]: •
+                  - generic "2 years ago" [ref=f435e706]
+              - button "More actions" [ref=f435e709]
+          - generic [ref=f435e714] [cursor=pointer]:
+            - link [aria-hidden] [ref=f435e715]:
+              - /url: /watch?v=JuGDNqMm9qA
+              - img [ref=f435e721]:
+                - generic [ref=f435e722]: 1:23
+            - generic [ref=f435e724]:
+              - generic [ref=f435e725]:
+                - heading "Kinetic Installation for Hyundai Motorstudio Goyang, Korea 2017" [level=3] [ref=f435e726]:
+                  - link "Kinetic Installation for Hyundai Motorstudio Goyang, Korea 2017 1 minute, 23 seconds" [ref=f435e727]:
+                    - /url: /watch?v=JuGDNqMm9qA
+                    - text: Kinetic Installation for Hyundai Motorstudio Goyang, Korea 2017
+                - group [ref=f435e730]:
+                  - generic [ref=f435e731]: 32k views
+                  - generic [aria-hidden] [ref=f435e732]: •
+                  - generic "7 years ago" [ref=f435e733]
+              - button "More actions" [ref=f435e736]

@@ -1,0 +1,333 @@
+- generic [active] [ref=f184e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f184e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f184e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IN
+  - generic [ref=f184e8]:
+    - search [ref=f184e9]:
+      - generic [ref=f184e11]:
+        - link "Go to Google Home" [ref=f184e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4QPHoECAYQBA
+        - generic [ref=f184e21]:
+          - generic [ref=f184e22]:
+            - combobox "Search" [ref=f184e25]: India architecture firm size distribution small studio 2-15 people Council of Architecture India architecture firm size distribution small studio 2-15 people Council of Architecture
+            - generic [ref=f184e26]:
+              - button "Clear" [ref=f184e28] [cursor=pointer]
+              - generic [ref=f184e33]:
+                - button "Search by voice" [ref=f184e34] [cursor=pointer]
+                - button "Search by image" [ref=f184e37] [cursor=pointer]
+          - button "Search" [ref=f184e40] [cursor=pointer]
+    - generic [ref=f184e45]:
+      - button "Settings" [ref=f184e47] [cursor=pointer]
+      - button "Share" [ref=f184e52] [cursor=pointer]
+      - generic [ref=f184e58]:
+        - button "Google apps" [ref=f184e60] [cursor=pointer]
+        - link "Sign in" [ref=f184e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DIndia%2Barchitecture%2Bfirm%2Bsize%2Bdistribution%2Bsmall%2Bstudio%2B2-15%2Bpeople%2BCouncil%2Bof%2BArchitecture&ec=futura_srp_og_si_72236_p
+  - generic [ref=f184e68]:
+    - navigation [ref=f184e74]:
+      - generic [ref=f184e80]:
+        - list [ref=f184e81]:
+          - listitem [ref=f184e82]:
+            - link "AI Mode" [ref=f184e85] [cursor=pointer]:
+              - /url: /search?q=India+architecture+firm+size+distribution+small+studio+2-15+people+Council+of+Architecture&sca_esv=0fcbbd60dc8ae695&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832QufJlY6zJud3Z__pVf55T_nob-GAUzu716o5DMdCJKHXnNH61HCPdo47hK4-N7BvLUM485UtpNO0-9lTfQpBMQ2-DOcv04ifdAz8aUl8mKxCbrsZyIq_d35Lsc4v4Ra8wopebNbWIe2B6cd_gujIJtrvlIfW6i104EFSrezukaHex1m2Q&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q2J8OegQIFBAD
+          - listitem [ref=f184e89]:
+            - link "All" [disabled] [ref=f184e90]
+          - listitem [ref=f184e93]:
+            - link "Images" [ref=f184e94] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832QufJlY6zJud3Z__pVf55T_nob-GAUzu716o5DMdCJKHXnNH61HCPdo47hK4-N7BvLUM485UtpNO0-9lTfQpBMQ2-DOcv04ifdAz8aUl8mKxCbrsZyIq_d35Lsc4v4Ra8wopebNbWIe2B6cd_gujIJtrvlIfW6i104EFSrezukaHex1m2Q&q=India+architecture+firm+size+distribution+small+studio+2-15+people+Council+of+Architecture&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4QtKgLegQIFhAB
+          - listitem [ref=f184e97]:
+            - link "Forums" [ref=f184e98] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832QufJlY6zJud3Z__pVf55T_nob-GAUzu716o5DMdCJKHXnNH61HCPdo47hK4-N7BvLUM485UtpNO0-9lTfQpBMQ2-DOcv04ifdAz8aUl8mKxCbrsZyIq_d35Lsc4v4Ra8wopebNbWIe2B6cd_gujIJtrvlIfW6i104EFSrezukaHex1m2Q&q=India+architecture+firm+size+distribution+small+studio+2-15+people+Council+of+Architecture&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Qs6gLegQIGhAB
+          - listitem [ref=f184e101]:
+            - link "Shopping" [ref=f184e102] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832QufJlY6zJud3Z__pVf55T_nob-GAUzu716o5DMdCJKHXnNH61HCPdo47hK4-N7BvLUM485UtpNO0-9lTfQpBMQ2-DOcv04ifdAz8aUl8mKxCbrsZyIq_d35Lsc4v4Ra8wopebNbWIe2B6cd_gujIJtrvlIfW6i104EFSrezukaHex1m2Q&q=India+architecture+firm+size+distribution+small+studio+2-15+people+Council+of+Architecture&ved=1t:220175&ictx=111
+          - listitem [ref=f184e105]:
+            - link "Short videos" [ref=f184e106] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832QufJlY6zJud3Z__pVf55T_nob-GAUzu716o5DMdCJKHXnNH61HCPdo47hK4-N7BvLUM485UtpNO0-9lTfQpBMQ2-DOcv04ifdAz8aUl8mKxCbrsZyIq_d35Lsc4v4Ra8wopebNbWIe2B6cd_gujIJtrvlIfW6i104EFSrezukaHex1m2Q&q=India+architecture+firm+size+distribution+small+studio+2-15+people+Council+of+Architecture&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Qs6gLegQIGBAB
+          - listitem [ref=f184e109]:
+            - link "Videos" [ref=f184e110] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=7&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832QufJlY6zJud3Z__pVf55T_nob-GAUzu716o5DMdCJKHXnNH61HCPdo47hK4-N7BvLUM485UtpNO0-9lTfQpBMQ2-DOcv04ifdAz8aUl8mKxCbrsZyIq_d35Lsc4v4Ra8wopebNbWIe2B6cd_gujIJtrvlIfW6i104EFSrezukaHex1m2Q&q=India+architecture+firm+size+distribution+small+studio+2-15+people+Council+of+Architecture&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4QtKgLegQIFxAB
+          - listitem [ref=f184e113]:
+            - button [ref=f184e114] [cursor=pointer]:
+              - generic "More filters" [ref=f184e115]: More
+        - button "Tools" [ref=f184e122] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f184e129]
+    - generic [ref=f184e134]:
+      - generic [ref=f184e153]:
+        - heading "Thinking" [level=2] [ref=f184e157]
+        - progressbar "Generating" [ref=f184e160]
+      - main [ref=f184e162]:
+        - generic [ref=f184e166]:
+          - generic [ref=f184e169]:
+            - heading "Web results" [level=2] [ref=f184e170]
+            - generic [ref=f184e171]:
+              - generic [ref=f184e174]:
+                - link "Council of Architecture Council of Architecture (CoA) https://coa.gov.in › showfile" [ref=f184e176] [cursor=pointer]:
+                  - /url: /goto?url=CAESfAHrOzAVu29cbGZGI1AY_EedWwLse-Jd6OaQxJz0OA6n7EmbqEVtalBARvnG3J3Pez5apGyvjgq6Y3E0KyrcwMOpPDjWFp8261nX1NOqZzn1JMc5MQKvlDoVfe_27e1cz2iqWa5J1WrQIid7Wfx7YxZ1RLAN2-XFPfyJzxw
+                  - heading "Council of Architecture" [level=3] [ref=f184e177]
+                  - generic [ref=f184e183]:
+                    - generic [ref=f184e184]: Council of Architecture (CoA)
+                    - generic [ref=f184e186]: https://coa.gov.in › showfile
+                - generic [ref=f184e188]: PDF
+                - button "About this result" [ref=f184e193] [cursor=pointer]
+              - generic [ref=f184e200]:
+                - text: In design
+                - emphasis [ref=f184e201]: studios
+                - text: /construction
+                - emphasis [ref=f184e202]: studios
+                - text: /projects the students contribute to the processing,
+                - emphasis [ref=f184e203]: analysis
+                - text: and the solving of problems of direct professional practice,
+          - generic [ref=f184e207]:
+            - generic [ref=f184e210]:
+              - link "ADDA Architecture Firm Overview | PDF | Architect | Design Scribd https://www.scribd.com › document › ARCHITECTUR..." [ref=f184e212] [cursor=pointer]:
+                - /url: /goto?url=CAEScwHrOzAVzbEDV0VVlZ47zzMhlkSGbkhEYn8lLwSYUvAUr35ntvlba2mGk6TCo_nXdga4vh9iFRonfeQ5nXt5B9cgfFN9NSJdzg1bz1imK6DqGs57482SoNidCXwka2KUdgrMRGx1y7A5aWuC35gkM5sn0s8
+                - heading "ADDA Architecture Firm Overview | PDF | Architect | Design" [level=3] [ref=f184e213]
+                - generic [ref=f184e219]:
+                  - generic [ref=f184e220]: Scribd
+                  - generic [ref=f184e222]: https://www.scribd.com › document › ARCHITECTUR...
+              - button "About this result" [ref=f184e228] [cursor=pointer]
+            - generic [ref=f184e234]:
+              - generic [ref=f184e235]:
+                - text: The document discusses the ADDA
+                - emphasis [ref=f184e236]: Architecture Firm
+                - text: . It was established in 2011 in Surat,
+                - emphasis [ref=f184e237]: India
+                - text: by principal
+                - emphasis [ref=f184e238]: architects
+                - text: Dhaval Shah, Kaushal Laheri, ...
+              - link "Read more" [ref=f184e239] [cursor=pointer]:
+                - /url: /goto?url=CAES0QEB6zswFZrRIN_-0DgxuksxA1WmFsfib3_2e3wJK9AISJ8pCe_K376xVgmDH0dhKPJNLpLY7myGeYbGisisEsfESRgRCa-tKJU-e5oIXSrWvNiDhADHqxw-EgwM6AimxHC4IiZXPJHMnHSQT8Zo7dKq5n47U1Fu8T6j1giK1rtEpcJl2T0o0qWNsT8o07WZjOw0_BBjm6gLIisTjlTY2pESNbB81W8iI-xVNaGsCOyGYGJWc-Ky7HjCMbWPXo0P7sG59Zh6D_aRnbuJdWiwTdWlGQ
+          - generic [ref=f184e243]:
+            - generic [ref=f184e246]:
+              - link "Council of Architecture Council of Architecture (COA) https://www.coa.gov.in › showfile" [ref=f184e248] [cursor=pointer]:
+                - /url: /goto?url=CAESgAEB6zswFQUdjXDYmkHSuO40bbSdzPcWDzaKNxjxtT3aWA0-_7xBkgBahjPLE4xHcOxgYtmjMF3Dx8a_jp-oRqnoefmg7FfrMVMKSjwTBYZLfSd-YOdkgQ8OHOF0zBMdwXTGhKpRH-dzk_r4N_jZJkqHPLfn-FLyAaw0z-TZrvQHUA
+                - heading "Council of Architecture" [level=3] [ref=f184e249]
+                - generic [ref=f184e255]:
+                  - generic [ref=f184e256]: Council of Architecture (COA)
+                  - generic [ref=f184e258]: https://www.coa.gov.in › showfile
+              - generic [ref=f184e260]: PDF
+              - button "About this result" [ref=f184e265] [cursor=pointer]
+            - generic [ref=f184e272]:
+              - text: In design
+              - emphasis [ref=f184e273]: studios
+              - text: /construction
+              - emphasis [ref=f184e274]: studios
+              - text: /projects the students contribute to the processing,
+              - emphasis [ref=f184e275]: analysis
+              - text: and the solving of problems of direct professional practice,
+          - generic [ref=f184e279]:
+            - heading "Images" [level=2] [ref=f184e283]
+            - generic [ref=f184e287]:
+              - generic [ref=f184e291] [cursor=pointer]:
+                - link "30 Best Architecture and Design Firms in India - Architizer ... Architizer" [ref=f184e292]:
+                  - /url: /goto?url=CAESigEB6zswFc2Qz9TT_77-rcUJOdL1Jb7sI-WKrx2P1c9ZS_Lb5OiKp4YVOPkdqFaSy-AmbVpJ7wkB335x-yB4stQGhUyOUIFnP-_dIkqWjZ0Ggw0ZgB4WAzYKo_HiioMQzAVBUqY-B9_368HUewDw0CCiw6e4m2smiDUAl0nPmmnqB2eT45E33umepOQ
+                - button [ref=f184e294]:
+                  - img "30 Best Architecture and Design Firms in India - Architizer ..." [ref=f184e296]
+                - generic [ref=f184e298]:
+                  - generic [ref=f184e300]: 30 Best Architecture and Design Firms in India - Architizer ...
+                  - generic [ref=f184e301]:
+                    - generic [ref=f184e303]: Architizer
+                    - button "About this result" [ref=f184e313]
+              - generic [ref=f184e321] [cursor=pointer]:
+                - link "Entrepreneurship Awareness Program (EAP) – Exploring ... Facebook" [ref=f184e322]:
+                  - /url: /goto?url=CAES0gEB6zswFfA8yDxQYfE1jJnucy4uW9njdBXB-2HyBjv01ctgqMpGfMQF1QrsRfZerEWc4IR52afzL5338HMLsKfjuCjUfPXrw-WNz2pA8JuOZ7AjPCsTr1wk0BSMMgHEMBChYiGxw8vCwGdEzk0EF_x63QhbDfkw5VzWErw5vFdh3M9UX7wWpaAy6aNrWCPnQdpNuMQCyo_dS34teTJ5Zp-MT2jkCr7l2ZXGz4JYt_1uaR0Xms0MfMdQqZxLXV7asdcXOm8P7osPRX2sKZs_2GOR-Yw
+                - button [ref=f184e324]:
+                  - img "Entrepreneurship Awareness Program (EAP) – Exploring ..." [ref=f184e326]
+                - generic [ref=f184e328]:
+                  - generic [ref=f184e330]: Entrepreneurship Awareness Program (EAP) – Exploring ...
+                  - generic [ref=f184e331]:
+                    - generic [ref=f184e333]: Facebook
+                    - button "About this result" [ref=f184e343]
+              - generic [ref=f184e351] [cursor=pointer]:
+                - link "The Architect's Scope of Services in India — COA Conditions ... Studio Matrx" [ref=f184e352]:
+                  - /url: /goto?url=CAESgAEB6zswFRFb82-OVXX3yiWfuawAR1H65IZzN8hLDOqDmiSnHJ6GtnpHOJThM7uiY8ffZ-ty9gxIOMynm8EXIcDs_XbXExjDbqtOa4iNlYv-l3VN_hWx8g_sWQKJ9TgurOP9a9JDixZ3VkBl5-ogPCegByRa66wVYZyEW4CdmockCA
+                - button [ref=f184e354]:
+                  - img "The Architect's Scope of Services in India — COA Conditions ..." [ref=f184e356]
+                - generic [ref=f184e358]:
+                  - generic [ref=f184e360]: The Architect's Scope of Services in India — COA Conditions ...
+                  - generic [ref=f184e361]:
+                    - generic [ref=f184e363]: Studio Matrx
+                    - button "About this result" [ref=f184e373]
+            - button "Show more images" [ref=f184e379] [cursor=pointer]:
+              - separator [aria-hidden] [ref=f184e380]
+          - generic [ref=f184e390]:
+            - heading "People also ask" [level=2] [ref=f184e392]
+            - generic [ref=f184e393]:
+              - button "What are the top 20 architecture firms in India?" [ref=f184e399] [cursor=pointer]
+              - button "What are the 8 types of architects?" [ref=f184e413] [cursor=pointer]
+              - button "Is AI replacing architects?" [ref=f184e427] [cursor=pointer]
+              - button "Who is the largest architecture firm?" [ref=f184e441] [cursor=pointer]
+          - generic [ref=f184e451]:
+            - heading "Web results" [level=2] [ref=f184e452]
+            - generic [ref=f184e453]:
+              - generic [ref=f184e456]:
+                - link "Th e S P A Jou rn al of P lan n in g an d A rch itectu re SPA Delhi https://spa.ac.in › 250625_SPACE_Vol_25_1_2" [ref=f184e458] [cursor=pointer]:
+                  - /url: /goto?url=CAESgQEB6zswFUAOZ6heTVIgQkgRVRozKuJkG325HsFRu3HL1FoRwkisKi_U-65TVOv1h3JwjDoXwl7uaZBl2IihO0GBjWF0BRGdbD6-SdNfxpyIWFkD_h0jEhWVOpLFGF_v_NJSqfaqpt7xXcmpYj7RCmsSFluLzPRNpwxGNREgv4J2cog
+                  - heading "Th e S P A Jou rn al of P lan n in g an d A rch itectu re" [level=3] [ref=f184e459]
+                  - generic [ref=f184e465]:
+                    - generic [ref=f184e466]: SPA Delhi
+                    - generic [ref=f184e468]: https://spa.ac.in › 250625_SPACE_Vol_25_1_2
+                - generic [ref=f184e470]: PDF
+                - button "About this result" [ref=f184e475] [cursor=pointer]
+              - generic [ref=f184e480]:
+                - generic [ref=f184e481]:
+                  - generic [ref=f184e482]: 9 May 2005 —
+                  - generic [ref=f184e483]:
+                    - text: and the
+                    - emphasis [ref=f184e484]: Council
+                    - text: of
+                    - emphasis [ref=f184e485]: Architecture
+                    - text: in
+                    - emphasis [ref=f184e486]: India
+                    - text: . ... Comparative
+                    - emphasis [ref=f184e487]: analysis
+                    - text: of credit
+                    - emphasis [ref=f184e488]: distribution
+                    - text: across six distinguished
+                    - emphasis [ref=f184e489]: architecture
+                    - text: colleges in
+                    - emphasis [ref=f184e490]: India
+                    - text: .
+                  - link "Read more" [ref=f184e491] [cursor=pointer]:
+                    - /url: /goto?url=CAESrAIB6zswFXgA1L3vdSaJoC0SaHDj9-Na2vdLPpQju8yGD31bo-duv8JGi1jeCkeIjdBZYQpjAUSOhWmWjxb74fwpv-nmtrY5RjGIn_M1I7-6Uem2IyHKJ4aOGE487M5UrBXcIhQJwD2fHom_U-HSNhEcLWPxE91f6HdGQW_dDO2uiZNL7mVwSP30RtKVBvQ7jZlf_1_4G8_8fd_DOqKFDvePjykL_aXB4_b26lgiru4a6-dRizjbmD3_quFhvD-2P6TjEOzZG0vjHCtlgxKCzeJubbkLuzQonpJIzE841VkTkM7SFlSoM43Z5IojRD7civt8Qg8GOGfm705V-JXDJowAPFWgrhg53tT7mALXHLfd2VU0WMh7A2K-QyYLVWRwXVFBaPW7UD8WGs9TOi4
+                - generic [ref=f184e492]: 127 pages
+          - generic [ref=f184e496]:
+            - generic [ref=f184e499]:
+              - link "Entrepreneurship Awareness Program (EAP) – Exploring ... Facebook · Sister Nivedita University 100+ reactions · 8 months ago" [ref=f184e501] [cursor=pointer]:
+                - /url: /goto?url=CAES0gEB6zswFfA8yDxQYfE1jJnucy4uW9njdBXB-2HyBjv01ctgqMpGfMQF1QrsRfZerEWc4IR52afzL5338HMLsKfjuCjUfPXrw-WNz2pA8JuOZ7AjPCsTr1wk0BSMMgHEMBChYiGxw8vCwGdEzk0EF_x63QhbDfkw5VzWErw5vFdh3M9UX7wWpaAy6aNrWCPnQdpNuMQCyo_dS34teTJ5Zp-MT2jkCr7l2ZXGz4JYt_1uaR0Xms0MfMdQqZxLXV7asdcXOm8P7osPRX2sKZs_2GOR-Yw
+                - heading "Entrepreneurship Awareness Program (EAP) – Exploring ..." [level=3] [ref=f184e502]
+                - generic [ref=f184e508]:
+                  - generic [ref=f184e509]: Facebook · Sister Nivedita University
+                  - generic [ref=f184e511]: 100+ reactions · 8 months ago
+              - button "About this result" [ref=f184e517] [cursor=pointer]
+            - generic [ref=f184e524]:
+              - text: The
+              - emphasis [ref=f184e525]: Council of Architecture
+              - text: (COA), Asmita Patnaik interviews eleven emerging architectural
+              - emphasis [ref=f184e526]: firms
+              - text: ", who share their experiences, tip and advice ..."
+          - generic [ref=f184e530]:
+            - generic [ref=f184e533]:
+              - link "Applications received during 1 to 31 August, 2025 IP India https://ipindia.gov.in › uploads › docs-operator" [ref=f184e535] [cursor=pointer]:
+                - /url: /goto?url=CAESlQEB6zswFR5KQ9SOKm3hiVzcEgA-40q9I8QeOtjJtpTeIoo3RQWcVTlWFpE6aoJgxVYhVYxQEvKUNtZI5f1dDq0ebmEwHyyUmUlz6G4AlyJ5cWIcP1ylBqmoh23dJuTI50TeuXKiT2_guGAIYq6QsOEVescy5cAQId8Ua8H_7TLKJfGdgxb2IBbcy1tJCi5NXw7gtJJApg
+                - heading "Applications received during 1 to 31 August, 2025" [level=3] [ref=f184e536]
+                - generic [ref=f184e542]:
+                  - generic [ref=f184e543]: IP India
+                  - generic [ref=f184e545]: https://ipindia.gov.in › uploads › docs-operator
+              - generic [ref=f184e547]: PDF
+              - button "About this result" [ref=f184e552] [cursor=pointer]
+            - generic [ref=f184e557]:
+              - generic [ref=f184e558]:
+                - generic [ref=f184e559]: 1 Aug 2025 —
+                - generic [ref=f184e560]:
+                  - text: The publication is a list of applications received during 1 to 31 August, 2025. among visually impaired populations in
+                  - emphasis [ref=f184e561]: India
+                  - text: Literary/ tic ...
+              - generic [ref=f184e562]: 197 pages
+          - generic [ref=f184e566]:
+            - generic [ref=f184e569]:
+              - link "gandhi institute of technology and management( ... GITAM Deemed to be University https://www.gitam.edu › default › files › syllabus" [ref=f184e571] [cursor=pointer]:
+                - /url: /goto?url=CAESmgEB6zswFTwr1meEH8DvKnL9H1k5fXYU3x5WthyGMS7o8_ewIfx0IcU0yLBwixKHqKTdrzcqWb-QGP9KSNT5-d3T1J-j77TUC0FoEtHoXEEsXJmcb29Yh6vKiulvOYxUaFgulpHW6OWfuE7QP3XopWRKi5djDoXallTst3FCNovzKQlwHoEarphxYYsUv318oC2gGtaYVTzfuDkC
+                - heading "gandhi institute of technology and management( ..." [level=3] [ref=f184e572]
+                - generic [ref=f184e578]:
+                  - generic [ref=f184e579]: GITAM Deemed to be University
+                  - generic [ref=f184e581]: https://www.gitam.edu › default › files › syllabus
+              - generic [ref=f184e583]: PDF
+              - button "About this result" [ref=f184e588] [cursor=pointer]
+            - generic [ref=f184e593]:
+              - generic [ref=f184e594]:
+                - generic [ref=f184e595]:
+                  - emphasis [ref=f184e596]: Architect
+                  - text: with the
+                  - emphasis [ref=f184e597]: Council
+                  - text: of
+                  - emphasis [ref=f184e598]: Architecture India
+                  - text: ", should be furnished by the Student. Staff members are to be deputed once to the"
+                  - emphasis [ref=f184e599]: Architecture firms
+                  - text: where ...
+                - link "Read more" [ref=f184e600] [cursor=pointer]:
+                  - /url: /goto?url=CAES7gEB6zswFQBXlXKEEl0E_Rwmn0V-hSHdVtdd6jwWbbVyRImDnA9_-SQmxi2_Ca7uOqA7E3EEEETSmltoFj9VwoliGBBr8iVbD8GcBVdRNnnsf5TzGzvLdiAs0GlXWtIVOgpIvyg8bb7QoypxpAd7N0s8QcrLLjUtwETPOOghu7lUMI9KJDlqpKIf65NC2GkgcMtV50afYdMZBsvMaRxG5mReoEacS1Lkk7jVGWYJ08m9Ln2uFxKucaSYkBlxgmhxeyFLxBMgq8guktVtK748t6zn3JE79N8o15ujjjbPmv9PryMBHAYtFAh34ynZxeFE
+              - generic [ref=f184e601]: 221 pages
+          - generic [ref=f184e605]:
+            - generic [ref=f184e608]:
+              - link "NATIONAL BUILDING CODE OF INDIA 2005 GROUP 4 Public Resource https://law.resource.org › bis › is.sp.7.4.2005.pdf" [ref=f184e610] [cursor=pointer]:
+                - /url: /goto?url=CAEScgHrOzAVw5iyw5ZeHbdEwienn-8wHsrG5ijcYlTLUE5k8lhF2_a-7xr55mgWqM0A_O47pm35tLk9ly_1_kQ59gEOABjjQxfbhozFuQb2XZY1fWBBhmGzTqMTCa7dQiIiHbyRYnykS85uyYcFOPkk0KOJNQ
+                - heading "NATIONAL BUILDING CODE OF INDIA 2005 GROUP 4" [level=3] [ref=f184e611]
+                - generic [ref=f184e617]:
+                  - generic [ref=f184e618]: Public Resource
+                  - generic [ref=f184e620]: https://law.resource.org › bis › is.sp.7.4.2005.pdf
+              - generic [ref=f184e622]: PDF
+              - button "About this result" [ref=f184e627] [cursor=pointer]
+            - generic [ref=f184e632]:
+              - generic [ref=f184e633]:
+                - generic [ref=f184e634]: 2 Jan 2014 —
+                - generic [ref=f184e635]:
+                  - text: The Guiding Committee and its panels were constituted with
+                  - emphasis [ref=f184e636]: architects
+                  - text: ", planners, materials experts, structural, construction, on the"
+                  - emphasis [ref=f184e637]: size
+                  - text: and ...
+              - generic [ref=f184e638]: 281 pages
+        - generic [ref=f184e640]:
+          - generic [ref=f184e645]:
+            - heading "People also search for" [level=2] [ref=f184e647]
+            - generic [ref=f184e649]:
+              - generic [ref=f184e650]:
+                - link "Government internship for architecture students" [ref=f184e654] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Government+internship+for+architecture+students&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q1QJ6BAglEAE
+                - link "Architect office design case study" [ref=f184e668] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Architect+office+design+case+study&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q1QJ6BAg5EAE
+                - link "Architect Office plan PDF" [ref=f184e682] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Architect+Office+plan+PDF&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q1QJ6BAg2EAE
+                - link "COA Internship rules" [ref=f184e696] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=COA+Internship+rules&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q1QJ6BAgzEAE
+              - generic [ref=f184e707]:
+                - link "Architectural education in India" [ref=f184e711] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Architectural+education+in+India&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q1QJ6BAgtEAE
+                - link "Small office case study" [ref=f184e725] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Small+office+case+study&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q1QJ6BAgrEAE
+                - link "Assistant Professor Architecture" [ref=f184e739] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Assistant+Professor+Architecture&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q1QJ6BAgqEAE
+                - link "Office case study with floor plan" [ref=f184e753] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Office+case+study+with+floor+plan&sa=X&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q1QJ6BAgpEAE
+          - navigation [ref=f184e764]:
+            - heading "Page navigation" [level=1] [ref=f184e765]
+            - text: "1"
+            - link "Page 2" [ref=f184e768] [cursor=pointer]:
+              - /url: /search?q=India+architecture+firm+size+distribution+small+studio+2-15+people+Council+of+Architecture&sca_esv=0fcbbd60dc8ae695&ei=jvupapC-LqSdhvcPwtLZ8AU&start=10&sa=N&sstk=AS6-VmIitIylmijAAXpdbQL0wEfFuULjQQDiplvaqzOrv6gLp0zgqNiNEAx2f97IA-Uux4civpeYWPYGl9tu7mkW5rEKh_zywCvykQ&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q8tMDegQIPRAE
+              - text: "2"
+            - link "Page 3" [ref=f184e770] [cursor=pointer]:
+              - /url: /search?q=India+architecture+firm+size+distribution+small+studio+2-15+people+Council+of+Architecture&sca_esv=0fcbbd60dc8ae695&ei=jvupapC-LqSdhvcPwtLZ8AU&start=20&sa=N&sstk=AS6-VmIitIylmijAAXpdbQL0wEfFuULjQQDiplvaqzOrv6gLp0zgqNiNEAx2f97IA-Uux4civpeYWPYGl9tu7mkW5rEKh_zywCvykQ&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q8tMDegQIPRAG
+              - text: "3"
+            - link "Page 4" [ref=f184e772] [cursor=pointer]:
+              - /url: /search?q=India+architecture+firm+size+distribution+small+studio+2-15+people+Council+of+Architecture&sca_esv=0fcbbd60dc8ae695&ei=jvupapC-LqSdhvcPwtLZ8AU&start=30&sa=N&sstk=AS6-VmIitIylmijAAXpdbQL0wEfFuULjQQDiplvaqzOrv6gLp0zgqNiNEAx2f97IA-Uux4civpeYWPYGl9tu7mkW5rEKh_zywCvykQ&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q8tMDegQIPRAI
+              - text: "4"
+            - heading [level=2] [ref=f184e774]:
+              - link "Next" [ref=f184e775] [cursor=pointer]:
+                - /url: /search?q=India+architecture+firm+size+distribution+small+studio+2-15+people+Council+of+Architecture&sca_esv=0fcbbd60dc8ae695&ei=jvupapC-LqSdhvcPwtLZ8AU&start=10&sa=N&sstk=AS6-VmIitIylmijAAXpdbQL0wEfFuULjQQDiplvaqzOrv6gLp0zgqNiNEAx2f97IA-Uux4civpeYWPYGl9tu7mkW5rEKh_zywCvykQ&ved=2ahUKEwiQvdzVg_KWAxWkjuEIHUJpFl4Q8NMDegQIPRAK
+        - navigation
+    - contentinfo [ref=f184e778]:
+      - heading "Footer links" [level=1] [ref=f184e779]
+      - generic [ref=f184e783]:
+        - generic [ref=f184e785]:
+          - text: India
+          - generic [ref=f184e787]:
+            - button "Vijayawada, Andhra Pradesh - Based on your past activity" [ref=f184e789] [cursor=pointer]:
+              - generic [ref=f184e790]: Vijayawada, Andhra Pradesh
+              - generic [ref=f184e792]:
+                - text: "-"
+                - generic [ref=f184e793]: Based on your past activity
+            - text: "-"
+            - button "Update location" [ref=f184e795] [cursor=pointer]
+        - generic [ref=f184e798]:
+          - link "Help" [ref=f184e799] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+          - link "Send feedback" [ref=f184e800] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f184e801] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+          - link "Terms" [ref=f184e802] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IN&fg=1

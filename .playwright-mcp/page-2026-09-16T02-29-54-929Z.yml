@@ -1,0 +1,108 @@
+- generic [ref=f462e11]:
+  - generic [ref=f462e13]:
+    - link [ref=f462e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=f462e19]
+    - generic [ref=f462e30]:
+      - link "Log in" [ref=f462e32] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fsalmaan.arch%2F&source=desktop_nav
+      - link "Sign up" [ref=f462e34] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=f462e35]:
+    - progressbar [ref=f462e37]:
+      - img "Loading..." [ref=f462e38]
+  - contentinfo [ref=f462e51]:
+    - generic [ref=f462e52]:
+      - generic [ref=f462e54]:
+        - link "Meta" [ref=f462e56] [cursor=pointer]:
+          - /url: https://about.meta.com/
+        - link "About" [ref=f462e59] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+        - link "Blog" [ref=f462e62] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+        - link "Jobs" [ref=f462e65] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+        - link "Help" [ref=f462e68] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+        - link "API" [ref=f462e71] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+        - link "Privacy" [ref=f462e74] [cursor=pointer]:
+          - /url: /legal/privacy/
+        - link "Terms" [ref=f462e77] [cursor=pointer]:
+          - /url: /legal/terms/
+        - link "Locations" [ref=f462e80] [cursor=pointer]:
+          - /url: /explore/locations/
+        - link "Popular" [ref=f462e83] [cursor=pointer]:
+          - /url: /popular/
+        - link "Instagram Lite" [ref=f462e86] [cursor=pointer]:
+          - /url: /web/lite/
+        - link "Meta AI" [ref=f462e89] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+        - link "Muse" [ref=f462e92] [cursor=pointer]:
+          - /url: https://muse.ai/
+        - link "Threads" [ref=f462e95] [cursor=pointer]:
+          - /url: https://www.threads.com/
+        - link "Contact uploading and non-users" [ref=f462e98] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+        - link "Meta Verified" [ref=f462e101] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+      - generic [ref=f462e103]:
+        - generic [ref=f462e104] [cursor=pointer]:
+          - generic [ref=f462e105]:
+            - generic [ref=f462e106]: English (UK)
+            - img "Down Chevron Icon" [ref=f462e109]
+          - combobox "Switch display language" [ref=f462e111]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)" [selected]
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)"
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=f462e112]: © 2026 Instagram from Meta

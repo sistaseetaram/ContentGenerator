@@ -1,0 +1,245 @@
+- generic [ref=f395e2]:
+  - banner [ref=f395e4]:
+    - generic [ref=f395e6]:
+      - generic [ref=f395e7]:
+        - button "Guide" [ref=f395e9] [cursor=pointer]
+        - generic [ref=f395e11]:
+          - link "YouTube Home" [ref=f395e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f395e16]: IN
+        - button "Skip navigation" [ref=f395e20] [cursor=pointer]
+      - generic [ref=f395e24]:
+        - search [ref=f395e25]:
+          - generic [ref=f395e27]:
+            - combobox "Search" [expanded] [ref=f395e30]
+            - button "Search" [ref=f395e31] [cursor=pointer]
+        - generic [ref=f395e34]:
+          - button "Search with your voice" [ref=f395e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f395e45]
+  - main [ref=f395e47]:
+    - generic [ref=f395e54]:
+      - generic [ref=f395e70]:
+        - heading "Kate Vera Creative" [level=1] [ref=f395e72]
+        - generic [ref=f395e73]:
+          - group [ref=f395e74]:
+            - generic [ref=f395e75]: "@kateveracreative"
+          - generic [aria-hidden] [ref=f395e76]: •
+          - group [ref=f395e77]:
+            - generic "11.1 thousand subscribers" [ref=f395e78]: 11.1k subscribers
+            - generic [aria-hidden] [ref=f395e79]: •
+            - generic [ref=f395e80]: 111 videos
+        - generic [ref=f395e82] [cursor=pointer]:
+          - generic [ref=f395e83]: AI and 3d rendering expert for interior designers and architects.
+          - button "Description. AI and 3d rendering expert for interior designers and archit…tap for more." [ref=f395e84]:
+            - generic [ref=f395e85]: ...more
+        - generic [ref=f395e86]:
+          - link [ref=f395e89] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRTNOYlBQS3l5SGhuTTJHbWYtOU82QnxBTl9pYzRjTGx2SnRsdk9fVVNsYjZGcl90RXNsSXZaaWY3bUhOb2xaS2hnS01KeE1PRG5Qb2hYVzlXdDl0NHNYdmpKTTY0c2hGcmhueThiSFBfM2dBeFhuOXBfMnVqYjkzb1V3&q=https%3A%2F%2Fwww.kateveracreative.com%2Fai-free-masterclass%3Futm_source%3Dyoutube%26utm_medium%3Dsocial%26utm_campaign%3Dai_free_masterclass%26utm_content%3Dbio
+          - button "and 4 more links" [ref=f395e94] [cursor=pointer]
+        - button "Subscribe" [ref=f395e98] [cursor=pointer]
+      - tablist [ref=f395e105]:
+        - tablist [ref=f395e109]:
+          - tab "Home" [selected] [ref=f395e110] [cursor=pointer]
+          - tab "Videos" [ref=f395e112] [cursor=pointer]
+          - tab "Shorts" [ref=f395e114] [cursor=pointer]
+          - tab "Playlists" [ref=f395e116] [cursor=pointer]
+          - button "Search" [ref=f395e121] [cursor=pointer]
+    - generic [ref=f395e128]:
+      - generic [ref=f395e135]:
+        - generic [ref=f395e136]:
+          - heading "Full AI Workflow for Interior Designers – From Brief to Pro Render (2026) 11 minutes, 56 seconds" [level=3] [ref=f395e137]:
+            - link "Full AI Workflow for Interior Designers – From Brief to Pro Render (2026)" [ref=f395e138] [cursor=pointer]:
+              - /url: /watch?v=Wt6IzAS71e0
+          - generic [ref=f395e141]:
+            - generic [ref=f395e142]: 33,341 views
+            - generic [ref=f395e143]: •5 months ago
+        - generic [ref=f395e144]:
+          - generic [ref=f395e146]:
+            - text: "🎯 The complete AI workflow for interior designers & architects that I use for every interior design project. From the first client brief to cinematic renders that win projects. 🔗 RESOURCES: 📰 Free AI masterclass for interior designers:"
+            - link "https://www.kateveracreative.com/ai-f..." [ref=f395e147] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRjJOTUNGdERqdFF6cXhVemZHZUFBYnxBTl9pYzRjLU41a29lc0FkeTFzbUktcno0YjlDdVgzaEN1djRPOS1od3JxN1gyRWZtUDJsbm9YSVB4TmRFbE91WnRaRjFiSkhjcWNCa3JITlFDLVkwOW5DM0MwRmhtOEtEZHhO&q=https%3A%2F%2Fwww.kateveracreative.com%2Fai-free-masterclass%3Futm_source%3Dyoutube%26utm_medium%3Dsocial%26utm_campaign%3Dai_free_masterclass%26utm_content%3Ddesc_Wt6IzAS71e0
+            - text: "In this video, I show you how to use AI in interior design from the first client brief to final photorealistic renders and cinematic animated presentations. This is the exact workflow I use as an interior designer to save time, improve visuals, and present projects more effectively to clients. Whether you're an interior designer, architect, real estate professional or design student, this will help you understand how AI fits into a real professional workflow, not just isolated tools. 📌 TIMESTAMPS: 00:00 — Why AI changes everything for designers 01:30 — Interior Designers day to day struggle 02:12 — What you need is a system specific to Interior designers 03:40 — Client brief to Ideation (ChatGPT & Midjourney) 04:24 — Modeling with AI (Meshy) 06:58 — Image editing, AI rendering & post-production (Nano Banana) 08:19 — Creating cinematic walkthroughs & powerful client presentations with AI (Kling) 🛠️ TOOLS MENTIONED IN THIS VIDEO: ChatGPT, Midjourney, Nano Banana, Meshy, Kling, VEO 03 📱 CONNECT: Instagram: @"
+            - link "https://www.instagram.com/katevera.cr..." [ref=f395e148] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRnUxaDJZQ3V2REhqSEZnNjNuN1dvVHxBTl9pYzRjT3p1ZVgwZmxxeFc2bU8yclNVSThUdDdPUzQ0ZDdTVFpCa0VTUFhvZEU1b3E3cUdRclM3eWhYNGJXMHo5Y2ZETkZPbk4wOU9uSWJ2Z2h2eHUtRWNWZDF2cWdBZEJK&q=https%3A%2F%2Fwww.instagram.com%2Fkatevera.creative%2F
+            - text: "Website:"
+            - link "https://www.kateveracreative.com" [ref=f395e149] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSHYtS2J4clEzbXFYRUNmQ0lIemVoS3xBTl9pYzRmcU5QOWpPSVBubVQ0YUFVSXFJbW9OVU85eTNiQmVxREdhaExaQTB4NVZNTTF2OXMxa1A2WjZBUkFIcElUcWFSYVJOLW5DVHJKSDd5Y2xWWmFZcTc1S2d6WXNtY05D&q=https%3A%2F%2Fwww.kateveracreative.com%2F
+            - text: "Let's connect:"
+            - link "https://www.kateveracreative.com/contact" [ref=f395e150] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRkM2Wi02TXhqWjZsTWlSbGZLdEd6a3xBTl9pYzRjVmtjYjR5QUcyMzdaT3NRUGQ3RFlOSUVXXzV2emdlR1R5aHdCcWNvZlhhTk9TRGdEVGhqRmxvU1oxdFE0ZTdQOU1NNEV2S3NzZ0RWQ3VMdkhISjk3Z1NmNEVyTkl0&q=https%3A%2F%2Fwww.kateveracreative.com%2Fcontact
+            - text: "🔎 RELATED SEARCHES: AI interior design workflow, AI for architects, AI rendering tutorial, AI tools for interior designers 2026, Midjourney interior design, AI client presentation, AI moodboard, complete AI design process, how to use AI as a designer, AI sketch to render, ChatGPT for interior design, AI architecture design, best AI tools for designers"
+          - button [ref=f395e151] [cursor=pointer]:
+            - link "Read more" [ref=f395e153]:
+              - /url: /watch?v=Wt6IzAS71e0
+      - generic [ref=f395e156]:
+        - generic [ref=f395e157]:
+          - heading "Shorts" [level=2] [ref=f395e161]
+          - button "More actions" [ref=f395e167] [cursor=pointer]
+        - generic [ref=f395e170]:
+          - generic [ref=f395e173]:
+            - generic [ref=f395e175]:
+              - link [aria-hidden] [ref=f395e176] [cursor=pointer]:
+                - /url: /shorts/PWYv4k7zxPU
+              - generic [ref=f395e180] [cursor=pointer]:
+                - link "Animate Your Floor Plans with AI – No Prompt Needed" [ref=f395e181]:
+                  - /url: /shorts/PWYv4k7zxPU
+                - generic [ref=f395e182]: 1.9k views
+              - button "More actions" [ref=f395e184] [cursor=pointer]
+            - generic [ref=f395e189]:
+              - link [aria-hidden] [ref=f395e190] [cursor=pointer]:
+                - /url: /shorts/vrBslcLtbvM
+              - generic [ref=f395e194] [cursor=pointer]:
+                - link "Animate Your Interior Design Renders with AI – No Prompt Needed" [ref=f395e195]:
+                  - /url: /shorts/vrBslcLtbvM
+                - generic [ref=f395e196]: 1.6k views
+              - button "More actions" [ref=f395e198] [cursor=pointer]
+            - generic [ref=f395e203]:
+              - link [aria-hidden] [ref=f395e204] [cursor=pointer]:
+                - /url: /shorts/L-ETam-KDH8
+              - generic [ref=f395e208] [cursor=pointer]:
+                - link "Nano Banana 2 update explained for interior designers and architects" [ref=f395e209]:
+                  - /url: /shorts/L-ETam-KDH8
+                - generic [ref=f395e210]: 2.1k views
+              - button "More actions" [ref=f395e212] [cursor=pointer]
+            - generic [ref=f395e217]:
+              - link [aria-hidden] [ref=f395e218] [cursor=pointer]:
+                - /url: /shorts/4c-1b3WTYBg
+              - generic [ref=f395e222] [cursor=pointer]:
+                - link "AI 360° Interior Renders in Seconds (Game-Changer for Interior Designers)" [ref=f395e223]:
+                  - /url: /shorts/4c-1b3WTYBg
+                - generic [ref=f395e224]: 1.9k views
+              - button "More actions" [ref=f395e226] [cursor=pointer]
+            - generic [ref=f395e231]:
+              - link [aria-hidden] [ref=f395e232] [cursor=pointer]:
+                - /url: /shorts/YCgXAX6Rxas
+              - generic [ref=f395e236] [cursor=pointer]:
+                - link "3 game-changing features in Enscape (including an AI tool) every Designer needs in 2026!" [ref=f395e237]:
+                  - /url: /shorts/YCgXAX6Rxas
+                - generic [ref=f395e238]: 996 views
+              - button "More actions" [ref=f395e240] [cursor=pointer]
+            - generic [ref=f395e245]:
+              - link [aria-hidden] [ref=f395e246] [cursor=pointer]:
+                - /url: /shorts/05WxaHqe2vg
+              - generic [ref=f395e250] [cursor=pointer]:
+                - link "Video animations with AI for architects and interior designers" [ref=f395e251]:
+                  - /url: /shorts/05WxaHqe2vg
+                - generic [ref=f395e252]: 1.1k views
+              - button "More actions" [ref=f395e254] [cursor=pointer]
+          - button "Next" [ref=f395e260] [cursor=pointer]
+      - generic [ref=f395e267]:
+        - heading [level=2] [ref=f395e270]:
+          - link "Videos" [ref=f395e273] [cursor=pointer]:
+            - /url: /@kateveracreative/videos?view=0&sort=dd&shelf_id=2
+        - generic [ref=f395e279]:
+          - generic [ref=f395e281] [cursor=pointer]:
+            - link [aria-hidden] [ref=f395e282]:
+              - /url: /watch?v=VAfNwEj7Ung
+              - img [ref=f395e288]:
+                - generic [ref=f395e289]: 6:28
+            - generic [ref=f395e291]:
+              - generic [ref=f395e292]:
+                - heading "Edit your image 10x faster with AI using Veras" [level=3] [ref=f395e293]:
+                  - link "Edit your image 10x faster with AI using Veras 6 minutes, 28 seconds" [ref=f395e294]:
+                    - /url: /watch?v=VAfNwEj7Ung
+                    - text: Edit your image 10x faster with AI using Veras
+                - generic [ref=f395e296]:
+                  - group [ref=f395e297]:
+                    - generic [ref=f395e298]: Kate Vera Creative and Chaos Enscape
+                  - group [ref=f395e299]:
+                    - generic [ref=f395e300]: 2.6k views
+                    - generic [aria-hidden] [ref=f395e301]: •
+                    - generic "2 months ago" [ref=f395e302]
+              - button "More actions" [ref=f395e305]
+          - generic [ref=f395e310] [cursor=pointer]:
+            - link [aria-hidden] [ref=f395e311]:
+              - /url: /watch?v=IFEH-ytHG7g
+              - img [ref=f395e317]:
+                - generic [ref=f395e318]: 3:53
+            - generic [ref=f395e320]:
+              - generic [ref=f395e321]:
+                - heading "Veras Just Made AI Video 10x Easier" [level=3] [ref=f395e322]:
+                  - link "Veras Just Made AI Video 10x Easier 3 minutes, 53 seconds" [ref=f395e323]:
+                    - /url: /watch?v=IFEH-ytHG7g
+                    - text: Veras Just Made AI Video 10x Easier
+                - generic [ref=f395e325]:
+                  - group [ref=f395e326]:
+                    - generic [ref=f395e327]: Kate Vera Creative and Chaos Enscape
+                  - group [ref=f395e328]:
+                    - generic [ref=f395e329]: 1.8k views
+                    - generic [aria-hidden] [ref=f395e330]: •
+                    - generic "3 months ago" [ref=f395e331]
+              - button "More actions" [ref=f395e334]
+          - generic [ref=f395e339] [cursor=pointer]:
+            - link [aria-hidden] [ref=f395e340]:
+              - /url: /watch?v=eNJvW8SBVM8
+              - img [ref=f395e346]:
+                - generic [ref=f395e347]: 7:49
+            - generic [ref=f395e349]:
+              - generic [ref=f395e350]:
+                - heading "100% control over AI image editing with Nano Banana inside of Veras" [level=3] [ref=f395e351]:
+                  - link "100% control over AI image editing with Nano Banana inside of Veras 7 minutes, 49 seconds" [ref=f395e352]:
+                    - /url: /watch?v=eNJvW8SBVM8
+                    - text: 100% control over AI image editing with Nano Banana inside of Veras
+                - generic [ref=f395e354]:
+                  - group [ref=f395e355]:
+                    - generic [ref=f395e356]: Kate Vera Creative and Chaos Enscape
+                  - group [ref=f395e357]:
+                    - generic [ref=f395e358]: 8.3k views
+                    - generic [aria-hidden] [ref=f395e359]: •
+                    - generic "3 months ago" [ref=f395e360]
+              - button "More actions" [ref=f395e363]
+          - generic [ref=f395e368] [cursor=pointer]:
+            - link [aria-hidden] [ref=f395e369]:
+              - /url: /watch?v=Y8gvzRVEDxk
+              - img [ref=f395e375]:
+                - generic [ref=f395e376]: 9:17
+            - generic [ref=f395e378]:
+              - generic [ref=f395e379]:
+                - heading "Your Enscape renders look fake. Here's how AI fixes that." [level=3] [ref=f395e380]:
+                  - link "Your Enscape renders look fake. Here's how AI fixes that. 9 minutes, 17 seconds" [ref=f395e381]:
+                    - /url: /watch?v=Y8gvzRVEDxk
+                    - text: Your Enscape renders look fake. Here's how AI fixes that.
+                - generic [ref=f395e383]:
+                  - group [ref=f395e384]:
+                    - generic [ref=f395e385]: Kate Vera Creative and Chaos Enscape
+                  - group [ref=f395e386]:
+                    - generic [ref=f395e387]: 3k views
+                    - generic [aria-hidden] [ref=f395e388]: •
+                    - generic "5 months ago" [ref=f395e389]
+              - button "More actions" [ref=f395e392]
+          - generic [ref=f395e397] [cursor=pointer]:
+            - link [aria-hidden] [ref=f395e398]:
+              - /url: /watch?v=Wt6IzAS71e0
+              - img [ref=f395e404]:
+                - generic [ref=f395e405]: 11:56
+            - generic [ref=f395e407]:
+              - generic [ref=f395e408]:
+                - heading "Full AI Workflow for Interior Designers – From Brief to Pro Render (2026)" [level=3] [ref=f395e409]:
+                  - link "Full AI Workflow for Interior Designers – From Brief to Pro Render (2026) 11 minutes, 56 seconds" [ref=f395e410]:
+                    - /url: /watch?v=Wt6IzAS71e0
+                    - text: Full AI Workflow for Interior Designers – From Brief to Pro Render (2026)
+                - group [ref=f395e413]:
+                  - generic [ref=f395e414]: 33k views
+                  - generic [aria-hidden] [ref=f395e415]: •
+                  - generic "5 months ago" [ref=f395e416]
+              - button "More actions" [ref=f395e419]
+          - generic [ref=f395e424] [cursor=pointer]:
+            - link [aria-hidden] [ref=f395e425]:
+              - /url: /watch?v=WrkcY4wx_tQ
+              - img [ref=f395e431]:
+                - generic [ref=f395e432]: 10:24
+            - generic [ref=f395e434]:
+              - generic [ref=f395e435]:
+                - 'heading "Enscape 2026: New Top features you must try! What''s new" [level=3] [ref=f395e436]':
+                  - 'link "Enscape 2026: New Top features you must try! What''s new 10 minutes, 24 seconds" [ref=f395e437]':
+                    - /url: /watch?v=WrkcY4wx_tQ
+                    - text: "Enscape 2026: New Top features you must try! What's new"
+                - generic [ref=f395e439]:
+                  - group [ref=f395e440]:
+                    - generic [ref=f395e441]: Kate Vera Creative and Chaos Enscape
+                  - group [ref=f395e442]:
+                    - generic [ref=f395e443]: 8.6k views
+                    - generic [aria-hidden] [ref=f395e444]: •
+                    - generic "5 months ago" [ref=f395e445]
+              - button "More actions" [ref=f395e448]

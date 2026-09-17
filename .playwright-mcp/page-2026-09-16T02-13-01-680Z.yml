@@ -1,0 +1,851 @@
+- generic [active] [ref=f67e1]:
+  - complementary "Advertisement" [ref=f67e2]
+  - generic [ref=f67e4]:
+    - generic [ref=f67e5]:
+      - banner [ref=f67e6]:
+        - dialog [aria-hidden] [ref=f67e7]:
+          - generic [ref=f67e8] [cursor=pointer]
+          - navigation [ref=f67e11]:
+            - list [ref=f67e12]:
+              - listitem [ref=f67e13]:
+                - link [ref=f67e14] [cursor=pointer]:
+                  - /url: /
+                  - text: Magazine
+              - listitem [ref=f67e15]:
+                - link [ref=f67e16] [cursor=pointer]:
+                  - /url: /awards
+                  - text: Awards
+              - listitem [ref=f67e17]:
+                - link [ref=f67e18] [cursor=pointer]:
+                  - /url: https://www.dezeenjobs.com/
+                  - text: Jobs
+              - listitem [ref=f67e19]:
+                - link [ref=f67e20] [cursor=pointer]:
+                  - /url: /eventsguide
+                  - text: Events Guide
+              - listitem [ref=f67e21]:
+                - link [ref=f67e22] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/showroom/
+                  - text: Showroom
+              - listitem [ref=f67e23]:
+                - link [ref=f67e24] [cursor=pointer]:
+                  - /url: /schoolshows
+                  - text: School Shows
+              - listitem [ref=f67e25]:
+                - link [ref=f67e26] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/courses/
+                  - text: Courses
+              - listitem [ref=f67e27]:
+                - link [ref=f67e28] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/competitions/
+                  - text: Competitions
+            - list [ref=f67e29]:
+              - listitem [ref=f67e30]:
+                - link [ref=f67e31] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/architecture/
+                  - text: Architecture
+              - listitem [ref=f67e32]:
+                - link [ref=f67e33] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/interiors/
+                  - text: Interiors
+              - listitem [ref=f67e34]:
+                - link [ref=f67e35] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/design/
+                  - text: Design
+              - listitem [ref=f67e36]:
+                - link [ref=f67e37] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/technology/
+                  - text: Technology
+            - list [ref=f67e38]:
+              - listitem [ref=f67e39]:
+                - link [ref=f67e40] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/editorial-series/
+                  - text: Series
+              - listitem [ref=f67e41]:
+                - link [ref=f67e42] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/features/
+                  - text: Features
+              - listitem [ref=f67e43]:
+                - link [ref=f67e44] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/interviews/
+                  - text: Interviews
+              - listitem [ref=f67e45]:
+                - link [ref=f67e46] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/opinion/
+                  - text: Opinion
+              - listitem [ref=f67e47]:
+                - link [ref=f67e48] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/news/
+                  - text: News
+              - listitem [ref=f67e49]:
+                - link [ref=f67e50] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/lookbooks/
+                  - text: Lookbooks
+              - listitem [ref=f67e51]:
+                - link [ref=f67e52] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/talks/
+                  - text: Talks
+              - listitem [ref=f67e53]:
+                - link [ref=f67e54] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/videos/
+                  - text: Videos
+              - listitem [ref=f67e55]:
+                - link [ref=f67e56] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/podcasts/
+                  - text: Podcasts
+            - list [ref=f67e57]:
+              - listitem [ref=f67e58]:
+                - link [ref=f67e59] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/about/
+                  - text: About
+              - listitem [ref=f67e60]:
+                - link [ref=f67e61] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/comments
+                  - text: Comments
+              - listitem [ref=f67e62]:
+                - link [ref=f67e63] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/newsletters/
+                  - text: Newsletters
+              - listitem [ref=f67e64]:
+                - link [ref=f67e65] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/newsletter-preferences/
+                  - text: Preferences
+              - listitem [ref=f67e66]:
+                - link [ref=f67e67] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/submit-a-story/
+                  - text: Submit a story
+              - listitem [ref=f67e68]:
+                - link [ref=f67e69] [cursor=pointer]:
+                  - /url: /advertise
+                  - text: Advertise
+              - listitem [ref=f67e70]:
+                - link [ref=f67e71] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/privacy-notice/
+                  - text: Privacy notice
+              - listitem [ref=f67e72]:
+                - link [ref=f67e73] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/contact/
+                  - text: Contact
+        - generic [ref=f67e77]:
+          - heading "Dezeen Magazine dezeen-logo dezeen-logo" [level=1] [ref=f67e78]:
+            - link "Dezeen Magazine dezeen-logo dezeen-logo":
+              - /url: /
+              - generic: Dezeen Magazine
+              - img "dezeen-logo" [ref=f67e79] [cursor=pointer]
+              - img "dezeen-logo" [ref=f67e82] [cursor=pointer]
+          - navigation:
+            - link "Simon Weckert creates Digital Camouflage shirt to avoid AI video surveillance":
+              - /url: https://www.dezeen.com/2026/08/25/digital-camouflage-shirt-ai-video-surveillance-simon-weckert/
+            - link "Five standout art installations from Houghton Festival 2026":
+              - /url: https://www.dezeen.com/2026/08/25/houghton-festival-2026-art-installations/
+            - generic:
+              - link "Next story":
+                - /url: https://www.dezeen.com/2026/08/25/houghton-festival-2026-art-installations/
+                - heading "Next story" [level=4]
+          - navigation "Main Navigation" [ref=f67e87]:
+            - complementary "Header search" [ref=f67e88]:
+              - generic: clear
+              - generic [ref=f67e89]:
+                - heading "Follow:" [level=2] [ref=f67e90]
+                - link "Go to Dezeen on Pinterest" [ref=f67e91] [cursor=pointer]:
+                  - /url: https://pinterest.com/dezeen/
+                - link "Go to Dezeen on Instagram" [ref=f67e92] [cursor=pointer]:
+                  - /url: https://www.instagram.com/dezeen/
+                - link "Go to Dezeen on LinkedIn" [ref=f67e93] [cursor=pointer]:
+                  - /url: http://www.linkedin.com/company/dezeen
+                - link "Go to Dezeen on Facebook" [ref=f67e94] [cursor=pointer]:
+                  - /url: https://www.facebook.com/dezeen
+                - link "Follow Dezeen on Twitter" [ref=f67e95] [cursor=pointer]:
+                  - /url: https://twitter.com/intent/follow?screen_name=dezeen
+                - link "Go to Dezeen on Youtube" [ref=f67e96] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCsWG9ANbrmgR0z-eFk_A3YQ?sub_confirmation=1
+            - list [ref=f67e97]:
+              - listitem [ref=f67e98]:
+                - link "Awards" [ref=f67e99] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/awards/
+              - listitem [ref=f67e100]:
+                - link "Jobs" [ref=f67e101] [cursor=pointer]:
+                  - /url: https://www.dezeenjobs.com/
+              - listitem [ref=f67e102]:
+                - link "Events Guide" [ref=f67e103] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/eventsguide/
+              - listitem [ref=f67e104]:
+                - link "Showroom" [ref=f67e105] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/showroom/
+              - listitem [ref=f67e106]:
+                - link "School Shows" [ref=f67e107] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/schoolshows/
+              - listitem [ref=f67e108]:
+                - link "Courses" [ref=f67e109] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/courses/
+              - listitem [ref=f67e110]:
+                - link "Competitions" [ref=f67e111] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/competitions/
+            - list [ref=f67e112]:
+              - listitem [ref=f67e113]:
+                - link "Series" [ref=f67e114] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/editorial-series/
+              - listitem [ref=f67e115]:
+                - link "Interviews" [ref=f67e116] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/interviews/
+              - listitem [ref=f67e117]:
+                - link "Opinion" [ref=f67e118] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/opinion/
+              - listitem [ref=f67e119]:
+                - link "Talks" [ref=f67e120] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/talks/
+              - listitem [ref=f67e121]:
+                - link "Videos" [ref=f67e122] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/videos/
+              - listitem [ref=f67e123]:
+                - link "Newsletters" [ref=f67e124] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/newsletters/
+              - listitem [ref=f67e125]:
+                - link "Podcasts" [ref=f67e126] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/podcasts/dezeenweekly/
+            - list [ref=f67e127]:
+              - listitem [ref=f67e128]:
+                - link "Magazine" [ref=f67e129] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=f67e130]:
+                - link "Architecture" [ref=f67e131] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/architecture/
+              - listitem [ref=f67e132]:
+                - link "Interiors" [ref=f67e133] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/interiors/
+              - listitem [ref=f67e134]:
+                - link "Design" [ref=f67e135] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/design/
+              - listitem [ref=f67e136]:
+                - link "Technology" [ref=f67e137] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/technology/
+        - button "Open menu" [ref=f67e138] [cursor=pointer]
+      - main [ref=f67e141]:
+        - generic [ref=f67e142]:
+          - main [ref=f67e143]:
+            - article [ref=f67e144]:
+              - generic [ref=f67e145]:
+                - figure [ref=f67e146]:
+                  - img "architecture-studios-using-ai-feature" [ref=f67e147]
+                - heading [level=1] [ref=f67e148]:
+                  - link "Big-name studios encouraging architects to use AI" [ref=f67e149] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/
+                - generic [ref=f67e150]:
+                  - generic [ref=f67e151]:
+                    - link "Share on Facebook" [ref=f67e152] [cursor=pointer]:
+                      - /url: https://www.facebook.com/dialog/share?app_id=507209817137444&href=https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/
+                    - link "Share on Twitter" [ref=f67e153] [cursor=pointer]:
+                      - /url: https://twitter.com/intent/tweet?via=dezeen&url=https%3A%2F%2Fwww.dezeen.com%2F2026%2F08%2F25%2Farchitecture-studios-encouraging-ai-feature%2F&text=Big-name%20studios%20encouraging%20architects%20to%20use%20AI
+                    - link "Share on Pinterest" [ref=f67e154] [cursor=pointer]:
+                      - /url: //www.pinterest.com/pin/create/button/
+                    - link "Share on Reddit" [ref=f67e155] [cursor=pointer]:
+                      - /url: http://reddit.com/submit?url=https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/&title=Big-name+studios+encouraging+architects+to+use+AI
+                    - link "Share on LinkedIn" [ref=f67e156] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/&title=Big-name%20studios%20encouraging%20architects%20to%20use%20AI
+                    - link "Share on Tumblr" [ref=f67e157] [cursor=pointer]:
+                      - /url: https://tumblr.com/widgets/share/photo?canonicalUrl=https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/&title=Big-name+studios+encouraging+architects+to+use+AI
+                  - link "Prefer Dezeen on Google" [ref=f67e159] [cursor=pointer]:
+                    - /url: https://www.google.com/preferences/source?q=dezeen.com
+                - generic [ref=f67e167]:
+                  - link "Starr Charles" [ref=f67e168] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/author/starr-charles/
+                  - text: "|"
+                  - link [ref=f67e169] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/08/25/
+                    - time [ref=f67e170]: 25 August 2026
+                  - generic [ref=f67e171] [cursor=pointer]:
+                    - text: "|"
+                    - link "Leave a comment" [ref=f67e172]:
+                      - /url: https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/#disqus_thread
+              - generic [ref=f67e173]:
+                - paragraph [ref=f67e174]:
+                  - text: The world's most prominent architecture studios are embracing
+                  - link "AI" [ref=f67e175] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/ai/
+                  - text: for everything from coming up with designs to project analyses and reports, Dezeen research has found.
+                - paragraph [ref=f67e176]:
+                  - text: Twenty-six leading architecture studios from around the world told Dezeen about their use of artificial intelligence (AI), including
+                  - link "SOM" [ref=f67e177] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/skidmore-owings-and-merrill/
+                  - text: and
+                  - link "Foster + Partners" [ref=f67e178] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/foster-partners/
+                  - text: . A further 27 declined to comment or did not reply when approached.
+                - paragraph [ref=f67e179]: Of the 26 studios that spoke to Dezeen, 25 were not only using AI but actively encouraging it.
+                - paragraph [ref=f67e180]:
+                  - text: Among them are UK firms
+                  - link "ZHA" [ref=f67e181] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/zaha-hadid/
+                  - text: and
+                  - link "Heatherwick Studio" [ref=f67e182] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/thomas-heatherwick/
+                  - text: ", US studio"
+                  - link "HOK" [ref=f67e183] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/hok/
+                  - text: ", Rotterdam-based"
+                  - link "OMA" [ref=f67e184] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/oma/
+                  - text: ", Indian studio"
+                  - link "Morphogenesis" [ref=f67e185] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/morphogenesis/
+                  - text: ", Norwegian studio"
+                  - link "Snøhetta" [ref=f67e186] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/snohetta/
+                  - text: and Chinese studio
+                  - link "MAD" [ref=f67e187] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/mad/
+                  - text: .
+                - paragraph [ref=f67e188]: "\"In the last two years, the computing power and level of sophistication of AI has grown exponentially,\" MAD associate partner Tiffany Dahlen told Dezeen."
+                - paragraph [ref=f67e189]: "\"As designers, we need to embrace the technology and use it just like any other software or skill to be developed,\" she continued."
+                - paragraph [ref=f67e190]: "\"It's pretty obvious that AI is the major technological change today – just like the shift from hand drafting to CAD to Revit – and we need to learn how to use it to our advantage, otherwise we will be left behind.\""
+                - paragraph [ref=f67e191]:
+                  - strong [ref=f67e192]: Studios encouraging "responsible" use of AI
+                - paragraph [ref=f67e193]: "\"HOK actively encourages responsible AI use in all aspects of the firm, in adherence with two complementary firm-wide policies: an AI Authorized Use policy, which specifies how AI may be used, and an AI Governance policy, which defines the ways in which the firm actively manages our AI-related efforts,\" HOK senior principal Matt Breidenthal told Dezeen."
+                - paragraph [ref=f67e194]:
+                  - text: Others struck a more cautious tone, such as Danish architecture firm
+                  - link "CF Møller" [ref=f67e195] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/c-f-moller/
+                  - text: .
+                - paragraph [ref=f67e196]: "\"We are encouraging them to use it, but thoughtfully,\" said studio partner Rune Bjerno Nielsen."
+                - paragraph [ref=f67e197]: "\"Depending on the department or daily role, AI can be less or more beneficial. We try to only use it if it can make an actual impact. Otherwise it gets too expensive, and we also need to look at the environmental impact of data centres.\""
+                - paragraph [ref=f67e198]:
+                  - text: Barcelona-based
+                  - link "Bofill Taller de Arquitectura" [ref=f67e199] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/ricardo-bofill/
+                  - text: was the only studio we approached that is not actively using AI, but did not explain why and did not respond to follow-up questions.
+                - paragraph [ref=f67e200]:
+                  - strong [ref=f67e201]: Claude.ai among favourite AI tools
+                - paragraph [ref=f67e202]:
+                  - text: The
+                  - link "RIBA's now-annual AI survey" [ref=f67e203] [cursor=pointer]:
+                    - /url: https://www.riba.org/work/insights-and-resources/ai-report/
+                  - text: has identified a steady increase in adoption of the technology by UK architecture studios in the past few years – but our research identified which of the world's top studios are using it, and which tools they tend to prefer.
+                - paragraph [ref=f67e204]: A clear favourite among the AI tools being adopted is Claude.ai, a large language model (LLM) built by US company Anthropic, which is being used by 44 per cent of the studios we spoke to.
+                - paragraph [ref=f67e205]: Other popular tools used by the studios include Google's LLM, Gemini, used by eight of the studios, alongside Microsoft Copilot and ChatGPT, each used by 24 per cent of the studios.
+                - paragraph [ref=f67e206]: For image generation, Gemini's Nano Banana proved the most popular, used by seven of 25 the studios. Stable Diffusion and xFigura were also among most-mentioned image generation tools, used by 12 per cent of the studios.
+                - complementary [ref=f67e207]:
+                  - article [ref=f67e208]:
+                    - link [ref=f67e209] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/
+                      - img "Render of Hotel Attaction" [ref=f67e210]
+                      - generic [ref=f67e211]:
+                        - heading "Read:" [level=1] [ref=f67e212]
+                        - heading "Realistic AI architectural renderings must be labelled under EU AI Act" [level=2] [ref=f67e213]
+                - paragraph [ref=f67e214]: A key trend emerging alongside the use of these AI tools is the development of in-house AI systems, favoured for their personalisation and data privacy.
+                - paragraph [ref=f67e215]:
+                  - text: More than half of the studios that told us they are using AI have created in-house systems, including Foster + Partners,
+                  - link "Hassell" [ref=f67e216] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/hassell/
+                  - text: ", Heatherwick Studio,"
+                  - link "MVRDV" [ref=f67e217] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/mvrdv/
+                  - text: ", OMA and"
+                  - link "Gensler" [ref=f67e218] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/gensler/
+                  - text: .
+                - paragraph [ref=f67e219]: Notably, despite enthusiastic adoption of AI at many studios, only 19 confirmed that they have established AI policies.
+                - paragraph [ref=f67e220]:
+                  - text: "\"Yes we do have a policy: we think it's really important to set clear guidelines for responsible use of AI on projects and more widely across our business,\""
+                  - link "Hawkins Brown" [ref=f67e221] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/hawkinsbrown/
+                  - text: COO Alastair Roberts said.
+                - paragraph [ref=f67e222]: "\"The guidelines cover professional integrity issues like accuracy and confidentiality and also wider issues like bias and environmental impact,\" he added."
+                - paragraph [ref=f67e223]: "\"Ultimately we're stressing that AI produces useful inputs for our work – e.g. it can accelerate or automate some processes very effectively – but we are all still responsible as qualified human professionals for what we deliver to our clients.\""
+                - paragraph [ref=f67e224]:
+                  - strong [ref=f67e225]: Data privacy a concern for studios using AI
+                - paragraph [ref=f67e226]: Other studios with policies in place cited data privacy as a primary concern.
+                - paragraph [ref=f67e227]: "\"Our focus is on giving teams clear guidance around both the opportunities and the risks – particularly around data handling – while still allowing room for experimentation,\" ZHA director Nils Fischer and Shajay Bhooshan said."
+                - paragraph [ref=f67e228]: "\"We have developed a formal AI Policy designed to safeguard the practice in relation to data, confidentiality and intellectual property,\" Foster + Partners' Martha Tsigkari and Sherif Eltarabishy told Dezeen."
+                - paragraph [ref=f67e229]: "\"This allows us to work with AI securely at scale.\""
+                - paragraph [ref=f67e230]: At Heatherwick Studio, an AI policy and framework was the second step in its AI strategy, following the creation of an AI working group that assesses the "risks and opportunities" of using AI.
+                - paragraph [ref=f67e231]: "\"One of the first steps in our strategy was delivering on a policy, which really focused on ethical use, transparency and integrity, quality assurance, intellectual property, data privacy, and general user concerns around the technology,\" Heatherwick Studio's director of applied research and AI Pablo Zamorano told Dezeen."
+                - paragraph [ref=f67e232]: Six studios, including MAD, did not report having an AI policy in place, despite encouraging their architects to use the technology.
+                - paragraph [ref=f67e233]: "\"We don't have a formal policy in place yet, but we are encouraging our employees to integrate AI into our daily workflow,\" MAD's Dahlen said."
+                - paragraph [ref=f67e234]:
+                  - strong [ref=f67e235]: AI used to offload "repetitive processes" and administrative tasks
+                - paragraph [ref=f67e236]: Among the studios using AI, outsourcing the repetitive administrative tasks associated with architecture has been a primary aim.
+                - paragraph [ref=f67e237]: In doing so, employees have more time to focus on the creative side of things, said OMA managing partner David Gianotten.
+                - paragraph [ref=f67e238]: "\"What we see today is a growing portion of architectural practice involves verification – tasks that are increasingly logistical, repetitive, and time-consuming, often drawing energy away from design thinking,\" he said."
+                - paragraph [ref=f67e239]: "\"For that reason, we actively encourage our teams to explore AI as a way to reduce these repetitive processes. By offloading administrative and verification tasks, AI allows architects to focus more on observation, critical thinking, and the formulation and development of ideas.\""
+                - paragraph [ref=f67e240]: "\"AI is excellent for streamlining workflows and reducing the time our architects and designers spend on non‑creative tasks,\" corroborated Snøhetta's Mørseth."
+                - complementary [ref=f67e241]:
+                  - article [ref=f67e242]:
+                    - link [ref=f67e243] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/03/11/architects-highly-expose-ai-anthropic-research/
+                      - img "Anthropic exposure study" [ref=f67e244]
+                      - generic [ref=f67e245]:
+                        - heading "Read:" [level=1] [ref=f67e246]
+                        - heading "Architects and engineers among professions most automatable by AI according to Anthropic" [level=2] [ref=f67e247]
+                - paragraph [ref=f67e248]: Beyond administrative tasks, studios are also integrating AI into their design workflows, with responses to Dezeen indicating adoption in every project stage, from inception through to delivery.
+                - paragraph [ref=f67e249]: "\"We have AI tools that can be deployed across the entire project timeline, from conception to post-occupancy,\" Foster + Partners' Tsigkari and Eltarabishy said."
+                - paragraph [ref=f67e250]: Eight studios we spoke to specified using AI for early-stage design development, including HOK.
+                - paragraph [ref=f67e251]: According to the studio's senior principal, this process allows for more iterations in the concept phase – enhancing decision-making and creativity.
+                - paragraph [ref=f67e252]: "\"We've found that these tools can accelerate decision-making and enhance collaboration for a more agile, creative, and insightful design process,\" said HOK's Breidenthal."
+                - paragraph [ref=f67e253]: This is also true for head of digital office at White Arkitekter Peter Leuchovius, who said AI tools have made it easier to test initial ideas in collaboration with clients.
+                - paragraph [ref=f67e254]: "\"We've improved customer dialogue by using generative AI in early-stage design – enabling us to faster visualise ideas, test multiple alternatives, and allow the client to participate more actively in the design work,\" said Leuchovius. \"This has made collaboration faster, more informed, and more engaging.\""
+                - paragraph [ref=f67e255]:
+                  - strong [ref=f67e256]: "\"Making great imagery has never been easier\""
+                - paragraph [ref=f67e257]: Image generation was also among the most-popular tasks being supplemented by AI, reported by 16 of the 25 studios encouraging its use.
+                - paragraph [ref=f67e258]: Typically outsourced to visualisation studios, architectural renderings are increasingly being realised in-house at a fraction of the time and cost with the help of AI tools.
+                - paragraph [ref=f67e259]: This shift, according to principal and head of design at Hassell Xavier De Kestelier, is due to the simplicity of AI interfaces, which he argues allow just about anyone to use them.
+                - paragraph [ref=f67e260]: "\"What AI does is democratise the process, empowering team members who may lack specialist technical rendering skills to produce highly sophisticated, high-end visualisations,\" De Kestelier claimed."
+                - paragraph [ref=f67e261]: "\"Making great imagery has never been easier,\" Snøhetta's Mørseth added."
+                - paragraph [ref=f67e262]: CF Møller estimated that its usage of image editing software Photoshop has fallen 80 per cent as a result of generative AI.
+                - paragraph [ref=f67e263]: Other common uses of AI across the leading studios include project research, analysis and reports, data documentation, and modelling.
+                - paragraph [ref=f67e264]: "\"We use AI and agent-based workflows to streamline labor-intensive coordination tasks such as documentation automation, data cleanup, computational design workflows, long-form document review, and custom software development,\" chief design technology officer at SOM Shane Burger added."
+                - paragraph [ref=f67e265]:
+                  - strong [ref=f67e266]: AI not "creative enough" to replace humans
+                - paragraph [ref=f67e267]: While these AI tools are rapidly superseding existing systems, the studios highlight human creativity as one thing that cannot yet be replaced by technology.
+                - paragraph [ref=f67e268]: "\"We've learned that AI excels at certain tasks, but doesn't pass muster for others,\" said MAD's Dahlen."
+                - paragraph [ref=f67e269]: "\"Sometimes it can be clever and find connections that I hadn't thought about, other times it's just repetitive, inaccurate or not creative enough,\" she continued."
+                - paragraph [ref=f67e270]:
+                  - text: Managing partner at OMA David Gianotten and
+                  - link "White Arkitekter" [ref=f67e271] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/white-arkitekter/
+                  - text: "'s Peter Leuchovius share this sentiment."
+                - paragraph [ref=f67e272]: "\"As a creative practice, we believe AI should enhance creative work rather than replace it,\" Gianotten told Dezeen."
+                - paragraph [ref=f67e273]: "\"AI will never replace human creativity,\" Leuchovius added. \"But handled right, it will for sure amplify it.\""
+                - paragraph [ref=f67e274]:
+                  - emphasis [ref=f67e275]: The top image is courtesy of Snøhetta.
+                - generic [ref=f67e277]:
+                  - text: "Read more:"
+                  - list [ref=f67e278]:
+                    - listitem [ref=f67e279]:
+                      - link "Artificial intelligence (AI)" [ref=f67e280] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/ai/
+                    - listitem [ref=f67e281]:
+                      - link "Architecture" [ref=f67e282] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/architecture/
+                    - listitem [ref=f67e283]:
+                      - link "Features" [ref=f67e284] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/features/
+              - generic [ref=f67e289]:
+                - heading "Subscribe to our newsletters" [level=2] [ref=f67e290]
+                - generic [ref=f67e291]: Your email address
+                - textbox "Your email address" [ref=f67e292]:
+                  - /placeholder: Email*
+                - button "Next" [ref=f67e293] [cursor=pointer]
+              - generic [ref=f67e294]:
+                - complementary [ref=f67e295]:
+                  - heading "Share and comment" [level=2] [ref=f67e296]
+                  - generic [ref=f67e297]:
+                    - link "Share on Facebook" [ref=f67e298] [cursor=pointer]:
+                      - /url: https://www.facebook.com/dialog/share?app_id=507209817137444&href=https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/
+                    - link "Share on Twitter" [ref=f67e299] [cursor=pointer]:
+                      - /url: https://twitter.com/intent/tweet?via=dezeen&url=https%3A%2F%2Fwww.dezeen.com%2F2026%2F08%2F25%2Farchitecture-studios-encouraging-ai-feature%2F&text=Big-name%20studios%20encouraging%20architects%20to%20use%20AI
+                    - link "Share on Pinterest" [ref=f67e300] [cursor=pointer]:
+                      - /url: //www.pinterest.com/pin/create/button/
+                    - link "Share on Reddit" [ref=f67e301] [cursor=pointer]:
+                      - /url: http://reddit.com/submit?url=https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/&title=Big-name+studios+encouraging+architects+to+use+AI
+                    - link "Share on LinkedIn" [ref=f67e302] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/&title=Big-name%20studios%20encouraging%20architects%20to%20use%20AI
+                    - link "Share on Tumblr" [ref=f67e303] [cursor=pointer]:
+                      - /url: https://tumblr.com/widgets/share/photo?canonicalUrl=https://www.dezeen.com/2026/08/25/architecture-studios-encouraging-ai-feature/&title=Big-name+studios+encouraging+architects+to+use+AI
+                  - generic [ref=f67e304]: Leave a comment
+                - complementary [ref=f67e306]:
+                  - heading "More" [level=2] [ref=f67e307]
+                  - list [ref=f67e308]:
+                    - listitem [ref=f67e309]:
+                      - link "Series" [ref=f67e310] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/editorial-series/
+                    - listitem [ref=f67e311]:
+                      - link "Interviews" [ref=f67e312] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/interviews/
+                    - listitem [ref=f67e313]:
+                      - link "Opinion" [ref=f67e314] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/opinion/
+                    - listitem [ref=f67e315]:
+                      - link "Talks" [ref=f67e316] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/talks/
+                    - listitem [ref=f67e317]:
+                      - link "Videos" [ref=f67e318] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/videos/
+                    - listitem [ref=f67e319]:
+                      - link "Newsletters" [ref=f67e320] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/newsletters/
+                    - listitem [ref=f67e321]:
+                      - link "Podcasts" [ref=f67e322] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/podcasts/dezeenweekly/
+                - complementary [ref=f67e323]:
+                  - heading [level=4] [ref=f67e324]:
+                    - link "More features" [ref=f67e325] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/features/
+                  - list:
+                    - listitem [ref=f67e326]:
+                      - link [ref=f67e327] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/07/28/stadium-design-outlandish-heatherwick-foster-gmp-populous/
+                        - figure [ref=f67e328]:
+                          - img "Why stadium design is getting more outlandish" [ref=f67e329]
+                        - paragraph [ref=f67e330]: Why stadium design is getting more outlandish
+                    - listitem [ref=f67e331]:
+                      - link [ref=f67e332] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/07/21/future-stadium-sports-anchored-districts-development/
+                        - figure [ref=f67e333]:
+                          - img "How stadiums are turning into entertainment districts" [ref=f67e334]
+                        - paragraph [ref=f67e335]: How stadiums are turning into entertainment districts
+                    - listitem [ref=f67e336]:
+                      - link [ref=f67e337] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/06/17/gaudi-centenary-impact/
+                        - figure [ref=f67e338]:
+                          - img "Why did Gaudí not have more of an impact on global architecture?" [ref=f67e339]
+                        - paragraph [ref=f67e340]: Why did Gaudí not have more of an impact on global architecture?
+                    - listitem [ref=f67e341]:
+                      - link [ref=f67e342] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/05/21/parametricism-architecture-feature/
+                        - figure [ref=f67e343]:
+                          - img "How parametricism changed architecture but not buildings" [ref=f67e344]
+                        - paragraph [ref=f67e345]: How parametricism changed architecture but not buildings
+                    - listitem [ref=f67e346]:
+                      - link [ref=f67e347] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/04/28/running-super-shoe-timeline-adizero-adios-pro-evo-3/
+                        - figure [ref=f67e348]:
+                          - img "The race to create the ultimate running super shoe" [ref=f67e349]
+                        - paragraph [ref=f67e350]: The race to create the ultimate running super shoe
+                    - listitem [ref=f67e351]:
+                      - link [ref=f67e352] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/04/23/1x-neo-servant-robot-factory/
+                        - figure [ref=f67e353]:
+                          - img "Inside the company building America's first mail-order servant robot" [ref=f67e354]
+                        - paragraph [ref=f67e355]: Inside the company building America's first mail-order ...
+                    - listitem [ref=f67e356]:
+                      - link [ref=f67e357] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/04/22/designer-milan/
+                        - figure [ref=f67e358]:
+                          - img "What's it like to be a designer in Milan today?" [ref=f67e359]
+                        - paragraph [ref=f67e360]: What's it like to be a designer in Milan today?
+                    - listitem [ref=f67e361]:
+                      - link [ref=f67e362] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/04/16/texas-convention-centres-urban-development-mazade/
+                        - figure [ref=f67e363]:
+                          - img "Five Texas cities \"catalyzing\" urban development with convention centres" [ref=f67e364]
+                        - paragraph [ref=f67e365]: Five Texas cities "catalyzing" urban development with ...
+                - complementary "Recommended links" [ref=f67e366]:
+                  - list:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                - complementary [ref=f67e367]:
+                  - heading "Comments" [level=2] [ref=f67e368]
+                  - paragraph [ref=f67e369]:
+                    - link "Visit our comments page" [ref=f67e370] [cursor=pointer]:
+                      - /url: /comments
+                    - text: "|"
+                    - link "Read our comments policy" [ref=f67e371] [cursor=pointer]:
+                      - /url: /dezeens-comments-policy
+          - complementary "sidebar" [ref=f67e372]:
+            - generic [ref=f67e374]:
+              - heading [level=2] [ref=f67e375]:
+                - link "Top architecture stories" [ref=f67e376] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/architecture/
+              - generic [ref=f67e377]:
+                - generic [ref=f67e378]:
+                  - heading [level=2] [ref=f67e379]:
+                    - link "Most popular" [ref=f67e380] [cursor=pointer]:
+                      - /url: "#"
+                  - heading [level=2] [ref=f67e381]:
+                    - link "Most recent" [ref=f67e382] [cursor=pointer]:
+                      - /url: "#"
+                - list [ref=f67e384]:
+                  - listitem [ref=f67e385]:
+                    - generic [ref=f67e386]: "1"
+                    - link "Not A Hotel reveals design for giant Poké Ball guest room in Japan" [ref=f67e387] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/15/poke-ball-themed-hotel-not-a-hotel/
+                  - listitem [ref=f67e388]:
+                    - generic [ref=f67e389]: "2"
+                    - link "Construction of \"Arc de Trump\" set to begin in next two weeks" [ref=f67e390] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/
+                  - listitem [ref=f67e391]:
+                    - generic [ref=f67e392]: "3"
+                    - link "Colar angles home and studio to face surrounding hills in Mexico" [ref=f67e393] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/14/colar-casa-amona-mexico/
+                  - listitem [ref=f67e394]:
+                    - generic [ref=f67e395]: "4"
+                    - link "Gonzalo Bardach balances \"thick walls and filtering planes\" at Casa JR in Argentina" [ref=f67e396] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/14/gonzalo-bardach-casa-jr-argentina/
+                  - listitem [ref=f67e397]:
+                    - generic [ref=f67e398]: "5"
+                    - link "Richard and Su Roger's seminal house in London \"gifted to the nation\"" [ref=f67e399] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/09/22-parkside-richard-su-rogers-national-trust/
+                  - listitem [ref=f67e400]:
+                    - img "Not A Hotel reveals design for giant Poké Ball guest room in Japan" [ref=f67e401]
+                  - listitem [ref=f67e402]:
+                    - img "Construction of" [ref=f67e403]
+                  - listitem [ref=f67e404]:
+                    - img "Colar angles home and studio to face surrounding hills in Mexico" [ref=f67e405]
+                  - listitem [ref=f67e406]:
+                    - img "Gonzalo Bardach balances" [ref=f67e407]
+                  - listitem [ref=f67e408]:
+                    - img "Richard and Su Roger's seminal house in London" [ref=f67e409]
+            - article [ref=f67e410]:
+              - link [ref=f67e411] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/07/16/studio-font-casa-diez-pies-mexico/
+                - heading "Studio Font perches cliffside home in Mexico on inhabitable concrete columns" [level=3] [ref=f67e412]
+                - figure [ref=f67e413]:
+                  - img "Casa Diez Pies by Studio Font" [ref=f67e414]
+            - article [ref=f67e415]:
+              - link [ref=f67e416] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/07/02/open-studio-izakaya-restaurant-dumpling-lamp-singapore/
+                - heading "Open Studio designs izakaya-style restaurant with \"half-dipped dumpling\" lamp" [level=3] [ref=f67e417]
+                - figure [ref=f67e418]:
+                  - img "Red dumpling above yellow seat" [ref=f67e419]
+            - article [ref=f67e420]:
+              - link [ref=f67e421] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/06/17/studio-nrg-nicolas-riano-guerrero-lilium-chair/
+                - heading "Studio NRG designs Lilium Chair out of recycled metal car rims" [level=3] [ref=f67e422]
+                - figure [ref=f67e423]:
+                  - img "Studio NRG" [ref=f67e424]
+            - article [ref=f67e425]:
+              - link [ref=f67e426] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/06/29/fabio-fantolino-looks-to-1960s-offices-for-interior-of-retro-turin-bar/
+                - heading "Fabio Fantolino looks to 1960s offices for interior of retro Turin bar" [level=3] [ref=f67e427]
+                - figure [ref=f67e428]:
+                  - img "Seating area beneath mezzanine" [ref=f67e429]
+            - generic [ref=f67e430]:
+              - heading "Subscribe" [level=2] [ref=f67e431]
+              - generic [ref=f67e434]:
+                - generic [ref=f67e435]:
+                  - img "Subscribe"
+                  - paragraph [ref=f67e436]:
+                    - generic [ref=f67e437]: Subscribe to
+                    - generic [ref=f67e438]: our newsletters
+                - generic [ref=f67e439]:
+                  - generic [ref=f67e440]: Your email address
+                  - textbox "Your email address" [ref=f67e441]:
+                    - /placeholder: Email
+                  - button "Next" [ref=f67e442] [cursor=pointer]
+            - article [ref=f67e443]:
+              - link [ref=f67e444] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/06/09/design-weeks-repair-katie-treggiden-opinion/
+                - heading "\"Design weeks need to start framing repair as aspirational\"" [level=3] [ref=f67e445]
+                - figure [ref=f67e446]:
+                  - img "Design Preowned showroom Copenhagen" [ref=f67e447]
+            - article [ref=f67e448]:
+              - link [ref=f67e449] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/05/13/melike-altinisik-parametricism-interview/
+                - heading "Parametricism \"changed how we think\" as architects says Melike Altınışık" [level=3] [ref=f67e450]
+                - figure [ref=f67e451]:
+                  - img "Melike Altınışık portrait" [ref=f67e452]
+            - generic [ref=f67e454]:
+              - generic [ref=f67e455]:
+                - heading [level=2] [ref=f67e456]:
+                  - link "Popular jobs" [ref=f67e457] [cursor=pointer]:
+                    - /url: "#"
+                - heading [level=2] [ref=f67e458]:
+                  - link "Featured jobs" [ref=f67e459] [cursor=pointer]:
+                    - /url: "#"
+              - list [ref=f67e461]:
+                - listitem [ref=f67e462]:
+                  - generic [ref=f67e463]: "1"
+                  - link "BIM manager at Stanton Williams" [ref=f67e464] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/job/stanton-williams-bim-manager-stanton-williams-1118283/
+                - listitem [ref=f67e465]:
+                  - generic [ref=f67e466]: "2"
+                  - link "Assistant architect, architect or senior architect at Venturi Architects" [ref=f67e467] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/job/venturi-architects-architect-1119863/
+                - listitem [ref=f67e468]:
+                  - generic [ref=f67e469]: "3"
+                  - link "Middleweight interior designer at Lumsden Design" [ref=f67e470] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/job/lumsden-design-middleweight-interior-designer-1119986/
+                - listitem [ref=f67e471]:
+                  - generic [ref=f67e472]: "4"
+                  - link "Part 3 architect at Divercity Architects" [ref=f67e473] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/job/divercity-architects-part-3-architect-533066/
+                - listitem [ref=f67e474]:
+                  - generic [ref=f67e475]: "5"
+                  - link "Part 2 architectural assistant or newly qualified Part 3 architect at Johanna Molineus Architects" [ref=f67e476] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/job/johanna-molineus-architects-part-2-architectural-assistant-or-newly-qualified-part-3-architect-1119718/
+                - listitem [ref=f67e477]:
+                  - img "BIM manager at Stanton Williams" [ref=f67e478]
+                - listitem [ref=f67e479]:
+                  - img "Assistant architect, architect or senior architect at Venturi Architects" [ref=f67e480]
+                - listitem [ref=f67e481]:
+                  - img "Middleweight interior designer at Lumsden Design" [ref=f67e482]
+                - listitem [ref=f67e483]:
+                  - img "Part 3 architect at Divercity Architects" [ref=f67e484]
+                - listitem [ref=f67e485]:
+                  - img "Part 2 architectural assistant or newly qualified Part 3 architect at Johanna Molineus Architects" [ref=f67e486]
+            - article [ref=f67e487]:
+              - link [ref=f67e488] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/06/06/colourful-tapware-lookbook/
+                - heading "Eight interiors with colourful tapware that puts the fun in functional" [level=3] [ref=f67e489]
+                - figure [ref=f67e490]:
+                  - img "Bathroom with red tap" [ref=f67e491]
+            - article [ref=f67e492]:
+              - link [ref=f67e493] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/06/28/curved-brick-buildings-roundup/
+                - heading "Eight imaginative buildings with curving brickwork" [level=3] [ref=f67e494]
+                - figure [ref=f67e495]:
+                  - img "Twisted Brick Shell Library by HCCH Studio" [ref=f67e496]
+            - article [ref=f67e498]:
+              - link [ref=f67e499] [cursor=pointer]:
+                - /url: https://www.dezeen.com/eventsguide/
+                - heading "Dezeen Events Guide" [level=3] [ref=f67e500]
+                - figure [ref=f67e501]:
+                  - img "Photo of person walking through an installation" [ref=f67e502]
+            - article [ref=f67e503]:
+              - link [ref=f67e504] [cursor=pointer]:
+                - /url: https://www.dezeenjobs.com
+                - heading "Dezeen Jobs" [level=3] [ref=f67e505]
+                - figure [ref=f67e506]
+        - complementary "Highlights Carousel Bottom" [ref=f67e508]:
+          - complementary [ref=f67e509]:
+            - button "Show previous highlights" [ref=f67e510] [cursor=pointer]
+            - button "Show next highlights" [ref=f67e513] [cursor=pointer]
+            - heading [level=2] [ref=f67e516]:
+              - link "Highlights" [ref=f67e517] [cursor=pointer]:
+                - /url: https://www.dezeen.com/highlights/
+            - list [ref=f67e518]:
+              - listitem [ref=f67e519]:
+                - link "Read more about World Trade Center buildings" [ref=f67e520] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/
+                  - figure [ref=f67e521]:
+                    - img "Perelman" [ref=f67e522]
+                  - generic [aria-hidden] [ref=f67e523]:
+                    - paragraph [ref=f67e525]
+                    - paragraph [ref=f67e527]
+                - generic [ref=f67e528]:
+                  - link "Read more about World Trade Center buildings":
+                    - /url: https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/
+                  - group "main category" [ref=f67e529]:
+                    - link "Read more about World Trade Center buildings":
+                      - /url: https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/
+                    - link "World Trade Center" [ref=f67e530] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/tag/world-trade-center/
+                  - group "carousel title" [ref=f67e531]:
+                    - link "World Trade Center buildings" [ref=f67e532] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/
+              - listitem [ref=f67e533]:
+                - link "Read more about Read Dezeen Dispatch online!" [ref=f67e534] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+                  - figure [ref=f67e535]:
+                    - img "London Design Festival Dezeen Dispatch" [ref=f67e536]
+                  - generic [aria-hidden] [ref=f67e537]:
+                    - paragraph [ref=f67e539]
+                    - paragraph [ref=f67e541]
+                - generic [ref=f67e542]:
+                  - link "Read more about Read Dezeen Dispatch online!":
+                    - /url: https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+                  - group "main category" [ref=f67e543]:
+                    - link "Read more about Read Dezeen Dispatch online!":
+                      - /url: https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+                    - link "London Design Festival" [ref=f67e544] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/tag/london-design-festival/
+                  - group "carousel title" [ref=f67e545]:
+                    - link "Read Dezeen Dispatch online!" [ref=f67e546] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+              - listitem [ref=f67e547]:
+                - link "Read more about Grand Palais flower sculpture" [ref=f67e548] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/2026/09/11/le-grand-bouquet-uchronia-grand-palais-paris-design-week/
+                  - figure [ref=f67e549]:
+                    - img "Le Grand Bouquet installation by Unchronia at the Grand Palais for Paris Design Week" [ref=f67e550]
+                  - generic [aria-hidden] [ref=f67e551]:
+                    - paragraph [ref=f67e553]
+                    - paragraph [ref=f67e555]
+                - generic [ref=f67e556]:
+                  - link "Read more about Grand Palais flower sculpture":
+                    - /url: https://www.dezeen.com/2026/09/11/le-grand-bouquet-uchronia-grand-palais-paris-design-week/
+                  - group "main category" [ref=f67e557]:
+                    - link "Read more about Grand Palais flower sculpture":
+                      - /url: https://www.dezeen.com/2026/09/11/le-grand-bouquet-uchronia-grand-palais-paris-design-week/
+                    - link "Paris Design Week" [ref=f67e558] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/tag/paris-design-week/
+                  - group "carousel title" [ref=f67e559]:
+                    - link "Grand Palais flower sculpture" [ref=f67e560] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/11/le-grand-bouquet-uchronia-grand-palais-paris-design-week/
+              - listitem [ref=f67e561]:
+                - link "Read more about Twin Towers drone recreation" [ref=f67e562] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/
+                  - figure [ref=f67e563]:
+                    - img "Drift drones Twin Towers commemoration" [ref=f67e564]
+                  - generic [aria-hidden] [ref=f67e565]:
+                    - paragraph [ref=f67e567]
+                    - paragraph [ref=f67e569]
+                - generic [ref=f67e570]:
+                  - link "Read more about Twin Towers drone recreation":
+                    - /url: https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/
+                  - group "main category" [ref=f67e571]:
+                    - link "Read more about Twin Towers drone recreation":
+                      - /url: https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/
+                    - link "Drones" [ref=f67e572] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/tag/drones/
+                  - group "carousel title" [ref=f67e573]:
+                    - link "Twin Towers drone recreation" [ref=f67e574] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/
+    - contentinfo [ref=f67e575]:
+      - navigation [ref=f67e576]:
+        - list [ref=f67e577]:
+          - listitem [ref=f67e578]:
+            - link "Newsletters" [ref=f67e579] [cursor=pointer]:
+              - /url: https://www.dezeen.com/newsletters/
+          - listitem [ref=f67e580]:
+            - link "Comments" [ref=f67e581] [cursor=pointer]:
+              - /url: https://www.dezeen.com/comments/
+          - listitem [ref=f67e582]:
+            - link "Submit a story" [ref=f67e583] [cursor=pointer]:
+              - /url: https://10.10.116.48/submit-a-story/
+          - listitem [ref=f67e584]:
+            - link "Advertise" [ref=f67e585] [cursor=pointer]:
+              - /url: /advertise
+          - listitem [ref=f67e586]:
+            - link "Privacy notice" [ref=f67e587] [cursor=pointer]:
+              - /url: https://10.10.116.48/privacy-notice/
+          - listitem [ref=f67e588]:
+            - link "Contact" [ref=f67e589] [cursor=pointer]:
+              - /url: https://10.10.116.48/contact/
+        - list [ref=f67e590]:
+          - listitem [ref=f67e591]:
+            - link "Series" [ref=f67e592] [cursor=pointer]:
+              - /url: https://www.dezeen.com/editorial-series/
+          - listitem [ref=f67e593]:
+            - link "Interviews" [ref=f67e594] [cursor=pointer]:
+              - /url: https://www.dezeen.com/interviews/
+          - listitem [ref=f67e595]:
+            - link "Opinion" [ref=f67e596] [cursor=pointer]:
+              - /url: https://10.10.116.48/opinion/
+          - listitem [ref=f67e597]:
+            - link "Talks" [ref=f67e598] [cursor=pointer]:
+              - /url: https://10.10.116.48/talks/
+          - listitem [ref=f67e599]:
+            - link "Videos" [ref=f67e600] [cursor=pointer]:
+              - /url: https://10.10.116.48/videos/
+        - list [ref=f67e601]:
+          - listitem [ref=f67e602]:
+            - link "Architecture" [ref=f67e603] [cursor=pointer]:
+              - /url: https://10.10.116.48/architecture/
+          - listitem [ref=f67e604]:
+            - link "Interiors" [ref=f67e605] [cursor=pointer]:
+              - /url: https://10.10.116.48/interiors/
+          - listitem [ref=f67e606]:
+            - link "Design" [ref=f67e607] [cursor=pointer]:
+              - /url: https://10.10.116.48/design/
+          - listitem [ref=f67e608]:
+            - link "Technology" [ref=f67e609] [cursor=pointer]:
+              - /url: https://www.dezeen.com/technology/
+        - list [ref=f67e610]:
+          - listitem [ref=f67e611]:
+            - link "Magazine" [ref=f67e612] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f67e613]:
+            - link "Awards" [ref=f67e614] [cursor=pointer]:
+              - /url: /awards
+          - listitem [ref=f67e615]:
+            - link "Jobs" [ref=f67e616] [cursor=pointer]:
+              - /url: http://dezeenjobs.com/
+          - listitem [ref=f67e617]:
+            - link "Events Guide" [ref=f67e618] [cursor=pointer]:
+              - /url: /eventsguide
+          - listitem [ref=f67e619]:
+            - link "Showroom" [ref=f67e620] [cursor=pointer]:
+              - /url: https://www.dezeen.com/showroom/
+          - listitem [ref=f67e621]:
+            - link "School Shows" [ref=f67e622] [cursor=pointer]:
+              - /url: https://www.dezeen.com/schoolshows
+          - listitem [ref=f67e623]:
+            - link "Courses" [ref=f67e624] [cursor=pointer]:
+              - /url: https://www.dezeen.com/courses/
+    - complementary "Newsletter signup"

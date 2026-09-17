@@ -1,0 +1,543 @@
+- generic [ref=f511e2]:
+  - banner [ref=f511e4]:
+    - generic [ref=f511e6]:
+      - generic [ref=f511e7]:
+        - button "Guide" [ref=f511e9] [cursor=pointer]
+        - generic [ref=f511e11]:
+          - link "YouTube Home" [ref=f511e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f511e16]: IN
+        - button "Skip navigation" [ref=f511e20] [cursor=pointer]
+      - generic [ref=f511e24]:
+        - search [ref=f511e25]:
+          - generic [ref=f511e27]:
+            - combobox "Search" [expanded] [ref=f511e30]
+            - button "Search" [ref=f511e31] [cursor=pointer]
+        - generic [ref=f511e34]:
+          - button "Search with your voice" [ref=f511e36] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f511e41]:
+        - button "Settings" [ref=f511e46] [cursor=pointer]
+        - link "Sign in" [ref=f511e50] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%2540salmaanarchitect%252Fvideos&hl=en-GB&ec=65620
+  - navigation [ref=f511e54]
+  - main [ref=f511e56]:
+    - generic [ref=f511e63]:
+      - generic [ref=f511e79]:
+        - heading "Salmaan Mohamed" [level=1] [ref=f511e81]
+        - generic [ref=f511e82]:
+          - group [ref=f511e83]:
+            - generic [ref=f511e84]: "@salmaanarchitect"
+          - generic [aria-hidden] [ref=f511e85]: •
+          - group [ref=f511e86]:
+            - generic "103 thousand subscribers" [ref=f511e87]: 103k subscribers
+            - generic [aria-hidden] [ref=f511e88]: •
+            - generic [ref=f511e89]: 440 videos
+        - generic [ref=f511e91] [cursor=pointer]:
+          - generic [ref=f511e92]: Architecture isn’t just built, it’s visualized.
+          - button "Description. Architecture isn’t just built, it’s visualized.…tap for more." [ref=f511e93]:
+            - generic [ref=f511e94]: ...more
+        - generic [ref=f511e95]:
+          - link [ref=f511e98] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljSGpBY2VHQTV6TTJwMUZoeFZJSXRDUnxBTl9pYzRlbHJqS203Zl90aEVnT2RmSnBrN1R1SUZ6YnNxclZpVkJSVWs5UHI2U0FCUXJiV1FiOHdwcVRJemtCQklneEdJWUIxZVJzQkZKd0ZSTnBIMkhVbERwSXNsODNGX0xW&q=https%3A%2F%2Fwww.instagram.com%2Fsalmaan.arch%2F
+          - button "and 3 more links" [ref=f511e103] [cursor=pointer]
+        - generic [ref=f511e104]:
+          - button "Subscribe" [ref=f511e107] [cursor=pointer]
+          - button "Join this channel" [ref=f511e113] [cursor=pointer]:
+            - generic: Join
+          - link "Community" [ref=f511e119] [cursor=pointer]:
+            - /url: /@salmaanarchitect/community
+      - tablist [ref=f511e126]:
+        - tablist [ref=f511e130]:
+          - tab "Home" [ref=f511e131] [cursor=pointer]
+          - tab "Videos" [selected] [ref=f511e133] [cursor=pointer]
+          - tab "Shorts" [ref=f511e135] [cursor=pointer]
+          - tab "Playlists" [ref=f511e137] [cursor=pointer]
+          - tab "Posts" [ref=f511e139] [cursor=pointer]
+          - button "Search" [ref=f511e144] [cursor=pointer]
+    - generic [ref=f511e150]:
+      - tablist [ref=f511e153]:
+        - tab "Latest" [selected] [ref=f511e156] [cursor=pointer]
+        - tab "Popular" [ref=f511e161] [cursor=pointer]
+        - tab "Oldest" [ref=f511e166] [cursor=pointer]
+      - generic [ref=f511e169]:
+        - generic [ref=f511e173] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e174]:
+            - /url: /watch?v=9kU6FT7ldZs
+            - img [ref=f511e180]:
+              - generic [ref=f511e181]: 12:25
+          - generic [ref=f511e183]:
+            - generic [ref=f511e184]:
+              - heading "I Finally Found an AI CAD Tool Architects Can Actually Use | Synaps Tutorial" [level=3] [ref=f511e185]:
+                - link "I Finally Found an AI CAD Tool Architects Can Actually Use | Synaps Tutorial 12 minutes, 25 seconds" [ref=f511e186]:
+                  - /url: /watch?v=9kU6FT7ldZs
+                  - text: I Finally Found an AI CAD Tool Architects Can Actually Use | Synaps Tutorial
+              - group [ref=f511e189]:
+                - generic [ref=f511e190]: 22k views
+                - generic [aria-hidden] [ref=f511e191]: •
+                - generic "1 day ago" [ref=f511e192]
+            - button "More actions" [ref=f511e195]
+        - generic [ref=f511e202] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e203]:
+            - /url: /watch?v=eKKpqMowytA
+            - img [ref=f511e209]:
+              - generic [ref=f511e210]: 8:12
+          - generic [ref=f511e212]:
+            - generic [ref=f511e213]:
+              - heading "GPT-6 Astra Can Now Build Architectural 3D Models" [level=3] [ref=f511e214]:
+                - link "GPT-6 Astra Can Now Build Architectural 3D Models 8 minutes, 12 seconds" [ref=f511e215]:
+                  - /url: /watch?v=eKKpqMowytA
+                  - text: GPT-6 Astra Can Now Build Architectural 3D Models
+              - group [ref=f511e218]:
+                - generic [ref=f511e219]: 247k views
+                - generic [aria-hidden] [ref=f511e220]: •
+                - generic "7 days ago" [ref=f511e221]
+            - button "More actions" [ref=f511e224]
+        - generic [ref=f511e231] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e232]:
+            - /url: /watch?v=NrrVn7zy_lI&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f511e238]:
+              - generic [ref=f511e239]: 16:00
+          - generic [ref=f511e241]:
+            - generic [ref=f511e242]:
+              - heading "The Truth About My Journey to 100K as an Architect" [level=3] [ref=f511e243]:
+                - link "The Truth About My Journey to 100K as an Architect 16 minutes" [ref=f511e244]:
+                  - /url: /watch?v=NrrVn7zy_lI&pp=0gcJCSQMAYcqIYzv
+                  - text: The Truth About My Journey to 100K as an Architect
+              - group [ref=f511e247]:
+                - generic [ref=f511e248]: 2.1k views
+                - generic [aria-hidden] [ref=f511e249]: •
+                - generic "9 days ago" [ref=f511e250]
+            - button "More actions" [ref=f511e253]
+        - generic [ref=f511e260] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e261]:
+            - /url: /watch?v=7bxJcReBMHo
+            - img [ref=f511e267]:
+              - generic [ref=f511e268]: 8:35
+          - generic [ref=f511e270]:
+            - generic [ref=f511e271]:
+              - 'heading "Seedance 2.5: 4 Use Cases Every Architect Should Know | @Lovart AI" [level=3] [ref=f511e272]':
+                - 'link "Seedance 2.5: 4 Use Cases Every Architect Should Know | @Lovart AI 8 minutes, 35 seconds" [ref=f511e273]':
+                  - /url: /watch?v=7bxJcReBMHo
+                  - text: "Seedance 2.5: 4 Use Cases Every Architect Should Know | @Lovart AI"
+              - group [ref=f511e276]:
+                - generic [ref=f511e277]: 6.3k views
+                - generic [aria-hidden] [ref=f511e278]: •
+                - generic "1 month ago" [ref=f511e279]
+            - button "More actions" [ref=f511e282]
+        - generic [ref=f511e289] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e290]:
+            - /url: /watch?v=nZHa3Si9CSE&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f511e296]:
+              - generic [ref=f511e297]: 5:56
+          - generic [ref=f511e299]:
+            - generic [ref=f511e300]:
+              - heading "Create Architectural Motion Diagrams with AI in Minutes | No After Effects" [level=3] [ref=f511e301]:
+                - link "Create Architectural Motion Diagrams with AI in Minutes | No After Effects 5 minutes, 56 seconds" [ref=f511e302]:
+                  - /url: /watch?v=nZHa3Si9CSE&pp=0gcJCSQMAYcqIYzv
+                  - text: Create Architectural Motion Diagrams with AI in Minutes | No After Effects
+              - group [ref=f511e305]:
+                - generic [ref=f511e306]: 5.3k views
+                - generic [aria-hidden] [ref=f511e307]: •
+                - generic "1 month ago" [ref=f511e308]
+            - button "More actions" [ref=f511e311]
+        - generic [ref=f511e318] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e319]:
+            - /url: /watch?v=FGJ1RpAXsxA
+            - img [ref=f511e325]:
+              - generic [ref=f511e326]: 7:52
+          - generic [ref=f511e328]:
+            - generic [ref=f511e329]:
+              - heading "Turn AutoCAD Floor Plans into Stunning AI Renders" [level=3] [ref=f511e330]:
+                - link "Turn AutoCAD Floor Plans into Stunning AI Renders 7 minutes, 52 seconds" [ref=f511e331]:
+                  - /url: /watch?v=FGJ1RpAXsxA
+                  - text: Turn AutoCAD Floor Plans into Stunning AI Renders
+              - group [ref=f511e334]:
+                - generic [ref=f511e335]: 7.5k views
+                - generic [aria-hidden] [ref=f511e336]: •
+                - generic "1 month ago" [ref=f511e337]
+            - button "More actions" [ref=f511e340]
+        - generic [ref=f511e347] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e348]:
+            - /url: /watch?v=KvV4pMdfuP0
+            - img [ref=f511e354]:
+              - generic [ref=f511e355]: 15:05
+          - generic [ref=f511e357]:
+            - generic [ref=f511e358]:
+              - heading "This Handheld Scanner Turns Entire Buildings Into 3D Models | Share C1" [level=3] [ref=f511e359]:
+                - link "This Handheld Scanner Turns Entire Buildings Into 3D Models | Share C1 15 minutes" [ref=f511e360]:
+                  - /url: /watch?v=KvV4pMdfuP0
+                  - text: This Handheld Scanner Turns Entire Buildings Into 3D Models | Share C1
+              - group [ref=f511e363]:
+                - generic [ref=f511e364]: 2.2k views
+                - generic [aria-hidden] [ref=f511e365]: •
+                - generic "1 month ago" [ref=f511e366]
+            - button "More actions" [ref=f511e369]
+        - generic [ref=f511e376] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e377]:
+            - /url: /watch?v=ckR6Hn8HS7U
+            - img [ref=f511e383]:
+              - generic [ref=f511e384]: 8:02
+          - generic [ref=f511e386]:
+            - generic [ref=f511e387]:
+              - heading "8 Photoshop Tricks Architects NEED to Know in 2026" [level=3] [ref=f511e388]:
+                - link "8 Photoshop Tricks Architects NEED to Know in 2026 8 minutes, 2 seconds" [ref=f511e389]:
+                  - /url: /watch?v=ckR6Hn8HS7U
+                  - text: 8 Photoshop Tricks Architects NEED to Know in 2026
+              - group [ref=f511e392]:
+                - generic [ref=f511e393]: 12k views
+                - generic [aria-hidden] [ref=f511e394]: •
+                - generic "2 months ago" [ref=f511e395]
+            - button "More actions" [ref=f511e398]
+        - generic [ref=f511e405] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e406]:
+            - /url: /watch?v=QyqPS1pQ8jU
+            - img [ref=f511e412]:
+              - generic [ref=f511e413]: 8:39
+          - generic [ref=f511e415]:
+            - generic [ref=f511e416]:
+              - heading "5 Underrated AI Workflows for Urban Design (That Actually Work)" [level=3] [ref=f511e417]:
+                - link "5 Underrated AI Workflows for Urban Design (That Actually Work) 8 minutes, 39 seconds" [ref=f511e418]:
+                  - /url: /watch?v=QyqPS1pQ8jU
+                  - text: 5 Underrated AI Workflows for Urban Design (That Actually Work)
+              - group [ref=f511e421]:
+                - generic [ref=f511e422]: 4.2k views
+                - generic [aria-hidden] [ref=f511e423]: •
+                - generic "2 months ago" [ref=f511e424]
+            - button "More actions" [ref=f511e427]
+        - generic [ref=f511e434] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e435]:
+            - /url: /watch?v=eSjl16lz8a8
+            - img [ref=f511e441]:
+              - generic [ref=f511e442]: 8:09
+          - generic [ref=f511e444]:
+            - generic [ref=f511e445]:
+              - heading "5 Architectural Diagrams You Can Create with ChatGPT WITH PROMPTS" [level=3] [ref=f511e446]:
+                - link "5 Architectural Diagrams You Can Create with ChatGPT WITH PROMPTS 8 minutes, 9 seconds" [ref=f511e447]:
+                  - /url: /watch?v=eSjl16lz8a8
+                  - text: 5 Architectural Diagrams You Can Create with ChatGPT WITH PROMPTS
+              - group [ref=f511e450]:
+                - generic [ref=f511e451]: 7.5k views
+                - generic [aria-hidden] [ref=f511e452]: •
+                - generic "3 months ago" [ref=f511e453]
+            - button "More actions" [ref=f511e456]
+        - generic [ref=f511e463] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e464]:
+            - /url: /watch?v=CTiVGcHm8tI
+            - img [ref=f511e470]:
+              - generic [ref=f511e471]: 7:54
+          - generic [ref=f511e473]:
+            - generic [ref=f511e474]:
+              - heading "From Screenshot to DRONE Video in 2 Minutes for FREE | Google OMNI FULL TUTORIAL 🔥" [level=3] [ref=f511e475]:
+                - link "From Screenshot to DRONE Video in 2 Minutes for FREE | Google OMNI FULL TUTORIAL 🔥 7 minutes, 54 seconds" [ref=f511e476]:
+                  - /url: /watch?v=CTiVGcHm8tI
+                  - text: From Screenshot to DRONE Video in 2 Minutes for FREE | Google OMNI FULL TUTORIAL 🔥
+              - group [ref=f511e479]:
+                - generic [ref=f511e480]: 21k views
+                - generic [aria-hidden] [ref=f511e481]: •
+                - generic "3 months ago" [ref=f511e482]
+            - button "More actions" [ref=f511e485]
+        - generic [ref=f511e492] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e493]:
+            - /url: /watch?v=i1_7ideWU8c&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f511e499]:
+              - generic [ref=f511e500]: 12:22
+          - generic [ref=f511e502]:
+            - generic [ref=f511e503]:
+              - 'heading "AI Architecture Animation Tutorial: Transforming a Neglected River with Lovart 🔥" [level=3] [ref=f511e504]':
+                - 'link "AI Architecture Animation Tutorial: Transforming a Neglected River with Lovart 🔥 12 minutes, 22 seconds" [ref=f511e505]':
+                  - /url: /watch?v=i1_7ideWU8c&pp=0gcJCSQMAYcqIYzv
+                  - text: "AI Architecture Animation Tutorial: Transforming a Neglected River with Lovart 🔥"
+              - group [ref=f511e508]:
+                - generic [ref=f511e509]: 3.3k views
+                - generic [aria-hidden] [ref=f511e510]: •
+                - generic "3 months ago" [ref=f511e511]
+            - button "More actions" [ref=f511e514]
+        - generic [ref=f511e521] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e522]:
+            - /url: /watch?v=POsaBs5AusA&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f511e528]:
+              - generic [ref=f511e529]: 8:40
+          - generic [ref=f511e531]:
+            - generic [ref=f511e532]:
+              - heading "5 AI Workflows Every Interior Designer Should Try" [level=3] [ref=f511e533]:
+                - link "5 AI Workflows Every Interior Designer Should Try 8 minutes, 40 seconds" [ref=f511e534]:
+                  - /url: /watch?v=POsaBs5AusA&pp=0gcJCSQMAYcqIYzv
+                  - text: 5 AI Workflows Every Interior Designer Should Try
+              - group [ref=f511e537]:
+                - generic [ref=f511e538]: 24k views
+                - generic [aria-hidden] [ref=f511e539]: •
+                - generic "3 months ago" [ref=f511e540]
+            - button "More actions" [ref=f511e543]
+        - generic [ref=f511e550] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e551]:
+            - /url: /watch?v=mQSDIDPROm4
+            - img [ref=f511e557]:
+              - generic [ref=f511e558]: 7:29
+          - generic [ref=f511e560]:
+            - generic [ref=f511e561]:
+              - heading "4 AI Techniques That Improve Architectural Workflows" [level=3] [ref=f511e562]:
+                - link "4 AI Techniques That Improve Architectural Workflows 7 minutes, 29 seconds" [ref=f511e563]:
+                  - /url: /watch?v=mQSDIDPROm4
+                  - text: 4 AI Techniques That Improve Architectural Workflows
+              - group [ref=f511e566]:
+                - generic [ref=f511e567]: 25k views
+                - generic [aria-hidden] [ref=f511e568]: •
+                - generic "3 months ago" [ref=f511e569]
+            - button "More actions" [ref=f511e572]
+        - generic [ref=f511e579] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e580]:
+            - /url: /watch?v=No4mo0ZKA5Q
+            - img [ref=f511e586]:
+              - generic [ref=f511e587]: 10:13
+          - generic [ref=f511e589]:
+            - generic [ref=f511e590]:
+              - heading "Text to 3D in SketchUp? I Tested Claude AI So You Don’t Have To" [level=3] [ref=f511e591]:
+                - link "Text to 3D in SketchUp? I Tested Claude AI So You Don’t Have To 10 minutes, 13 seconds" [ref=f511e592]:
+                  - /url: /watch?v=No4mo0ZKA5Q
+                  - text: Text to 3D in SketchUp? I Tested Claude AI So You Don’t Have To
+              - group [ref=f511e595]:
+                - generic [ref=f511e596]: 11k views
+                - generic [aria-hidden] [ref=f511e597]: •
+                - generic "4 months ago" [ref=f511e598]
+            - button "More actions" [ref=f511e601]
+        - generic [ref=f511e608] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e609]:
+            - /url: /watch?v=YXHkjqoGmHg
+            - img [ref=f511e615]:
+              - generic [ref=f511e616]: 9:39
+          - generic [ref=f511e618]:
+            - generic [ref=f511e619]:
+              - heading "Claude AI for Architects | 6 Ways to Use It in Your Design Practice" [level=3] [ref=f511e620]:
+                - link "Claude AI for Architects | 6 Ways to Use It in Your Design Practice 9 minutes, 39 seconds" [ref=f511e621]:
+                  - /url: /watch?v=YXHkjqoGmHg
+                  - text: Claude AI for Architects | 6 Ways to Use It in Your Design Practice
+              - group [ref=f511e624]:
+                - generic [ref=f511e625]: 103k views
+                - generic [aria-hidden] [ref=f511e626]: •
+                - generic "4 months ago" [ref=f511e627]
+            - button "More actions" [ref=f511e630]
+        - generic [ref=f511e637] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e638]:
+            - /url: /watch?v=MDYYLhX1rlU
+            - img [ref=f511e644]:
+              - generic [ref=f511e645]: 14:11
+          - generic [ref=f511e647]:
+            - generic [ref=f511e648]:
+              - heading "The Fastest Way to Render Floor Plans in 2026 | Bildigo Review" [level=3] [ref=f511e649]:
+                - link "The Fastest Way to Render Floor Plans in 2026 | Bildigo Review 14 minutes, 11 seconds" [ref=f511e650]:
+                  - /url: /watch?v=MDYYLhX1rlU
+                  - text: The Fastest Way to Render Floor Plans in 2026 | Bildigo Review
+              - group [ref=f511e653]:
+                - generic [ref=f511e654]: 5.7k views
+                - generic [aria-hidden] [ref=f511e655]: •
+                - generic "4 months ago" [ref=f511e656]
+            - button "More actions" [ref=f511e659]
+        - generic [ref=f511e666] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e667]:
+            - /url: /watch?v=53C0NrgeRz4&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f511e673]:
+              - generic [ref=f511e674]: 10:47
+          - generic [ref=f511e676]:
+            - generic [ref=f511e677]:
+              - heading "I Found a Way to Control AI Renders Nobody Is Talking About | JSON Prompt for Architecture" [level=3] [ref=f511e678]:
+                - link "I Found a Way to Control AI Renders Nobody Is Talking About | JSON Prompt for Architecture 10 minutes, 47 seconds" [ref=f511e679]:
+                  - /url: /watch?v=53C0NrgeRz4&pp=0gcJCSQMAYcqIYzv
+                  - text: I Found a Way to Control AI Renders Nobody Is Talking About | JSON Prompt for Architecture
+              - group [ref=f511e682]:
+                - generic [ref=f511e683]: 47k views
+                - generic [aria-hidden] [ref=f511e684]: •
+                - generic "5 months ago" [ref=f511e685]
+            - button "More actions" [ref=f511e688]
+        - generic [ref=f511e695] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e696]:
+            - /url: /watch?v=D58XyZQp7gA
+            - img [ref=f511e702]:
+              - generic [ref=f511e703]: 11:34
+          - generic [ref=f511e705]:
+            - generic [ref=f511e706]:
+              - heading "The SECRET Workflows to Convert ANY Image to 3D | Hitem3D Review" [level=3] [ref=f511e707]:
+                - link "The SECRET Workflows to Convert ANY Image to 3D | Hitem3D Review 11 minutes, 34 seconds" [ref=f511e708]:
+                  - /url: /watch?v=D58XyZQp7gA
+                  - text: The SECRET Workflows to Convert ANY Image to 3D | Hitem3D Review
+              - group [ref=f511e711]:
+                - generic [ref=f511e712]: 1.3m views
+                - generic [aria-hidden] [ref=f511e713]: •
+                - generic "5 months ago" [ref=f511e714]
+            - button "More actions" [ref=f511e717]
+        - generic [ref=f511e724] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e725]:
+            - /url: /watch?v=9aHcHyJSsbE
+            - img [ref=f511e731]:
+              - generic [ref=f511e732]: 13:30
+          - generic [ref=f511e734]:
+            - generic [ref=f511e735]:
+              - heading "THIS Software Should be your FIRST Choice in 2026 | D5 Render" [level=3] [ref=f511e736]:
+                - link "THIS Software Should be your FIRST Choice in 2026 | D5 Render 13 minutes, 30 seconds" [ref=f511e737]:
+                  - /url: /watch?v=9aHcHyJSsbE
+                  - text: THIS Software Should be your FIRST Choice in 2026 | D5 Render
+              - group [ref=f511e740]:
+                - generic [ref=f511e741]: 8.1k views
+                - generic [aria-hidden] [ref=f511e742]: •
+                - generic "6 months ago" [ref=f511e743]
+            - button "More actions" [ref=f511e746]
+        - generic [ref=f511e753] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e754]:
+            - /url: /watch?v=o4szgfVhI3U
+            - img [ref=f511e760]:
+              - generic [ref=f511e761]: 10:49
+          - generic [ref=f511e763]:
+            - generic [ref=f511e764]:
+              - heading "Nano Banana 2 Explained in 10 Minutes | EVERYTHING YOU SHOULD KNOW" [level=3] [ref=f511e765]:
+                - link "Nano Banana 2 Explained in 10 Minutes | EVERYTHING YOU SHOULD KNOW 10 minutes, 49 seconds" [ref=f511e766]:
+                  - /url: /watch?v=o4szgfVhI3U
+                  - text: Nano Banana 2 Explained in 10 Minutes | EVERYTHING YOU SHOULD KNOW
+              - group [ref=f511e769]:
+                - generic [ref=f511e770]: 55k views
+                - generic [aria-hidden] [ref=f511e771]: •
+                - generic "6 months ago" [ref=f511e772]
+            - button "More actions" [ref=f511e775]
+        - generic [ref=f511e782] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e783]:
+            - /url: /watch?v=oLTaHlsJuY4
+            - img [ref=f511e789]:
+              - generic [ref=f511e790]: 11:03
+          - generic [ref=f511e792]:
+            - generic [ref=f511e793]:
+              - 'heading "Higgsfield for Architects & Designers: Full Walkthrough & Honest Review" [level=3] [ref=f511e794]':
+                - 'link "Higgsfield for Architects & Designers: Full Walkthrough & Honest Review 11 minutes, 3 seconds" [ref=f511e795]':
+                  - /url: /watch?v=oLTaHlsJuY4
+                  - text: "Higgsfield for Architects & Designers: Full Walkthrough & Honest Review"
+              - group [ref=f511e798]:
+                - generic [ref=f511e799]: 17k views
+                - generic [aria-hidden] [ref=f511e800]: •
+                - generic "6 months ago" [ref=f511e801]
+            - button "More actions" [ref=f511e804]
+        - generic [ref=f511e811] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e812]:
+            - /url: /watch?v=8WL0AORMAxg
+            - img [ref=f511e818]:
+              - generic [ref=f511e819]: 10:18
+          - generic [ref=f511e821]:
+            - generic [ref=f511e822]:
+              - heading "Create Viral Construction Timelapse with AI (100% FREE) 🔥" [level=3] [ref=f511e823]:
+                - link "Create Viral Construction Timelapse with AI (100% FREE) 🔥 10 minutes, 18 seconds" [ref=f511e824]:
+                  - /url: /watch?v=8WL0AORMAxg
+                  - text: Create Viral Construction Timelapse with AI (100% FREE) 🔥
+              - group [ref=f511e827]:
+                - generic [ref=f511e828]: 75k views
+                - generic [aria-hidden] [ref=f511e829]: •
+                - generic "6 months ago" [ref=f511e830]
+            - button "More actions" [ref=f511e833]
+        - generic [ref=f511e840] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e841]:
+            - /url: /watch?v=L35qF6DfVC8
+            - img [ref=f511e847]:
+              - generic [ref=f511e848]: 10:22
+          - generic [ref=f511e850]:
+            - generic [ref=f511e851]:
+              - heading "Stop Paying for Multiple AI Tools — Use This Instead | Loova AI" [level=3] [ref=f511e852]:
+                - link "Stop Paying for Multiple AI Tools — Use This Instead | Loova AI 10 minutes, 22 seconds" [ref=f511e853]:
+                  - /url: /watch?v=L35qF6DfVC8
+                  - text: Stop Paying for Multiple AI Tools — Use This Instead | Loova AI
+              - group [ref=f511e856]:
+                - generic [ref=f511e857]: 4.9k views
+                - generic [aria-hidden] [ref=f511e858]: •
+                - generic "7 months ago" [ref=f511e859]
+            - button "More actions" [ref=f511e862]
+        - generic [ref=f511e869] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e870]:
+            - /url: /watch?v=gXOktAr1kRg
+            - img [ref=f511e876]:
+              - generic [ref=f511e877]: 18:11
+          - generic [ref=f511e879]:
+            - generic [ref=f511e880]:
+              - heading "D5 Render 3.0 is the NEXT BIG THING | Full Workflow & New Features Explained" [level=3] [ref=f511e881]:
+                - link "D5 Render 3.0 is the NEXT BIG THING | Full Workflow & New Features Explained 18 minutes" [ref=f511e882]:
+                  - /url: /watch?v=gXOktAr1kRg
+                  - text: D5 Render 3.0 is the NEXT BIG THING | Full Workflow & New Features Explained
+              - group [ref=f511e885]:
+                - generic [ref=f511e886]: 8.2k views
+                - generic [aria-hidden] [ref=f511e887]: •
+                - generic "7 months ago" [ref=f511e888]
+            - button "More actions" [ref=f511e891]
+        - generic [ref=f511e898] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e899]:
+            - /url: /watch?v=bMy2X58qL6I
+            - img [ref=f511e905]:
+              - generic [ref=f511e906]: 7:36
+          - generic [ref=f511e908]:
+            - generic [ref=f511e909]:
+              - heading "Street Elevations with Nano Banana Pro | Step-by-Step with PROMPTS 🔥" [level=3] [ref=f511e910]:
+                - link "Street Elevations with Nano Banana Pro | Step-by-Step with PROMPTS 🔥 7 minutes, 36 seconds" [ref=f511e911]:
+                  - /url: /watch?v=bMy2X58qL6I
+                  - text: Street Elevations with Nano Banana Pro | Step-by-Step with PROMPTS 🔥
+              - group [ref=f511e914]:
+                - generic [ref=f511e915]: 7.6k views
+                - generic [aria-hidden] [ref=f511e916]: •
+                - generic "7 months ago" [ref=f511e917]
+            - button "More actions" [ref=f511e920]
+        - generic [ref=f511e927] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e928]:
+            - /url: /watch?v=-aF0lnAGLwU
+            - img [ref=f511e934]:
+              - generic [ref=f511e935]: 11:05
+          - generic [ref=f511e937]:
+            - generic [ref=f511e938]:
+              - heading "Why Most Architecture Laptops Fail After 2 Years" [level=3] [ref=f511e939]:
+                - link "Why Most Architecture Laptops Fail After 2 Years 11 minutes, 5 seconds" [ref=f511e940]:
+                  - /url: /watch?v=-aF0lnAGLwU
+                  - text: Why Most Architecture Laptops Fail After 2 Years
+              - group [ref=f511e943]:
+                - generic [ref=f511e944]: 9.4k views
+                - generic [aria-hidden] [ref=f511e945]: •
+                - generic "7 months ago" [ref=f511e946]
+            - button "More actions" [ref=f511e949]
+        - generic [ref=f511e956] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e957]:
+            - /url: /watch?v=4-_k6UdMUUU&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f511e963]:
+              - generic [ref=f511e964]: 8:48
+          - generic [ref=f511e966]:
+            - generic [ref=f511e967]:
+              - heading "Most Architects Are Missing These 10 AI Tools (2026) ⌛" [level=3] [ref=f511e968]:
+                - link "Most Architects Are Missing These 10 AI Tools (2026) ⌛ 8 minutes, 48 seconds" [ref=f511e969]:
+                  - /url: /watch?v=4-_k6UdMUUU&pp=0gcJCSQMAYcqIYzv
+                  - text: Most Architects Are Missing These 10 AI Tools (2026) ⌛
+              - group [ref=f511e972]:
+                - generic [ref=f511e973]: 38k views
+                - generic [aria-hidden] [ref=f511e974]: •
+                - generic "8 months ago" [ref=f511e975]
+            - button "More actions" [ref=f511e978]
+        - generic [ref=f511e985] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e986]:
+            - /url: /watch?v=xTyTYksT_do
+            - img [ref=f511e992]:
+              - generic [ref=f511e993]: 9:59
+          - generic [ref=f511e995]:
+            - generic [ref=f511e996]:
+              - heading "Architectural Diagrams in Minutes with Nano Banana Pro | Full Walkthrough with PROMPTS🔥" [level=3] [ref=f511e997]:
+                - link "Architectural Diagrams in Minutes with Nano Banana Pro | Full Walkthrough with PROMPTS🔥 9 minutes, 59 seconds" [ref=f511e998]:
+                  - /url: /watch?v=xTyTYksT_do
+                  - text: Architectural Diagrams in Minutes with Nano Banana Pro | Full Walkthrough with PROMPTS🔥
+              - group [ref=f511e1001]:
+                - generic [ref=f511e1002]: 14k views
+                - generic [aria-hidden] [ref=f511e1003]: •
+                - generic "8 months ago" [ref=f511e1004]
+            - button "More actions" [ref=f511e1007]
+        - generic [ref=f511e1014] [cursor=pointer]:
+          - link [aria-hidden] [ref=f511e1015]:
+            - /url: /watch?v=1gWCG6mrhjc
+            - img [ref=f511e1021]:
+              - generic [ref=f511e1022]: 9:57
+          - generic [ref=f511e1024]:
+            - generic [ref=f511e1025]:
+              - heading "NANO BANANA PRO + GOOGLE EARTH Can Save Architects HOURS of TIME" [level=3] [ref=f511e1026]:
+                - link "NANO BANANA PRO + GOOGLE EARTH Can Save Architects HOURS of TIME 9 minutes, 57 seconds" [ref=f511e1027]:
+                  - /url: /watch?v=1gWCG6mrhjc
+                  - text: NANO BANANA PRO + GOOGLE EARTH Can Save Architects HOURS of TIME
+              - group [ref=f511e1030]:
+                - generic [ref=f511e1031]: 183k views
+                - generic [aria-hidden] [ref=f511e1032]: •
+                - generic "8 months ago" [ref=f511e1033]
+            - button "More actions" [ref=f511e1036]

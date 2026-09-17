@@ -1,0 +1,554 @@
+- generic [ref=f484e2]:
+  - banner [ref=f484e4]:
+    - generic [ref=f484e6]:
+      - generic [ref=f484e7]:
+        - button "Guide" [ref=f484e9] [cursor=pointer]
+        - generic [ref=f484e13]:
+          - link "YouTube Home" [ref=f484e14] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f484e20]: IN
+        - button "Skip navigation" [ref=f484e24] [cursor=pointer]
+      - generic [ref=f484e28]:
+        - search [ref=f484e29]:
+          - generic [ref=f484e31]:
+            - combobox "Search" [expanded] [ref=f484e34]
+            - button "Search" [ref=f484e35] [cursor=pointer]
+        - generic [ref=f484e40]:
+          - button "Search with your voice" [ref=f484e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f484e47]:
+        - button "Settings" [ref=f484e52] [cursor=pointer]
+        - link "Sign in" [ref=f484e56] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%254030by40%252Fvideos&hl=en-GB&ec=65620
+  - navigation [ref=f484e60]:
+    - generic [ref=f484e61]:
+      - link "Home" [ref=f484e63] [cursor=pointer]:
+        - /url: /
+      - link "Shorts" [ref=f484e67] [cursor=pointer]:
+        - /url: /shorts/
+      - link "Subscriptions" [ref=f484e71] [cursor=pointer]:
+        - /url: /feed/subscriptions
+      - link "You" [ref=f484e75] [cursor=pointer]:
+        - /url: /feed/you
+  - generic [ref=f484e78]:
+    - main [ref=f484e79]:
+      - generic [ref=f484e86]:
+        - generic [ref=f484e102]:
+          - heading "30X40 Design Workshop, verified" [level=1] [ref=f484e104]:
+            - generic [ref=f484e105]: 30X40 Design Workshop
+          - generic [ref=f484e109]:
+            - group [ref=f484e110]:
+              - generic [ref=f484e111]: "@30by40"
+            - generic [aria-hidden] [ref=f484e112]: •
+            - group [ref=f484e113]:
+              - generic "1.19 million subscribers" [ref=f484e114]: 1.19m subscribers
+              - generic [aria-hidden] [ref=f484e115]: •
+              - generic [ref=f484e116]: 274 videos
+          - generic [ref=f484e118] [cursor=pointer]:
+            - generic [ref=f484e119]: I make videos about architecture, design simple modern homes + share the process behind the making of architecture.
+            - button "Description. I make videos about architecture, design simple modern homes…tap for more." [ref=f484e120]:
+              - generic [ref=f484e121]: ...more
+          - generic [ref=f484e122]:
+            - link [ref=f484e125] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRnZxX1p3ZVhXX09TYUtXSGpJYTlCa3xBTl9pYzRkeDlpNHdvdXRJbkotT3BveWhveElVTTJPMFpjN0NJNFFIbk9wNDdxQ2xHUjJiQkZ1NjZ1M0tzMldVaENMMTBzTFV3NE5ROTVmM2ZPRFk2ZmJPRnJ1cU0zdVhhRExr&q=https%3A%2F%2Fthirtybyforty.com%2Fcourses
+            - button "and 2 more links" [ref=f484e130] [cursor=pointer]
+          - button "Subscribe" [ref=f484e134] [cursor=pointer]
+        - tablist [ref=f484e141]:
+          - tablist [ref=f484e145]:
+            - tab "Home" [ref=f484e146] [cursor=pointer]
+            - tab "Videos" [selected] [ref=f484e148] [cursor=pointer]
+            - tab "Shorts" [ref=f484e150] [cursor=pointer]
+            - tab "Live" [ref=f484e152] [cursor=pointer]
+            - tab "Podcasts" [ref=f484e154] [cursor=pointer]
+            - tab "Courses" [ref=f484e156] [cursor=pointer]
+            - tab "Playlists" [ref=f484e158] [cursor=pointer]
+            - tab "Posts" [ref=f484e160] [cursor=pointer]
+            - tab "Store" [ref=f484e162] [cursor=pointer]
+            - button "Search" [ref=f484e167] [cursor=pointer]
+      - generic [ref=f484e175]:
+        - tablist [ref=f484e178]:
+          - tab "Latest" [selected] [ref=f484e181] [cursor=pointer]
+          - tab "Popular" [ref=f484e186] [cursor=pointer]
+          - tab "Oldest" [ref=f484e191] [cursor=pointer]
+        - generic [ref=f484e194]:
+          - generic [ref=f484e198] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e199]:
+              - /url: /watch?v=p-gADz0gv3Q
+              - img [ref=f484e205]:
+                - generic [ref=f484e206]: 19:41
+            - generic [ref=f484e208]:
+              - generic [ref=f484e209]:
+                - 'heading "Sketch Like an Architect: From Side Hustle to Six Figures" [level=3] [ref=f484e210]':
+                  - 'link "Sketch Like an Architect: From Side Hustle to Six Figures 19 minutes" [ref=f484e211]':
+                    - /url: /watch?v=p-gADz0gv3Q
+                    - text: "Sketch Like an Architect: From Side Hustle to Six Figures"
+                - group [ref=f484e214]:
+                  - generic [ref=f484e215]: 111k views
+                  - generic [aria-hidden] [ref=f484e216]: •
+                  - generic "1 year ago" [ref=f484e217]
+              - button "More actions" [ref=f484e220]
+          - generic [ref=f484e227] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e228]:
+              - /url: /watch?v=gZIx2aUDTC4
+              - img [ref=f484e234]:
+                - generic [ref=f484e235]: 13:38
+            - generic [ref=f484e237]:
+              - generic [ref=f484e238]:
+                - heading "How this Architect 4X’d His Income" [level=3] [ref=f484e239]:
+                  - link "How this Architect 4X’d His Income 13 minutes, 38 seconds" [ref=f484e240]:
+                    - /url: /watch?v=gZIx2aUDTC4
+                    - text: How this Architect 4X’d His Income
+                - group [ref=f484e243]:
+                  - generic [ref=f484e244]: 131k views
+                  - generic [aria-hidden] [ref=f484e245]: •
+                  - generic "1 year ago" [ref=f484e246]
+              - button "More actions" [ref=f484e249]
+          - generic [ref=f484e256] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e257]:
+              - /url: /watch?v=6aUzJUHg5HA
+              - img [ref=f484e263]:
+                - generic [ref=f484e264]: 1:56
+            - generic [ref=f484e266]:
+              - generic [ref=f484e267]:
+                - heading "How to Find New (+ Better) Design Clients" [level=3] [ref=f484e268]:
+                  - link "How to Find New (+ Better) Design Clients 1 minute, 56 seconds" [ref=f484e269]:
+                    - /url: /watch?v=6aUzJUHg5HA
+                    - text: How to Find New (+ Better) Design Clients
+                - group [ref=f484e272]:
+                  - generic [ref=f484e273]: 45k views
+                  - generic [aria-hidden] [ref=f484e274]: •
+                  - generic "2 years ago" [ref=f484e275]
+              - button "More actions" [ref=f484e278]
+          - generic [ref=f484e285] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e286]:
+              - /url: /watch?v=revGo-HWmVU
+              - img [ref=f484e292]:
+                - generic [ref=f484e293]: 29:25
+            - generic [ref=f484e295]:
+              - generic [ref=f484e296]:
+                - heading "Mistakes We Made Running Our Business (10 years of lessons)" [level=3] [ref=f484e297]:
+                  - link "Mistakes We Made Running Our Business (10 years of lessons) 29 minutes" [ref=f484e298]:
+                    - /url: /watch?v=revGo-HWmVU
+                    - text: Mistakes We Made Running Our Business (10 years of lessons)
+                - group [ref=f484e301]:
+                  - generic [ref=f484e302]: 62k views
+                  - generic [aria-hidden] [ref=f484e303]: •
+                  - generic "2 years ago" [ref=f484e304]
+              - button "More actions" [ref=f484e307]
+          - generic [ref=f484e314] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e315]:
+              - /url: /watch?v=XnYn6vsZQn8
+              - img [ref=f484e321]:
+                - generic [ref=f484e322]: 9:09
+            - generic [ref=f484e324]:
+              - generic [ref=f484e325]:
+                - 'heading "Must-Have Supplies for Architecture School: What You Really Need" [level=3] [ref=f484e326]':
+                  - 'link "Must-Have Supplies for Architecture School: What You Really Need 9 minutes, 9 seconds" [ref=f484e327]':
+                    - /url: /watch?v=XnYn6vsZQn8
+                    - text: "Must-Have Supplies for Architecture School: What You Really Need"
+                - group [ref=f484e330]:
+                  - generic [ref=f484e331]: 110k views
+                  - generic [aria-hidden] [ref=f484e332]: •
+                  - generic "3 years ago" [ref=f484e333]
+              - button "More actions" [ref=f484e336]
+          - generic [ref=f484e343] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e344]:
+              - /url: /watch?v=zhKb9l6LBSo
+              - img [ref=f484e350]:
+                - generic [ref=f484e351]: 6:31
+            - generic [ref=f484e353]:
+              - generic [ref=f484e354]:
+                - heading "Using AI as a Design Tool in My Architecture Practice" [level=3] [ref=f484e355]:
+                  - link "Using AI as a Design Tool in My Architecture Practice 6 minutes, 31 seconds" [ref=f484e356]:
+                    - /url: /watch?v=zhKb9l6LBSo
+                    - text: Using AI as a Design Tool in My Architecture Practice
+                - group [ref=f484e359]:
+                  - generic [ref=f484e360]: 254k views
+                  - generic [aria-hidden] [ref=f484e361]: •
+                  - generic "3 years ago" [ref=f484e362]
+              - button "More actions" [ref=f484e365]
+          - generic [ref=f484e372] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e373]:
+              - /url: /watch?v=m79c3LTjLpw
+              - img [ref=f484e379]:
+                - generic [ref=f484e380]: 32:37
+            - generic [ref=f484e382]:
+              - generic [ref=f484e383]:
+                - heading "This Architect Doubled His Income. Here’s how..." [level=3] [ref=f484e384]:
+                  - link "This Architect Doubled His Income. Here’s how... 32 minutes" [ref=f484e385]:
+                    - /url: /watch?v=m79c3LTjLpw
+                    - text: This Architect Doubled His Income. Here’s how...
+                - group [ref=f484e388]:
+                  - generic [ref=f484e389]: 209k views
+                  - generic [aria-hidden] [ref=f484e390]: •
+                  - generic "3 years ago" [ref=f484e391]
+              - button "More actions" [ref=f484e394]
+          - generic [ref=f484e401] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e402]:
+              - /url: /watch?v=9SYA55pfPCs
+              - img [ref=f484e408]:
+                - generic [ref=f484e409]: 11:53
+            - generic [ref=f484e411]:
+              - generic [ref=f484e412]:
+                - 'heading "Interior Design with an Architect''s Eye: Here''s my Process" [level=3] [ref=f484e413]':
+                  - 'link "Interior Design with an Architect''s Eye: Here''s my Process 11 minutes, 53 seconds" [ref=f484e414]':
+                    - /url: /watch?v=9SYA55pfPCs
+                    - text: "Interior Design with an Architect's Eye: Here's my Process"
+                - group [ref=f484e417]:
+                  - generic [ref=f484e418]: 223k views
+                  - generic [aria-hidden] [ref=f484e419]: •
+                  - generic "3 years ago" [ref=f484e420]
+              - button "More actions" [ref=f484e423]
+          - generic [ref=f484e430] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e431]:
+              - /url: /watch?v=t7GpYvyQoEs
+              - img [ref=f484e437]:
+                - generic [ref=f484e438]: 24:29
+            - generic [ref=f484e440]:
+              - generic [ref=f484e441]:
+                - heading "30 Minute Study Model - Here's How" [level=3] [ref=f484e442]:
+                  - link "30 Minute Study Model - Here's How 24 minutes" [ref=f484e443]:
+                    - /url: /watch?v=t7GpYvyQoEs
+                    - text: 30 Minute Study Model - Here's How
+                - group [ref=f484e446]:
+                  - generic [ref=f484e447]: 1.2m views
+                  - generic [aria-hidden] [ref=f484e448]: •
+                  - generic "4 years ago" [ref=f484e449]
+              - button "More actions" [ref=f484e452]
+          - generic [ref=f484e459] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e460]:
+              - /url: /watch?v=7KWPhZ1_lN8
+              - img [ref=f484e466]:
+                - generic [ref=f484e467]: 15:12
+            - generic [ref=f484e469]:
+              - generic [ref=f484e470]:
+                - heading "How to Simplify Your Architecture Services - Coaching Call" [level=3] [ref=f484e471]:
+                  - link "How to Simplify Your Architecture Services - Coaching Call 15 minutes" [ref=f484e472]:
+                    - /url: /watch?v=7KWPhZ1_lN8
+                    - text: How to Simplify Your Architecture Services - Coaching Call
+                - group [ref=f484e475]:
+                  - generic [ref=f484e476]: 96k views
+                  - generic [aria-hidden] [ref=f484e477]: •
+                  - generic "4 years ago" [ref=f484e478]
+              - button "More actions" [ref=f484e481]
+          - generic [ref=f484e488] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e489]:
+              - /url: /watch?v=GC31BePZ46U
+              - img [ref=f484e495]:
+                - generic [ref=f484e496]: 10:06
+            - generic [ref=f484e498]:
+              - generic [ref=f484e499]:
+                - heading "What's In My Bag - Architect Essentials" [level=3] [ref=f484e500]:
+                  - link "What's In My Bag - Architect Essentials 10 minutes, 6 seconds" [ref=f484e501]:
+                    - /url: /watch?v=GC31BePZ46U
+                    - text: What's In My Bag - Architect Essentials
+                - group [ref=f484e504]:
+                  - generic [ref=f484e505]: 131k views
+                  - generic [aria-hidden] [ref=f484e506]: •
+                  - generic "4 years ago" [ref=f484e507]
+              - button "More actions" [ref=f484e510]
+          - generic [ref=f484e517] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e518]:
+              - /url: /watch?v=SKD_lTiAf4k
+              - img [ref=f484e524]:
+                - generic [ref=f484e525]: 3:27
+            - generic [ref=f484e527]:
+              - generic [ref=f484e528]:
+                - heading "A Better Way to Draw in AutoCAD (Change this Setting)" [level=3] [ref=f484e529]:
+                  - link "A Better Way to Draw in AutoCAD (Change this Setting) 3 minutes, 27 seconds" [ref=f484e530]:
+                    - /url: /watch?v=SKD_lTiAf4k
+                    - text: A Better Way to Draw in AutoCAD (Change this Setting)
+                - group [ref=f484e533]:
+                  - generic [ref=f484e534]: 235k views
+                  - generic [aria-hidden] [ref=f484e535]: •
+                  - generic "4 years ago" [ref=f484e536]
+              - button "More actions" [ref=f484e539]
+          - generic [ref=f484e546] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e547]:
+              - /url: /watch?v=YkTfTfhWIAY
+              - img [ref=f484e553]:
+                - generic [ref=f484e554]: 13:40
+            - generic [ref=f484e556]:
+              - generic [ref=f484e557]:
+                - 'heading "Sketch to Finished Floor Plan : My Process, Graphics and Settings" [level=3] [ref=f484e558]':
+                  - 'link "Sketch to Finished Floor Plan : My Process, Graphics and Settings 13 minutes, 40 seconds" [ref=f484e559]':
+                    - /url: /watch?v=YkTfTfhWIAY
+                    - text: "Sketch to Finished Floor Plan : My Process, Graphics and Settings"
+                - group [ref=f484e562]:
+                  - generic [ref=f484e563]: 279k views
+                  - generic [aria-hidden] [ref=f484e564]: •
+                  - generic "4 years ago" [ref=f484e565]
+              - button "More actions" [ref=f484e568]
+          - generic [ref=f484e575] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e576]:
+              - /url: /watch?v=cNzvnyflko4
+              - img [ref=f484e582]:
+                - generic [ref=f484e583]: 55:28
+            - generic [ref=f484e585]:
+              - generic [ref=f484e586]:
+                - 'heading "Improve Your Architectural Photography: Pro Tips + Advice" [level=3] [ref=f484e587]':
+                  - 'link "Improve Your Architectural Photography: Pro Tips + Advice 55 minutes" [ref=f484e588]':
+                    - /url: /watch?v=cNzvnyflko4
+                    - text: "Improve Your Architectural Photography: Pro Tips + Advice"
+                - group [ref=f484e591]:
+                  - generic [ref=f484e592]: 119k views
+                  - generic [aria-hidden] [ref=f484e593]: •
+                  - generic "4 years ago" [ref=f484e594]
+              - button "More actions" [ref=f484e597]
+          - generic [ref=f484e604] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e605]:
+              - /url: /watch?v=ugnrbriyJQY
+              - img [ref=f484e611]:
+                - generic [ref=f484e612]: 15:23
+            - generic [ref=f484e614]:
+              - generic [ref=f484e615]:
+                - heading "An Architect's DIY Kitchen Makeover - Before and After" [level=3] [ref=f484e616]:
+                  - link "An Architect's DIY Kitchen Makeover - Before and After 15 minutes" [ref=f484e617]:
+                    - /url: /watch?v=ugnrbriyJQY
+                    - text: An Architect's DIY Kitchen Makeover - Before and After
+                - group [ref=f484e620]:
+                  - generic [ref=f484e621]: 1.9m views
+                  - generic [aria-hidden] [ref=f484e622]: •
+                  - generic "4 years ago" [ref=f484e623]
+              - button "More actions" [ref=f484e626]
+          - generic [ref=f484e633] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e634]:
+              - /url: /watch?v=nzqQHqPP0ds
+              - img [ref=f484e640]:
+                - generic [ref=f484e641]: 27:13
+            - generic [ref=f484e643]:
+              - generic [ref=f484e644]:
+                - heading "My Notion Setup + Designing the Year Ahead" [level=3] [ref=f484e645]:
+                  - link "My Notion Setup + Designing the Year Ahead 27 minutes" [ref=f484e646]:
+                    - /url: /watch?v=nzqQHqPP0ds
+                    - text: My Notion Setup + Designing the Year Ahead
+                - group [ref=f484e649]:
+                  - generic [ref=f484e650]: 139k views
+                  - generic [aria-hidden] [ref=f484e651]: •
+                  - generic "4 years ago" [ref=f484e652]
+              - button "More actions" [ref=f484e655]
+          - generic [ref=f484e662] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e663]:
+              - /url: /watch?v=I1qV1wyyg7o
+              - img [ref=f484e669]:
+                - generic [ref=f484e670]: 5:33
+            - generic [ref=f484e672]:
+              - generic [ref=f484e673]:
+                - heading "Architect-Approved Gift Guide" [level=3] [ref=f484e674]:
+                  - link "Architect-Approved Gift Guide 5 minutes, 33 seconds" [ref=f484e675]:
+                    - /url: /watch?v=I1qV1wyyg7o
+                    - text: Architect-Approved Gift Guide
+                - group [ref=f484e678]:
+                  - generic [ref=f484e679]: 95k views
+                  - generic [aria-hidden] [ref=f484e680]: •
+                  - generic "4 years ago" [ref=f484e681]
+              - button "More actions" [ref=f484e684]
+          - generic [ref=f484e691] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e692]:
+              - /url: /watch?v=m7Qz0EAnoFo
+              - img [ref=f484e698]:
+                - generic [ref=f484e699]: 16:25
+            - generic [ref=f484e701]:
+              - generic [ref=f484e702]:
+                - heading "What happened to the Outpost Project?" [level=3] [ref=f484e703]:
+                  - link "What happened to the Outpost Project? 16 minutes" [ref=f484e704]:
+                    - /url: /watch?v=m7Qz0EAnoFo
+                    - text: What happened to the Outpost Project?
+                - group [ref=f484e707]:
+                  - generic [ref=f484e708]: 129k views
+                  - generic [aria-hidden] [ref=f484e709]: •
+                  - generic "4 years ago" [ref=f484e710]
+              - button "More actions" [ref=f484e713]
+          - generic [ref=f484e720] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e721]:
+              - /url: /watch?v=0S2T6crurEE
+              - img [ref=f484e727]:
+                - generic [ref=f484e728]: 37:50
+            - generic [ref=f484e730]:
+              - generic [ref=f484e731]:
+                - 'heading "Starting from Scratch : Becoming an Architect Entrepreneur" [level=3] [ref=f484e732]':
+                  - 'link "Starting from Scratch : Becoming an Architect Entrepreneur 37 minutes" [ref=f484e733]':
+                    - /url: /watch?v=0S2T6crurEE
+                    - text: "Starting from Scratch : Becoming an Architect Entrepreneur"
+                - group [ref=f484e736]:
+                  - generic [ref=f484e737]: 627k views
+                  - generic [aria-hidden] [ref=f484e738]: •
+                  - generic "4 years ago" [ref=f484e739]
+              - button "More actions" [ref=f484e742]
+          - generic [ref=f484e749] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e750]:
+              - /url: /watch?v=3ibGaMrMIlg
+              - img [ref=f484e756]:
+                - generic [ref=f484e757]: 12:07
+            - generic [ref=f484e759]:
+              - generic [ref=f484e760]:
+                - heading "Architect's DIY Kitchen Makeover Part 1 - Sketching and Planning" [level=3] [ref=f484e761]:
+                  - link "Architect's DIY Kitchen Makeover Part 1 - Sketching and Planning 12 minutes, 7 seconds" [ref=f484e762]:
+                    - /url: /watch?v=3ibGaMrMIlg
+                    - text: Architect's DIY Kitchen Makeover Part 1 - Sketching and Planning
+                - group [ref=f484e765]:
+                  - generic [ref=f484e766]: 214k views
+                  - generic [aria-hidden] [ref=f484e767]: •
+                  - generic "5 years ago" [ref=f484e768]
+              - button "More actions" [ref=f484e771]
+          - generic [ref=f484e778] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e779]:
+              - /url: /watch?v=koWty8JIwDI
+              - img [ref=f484e785]:
+                - generic [ref=f484e786]: 11:14
+            - generic [ref=f484e788]:
+              - generic [ref=f484e789]:
+                - heading "Inspiration for YOUR Design Work - Favorite books in 2021" [level=3] [ref=f484e790]:
+                  - link "Inspiration for YOUR Design Work - Favorite books in 2021 11 minutes, 14 seconds" [ref=f484e791]:
+                    - /url: /watch?v=koWty8JIwDI
+                    - text: Inspiration for YOUR Design Work - Favorite books in 2021
+                - group [ref=f484e794]:
+                  - generic [ref=f484e795]: 101k views
+                  - generic [aria-hidden] [ref=f484e796]: •
+                  - generic "5 years ago" [ref=f484e797]
+              - button "More actions" [ref=f484e800]
+          - generic [ref=f484e807] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e808]:
+              - /url: /watch?v=fCERN8_JMvM
+              - img [ref=f484e814]:
+                - generic [ref=f484e815]: 14:45
+            - generic [ref=f484e817]:
+              - generic [ref=f484e818]:
+                - heading "Most of my time as an architect is spent doing this..." [level=3] [ref=f484e819]:
+                  - link "Most of my time as an architect is spent doing this... 14 minutes, 45 seconds" [ref=f484e820]:
+                    - /url: /watch?v=fCERN8_JMvM
+                    - text: Most of my time as an architect is spent doing this...
+                - group [ref=f484e823]:
+                  - generic [ref=f484e824]: 296k views
+                  - generic [aria-hidden] [ref=f484e825]: •
+                  - generic "5 years ago" [ref=f484e826]
+              - button "More actions" [ref=f484e829]
+          - generic [ref=f484e836] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e837]:
+              - /url: /watch?v=kSV_f9pzMQU
+              - img [ref=f484e843]:
+                - generic [ref=f484e844]: 46:21
+            - generic [ref=f484e846]:
+              - generic [ref=f484e847]:
+                - heading "Starting Your Architecture Studio? Here's A Reality Check." [level=3] [ref=f484e848]:
+                  - link "Starting Your Architecture Studio? Here's A Reality Check. 46 minutes" [ref=f484e849]:
+                    - /url: /watch?v=kSV_f9pzMQU
+                    - text: Starting Your Architecture Studio? Here's A Reality Check.
+                - group [ref=f484e852]:
+                  - generic [ref=f484e853]: 61k views
+                  - generic [aria-hidden] [ref=f484e854]: •
+                  - generic "5 years ago" [ref=f484e855]
+              - button "More actions" [ref=f484e858]
+          - generic [ref=f484e865] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e866]:
+              - /url: /watch?v=xdCNXO1hBQY
+              - img [ref=f484e872]:
+                - generic [ref=f484e873]: 8:43
+            - generic [ref=f484e875]:
+              - generic [ref=f484e876]:
+                - 'heading "A Day in the Life of an Architect: Construction Site Visit" [level=3] [ref=f484e877]':
+                  - 'link "A Day in the Life of an Architect: Construction Site Visit 8 minutes, 43 seconds" [ref=f484e878]':
+                    - /url: /watch?v=xdCNXO1hBQY
+                    - text: "A Day in the Life of an Architect: Construction Site Visit"
+                - group [ref=f484e881]:
+                  - generic [ref=f484e882]: 138k views
+                  - generic [aria-hidden] [ref=f484e883]: •
+                  - generic "5 years ago" [ref=f484e884]
+              - button "More actions" [ref=f484e887]
+          - generic [ref=f484e894] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e895]:
+              - /url: /watch?v=v8gTCuvQxBc
+              - img [ref=f484e901]:
+                - generic [ref=f484e902]: 24:41
+            - generic [ref=f484e904]:
+              - generic [ref=f484e905]:
+                - heading "How I Sketch + Design Architectural Details" [level=3] [ref=f484e906]:
+                  - link "How I Sketch + Design Architectural Details 24 minutes" [ref=f484e907]:
+                    - /url: /watch?v=v8gTCuvQxBc
+                    - text: How I Sketch + Design Architectural Details
+                - group [ref=f484e910]:
+                  - generic [ref=f484e911]: 611k views
+                  - generic [aria-hidden] [ref=f484e912]: •
+                  - generic "5 years ago" [ref=f484e913]
+              - button "More actions" [ref=f484e916]
+          - generic [ref=f484e923] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e924]:
+              - /url: /watch?v=p4SvkO8G3K8
+              - img [ref=f484e930]:
+                - generic [ref=f484e931]: 19:16
+            - generic [ref=f484e933]:
+              - generic [ref=f484e934]:
+                - 'heading "What''s in my set of architectural documents? Sharing everything: drawings, schedules, + specs." [level=3] [ref=f484e935]':
+                  - 'link "What''s in my set of architectural documents? Sharing everything: drawings, schedules, + specs. 19 minutes" [ref=f484e936]':
+                    - /url: /watch?v=p4SvkO8G3K8
+                    - text: "What's in my set of architectural documents? Sharing everything: drawings, schedules, + specs."
+                - group [ref=f484e939]:
+                  - generic [ref=f484e940]: 434k views
+                  - generic [aria-hidden] [ref=f484e941]: •
+                  - generic "5 years ago" [ref=f484e942]
+              - button "More actions" [ref=f484e945]
+          - generic [ref=f484e952] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e953]:
+              - /url: /watch?v=wK3ZFXLbXlc
+              - img [ref=f484e959]:
+                - generic [ref=f484e960]: 29:27
+            - generic [ref=f484e962]:
+              - generic [ref=f484e963]:
+                - heading "How this award-winning Architect designs homes" [level=3] [ref=f484e964]:
+                  - link "How this award-winning Architect designs homes 29 minutes" [ref=f484e965]:
+                    - /url: /watch?v=wK3ZFXLbXlc
+                    - text: How this award-winning Architect designs homes
+                - group [ref=f484e968]:
+                  - generic [ref=f484e969]: 601k views
+                  - generic [aria-hidden] [ref=f484e970]: •
+                  - generic "5 years ago" [ref=f484e971]
+              - button "More actions" [ref=f484e974]
+          - generic [ref=f484e981] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e982]:
+              - /url: /watch?v=pVjoAE2XvCQ
+              - img [ref=f484e988]:
+                - generic [ref=f484e989]: 16:33
+            - generic [ref=f484e991]:
+              - generic [ref=f484e992]:
+                - heading "Drawings, Site Visits + Construction on a remote island | Outpost - Part 9" [level=3] [ref=f484e993]:
+                  - link "Drawings, Site Visits + Construction on a remote island | Outpost - Part 9 16 minutes" [ref=f484e994]:
+                    - /url: /watch?v=pVjoAE2XvCQ
+                    - text: Drawings, Site Visits + Construction on a remote island | Outpost - Part 9
+                - group [ref=f484e997]:
+                  - generic [ref=f484e998]: 193k views
+                  - generic [aria-hidden] [ref=f484e999]: •
+                  - generic "5 years ago" [ref=f484e1000]
+              - button "More actions" [ref=f484e1003]
+          - generic [ref=f484e1010] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e1011]:
+              - /url: /watch?v=N4qBnhGJnhA
+              - img [ref=f484e1017]:
+                - generic [ref=f484e1018]: 31:02
+            - generic [ref=f484e1020]:
+              - generic [ref=f484e1021]:
+                - heading "So, you want to be an architect?" [level=3] [ref=f484e1022]:
+                  - link "So, you want to be an architect? 31 minutes" [ref=f484e1023]:
+                    - /url: /watch?v=N4qBnhGJnhA
+                    - text: So, you want to be an architect?
+                - group [ref=f484e1026]:
+                  - generic [ref=f484e1027]: 569k views
+                  - generic [aria-hidden] [ref=f484e1028]: •
+                  - generic "5 years ago" [ref=f484e1029]
+              - button "More actions" [ref=f484e1032]
+          - generic [ref=f484e1039] [cursor=pointer]:
+            - link [aria-hidden] [ref=f484e1040]:
+              - /url: /watch?v=54BSxnpeSls&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f484e1046]:
+                - generic [ref=f484e1047]: 11:49
+            - generic [ref=f484e1049]:
+              - generic [ref=f484e1050]:
+                - heading "Updating My Workspace - Home Office + Desk Tour" [level=3] [ref=f484e1051]:
+                  - link "Updating My Workspace - Home Office + Desk Tour 11 minutes, 49 seconds" [ref=f484e1052]:
+                    - /url: /watch?v=54BSxnpeSls&pp=0gcJCSQMAYcqIYzv
+                    - text: Updating My Workspace - Home Office + Desk Tour
+                - group [ref=f484e1055]:
+                  - generic [ref=f484e1056]: 2.7m views
+                  - generic [aria-hidden] [ref=f484e1057]: •
+                  - generic "6 years ago" [ref=f484e1058]
+              - button "More actions" [ref=f484e1061]
+    - text: •

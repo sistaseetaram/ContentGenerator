@@ -1,0 +1,428 @@
+- generic [ref=f538e2]:
+  - banner [ref=f538e4]:
+    - generic [ref=f538e6]:
+      - generic [ref=f538e7]:
+        - button "Guide" [ref=f538e9] [cursor=pointer]
+        - generic [ref=f538e11]:
+          - link "YouTube Home" [ref=f538e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f538e16]: IN
+        - button "Skip navigation" [ref=f538e20] [cursor=pointer]
+      - generic [ref=f538e24]:
+        - search [ref=f538e25]:
+          - generic [ref=f538e27]:
+            - combobox "Search" [expanded] [ref=f538e30]
+            - button "Search" [ref=f538e31] [cursor=pointer]
+        - generic [ref=f538e34]:
+          - button "Search with your voice" [ref=f538e36] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f538e41]:
+        - button "Settings" [ref=f538e46] [cursor=pointer]
+        - link "Sign in" [ref=f538e50] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%2540salmaanarchitect&hl=en-GB&ec=65620
+  - navigation [ref=f538e54]:
+    - generic [ref=f538e55]:
+      - link "Home" [ref=f538e57] [cursor=pointer]:
+        - /url: /
+      - link "Shorts" [ref=f538e61] [cursor=pointer]:
+        - /url: /shorts/
+      - link "Subscriptions" [ref=f538e65] [cursor=pointer]:
+        - /url: /feed/subscriptions
+      - link "You" [ref=f538e69] [cursor=pointer]:
+        - /url: /feed/you
+  - generic [ref=f538e72]:
+    - main [ref=f538e73]:
+      - generic [ref=f538e80]:
+        - generic [ref=f538e96]:
+          - heading "Salmaan Mohamed" [level=1] [ref=f538e98]
+          - generic [ref=f538e99]:
+            - group [ref=f538e100]:
+              - generic [ref=f538e101]: "@salmaanarchitect"
+            - generic [aria-hidden] [ref=f538e102]: •
+            - group [ref=f538e103]:
+              - generic "103 thousand subscribers" [ref=f538e104]: 103k subscribers
+              - generic [aria-hidden] [ref=f538e105]: •
+              - generic [ref=f538e106]: 440 videos
+          - generic [ref=f538e108] [cursor=pointer]:
+            - generic [ref=f538e109]: Architecture isn’t just built, it’s visualized.
+            - button "Description. Architecture isn’t just built, it’s visualized.…tap for more." [ref=f538e110]:
+              - generic [ref=f538e111]: ...more
+          - generic [ref=f538e112]:
+            - link [ref=f538e115] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRUlqemJJaGJETGtmVlA5SktyU05Yb3xBTl9pYzRmZTZaalRET2tucWVta05sU2VQc2N2ZTA2bHIwcm5zSmVRbjczSVdneGFtcGZLLWJwX2E4SGZwbEVwWU94TVJ3Y2RIWWFIS3NPYVpFcWRTa3dNcFZSSm1RU09LNWlB&q=https%3A%2F%2Fwww.instagram.com%2Fsalmaan.arch%2F
+            - button "and 3 more links" [ref=f538e120] [cursor=pointer]
+          - generic [ref=f538e121]:
+            - button "Subscribe" [ref=f538e124] [cursor=pointer]
+            - button "Join this channel" [ref=f538e130] [cursor=pointer]:
+              - generic: Join
+            - link "Community" [ref=f538e136] [cursor=pointer]:
+              - /url: /@salmaanarchitect/community
+        - tablist [ref=f538e143]:
+          - tablist [ref=f538e147]:
+            - tab "Home" [selected] [ref=f538e148] [cursor=pointer]
+            - tab "Videos" [ref=f538e150] [cursor=pointer]
+            - tab "Shorts" [ref=f538e152] [cursor=pointer]
+            - tab "Playlists" [ref=f538e154] [cursor=pointer]
+            - tab "Posts" [ref=f538e156] [cursor=pointer]
+            - button "Search" [ref=f538e161] [cursor=pointer]
+      - generic [ref=f538e168]:
+        - generic [ref=f538e172]:
+          - generic [ref=f538e173]:
+            - generic [ref=f538e174]: Our members
+            - text: Thank you, channel members!
+          - button "Join this channel" [ref=f538e187] [cursor=pointer]:
+            - generic: Join
+        - generic [ref=f538e194]:
+          - heading [level=2] [ref=f538e197]:
+            - link "Videos" [ref=f538e200] [cursor=pointer]:
+              - /url: /@salmaanarchitect/videos?view=0&sort=dd&shelf_id=1
+          - generic [ref=f538e203]:
+            - generic [ref=f538e206]:
+              - generic [ref=f538e208] [cursor=pointer]:
+                - link [aria-hidden] [ref=f538e209]:
+                  - /url: /watch?v=9kU6FT7ldZs
+                  - img [ref=f538e215]:
+                    - generic [ref=f538e216]: 12:25
+                - generic [ref=f538e218]:
+                  - generic [ref=f538e219]:
+                    - heading "I Finally Found an AI CAD Tool Architects Can Actually Use | Synaps Tutorial" [level=3] [ref=f538e220]:
+                      - link "I Finally Found an AI CAD Tool Architects Can Actually Use | Synaps Tutorial 12 minutes, 25 seconds" [ref=f538e221]:
+                        - /url: /watch?v=9kU6FT7ldZs
+                        - text: I Finally Found an AI CAD Tool Architects Can Actually Use | Synaps Tutorial
+                    - group [ref=f538e224]:
+                      - generic [ref=f538e225]: 22k views
+                      - generic [aria-hidden] [ref=f538e226]: •
+                      - generic "1 day ago" [ref=f538e227]
+                  - button "More actions" [ref=f538e230]
+              - generic [ref=f538e235] [cursor=pointer]:
+                - link [aria-hidden] [ref=f538e236]:
+                  - /url: /watch?v=eKKpqMowytA
+                  - img [ref=f538e242]:
+                    - generic [ref=f538e243]: 8:12
+                - generic [ref=f538e245]:
+                  - generic [ref=f538e246]:
+                    - heading "GPT-6 Astra Can Now Build Architectural 3D Models" [level=3] [ref=f538e247]:
+                      - link "GPT-6 Astra Can Now Build Architectural 3D Models 8 minutes, 12 seconds" [ref=f538e248]:
+                        - /url: /watch?v=eKKpqMowytA
+                        - text: GPT-6 Astra Can Now Build Architectural 3D Models
+                    - group [ref=f538e251]:
+                      - generic [ref=f538e252]: 247k views
+                      - generic [aria-hidden] [ref=f538e253]: •
+                      - generic "7 days ago" [ref=f538e254]
+                  - button "More actions" [ref=f538e257]
+              - generic [ref=f538e262] [cursor=pointer]:
+                - link [aria-hidden] [ref=f538e263]:
+                  - /url: /watch?v=NrrVn7zy_lI
+                  - img [ref=f538e269]:
+                    - generic [ref=f538e270]: 16:00
+                - generic [ref=f538e272]:
+                  - generic [ref=f538e273]:
+                    - heading "The Truth About My Journey to 100K as an Architect" [level=3] [ref=f538e274]:
+                      - link "The Truth About My Journey to 100K as an Architect 16 minutes" [ref=f538e275]:
+                        - /url: /watch?v=NrrVn7zy_lI
+                        - text: The Truth About My Journey to 100K as an Architect
+                    - group [ref=f538e278]:
+                      - generic [ref=f538e279]: 2.1k views
+                      - generic [aria-hidden] [ref=f538e280]: •
+                      - generic "9 days ago" [ref=f538e281]
+                  - button "More actions" [ref=f538e284]
+              - generic [ref=f538e289] [cursor=pointer]:
+                - link [aria-hidden] [ref=f538e290]:
+                  - /url: /watch?v=7bxJcReBMHo
+                  - img [ref=f538e296]:
+                    - generic [ref=f538e297]: 8:35
+                - generic [ref=f538e299]:
+                  - generic [ref=f538e300]:
+                    - 'heading "Seedance 2.5: 4 Use Cases Every Architect Should Know | @Lovart AI" [level=3] [ref=f538e301]':
+                      - 'link "Seedance 2.5: 4 Use Cases Every Architect Should Know | @Lovart AI 8 minutes, 35 seconds" [ref=f538e302]':
+                        - /url: /watch?v=7bxJcReBMHo
+                        - text: "Seedance 2.5: 4 Use Cases Every Architect Should Know | @Lovart AI"
+                    - group [ref=f538e305]:
+                      - generic [ref=f538e306]: 6.3k views
+                      - generic [aria-hidden] [ref=f538e307]: •
+                      - generic "1 month ago" [ref=f538e308]
+                  - button "More actions" [ref=f538e311]
+              - generic [ref=f538e316] [cursor=pointer]:
+                - link [aria-hidden] [ref=f538e317]:
+                  - /url: /watch?v=nZHa3Si9CSE
+                  - img [ref=f538e323]:
+                    - generic [ref=f538e324]: 5:56
+                - generic [ref=f538e326]:
+                  - generic [ref=f538e327]:
+                    - heading "Create Architectural Motion Diagrams with AI in Minutes | No After Effects" [level=3] [ref=f538e328]:
+                      - link "Create Architectural Motion Diagrams with AI in Minutes | No After Effects 5 minutes, 56 seconds" [ref=f538e329]:
+                        - /url: /watch?v=nZHa3Si9CSE
+                        - text: Create Architectural Motion Diagrams with AI in Minutes | No After Effects
+                    - group [ref=f538e332]:
+                      - generic [ref=f538e333]: 5.3k views
+                      - generic [aria-hidden] [ref=f538e334]: •
+                      - generic "1 month ago" [ref=f538e335]
+                  - button "More actions" [ref=f538e338]
+              - generic [ref=f538e343] [cursor=pointer]:
+                - link [aria-hidden] [ref=f538e344]:
+                  - /url: /watch?v=FGJ1RpAXsxA
+                  - img [ref=f538e350]:
+                    - generic [ref=f538e351]: 7:52
+                - generic [ref=f538e353]:
+                  - generic [ref=f538e354]:
+                    - heading "Turn AutoCAD Floor Plans into Stunning AI Renders" [level=3] [ref=f538e355]:
+                      - link "Turn AutoCAD Floor Plans into Stunning AI Renders 7 minutes, 52 seconds" [ref=f538e356]:
+                        - /url: /watch?v=FGJ1RpAXsxA
+                        - text: Turn AutoCAD Floor Plans into Stunning AI Renders
+                    - group [ref=f538e359]:
+                      - generic [ref=f538e360]: 7.5k views
+                      - generic [aria-hidden] [ref=f538e361]: •
+                      - generic "1 month ago" [ref=f538e362]
+                  - button "More actions" [ref=f538e365]
+            - button "Next" [ref=f538e371] [cursor=pointer]
+        - generic [ref=f538e377]:
+          - generic [ref=f538e378]:
+            - heading "Shorts" [level=2] [ref=f538e382]
+            - button "More actions" [ref=f538e388] [cursor=pointer]
+          - generic [ref=f538e391]:
+            - generic [ref=f538e394]:
+              - generic [ref=f538e396]:
+                - link [aria-hidden] [ref=f538e397] [cursor=pointer]:
+                  - /url: /shorts/LgIYh-awsXQ
+                - generic [ref=f538e401] [cursor=pointer]:
+                  - 'link "GPT 6 Astra Capabilities for Architecture and Interior Design 🤯🔥 #architecture" [ref=f538e402]':
+                    - /url: /shorts/LgIYh-awsXQ
+                  - generic [ref=f538e403]: 8.6k views
+                - button "More actions" [ref=f538e405] [cursor=pointer]
+              - generic [ref=f538e410]:
+                - link [aria-hidden] [ref=f538e411] [cursor=pointer]:
+                  - /url: /shorts/vO3u5nyiKr8
+                - generic [ref=f538e415] [cursor=pointer]:
+                  - 'link "Turn CAD Drawings into Sketchup Model with GPT 6 Astra 🤯 🔥 #architecture" [ref=f538e416]':
+                    - /url: /shorts/vO3u5nyiKr8
+                  - generic [ref=f538e417]: 37k views
+                - button "More actions" [ref=f538e419] [cursor=pointer]
+              - generic [ref=f538e424]:
+                - link [aria-hidden] [ref=f538e425] [cursor=pointer]:
+                  - /url: /shorts/xSkrJ1-qYok
+                - generic [ref=f538e429] [cursor=pointer]:
+                  - 'link "Everything you should know about Seedance 2.5 🔥 #architecture" [ref=f538e430]':
+                    - /url: /shorts/xSkrJ1-qYok
+                  - generic [ref=f538e431]: 5.1k views
+                - button "More actions" [ref=f538e433] [cursor=pointer]
+              - generic [ref=f538e438]:
+                - link [aria-hidden] [ref=f538e439] [cursor=pointer]:
+                  - /url: /shorts/h64ihSj7VN4
+                - generic [ref=f538e443] [cursor=pointer]:
+                  - 'link "How Architects Can Fix India''s Deadliest Roads ✏️ #architecture" [ref=f538e444]':
+                    - /url: /shorts/h64ihSj7VN4
+                  - generic [ref=f538e445]: 4k views
+                - button "More actions" [ref=f538e447] [cursor=pointer]
+              - generic [ref=f538e452]:
+                - link [aria-hidden] [ref=f538e453] [cursor=pointer]:
+                  - /url: /shorts/axtjZg4eOn4
+                - generic [ref=f538e457] [cursor=pointer]:
+                  - 'link "Measure ANY site in Minutes With Share C1 LiDAR Scanner 🔥 #architecture #SHARE3DCAM" [ref=f538e458]':
+                    - /url: /shorts/axtjZg4eOn4
+                  - generic [ref=f538e459]: 2.6k views
+                - button "More actions" [ref=f538e461] [cursor=pointer]
+              - generic [ref=f538e466]:
+                - link [aria-hidden] [ref=f538e467] [cursor=pointer]:
+                  - /url: /shorts/icNPJOFooyc
+                - generic [ref=f538e471] [cursor=pointer]:
+                  - 'link "Render Floor Plans with AI + Photoshop 100% Control 🤯🔥 #architecture" [ref=f538e472]':
+                    - /url: /shorts/icNPJOFooyc
+                  - generic [ref=f538e473]: 5.7k views
+                - button "More actions" [ref=f538e475] [cursor=pointer]
+            - button "Next" [ref=f538e481] [cursor=pointer]
+        - generic [ref=f538e488]:
+          - heading [level=2] [ref=f538e491]:
+            - link "Posts" [ref=f538e494] [cursor=pointer]:
+              - /url: /channel/UCIL42u3DOPcB7bBunsqMc9Q/posts
+          - generic [ref=f538e497]:
+            - generic [ref=f538e500]:
+              - 'link "Salmaan Mohamed • 4 days ago Biggest life lesson: Start before you feel ready! ✨ The first videos weren’t perfect. Neither was the setup or the person in front of the camera. But I started anyway. 100,000 subscribers later, I’m still learning, improving and figuring things out as I go. Start with what you have. Make it better along the way. ❤️ Like this post along with 122 other people tooltip 122 likes Dislike this post tooltip Share tooltip 4 comments tooltip" [ref=f538e502] [cursor=pointer]':
+                - generic [ref=f538e503]:
+                  - link [aria-hidden] [ref=f538e505]:
+                    - /url: /@salmaanarchitect
+                  - link "Salmaan Mohamed" [ref=f538e508]:
+                    - /url: /@salmaanarchitect
+                  - generic [ref=f538e509]: •
+                  - link "4 days ago" [ref=f538e511]:
+                    - /url: /post/UgkxWExtr7w6yK_KGRlFthWcTt1VRsce940w
+                - generic [ref=f538e512]:
+                  - generic [ref=f538e513]: "Biggest life lesson: Start before you feel ready! ✨ The first videos weren’t perfect. Neither was the setup or the person in front of the camera. But I started anyway. 100,000 subscribers later, I’m still learning, improving and figuring things out as I go. Start with what you have. Make it better along the way. ❤️"
+                  - generic [ref=f538e515]:
+                    - group
+                - generic [ref=f538e521]:
+                  - generic [ref=f538e522]:
+                    - link "Like this post along with 122 other people" [ref=f538e524]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic "122 likes" [ref=f538e528]: "122"
+                  - generic [ref=f538e529]:
+                    - link "Dislike this post" [ref=f538e531]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic [ref=f538e536]:
+                    - button "Share" [ref=f538e538]
+                    - tooltip "tooltip"
+                  - generic [ref=f538e543]:
+                    - link "4 comments" [ref=f538e545]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fpost%252FUgkxWExtr7w6yK_KGRlFthWcTt1VRsce940w&hl=en-GB
+                      - generic: "4"
+                    - tooltip "tooltip"
+              - link [ref=f538e550] [cursor=pointer]:
+                - generic [ref=f538e551]:
+                  - link [aria-hidden] [ref=f538e553]:
+                    - /url: /@salmaanarchitect
+                  - link "Salmaan Mohamed" [ref=f538e556]:
+                    - /url: /@salmaanarchitect
+                  - generic [ref=f538e557]: •
+                  - link "1 month ago" [ref=f538e559]:
+                    - /url: /post/Ugkx5954lBoFu8xcy47rKzyfaAxU-sIQWa6I
+                - generic [ref=f538e560]:
+                  - generic [ref=f538e561]: "Today, we officially hit 100,000 subscribers on YouTube! 🎉 And honestly, this feels pretty surreal. Growing an education-focused channel to 100K isn’t an easy thing. There are so many entertainment channels out there, and getting people to consistently watch, learn, and come back for more is something I never take for granted. A huge thanks to YOU reading this, for being part of this journey over the years. Whether you’ve been here from the beginning, watched a single tutorial, shared a video with a friend, or regularly follow what I put out, I genuinely appreciate your support. ❤️ This channel actually started with just sharing tutorials on architectural illustration, sketching, Photoshop and a few techniques that I was learning along the way. Over time, it grew into something much bigger. We started exploring AI, architectural technology, software, visualization, workflows, new tools, and even different aspects of the architectural profession. And a big part of what makes this exciting is that I get to learn and experiment alongside you. A lot has changed since the first video, but the intention has remained the same: to share what I learn and hopefully make architecture, visualization and technology a little easier and more accessible to others. 100,000 subscribers is a milestone, but more than the number itself, I’m grateful for the community that has formed around this channel. So, thank you for watching, commenting, sharing, asking questions, and simply being here. 100K! ❤️ Here’s to the next chapter. I have a lot more to learn, experiment with, and share with you.. 🚀"
+                  - generic [ref=f538e563]:
+                    - group
+                - generic [ref=f538e569]:
+                  - generic [ref=f538e570]:
+                    - link "Like this post along with 69 other people" [ref=f538e572]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic "69 likes" [ref=f538e576]: "69"
+                  - generic [ref=f538e577]:
+                    - link "Dislike this post" [ref=f538e579]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic [ref=f538e584]:
+                    - button "Share" [ref=f538e586]
+                    - tooltip "tooltip"
+                  - generic [ref=f538e591]:
+                    - link "12 comments" [ref=f538e593]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fpost%252FUgkx5954lBoFu8xcy47rKzyfaAxU-sIQWa6I&hl=en-GB
+                      - generic: "12"
+                    - tooltip "tooltip"
+              - link "Salmaan Mohamed • 4 months ago Currently experimenting techniques to create consistent AI renders from multiple angles with one single 3D model screenshot ✨ This will be part of our upcoming masterclass on AI Visualization 💯 What other workflows would you want to include in this masterclass? Let me know in the comments 👇🏻 Like this post along with 152 other people tooltip 152 likes Dislike this post tooltip Share tooltip 6 comments tooltip" [ref=f538e598] [cursor=pointer]:
+                - generic [ref=f538e599]:
+                  - link [aria-hidden] [ref=f538e601]:
+                    - /url: /@salmaanarchitect
+                  - link "Salmaan Mohamed" [ref=f538e604]:
+                    - /url: /@salmaanarchitect
+                  - generic [ref=f538e605]: •
+                  - link "4 months ago" [ref=f538e607]:
+                    - /url: /post/Ugkxd2VXxaILlloMswg0RckIqJJT0_mQa3XK
+                - generic [ref=f538e608]:
+                  - generic [ref=f538e609]: Currently experimenting techniques to create consistent AI renders from multiple angles with one single 3D model screenshot ✨ This will be part of our upcoming masterclass on AI Visualization 💯 What other workflows would you want to include in this masterclass? Let me know in the comments 👇🏻
+                  - generic [ref=f538e611]:
+                    - group
+                - generic [ref=f538e619]:
+                  - generic [ref=f538e620]:
+                    - link "Like this post along with 152 other people" [ref=f538e622]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic "152 likes" [ref=f538e626]: "152"
+                  - generic [ref=f538e627]:
+                    - link "Dislike this post" [ref=f538e629]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic [ref=f538e634]:
+                    - button "Share" [ref=f538e636]
+                    - tooltip "tooltip"
+                  - generic [ref=f538e641]:
+                    - link "6 comments" [ref=f538e643]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fpost%252FUgkxd2VXxaILlloMswg0RckIqJJT0_mQa3XK&hl=en-GB
+                      - generic: "6"
+                    - tooltip "tooltip"
+              - 'link "Salmaan Mohamed • 6 months ago Looking for a one stop tool to produce architectural renders and videos? 📹 Checkout our latest tutorial on Loova AI and how it can help you produce stunning visuals with ease! ✨ 📌 Full video: https://youtu.be/L35qF6DfVC8?si=_uuhU... Like this post along with 83 other people tooltip 83 likes Dislike this post tooltip Share tooltip 2 comments tooltip" [ref=f538e648] [cursor=pointer]':
+                - generic [ref=f538e649]:
+                  - link [aria-hidden] [ref=f538e651]:
+                    - /url: /@salmaanarchitect
+                  - link "Salmaan Mohamed" [ref=f538e654]:
+                    - /url: /@salmaanarchitect
+                  - generic [ref=f538e655]: •
+                  - link "6 months ago" [ref=f538e657]:
+                    - /url: /post/UgkxLJpYkZ7ewZxNvz7rPMdRj4R-mKsiXpCF
+                - generic [ref=f538e658]:
+                  - generic [ref=f538e660]:
+                    - text: "Looking for a one stop tool to produce architectural renders and videos? 📹 Checkout our latest tutorial on Loova AI and how it can help you produce stunning visuals with ease! ✨ 📌 Full video:"
+                    - link "https://youtu.be/L35qF6DfVC8?si=_uuhU..." [ref=f538e661]:
+                      - /url: /watch?v=L35qF6DfVC8
+                  - generic [ref=f538e662]:
+                    - group
+                - generic [ref=f538e670]:
+                  - generic [ref=f538e671]:
+                    - link "Like this post along with 83 other people" [ref=f538e673]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic "83 likes" [ref=f538e677]: "83"
+                  - generic [ref=f538e678]:
+                    - link "Dislike this post" [ref=f538e680]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic [ref=f538e685]:
+                    - button "Share" [ref=f538e687]
+                    - tooltip "tooltip"
+                  - generic [ref=f538e692]:
+                    - link "2 comments" [ref=f538e694]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fpost%252FUgkxLJpYkZ7ewZxNvz7rPMdRj4R-mKsiXpCF&hl=en-GB
+                      - generic: "2"
+                    - tooltip "tooltip"
+              - link "Salmaan Mohamed • 7 months ago Have you checked out the latest video breaking down the new features in D5 3.0? 🚀 Should we share the full SketchUp model + D5 scene on Gumroad?✨ Let us know in the comments 👇🏻 Like this post along with 85 other people tooltip 85 likes Dislike this post tooltip Share tooltip Comment tooltip" [ref=f538e699] [cursor=pointer]:
+                - generic [ref=f538e700]:
+                  - link [aria-hidden] [ref=f538e702]:
+                    - /url: /@salmaanarchitect
+                  - link "Salmaan Mohamed" [ref=f538e705]:
+                    - /url: /@salmaanarchitect
+                  - generic [ref=f538e706]: •
+                  - link "7 months ago" [ref=f538e708]:
+                    - /url: /post/Ugkx8P7o-hYFEHzY8cqpZP7m9z0bOTSoaLdw
+                - generic [ref=f538e709]:
+                  - generic [ref=f538e710]: Have you checked out the latest video breaking down the new features in D5 3.0? 🚀 Should we share the full SketchUp model + D5 scene on Gumroad?✨ Let us know in the comments 👇🏻
+                  - generic [ref=f538e712]:
+                    - group
+                - generic [ref=f538e720]:
+                  - generic [ref=f538e721]:
+                    - link "Like this post along with 85 other people" [ref=f538e723]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic "85 likes" [ref=f538e727]: "85"
+                  - generic [ref=f538e728]:
+                    - link "Dislike this post" [ref=f538e730]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic [ref=f538e735]:
+                    - button "Share" [ref=f538e737]
+                    - tooltip "tooltip"
+                  - generic [ref=f538e742]:
+                    - link "Comment" [ref=f538e744]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fpost%252FUgkx8P7o-hYFEHzY8cqpZP7m9z0bOTSoaLdw&hl=en-GB
+                    - tooltip "tooltip"
+              - link "Salmaan Mohamed • 7 months ago D5 Render 3.0 introduces AI Scene Match, making realistic 3D rendering easier than ever. From generating reference images to recommending assets and applying the right lighting and mood—all in one click—this feature removes the guesswork from visualization. 🎥 Full walkthrough video coming soon. Like this post along with 195 other people tooltip 195 likes Dislike this post tooltip Share tooltip 1 comment tooltip" [ref=f538e749] [cursor=pointer]:
+                - generic [ref=f538e750]:
+                  - link [aria-hidden] [ref=f538e752]:
+                    - /url: /@salmaanarchitect
+                  - link "Salmaan Mohamed" [ref=f538e755]:
+                    - /url: /@salmaanarchitect
+                  - generic [ref=f538e756]: •
+                  - link "7 months ago" [ref=f538e758]:
+                    - /url: /post/UgkxJmGd0i8WylT4V_QW42hcZHE8BQh7xN5W
+                - generic [ref=f538e759]:
+                  - generic [ref=f538e760]: D5 Render 3.0 introduces AI Scene Match, making realistic 3D rendering easier than ever. From generating reference images to recommending assets and applying the right lighting and mood—all in one click—this feature removes the guesswork from visualization. 🎥 Full walkthrough video coming soon.
+                  - generic [ref=f538e762]:
+                    - group
+                - generic [ref=f538e770]:
+                  - generic [ref=f538e771]:
+                    - link "Like this post along with 195 other people" [ref=f538e773]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic "195 likes" [ref=f538e777]: "195"
+                  - generic [ref=f538e778]:
+                    - link "Dislike this post" [ref=f538e780]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252F&hl=en-GB
+                    - tooltip "tooltip"
+                  - generic [ref=f538e785]:
+                    - button "Share" [ref=f538e787]
+                    - tooltip "tooltip"
+                  - generic [ref=f538e792]:
+                    - link "1 comment" [ref=f538e794]:
+                      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fpost%252FUgkxJmGd0i8WylT4V_QW42hcZHE8BQh7xN5W&hl=en-GB
+                      - generic: "1"
+                    - tooltip "tooltip"
+            - button "Next" [ref=f538e800] [cursor=pointer]
+    - text: •

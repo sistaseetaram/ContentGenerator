@@ -1,0 +1,404 @@
+- generic [ref=f432e2]:
+  - banner [ref=f432e4]:
+    - generic [ref=f432e6]:
+      - generic [ref=f432e7]:
+        - button "Guide" [ref=f432e9] [cursor=pointer]
+        - generic [ref=f432e11]:
+          - link "YouTube Home" [ref=f432e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f432e16]: IN
+        - button "Skip navigation" [ref=f432e20] [cursor=pointer]
+      - generic [ref=f432e24]:
+        - search [ref=f432e25]:
+          - generic [ref=f432e27]:
+            - combobox "Search" [expanded] [ref=f432e30]
+            - button "Search" [ref=f432e31] [cursor=pointer]
+        - generic [ref=f432e34]:
+          - button "Search with your voice" [ref=f432e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f432e45]
+  - main [ref=f432e47]:
+    - generic [ref=f432e54]:
+      - generic [ref=f432e70]:
+        - heading "architutors" [level=1] [ref=f432e72]
+        - generic [ref=f432e73]:
+          - group [ref=f432e74]:
+            - generic [ref=f432e75]: "@architutors"
+          - generic [aria-hidden] [ref=f432e76]: •
+          - group [ref=f432e77]:
+            - generic "63.4 thousand subscribers" [ref=f432e78]: 63.4k subscribers
+            - generic [aria-hidden] [ref=f432e79]: •
+            - generic [ref=f432e80]: 938 videos
+        - generic [ref=f432e82] [cursor=pointer]:
+          - generic [ref=f432e83]: Our Goal is to inspire people and get all the knowledge out there for people to learn what we learnt the hard way.
+          - button "Description. Our Goal is to inspire people and get all the knowledge out …tap for more." [ref=f432e84]:
+            - generic [ref=f432e85]: ...more
+        - generic [ref=f432e86]:
+          - link [ref=f432e89] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRjRLcVpGU3BqVzJpcFplYUhBcjBQeHxBTl9pYzRmUFp6NFFyZjVBNldaRFZuR0hibHRCVHNDNnptdTN5NzZFT0RNc2lBYjhNbFVBcWhSV2NsdF96RHhHa00zWDIxMDlONWVid3hwQzl6SjA0bENZcVZXd2x4ZXZZaGhC&q=https%3A%2F%2Farchitutors-shop.fourthwall.com
+          - button "and 10 more links" [ref=f432e94] [cursor=pointer]
+        - generic [ref=f432e95]:
+          - button "Subscribe" [ref=f432e98] [cursor=pointer]
+          - button "Join this channel" [ref=f432e104] [cursor=pointer]:
+            - generic: Join
+      - tablist [ref=f432e111]:
+        - tablist [ref=f432e115]:
+          - tab "Home" [selected] [ref=f432e116] [cursor=pointer]
+          - tab "Videos" [ref=f432e118] [cursor=pointer]
+          - tab "Shorts" [ref=f432e120] [cursor=pointer]
+          - tab "Playlists" [ref=f432e122] [cursor=pointer]
+          - tab "Posts" [ref=f432e124] [cursor=pointer]
+          - tab "Store" [ref=f432e126] [cursor=pointer]
+          - button "Search" [ref=f432e131] [cursor=pointer]
+    - generic [ref=f432e138]:
+      - generic [ref=f432e145]:
+        - generic [ref=f432e146]:
+          - 'heading "Promptitecture: Nano Banana AI Prompts for Architects (Ebook Download) 2 minutes, 20 seconds" [level=3] [ref=f432e147]':
+            - 'link "Promptitecture: Nano Banana AI Prompts for Architects (Ebook Download)" [ref=f432e148] [cursor=pointer]':
+              - /url: /watch?v=ZkNReKPly7E
+          - generic [ref=f432e151]:
+            - generic [ref=f432e152]: 3,757 views
+            - generic [ref=f432e153]: •10 months ago
+        - generic [ref=f432e154]:
+          - generic [ref=f432e156]:
+            - text: "Discover how Promptitecture: 101 AI Prompts for Architectural Imagination helps architects unlock creativity using Nano Banana AI across platforms like Gemini, AI Studio, and GPT. ✅Download your e-book now: 👉 Architutors Store:"
+            - link "https://architutors-shop.fourthwall.c..." [ref=f432e157] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRnhOWF95T1Z2UjR2d2JtaGZsYndBUXxBTl9pYzRmbFJYRVh1VlBUZzIzSnk5SWlSU3Z6a2g5cU8zUk5udkVzMlgzeVRuZldhYlo4UUtIT0V6ZFp3QnNSMFZ1WlNZZXNzOW9uN002aThOTjlwQzhlMVFpRjhXMjdvWjFp&q=https%3A%2F%2Farchitutors-shop.fourthwall.com%2Fproducts%2Fpromptitecture
+            - text: "👉 Amazon Kindle:"
+            - link "https://www.amazon.com/dp/B0G1HJLNRV" [ref=f432e158] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRzBfemRZM1kxWV82V2ZaYU00SVAzM3xBTl9pYzRlTFkyc2RrLUFoTUZzaFdIMFllSHlieUZWWHlTTkVSc2ZLMVRvMDZTb1Qzem5LNmU0X1ZuX3lwYVRhYTczSlRQR25BQVZra1lTQTZzcWxXN2ZhbktyNG5GZk9Zc2lv&q=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0G1HJLNRV
+            - text: "👉 Apple Books:"
+            - link "https://books.apple.com/us/book/promp..." [ref=f432e159] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRzRKNzFKOGJCUUFNUllVVkRSWXhTZXxBTl9pYzRkU21VWVJIVWZuQnF0MVpfdFczSEZxcjZEMlltN3FtQ3dYNEtqSmkxckg4OFEydm5VemIzMEFGSkR5RkljUU1RenRxNHJWQUVQaUFKY3JDM01QT01RUUtrdF9mLXJ5&q=https%3A%2F%2Fbooks.apple.com%2Fus%2Fbook%2Fpromptitecture-101-ai-prompts-for-architectural-imagination%2Fid6755098899
+            - text: "🎯 This video gives a quick intro to the ebook, shows how to copy prompt structures, swap variables, and generate stunning results using Nano Banana AI for architecture. Whether you're exploring Nano Banana AI in architecture, testing Nano Banana rendering, or diving into Nano Banana BIM workflows, this tutorial shows how to use the ebook efficiently. Perfect for anyone searching how to use Nano Banana for architecture, Nano Banana AI tutorial, or Nano Banana AI 2025. ✅ Available now on Architutors Store, Kindle Amazon, and Apple Books. 🔗 Resources: Architutors Merchandise:"
+            - link "https://architutors-shop.fourthwall.com/" [ref=f432e160] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRzRvRU5GSklEVzBqODM4U0VmVzZYVHxBTl9pYzRmUjhCWGR4bjBwVEM3UEt3Ukk1U1IwSjFLYTRZdHIxUlhVa2xKR2oyMU0zLWZWMlFpbDlzS1dQNlltZk5QQzliZUNOUndZZ2ZaSU5hcW9NV0I4TU1fOVEzeV8zMW9o&q=https%3A%2F%2Farchitutors-shop.fourthwall.com%2F
+            - text: "🎬 Related Videos: Create AI-Powered Architecture Walkthroughs in Minutes"
+            - link "https://youtu.be/6CxkHHPk5Y0" [ref=f432e161] [cursor=pointer]:
+              - /url: /watch?v=6CxkHHPk5Y0
+            - text: BIM Just Got a MASSIVE Upgrade with Gemini Integration
+            - link "https://youtu.be/e31CP3aj48M" [ref=f432e162] [cursor=pointer]:
+              - /url: /watch?v=e31CP3aj48M&pp=0gcJCR0AztywvtLA
+            - text: This AI App Just Did My Entire Interior Design Project
+            - link "https://youtu.be/9EGarPgN7hA" [ref=f432e163] [cursor=pointer]:
+              - /url: /watch?v=9EGarPgN7hA
+            - text: "SketchUp for Everyone: How to Model Your Dream Room in 5 Steps"
+            - link "https://youtu.be/BV4ocmD6iyo" [ref=f432e164] [cursor=pointer]:
+              - /url: /watch?v=BV4ocmD6iyo
+            - text: AI Just Turned My Simple Sketch into 3D with Gemini Nano!
+            - link "https://youtu.be/82u2KpWfkdA" [ref=f432e165] [cursor=pointer]:
+              - /url: /watch?v=82u2KpWfkdA
+            - text: Is Nano Banana AI the Game Changer for 2D to 3D Architecture?
+            - link "https://youtu.be/EoU7vKRAqfs" [ref=f432e166] [cursor=pointer]:
+              - /url: /watch?v=EoU7vKRAqfs
+            - text: How to use ChatGPT prompt for Architecture Presentations
+            - link "https://youtu.be/D8BditIuWRU" [ref=f432e167] [cursor=pointer]:
+              - /url: /watch?v=D8BditIuWRU
+            - text: You are an Architect – A Song for Every Designer
+            - link "https://youtu.be/wYmIrPrM3Qk" [ref=f432e168] [cursor=pointer]:
+              - /url: /watch?v=wYmIrPrM3Qk
+            - text: The Architect Who Got Trapped inside an AutoCAD File
+            - link "https://youtu.be/oUikLf2c8og" [ref=f432e169] [cursor=pointer]:
+              - /url: /watch?v=oUikLf2c8og
+            - text: 🔧 Rhino and Grasshopper Tutorial Playlist
+            - link "https://www.youtube.com/playlist?list..." [ref=f432e170] [cursor=pointer]:
+              - /url: /playlist?list=PLEpANUutWGxDgK3-e_uYmh4Sc_0Us1Gpk
+            - text: 🏛️ Parametric Architecture Tutorial Playlist
+            - link "https://www.youtube.com/playlist?list..." [ref=f432e171] [cursor=pointer]:
+              - /url: /playlist?list=PLEpANUutWGxAM_Gm-vEPflPY3au5e2gPu
+            - text: 🧱 Parametric Facade Design Playlist
+            - link "https://www.youtube.com/playlist?list..." [ref=f432e172] [cursor=pointer]:
+              - /url: /playlist?list=PLEpANUutWGxCMg1wSQKfTCickNVVwLgof
+            - text: 🪑 Parametric Furniture Design
+            - link "https://www.youtube.com/playlist?list..." [ref=f432e173] [cursor=pointer]:
+              - /url: /playlist?list=PLEpANUutWGxD0Pgkx4qM7-bjFR0h6CAZy
+            - text: 🏗️ Sketchup Tutorial Playlist
+            - link "https://www.youtube.com/playlist?list..." [ref=f432e174] [cursor=pointer]:
+              - /url: /playlist?list=PLEpANUutWGxADI0cWC1UfbxDHSPpArh6Z
+            - text: 🤖 AI in Architecture Playlist
+            - link "https://www.youtube.com/playlist?list..." [ref=f432e175] [cursor=pointer]:
+              - /url: /playlist?list=PLEpANUutWGxDpxz4rqyOcHKXZ2kmOOuqc
+            - text: 🏠 House Design 3D Modeling Playlist
+            - link "https://www.youtube.com/playlist?list..." [ref=f432e176] [cursor=pointer]:
+              - /url: /playlist?list=PLEpANUutWGxAcERNCe2eScJEnlzfOO-Bs
+            - text: 🎨 Rendering and Postproduction Playlist
+            - link "https://www.youtube.com/playlist?list..." [ref=f432e177] [cursor=pointer]:
+              - /url: /playlist?list=PLEpANUutWGxBdL4y8B1Q1zYV3Nv9zjfrS
+            - link "#NanoBanana" [ref=f432e178] [cursor=pointer]:
+              - /url: /hashtag/nanobanana
+            - link "#ArchitectureRendering" [ref=f432e179] [cursor=pointer]:
+              - /url: /hashtag/architecturerendering
+            - link "#3DRendering" [ref=f432e180] [cursor=pointer]:
+              - /url: /hashtag/3drendering
+            - link "#nanobanana" [ref=f432e181] [cursor=pointer]:
+              - /url: /hashtag/nanobanana
+            - link "#architecture" [ref=f432e182] [cursor=pointer]:
+              - /url: /hashtag/architecture
+            - link "#PhotorealisticRender" [ref=f432e183] [cursor=pointer]:
+              - /url: /hashtag/photorealisticrender
+            - link "#ArchitecturalVisualization" [ref=f432e184] [cursor=pointer]:
+              - /url: /hashtag/architecturalvisualization
+            - link "#DesignInspiration" [ref=f432e185] [cursor=pointer]:
+              - /url: /hashtag/designinspiration
+            - link "#ArchitecturalDesign" [ref=f432e186] [cursor=pointer]:
+              - /url: /hashtag/architecturaldesign
+            - link "#VisualizationTools" [ref=f432e187] [cursor=pointer]:
+              - /url: /hashtag/visualizationtools
+            - link "#AIRendering" [ref=f432e188] [cursor=pointer]:
+              - /url: /hashtag/airendering
+            - link "#FuturisticArchitecture" [ref=f432e189] [cursor=pointer]:
+              - /url: /hashtag/futuristicarchitecture
+            - link "#Render" [ref=f432e190] [cursor=pointer]:
+              - /url: /hashtag/render
+            - link "#architutors" [ref=f432e191] [cursor=pointer]:
+              - /url: /hashtag/architutors
+          - button [ref=f432e192] [cursor=pointer]:
+            - link "Read more" [ref=f432e194]:
+              - /url: /watch?v=ZkNReKPly7E
+      - generic [ref=f432e198]:
+        - heading [level=2] [ref=f432e201]:
+          - link "Popular videos" [ref=f432e204] [cursor=pointer]:
+            - /url: /@architutors/videos?view=0&sort=p&shelf_id=2
+        - generic [ref=f432e207]:
+          - generic [ref=f432e210]:
+            - generic [ref=f432e212] [cursor=pointer]:
+              - link [aria-hidden] [ref=f432e213]:
+                - /url: /watch?v=-gcbsu6JYOE
+                - img [ref=f432e219]:
+                  - generic [ref=f432e220]: 1:00:24
+              - generic [ref=f432e222]:
+                - generic [ref=f432e223]:
+                  - heading "House Modeling in sketchup 2021 (Sketchup Tutorial)" [level=3] [ref=f432e224]:
+                    - link "House Modeling in sketchup 2021 (Sketchup Tutorial) 1 hour" [ref=f432e225]:
+                      - /url: /watch?v=-gcbsu6JYOE
+                      - text: House Modeling in sketchup 2021 (Sketchup Tutorial)
+                  - group [ref=f432e228]:
+                    - generic [ref=f432e229]: 947k views
+                    - generic [aria-hidden] [ref=f432e230]: •
+                    - generic "5 years ago" [ref=f432e231]
+                - button "More actions" [ref=f432e234]
+            - generic [ref=f432e239] [cursor=pointer]:
+              - link [aria-hidden] [ref=f432e240]:
+                - /url: /watch?v=Enem1v9qHQQ
+                - img [ref=f432e246]:
+                  - generic [ref=f432e247]: 27:36
+              - generic [ref=f432e249]:
+                - generic [ref=f432e250]:
+                  - heading "How to Render a Floor Plan in Photoshop like a Professional" [level=3] [ref=f432e251]:
+                    - link "How to Render a Floor Plan in Photoshop like a Professional 27 minutes" [ref=f432e252]:
+                      - /url: /watch?v=Enem1v9qHQQ
+                      - text: How to Render a Floor Plan in Photoshop like a Professional
+                  - group [ref=f432e255]:
+                    - generic [ref=f432e256]: 292k views
+                    - generic [aria-hidden] [ref=f432e257]: •
+                    - generic "6 years ago" [ref=f432e258]
+                - button "More actions" [ref=f432e261]
+            - generic [ref=f432e266] [cursor=pointer]:
+              - link [aria-hidden] [ref=f432e267]:
+                - /url: /watch?v=p48_oTe2ccQ
+                - img [ref=f432e273]:
+                  - generic [ref=f432e274]: 4:41
+              - generic [ref=f432e276]:
+                - generic [ref=f432e277]:
+                  - heading "Easy Grasshopper Tutorial for Beginners | Rhino" [level=3] [ref=f432e278]:
+                    - link "Easy Grasshopper Tutorial for Beginners | Rhino 4 minutes, 41 seconds" [ref=f432e279]:
+                      - /url: /watch?v=p48_oTe2ccQ
+                      - text: Easy Grasshopper Tutorial for Beginners | Rhino
+                  - group [ref=f432e282]:
+                    - generic [ref=f432e283]: 204k views
+                    - generic [aria-hidden] [ref=f432e284]: •
+                    - generic "6 years ago" [ref=f432e285]
+                - button "More actions" [ref=f432e288]
+            - generic [ref=f432e293] [cursor=pointer]:
+              - link [aria-hidden] [ref=f432e294]:
+                - /url: /watch?v=SXJqEnauNaY
+                - img [ref=f432e300]:
+                  - generic [ref=f432e301]: 2:10
+              - generic [ref=f432e303]:
+                - generic [ref=f432e304]:
+                  - heading "10 brilliant restaurant interior design ideas" [level=3] [ref=f432e305]:
+                    - link "10 brilliant restaurant interior design ideas 2 minutes, 10 seconds" [ref=f432e306]:
+                      - /url: /watch?v=SXJqEnauNaY
+                      - text: 10 brilliant restaurant interior design ideas
+                  - group [ref=f432e309]:
+                    - generic [ref=f432e310]: 200k views
+                    - generic [aria-hidden] [ref=f432e311]: •
+                    - generic "6 years ago" [ref=f432e312]
+                - button "More actions" [ref=f432e315]
+            - generic [ref=f432e320] [cursor=pointer]:
+              - link [aria-hidden] [ref=f432e321]:
+                - /url: /watch?v=mAGn_MHCzEQ
+                - img [ref=f432e327]:
+                  - generic [ref=f432e328]: 3:38
+              - generic [ref=f432e330]:
+                - generic [ref=f432e331]:
+                  - heading "Sketchup to Revit Export with Materials" [level=3] [ref=f432e332]:
+                    - link "Sketchup to Revit Export with Materials 3 minutes, 38 seconds" [ref=f432e333]:
+                      - /url: /watch?v=mAGn_MHCzEQ
+                      - text: Sketchup to Revit Export with Materials
+                  - group [ref=f432e336]:
+                    - generic [ref=f432e337]: 182k views
+                    - generic [aria-hidden] [ref=f432e338]: •
+                    - generic "6 years ago" [ref=f432e339]
+                - button "More actions" [ref=f432e342]
+            - generic [ref=f432e347] [cursor=pointer]:
+              - link [aria-hidden] [ref=f432e348]:
+                - /url: /watch?v=w9DXmdGUnEs&pp=0gcJCSQMAYcqIYzv
+                - img [ref=f432e354]:
+                  - generic [ref=f432e355]: 9:22
+              - generic [ref=f432e357]:
+                - generic [ref=f432e358]:
+                  - heading "Parametric Modeling in Sketchup || Architutors" [level=3] [ref=f432e359]:
+                    - link "Parametric Modeling in Sketchup || Architutors 9 minutes, 22 seconds" [ref=f432e360]:
+                      - /url: /watch?v=w9DXmdGUnEs&pp=0gcJCSQMAYcqIYzv
+                      - text: Parametric Modeling in Sketchup || Architutors
+                  - group [ref=f432e363]:
+                    - generic [ref=f432e364]: 165k views
+                    - generic [aria-hidden] [ref=f432e365]: •
+                    - generic "8 years ago" [ref=f432e366]
+                - button "More actions" [ref=f432e369]
+          - button "Next" [ref=f432e375] [cursor=pointer]
+      - generic [ref=f432e382]:
+        - generic [ref=f432e383]:
+          - heading [level=2] [ref=f432e385]:
+            - link "AI in Architecture" [ref=f432e388] [cursor=pointer]:
+              - /url: /playlist?list=PLEpANUutWGxDpxz4rqyOcHKXZ2kmOOuqc
+            - link "Play all" [ref=f432e393] [cursor=pointer]:
+              - /url: /watch?v=e3rkCeuEED8&list=PLEpANUutWGxDpxz4rqyOcHKXZ2kmOOuqc
+          - generic [ref=f432e397]: "Explore the evolving intersection of artificial intelligence and architectural design. This playlist dives deep into how AI is reshaping workflows, visualization, rendering, and conceptual thinking in architecture—from generative design tools to data-driven planning. Whether you're a student, professional, or curious innovator, discover tutorials, trends, and tools that reveal how AI is not just supporting architecture—it’s becoming part of its foundation. Tags: #aiinarchitecture #aitrendsinarchitecture #aiimplementationinarchitecture #aiisarchitecture #aiarchitecture #aiforarchitecture #careerinarchitecture #aidataarchitecture #aiarchitecturedrawing #aiarchitecturedesign #aiarchitecturerender #bestaiforarchitecture #aigeneratedarchitecture #aiforarchitecturedesign #aiarchitecturegenerator #generativeaiarchitecture #aiarchitecturedesignsoftware #aiarchitecturedesigntutorial #lessonsforstudentsinarchitecture #architecturalai"
+        - generic [ref=f432e402]:
+          - generic [ref=f432e404] [cursor=pointer]:
+            - link [aria-hidden] [ref=f432e405]:
+              - /url: /watch?v=e3rkCeuEED8
+              - img [ref=f432e411]:
+                - generic [ref=f432e412]: 9:16
+            - generic [ref=f432e414]:
+              - generic [ref=f432e415]:
+                - 'heading "AI Architecture: Create Interactive 360 Renders in Minutes" [level=3] [ref=f432e416]':
+                  - 'link "AI Architecture: Create Interactive 360 Renders in Minutes 9 minutes, 16 seconds" [ref=f432e417]':
+                    - /url: /watch?v=e3rkCeuEED8
+                    - text: "AI Architecture: Create Interactive 360 Renders in Minutes"
+                - generic [ref=f432e419]:
+                  - group [ref=f432e420]:
+                    - link "architutors" [ref=f432e423]:
+                      - /url: /@architutors
+                  - group [ref=f432e424]:
+                    - generic [ref=f432e425]: 258 views
+                    - generic [aria-hidden] [ref=f432e426]: •
+                    - generic "12 hours ago" [ref=f432e427]
+                  - group [ref=f432e428]:
+                    - img "Closed captions" [ref=f432e431]:
+                      - generic [ref=f432e432]: Subtitles
+              - button "More actions" [ref=f432e435]
+          - generic [ref=f432e440] [cursor=pointer]:
+            - link [aria-hidden] [ref=f432e441]:
+              - /url: /watch?v=B36QiacIVS4
+              - img [ref=f432e447]:
+                - generic [ref=f432e448]: 2:51
+            - generic [ref=f432e450]:
+              - generic [ref=f432e451]:
+                - heading "I Used AI to Model a Geodesic Dome in SketchUp In Seconds!" [level=3] [ref=f432e452]:
+                  - link "I Used AI to Model a Geodesic Dome in SketchUp In Seconds! 2 minutes, 51 seconds" [ref=f432e453]:
+                    - /url: /watch?v=B36QiacIVS4
+                    - text: I Used AI to Model a Geodesic Dome in SketchUp In Seconds!
+                - generic [ref=f432e455]:
+                  - group [ref=f432e456]:
+                    - link "architutors" [ref=f432e459]:
+                      - /url: /@architutors
+                  - group [ref=f432e460]:
+                    - generic [ref=f432e461]: 887 views
+                    - generic [aria-hidden] [ref=f432e462]: •
+                    - generic "2 weeks ago" [ref=f432e463]
+                  - group [ref=f432e464]:
+                    - img "Closed captions" [ref=f432e467]:
+                      - generic [ref=f432e468]: Subtitles
+              - button "More actions" [ref=f432e471]
+          - generic [ref=f432e476] [cursor=pointer]:
+            - link [aria-hidden] [ref=f432e477]:
+              - /url: /watch?v=zT6Z_WAaIeQ&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f432e483]:
+                - generic [ref=f432e484]: 6:37
+            - generic [ref=f432e486]:
+              - generic [ref=f432e487]:
+                - heading "ComfyUI Depth Guided Lighting How to Relight 3D Renders with AI" [level=3] [ref=f432e488]:
+                  - link "ComfyUI Depth Guided Lighting How to Relight 3D Renders with AI 6 minutes, 37 seconds" [ref=f432e489]:
+                    - /url: /watch?v=zT6Z_WAaIeQ&pp=0gcJCSQMAYcqIYzv
+                    - text: ComfyUI Depth Guided Lighting How to Relight 3D Renders with AI
+                - generic [ref=f432e491]:
+                  - group [ref=f432e492]:
+                    - link "architutors" [ref=f432e495]:
+                      - /url: /@architutors
+                  - group [ref=f432e496]:
+                    - generic [ref=f432e497]: 797 views
+                    - generic [aria-hidden] [ref=f432e498]: •
+                    - generic "1 month ago" [ref=f432e499]
+              - button "More actions" [ref=f432e502]
+          - generic [ref=f432e507] [cursor=pointer]:
+            - link [aria-hidden] [ref=f432e508]:
+              - /url: /watch?v=FZRWSWxIghs
+              - img [ref=f432e514]:
+                - generic [ref=f432e515]: 3:59
+            - generic [ref=f432e517]:
+              - generic [ref=f432e518]:
+                - 'heading "SketchUp + AI: Generate Complex 3D Voronoi in Seconds!" [level=3] [ref=f432e519]':
+                  - 'link "SketchUp + AI: Generate Complex 3D Voronoi in Seconds! 3 minutes, 59 seconds" [ref=f432e520]':
+                    - /url: /watch?v=FZRWSWxIghs
+                    - text: "SketchUp + AI: Generate Complex 3D Voronoi in Seconds!"
+                - generic [ref=f432e522]:
+                  - group [ref=f432e523]:
+                    - link "architutors" [ref=f432e526]:
+                      - /url: /@architutors
+                  - group [ref=f432e527]:
+                    - generic [ref=f432e528]: 551 views
+                    - generic [aria-hidden] [ref=f432e529]: •
+                    - generic "1 month ago" [ref=f432e530]
+                  - group [ref=f432e531]:
+                    - img "Closed captions" [ref=f432e534]:
+                      - generic [ref=f432e535]: Subtitles
+              - button "More actions" [ref=f432e538]
+          - generic [ref=f432e543] [cursor=pointer]:
+            - link [aria-hidden] [ref=f432e544]:
+              - /url: /watch?v=dAuuBDPStYY
+              - img [ref=f432e550]:
+                - generic [ref=f432e551]: 43:06
+            - generic [ref=f432e553]:
+              - generic [ref=f432e554]:
+                - 'heading "I Automated SketchUp with AI (Full Masterclass: CAD to 3D, Parametric Modeling & Extensions)" [level=3] [ref=f432e555]':
+                  - 'link "I Automated SketchUp with AI (Full Masterclass: CAD to 3D, Parametric Modeling & Extensions) 43 minutes" [ref=f432e556]':
+                    - /url: /watch?v=dAuuBDPStYY
+                    - text: "I Automated SketchUp with AI (Full Masterclass: CAD to 3D, Parametric Modeling & Extensions)"
+                - generic [ref=f432e558]:
+                  - group [ref=f432e559]:
+                    - link "architutors" [ref=f432e562]:
+                      - /url: /@architutors
+                  - group [ref=f432e563]:
+                    - generic [ref=f432e564]: 1.2k views
+                    - generic [aria-hidden] [ref=f432e565]: •
+                    - generic "1 month ago" [ref=f432e566]
+                  - group [ref=f432e567]:
+                    - img "Closed captions" [ref=f432e570]:
+                      - generic [ref=f432e571]: Subtitles
+              - button "More actions" [ref=f432e574]
+          - generic [ref=f432e579] [cursor=pointer]:
+            - link [aria-hidden] [ref=f432e580]:
+              - /url: /watch?v=N4qHy-6zW9s
+              - img [ref=f432e586]:
+                - generic [ref=f432e587]: 4:11
+            - generic [ref=f432e589]:
+              - generic [ref=f432e590]:
+                - heading "Stop Modeling Facades Manually! Use This 1-Second AI Script" [level=3] [ref=f432e591]:
+                  - link "Stop Modeling Facades Manually! Use This 1-Second AI Script 4 minutes, 11 seconds" [ref=f432e592]:
+                    - /url: /watch?v=N4qHy-6zW9s
+                    - text: Stop Modeling Facades Manually! Use This 1-Second AI Script
+                - generic [ref=f432e594]:
+                  - group [ref=f432e595]:
+                    - link "architutors" [ref=f432e598]:
+                      - /url: /@architutors
+                  - group [ref=f432e599]:
+                    - generic [ref=f432e600]: 380 views
+                    - generic [aria-hidden] [ref=f432e601]: •
+                    - generic "1 month ago" [ref=f432e602]
+                  - group [ref=f432e603]:
+                    - img "Closed captions" [ref=f432e606]:
+                      - generic [ref=f432e607]: Subtitles
+              - button "More actions" [ref=f432e610]

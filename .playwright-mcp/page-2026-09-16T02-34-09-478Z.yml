@@ -1,0 +1,35 @@
+- generic [active] [ref=f502e1]:
+  - generic "YouTube Video Player" [ref=f502e5]:
+    - generic [ref=f502e7]:
+      - generic [ref=f502e8] [cursor=pointer]:
+        - slider "Seek slider" [ref=f502e9]
+        - generic:
+          - generic:
+            - generic:
+              - slider "Click or scroll the panel for precise seeking."
+      - generic [ref=f502e20]:
+        - generic [ref=f502e21]:
+          - button "Pause (k)" [ref=f502e22] [cursor=pointer]
+          - generic [ref=f502e23]:
+            - button "Unmute (m)" [ref=f502e25] [cursor=pointer]
+            - slider "Volume":
+              - generic [ref=f502e26] [cursor=pointer]
+          - button "0 Minutes 0 Seconds of 5 Minutes 31 Seconds" [ref=f502e29] [cursor=pointer]: 0:00 / 5:31
+        - generic [ref=f502e30]:
+          - generic [ref=f502e31]:
+            - button "Subtitles/closed captions unavailable" [ref=f502e32] [cursor=pointer]
+            - button "Settings" [ref=f502e34] [cursor=pointer]
+          - generic [ref=f502e35]:
+            - button "Cinema mode (t)" [ref=f502e36] [cursor=pointer]
+            - button "Full screen (f)" [ref=f502e37] [cursor=pointer]
+  - banner [ref=f502e61]:
+    - generic [ref=f502e63]:
+      - generic [ref=f502e64]:
+        - button "Guide" [ref=f502e66] [cursor=pointer]
+        - generic [ref=f502e68]:
+          - link:
+            - /url: /
+      - search [ref=f502e70]:
+        - generic [ref=f502e72]:
+          - combobox [expanded] [ref=f502e75]
+          - button "Search" [ref=f502e76] [cursor=pointer]

@@ -1,0 +1,11 @@
+- banner [ref=f347e3]:
+  - generic [ref=f347e5]:
+    - generic [ref=f347e6]:
+      - button "Guide" [ref=f347e8] [cursor=pointer]
+      - generic [ref=f347e10]:
+        - link:
+          - /url: /
+    - search [ref=f347e12]:
+      - generic [ref=f347e14]:
+        - combobox [expanded] [ref=f347e17]
+        - button "Search" [ref=f347e18] [cursor=pointer]

@@ -1,0 +1,541 @@
+- generic [ref=f473e2]:
+  - banner [ref=f473e4]:
+    - generic [ref=f473e6]:
+      - generic [ref=f473e7]:
+        - button "Guide" [ref=f473e9] [cursor=pointer]
+        - generic [ref=f473e13]:
+          - link "YouTube Home" [ref=f473e14] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f473e20]: IN
+        - button "Skip navigation" [ref=f473e24] [cursor=pointer]
+      - generic [ref=f473e28]:
+        - search [ref=f473e29]:
+          - generic [ref=f473e31]:
+            - combobox "Search" [expanded] [ref=f473e34]
+            - button "Search" [ref=f473e35] [cursor=pointer]
+        - generic [ref=f473e40]:
+          - button "Search with your voice" [ref=f473e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f473e47]:
+        - button "Settings" [ref=f473e52] [cursor=pointer]
+        - link "Sign in" [ref=f473e58] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DD58XyZQp7gA&hl=en-GB&ec=65620
+  - main [ref=f473e63]:
+    - generic [ref=f473e64]:
+      - generic [ref=f473e66]:
+        - generic [ref=f473e69]:
+          - generic [aria-hidden] [ref=f473e72] [cursor=pointer]
+          - complementary [ref=f473e73]:
+            - generic "YouTube Video Player" [active] [ref=f473e76]:
+              - generic [ref=f473e78]:
+                - generic:
+                  - generic [ref=f473e80] [cursor=pointer]:
+                    - generic [ref=f473e83]:
+                      - generic "Direct Your AI Film Scene" [ref=f473e84]
+                      - generic "topview.ai" [ref=f473e85]
+                    - link "Visit site This link opens in new tab" [ref=f473e86]:
+                      - generic [ref=f473e87]: Visit site
+                  - generic [ref=f473e88]:
+                    - generic "Sponsored" [ref=f473e90]
+                    - button "My Ad Centre" [ref=f473e92] [cursor=pointer]
+                    - generic [ref=f473e94]:
+                      - text: •
+                      - generic "1 of 2" [ref=f473e95]
+                    - link "topview.ai This link opens in new tab" [ref=f473e96]:
+                      - generic [ref=f473e97] [cursor=pointer]: topview.ai
+              - generic [ref=f473e100]:
+                - generic [ref=f473e101]:
+                  - slider "Seek slider" [disabled] [ref=f473e102]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - slider "Click or scroll the panel for precise seeking." [disabled]
+                - generic [ref=f473e112]:
+                  - generic [ref=f473e113]:
+                    - button "Pause (k)" [ref=f473e114] [cursor=pointer]
+                    - generic [ref=f473e115]:
+                      - button "Unmute (m)" [ref=f473e117] [cursor=pointer]
+                      - slider "Volume":
+                        - generic [ref=f473e118] [cursor=pointer]
+                    - button "0 Minutes 1 Seconds of 14 Minutes 11 Seconds" [ref=f473e121] [cursor=pointer]: 0:01 / 14:11
+                  - generic [ref=f473e122]:
+                    - generic [ref=f473e123]:
+                      - button "Subtitles/closed captions unavailable" [pressed] [ref=f473e124] [cursor=pointer]
+                      - button "Settings" [ref=f473e126] [cursor=pointer]
+                    - generic [ref=f473e127]:
+                      - button "Cinema mode (t)" [ref=f473e128] [cursor=pointer]
+                      - button "Full screen (f)" [ref=f473e129] [cursor=pointer]
+        - generic [ref=f473e130]:
+          - generic [ref=f473e131]:
+            - generic [ref=f473e133]:
+              - heading "The SECRET Workflows to Convert ANY Image to 3D | Hitem3D Review" [level=1] [ref=f473e136]
+              - generic [ref=f473e137]:
+                - generic [ref=f473e138]:
+                  - generic [ref=f473e139]:
+                    - link [ref=f473e140] [cursor=pointer]:
+                      - /url: /@salmaanarchitect
+                      - img "Salmaan Mohamed" [ref=f473e142]
+                    - generic [ref=f473e143]:
+                      - generic "Salmaan Mohamed" [ref=f473e147]:
+                        - link "Salmaan Mohamed" [ref=f473e148] [cursor=pointer]:
+                          - /url: /@salmaanarchitect
+                      - generic "103 thousand subscribers" [ref=f473e149]: 103k subscribers
+                    - button "Join this channel" [ref=f473e156] [cursor=pointer]:
+                      - generic: Join
+                  - button "Subscribe to Salmaan Mohamed." [ref=f473e171] [cursor=pointer]:
+                    - generic: Subscribe
+                - generic [ref=f473e178]:
+                  - generic [ref=f473e179]:
+                    - generic [ref=f473e189]:
+                      - button "like this video along with 233 other people" [ref=f473e193] [cursor=pointer]:
+                        - generic: "233"
+                      - button "Dislike this video" [ref=f473e200] [cursor=pointer]
+                    - button "Share" [ref=f473e206] [cursor=pointer]
+                  - button "Save to playlist" [ref=f473e213] [cursor=pointer]:
+                    - generic: Save
+                  - button "More actions" [ref=f473e218] [cursor=pointer]
+              - generic [ref=f473e224] [cursor=pointer]:
+                - generic [ref=f473e225]:
+                  - generic [ref=f473e227]:
+                    - text: 1.3m views 5 months ago
+                    - link "#Architecture" [ref=f473e228]:
+                      - /url: /hashtag/architecture
+                    - link "#3DModeling" [ref=f473e229]:
+                      - /url: /hashtag/3dmodeling
+                    - link "#AI" [ref=f473e230]:
+                      - /url: /hashtag/ai
+                  - tooltip "tooltip"
+                - generic [ref=f473e231]:
+                  - generic [ref=f473e232]:
+                    - generic [ref=f473e235]:
+                      - text: "🔥 EXCLUSIVE Get 30% off on Hitem3D annual plan. 👉Try Hitem3D:"
+                      - link "https://www.hitem3d.ai/?utm_source=ko..." [ref=f473e237]:
+                        - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRWI5ZjdFVTFneWFSVkZsRHJvSHAtR3xBTl9pYzRlcENnNXhoUVQ4LURSWjVDRnBRaDhfRVFIbnN5UnNZQktMeWNBVWljNjkwc0dGR3NrdHFWd1hYODVQVjB6TjJNVUxDNTIzM29TNlNzODRHZEJuTEpqcHVIbFE0NEN5&q=https%3A%2F%2Fwww.hitem3d.ai%2F%3Futm_source%3Dkoc_kol_YTB%26utm_medium%3Dsign_up%26utm_campaign%3Dsalmaanarchitect&v=D58XyZQp7gA
+                    - generic: …
+                  - button "...more" [ref=f473e238]
+            - text: •
+          - generic [ref=f473e241]:
+            - heading "Comments" [level=2] [ref=f473e245]
+            - generic "loading" [ref=f473e296]
+      - generic [ref=f473e319]:
+        - generic [ref=f473e321]:
+          - generic [ref=f473e324]:
+            - generic [ref=f473e327] [cursor=pointer]
+            - generic [ref=f473e328]:
+              - generic "Sponsored – Direct Your AI Film Scene topview.ai" [ref=f473e330]:
+                - img "ImranX" [ref=f473e337]
+                - generic [ref=f473e338]:
+                  - generic [ref=f473e339]: Direct Your AI Film Scene
+                  - generic [ref=f473e340]:
+                    - generic [ref=f473e342]:
+                      - generic [ref=f473e343]: Sponsored
+                      - text: ·
+                    - generic [ref=f473e344]: topview.ai
+              - button "My Ad Centre" [ref=f473e347] [cursor=pointer]
+              - button [ref=f473e354] [cursor=pointer]
+          - generic [ref=f473e361]:
+            - generic [ref=f473e363]:
+              - generic [ref=f473e365] [cursor=pointer]:
+                - generic [ref=f473e366]: Script to Full Episode
+                - generic [ref=f473e367]:
+                  - generic [ref=f473e368]: Idea or script to finished drama
+                  - generic [ref=f473e369]: No crew, no sets, no editing
+              - generic [ref=f473e371] [cursor=pointer]:
+                - generic [ref=f473e372]: Topview Codex Plugin
+                - generic [ref=f473e373]:
+                  - generic [ref=f473e374]: Create Images and Videos With AI
+                  - generic [ref=f473e375]: Edit Assets in Topview Canvas
+              - generic [ref=f473e377] [cursor=pointer]:
+                - generic [ref=f473e378]: Seedance Unlimited Plan
+                - generic [ref=f473e379]:
+                  - generic [ref=f473e380]: 60-Day Seedance 2.5 Unlimited
+                  - generic [ref=f473e381]: 365 Unlimited Seedance Mini
+              - generic [ref=f473e383] [cursor=pointer]:
+                - generic [ref=f473e384]: Seedance 2.5 API
+                - generic [ref=f473e385]:
+                  - generic [ref=f473e386]: Build with Seedance 2.5.
+                  - generic [ref=f473e387]: Connect video generation to code.
+            - link "Visit site" [ref=f473e390] [cursor=pointer]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C0L11of-pavPCO7STz7sP9ZyQoQic3ObMiQHxnKKSrRZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABt9OtlUGoAwTIAwqqBJwDT9BQ9ph0YgQ2U84yMbMQC6lIsqf_WaTKwBObjkIm9-QpJgF7oRptA0B_yqT4aVLOMj7X10_D5ghAgfkNnGsw4w6WCiDXm90JEuHO3CQ1y-iZ-cmiL4YwrL9mZ_UHUQ9kS0hwPfHcN1tYxY8uWA0NnefZYOvNt3no-DhFzgGw0w1hVqqtE4rw3ScXEgbVHgezdJTvJBdMXDm64f3Yhg6CDGAAHkJ7PG_7oRLS56UwL64M8CeZZMQC-Xdd8CzKplXSwwsqoe6O1XIunBkqPKoNdtdBhVO4V7-odUgXgwC9BHBWzPrkOK1QDt4KdmX44URriRYjq9ROwQd_539ORezoT_r5CMjbZtVPV83zk1cD4Sn-10y812p3USAdQJvbzHQkqt3L9Jqlmq6pxTpCYvDmfC5w_XTiBFtegy10qErlKlqDb05YZ84vyhdSsUAkvkmNw7xS9gbcbDIG28Hr9s1phcUqW5Fd1mnb8R1wifNn6zY-qnZ8pfjkPE7Uov9RKxoKFtTZ88U38OBDyGphMbXcf0sZSJ-h4vGZHnoJ1IgFqKPlpVqgBqEBgAe3i_70G5AHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtzZ3pZaHN6c0ZMWagIAdIILgiAQRABGF4yAoICOg-AY4DAgICAgICAAqqAgBBI2aDSNVAUWIiGlceH8pYDYAHyCB9jYS15dC1ob3N0LXB1Yi0xMzMyNjA2Njg5NDIxNTQxmgkbaHR0cHM6Ly93d3cudG9wdmlldy5haS9ob21lsQm9SsYArwqI08gJA8gJGMgJjwHICcIByAmXApgLAaELR3bFwTRc62K6C0IIARABGAQgASgBMBBAAUgBYABoAHACiAEAmAEBogESCgAYACAAWABgAHAAqAIB2AICqAEB2AEBgAIBiAIFugMCc2nQCxKiDDQqBgoE8N-xAmIRCg9jb20udG9wdmlldy5pb3NqEgoQY29tLnRvcHZpZXcuYWlnY3gAiAEA0gwCEAHaDCUKChCQg47e8cLj6WkSAgEDGg0YqKPlpVog6Ozrk-sFQAFKAhAfmg0BEqoNAklOyA0B0g3SAWh0dHBzOi8vd3d3LnRvcHZpZXcuYWkvaG9tZT91dG1fc291cmNlPWdvb2dsZWFkcyZ1dG1fbWVkaXVtPSZ1dG1fdGVybT0mdXRtX2NvbnRlbnQ9ODI0NDA0MTQ1MjUxJnV0bV9tYXRjaHR5cGU9JnV0bV9wbGFjZW1lbnQ9JnV0bV9jYW1wYWlnbj0wOTEyX1ZpZGVvX0tPTF9JTiZnY2xpZD17Z2NsaWR9JmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDIzODQ0NDk2OLgT____________AbAUAcAVyYCAQNAVAdgVAZAWAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRelFwTKrCsOz7oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIs5eVx4fylgMVtMlzAR11DiSEEAEYASAAEgKULPD_BwE&num=1&cid=CAASwwHkaJ75Evad-73w4PXjge6w3hXp6gq_VpLNgFt8UT6TJB9wLFTkvlhYZ-0nutn-1zCKjSj3E1FmTG_smS7m10TIaVfdPHOlDpIqiZ4dsV-S79ynIjbL_KUqFNqEU52y21Pm-wn8iCoZksQTpb4Juiy_0TFbC39aMz1ri58XnqChfNIu5zMcb2Dr3fiWJZNSjFYCeTgF7r5Tgu5Ecao1Mb_WPrnbL8gsyBQkWmN9GwcGWJ__y1GMO5hP8YpvLwa8CaBXxNY&ad_cpn=%5BAD_CPN%5D&sig=AOD64_3J_ZUyvCvbBxmQTgD3kqf7T3ltFA&label=video_click_to_advertiser_site&ctype=110&ms=%5BCLICK_MS%5D&adclksrc=%5BCLICK_SOURCE%5D
+        - generic [ref=f473e398]:
+          - generic [ref=f473e403]:
+            - generic [ref=f473e404] [cursor=pointer]
+            - generic [ref=f473e407]:
+              - generic [ref=f473e408] [cursor=pointer]:
+                - generic [ref=f473e409]:
+                  - link "Make 3D Models from AI" [ref=f473e412]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CbKyWof-parGKPJ-Pz7sPoOKgsQ2TqZmYiQGC_t2Y7BWwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGIy9meKakCj7xX4Gr_gz6oAwTIAwqqBPECT9Ckj7ZGqErCsn22EDpLLvSfWb04Zrb8p3jPfIN6lRsx71_0iAO1PDnbqykI7ZOVwRa88OD094z_YGRcUxkjkzaOIhlXld6G1r_nhQK8A9RkCPXEcpogf_DYfdDK0ni4tu-yQhSmraMe4HZflkQlJxlBJiyGl-Oog4Ztbztw0XQsSnD_YvnMNeguO3QDv5_I34tbd_JG5u1ODf_SRSR61s_XMIzJ-UOiXk1GmYpRhZri0-04dWk9YxYrWQvVSrY2ykrOlcFqZN2ugwWRYgf5v6yxr4ouV7DaBeFitXk5eaHBDp1UnGBSNvMocM1iBh7T3j4ArI9Tx3VfNPhvYL9u1MAxC05cnlm5S6DuVcq1kwepF0ZT_lsjn7Gg87LUuK17n9hGCLC34Tb9WVX2ebOKa8Hm5yL6idzv8JEQ1k3j50aDczjshxXRy54_ueD-wsvSSK40vA2-Sipi2mBTmCq6HdM0U8oND3wQ-veE9PgtdaCniAWmoc2_WJIFCggTaAJ4ppD_pgSgBqQBgAeIg6r-A5AHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCC4IgEEQARheMgKCAjoPgGOAwICAgICAgAKqgIAQSNmg0jVQFFiwzJXHh_KWA2AB8ggfY2EteXQtaG9zdC1wdWItMTMzMjYwNjY4OTQyMTU0MZoJFWh0dHBzOi8vd3d3Lm1lc2h5LmFpL7EJBG41vYATvAzICQCYCwGhC0d2xcE0XOtiugs6CAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwJzadALEqIMCCoGCgTw37EC0gwCEAHaDCYKCxCgmObal_mnmrABEgIBAxoNGKahzb9YILGpjYvZBUABSgIQH5oNARKqDQJJTsgNAdINjwFodHRwczovL3d3dy5tZXNoeS5haS8_dXRtX2NvbnRlbnQ9NjcxMTUxNjQxNyZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPTIzNzU1NjkxODg1JmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc1NTcwNjUzNLAOgbqmgBm4E____________wGIFAOwFAHAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXIq1RcwIEj1m6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI8d6Vx4fylgMVn8dzAR0gMSjWEAEYASAAEgILAfD_BwE&num=1&cid=CAASwwHkaNajnT_N9-LTAa84Q4MzKYgedpkTLfOU0_Pd8doY3-TZUlpzeWo-uXCwloOZoQszdZ38tfy2DGET7aUEmRnf0wAke_UhuysCKWO5V5H1Fl7DmoAoHW1p4mzTjhdJGnN_Fw3Hixb5bPCVTdA-xzjFy_3Tu9Z_q1JRH5b28kLIwYbeVXyzAn2342YO80KHlvGKRVn72L5QxH4rSLjshWYakiFrjqBLmFaWFqI5CbfC6DuC3ESgChEZkusfxwXCaBac4SA&sig=AOD64_1MGaxen0dcVF3NDJ__1iAPc4RFGg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - link "Instant 3D models from any image or text prompt. Export to your Game Engine." [ref=f473e415]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CbKyWof-parGKPJ-Pz7sPoOKgsQ2TqZmYiQGC_t2Y7BWwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGIy9meKakCj7xX4Gr_gz6oAwTIAwqqBPECT9Ckj7ZGqErCsn22EDpLLvSfWb04Zrb8p3jPfIN6lRsx71_0iAO1PDnbqykI7ZOVwRa88OD094z_YGRcUxkjkzaOIhlXld6G1r_nhQK8A9RkCPXEcpogf_DYfdDK0ni4tu-yQhSmraMe4HZflkQlJxlBJiyGl-Oog4Ztbztw0XQsSnD_YvnMNeguO3QDv5_I34tbd_JG5u1ODf_SRSR61s_XMIzJ-UOiXk1GmYpRhZri0-04dWk9YxYrWQvVSrY2ykrOlcFqZN2ugwWRYgf5v6yxr4ouV7DaBeFitXk5eaHBDp1UnGBSNvMocM1iBh7T3j4ArI9Tx3VfNPhvYL9u1MAxC05cnlm5S6DuVcq1kwepF0ZT_lsjn7Gg87LUuK17n9hGCLC34Tb9WVX2ebOKa8Hm5yL6idzv8JEQ1k3j50aDczjshxXRy54_ueD-wsvSSK40vA2-Sipi2mBTmCq6HdM0U8oND3wQ-veE9PgtdaCniAWmoc2_WJIFCggTaAJ4ppD_pgSgBqQBgAeIg6r-A5AHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCC4IgEEQARheMgKCAjoPgGOAwICAgICAgAKqgIAQSNmg0jVQFFiwzJXHh_KWA2AB8ggfY2EteXQtaG9zdC1wdWItMTMzMjYwNjY4OTQyMTU0MZoJFWh0dHBzOi8vd3d3Lm1lc2h5LmFpL7EJBG41vYATvAzICQCYCwGhC0d2xcE0XOtiugs6CAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwJzadALEqIMCCoGCgTw37EC0gwCEAHaDCYKCxCgmObal_mnmrABEgIBAxoNGKahzb9YILGpjYvZBUABSgIQH5oNARKqDQJJTsgNAdINjwFodHRwczovL3d3dy5tZXNoeS5haS8_dXRtX2NvbnRlbnQ9NjcxMTUxNjQxNyZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPTIzNzU1NjkxODg1JmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc1NTcwNjUzNLAOgbqmgBm4E____________wGIFAOwFAHAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXIq1RcwIEj1m6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI8d6Vx4fylgMVn8dzAR0gMSjWEAEYASAAEgILAfD_BwE&num=1&cid=CAASwwHkaNajnT_N9-LTAa84Q4MzKYgedpkTLfOU0_Pd8doY3-TZUlpzeWo-uXCwloOZoQszdZ38tfy2DGET7aUEmRnf0wAke_UhuysCKWO5V5H1Fl7DmoAoHW1p4mzTjhdJGnN_Fw3Hixb5bPCVTdA-xzjFy_3Tu9Z_q1JRH5b28kLIwYbeVXyzAn2342YO80KHlvGKRVn72L5QxH4rSLjshWYakiFrjqBLmFaWFqI5CbfC6DuC3ESgChEZkusfxwXCaBac4SA&sig=AOD64_1MGaxen0dcVF3NDJ__1iAPc4RFGg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - generic [ref=f473e416]:
+                    - generic [ref=f473e418]:
+                      - generic [ref=f473e419]: Sponsored
+                      - text: ·
+                    - generic [ref=f473e420]: Meshy.AI
+                - button "My Ad Centre" [ref=f473e424]
+              - link "Subscribe" [ref=f473e429] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CbKyWof-parGKPJ-Pz7sPoOKgsQ2TqZmYiQGC_t2Y7BWwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGIy9meKakCj7xX4Gr_gz6oAwTIAwqqBPECT9Ckj7ZGqErCsn22EDpLLvSfWb04Zrb8p3jPfIN6lRsx71_0iAO1PDnbqykI7ZOVwRa88OD094z_YGRcUxkjkzaOIhlXld6G1r_nhQK8A9RkCPXEcpogf_DYfdDK0ni4tu-yQhSmraMe4HZflkQlJxlBJiyGl-Oog4Ztbztw0XQsSnD_YvnMNeguO3QDv5_I34tbd_JG5u1ODf_SRSR61s_XMIzJ-UOiXk1GmYpRhZri0-04dWk9YxYrWQvVSrY2ykrOlcFqZN2ugwWRYgf5v6yxr4ouV7DaBeFitXk5eaHBDp1UnGBSNvMocM1iBh7T3j4ArI9Tx3VfNPhvYL9u1MAxC05cnlm5S6DuVcq1kwepF0ZT_lsjn7Gg87LUuK17n9hGCLC34Tb9WVX2ebOKa8Hm5yL6idzv8JEQ1k3j50aDczjshxXRy54_ueD-wsvSSK40vA2-Sipi2mBTmCq6HdM0U8oND3wQ-veE9PgtdaCniAWmoc2_WJIFCggTaAJ4ppD_pgSgBqQBgAeIg6r-A5AHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCC4IgEEQARheMgKCAjoPgGOAwICAgICAgAKqgIAQSNmg0jVQFFiwzJXHh_KWA2AB8ggfY2EteXQtaG9zdC1wdWItMTMzMjYwNjY4OTQyMTU0MZoJFWh0dHBzOi8vd3d3Lm1lc2h5LmFpL7EJBG41vYATvAzICQCYCwGhC0d2xcE0XOtiugs6CAEQBRgWIAgoATAaQAFIAFgBYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwJzadALEqIMCCoGCgTw37EC0gwCEAHaDCYKCxCgmObal_mnmrABEgIBAxoNGKahzb9YILGpjYvZBUABSgIQH5oNARKqDQJJTsgNAdINjwFodHRwczovL3d3dy5tZXNoeS5haS8_dXRtX2NvbnRlbnQ9NjcxMTUxNjQxNyZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBtYXgmdXRtX2NhbXBhaWduPTIzNzU1NjkxODg1JmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzc1NTcwNjUzNLAOgbqmgBm4E____________wGIFAOwFAHAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXIq1RcwIEj1m6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI8d6Vx4fylgMVn8dzAR0gMSjWEAEYASAAEgILAfD_BwE&num=1&cid=CAASwwHkaNajnT_N9-LTAa84Q4MzKYgedpkTLfOU0_Pd8doY3-TZUlpzeWo-uXCwloOZoQszdZ38tfy2DGET7aUEmRnf0wAke_UhuysCKWO5V5H1Fl7DmoAoHW1p4mzTjhdJGnN_Fw3Hixb5bPCVTdA-xzjFy_3Tu9Z_q1JRH5b28kLIwYbeVXyzAn2342YO80KHlvGKRVn72L5QxH4rSLjshWYakiFrjqBLmFaWFqI5CbfC6DuC3ESgChEZkusfxwXCaBac4SA&sig=AOD64_1MGaxen0dcVF3NDJ__1iAPc4RFGg&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+          - generic [ref=f473e434] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e435]:
+              - /url: /watch?v=6IYOKjZCWlI&pp=ugUEEgJlbtIHCQkkDAGHKiGM7w%3D%3D
+              - img [ref=f473e441]:
+                - generic [ref=f473e442]: 6:47
+            - generic [ref=f473e444]:
+              - generic [ref=f473e445]:
+                - heading "5 INSANE Ways to Use Nano Banana for Architecture and Interior Design" [level=3] [ref=f473e446]:
+                  - link "5 INSANE Ways to Use Nano Banana for Architecture and Interior Design 6 minutes, 47 seconds" [ref=f473e447]:
+                    - /url: /watch?v=6IYOKjZCWlI&pp=ugUEEgJlbtIHCQkkDAGHKiGM7w%3D%3D
+                    - text: 5 INSANE Ways to Use Nano Banana for Architecture and Interior Design
+                - generic [ref=f473e449]:
+                  - group [ref=f473e450]:
+                    - generic [ref=f473e451]: Nuno Silva
+                  - group [ref=f473e457]:
+                    - generic "246 thousand views" [ref=f473e461]: 246k
+                    - generic "10 months ago" [ref=f473e462]: 10 mo ago
+              - button "More actions" [ref=f473e465]
+          - generic [ref=f473e470] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e471]:
+              - /url: /watch?v=uYy8iV-k0p8&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e477]:
+                - generic [ref=f473e478]: 11:39
+            - generic [ref=f473e480]:
+              - generic [ref=f473e481]:
+                - heading "I Tested GPT Astra in Rhino & Grasshopper — This Is Crazy" [level=3] [ref=f473e482]:
+                  - link "I Tested GPT Astra in Rhino & Grasshopper — This Is Crazy 11 minutes, 39 seconds" [ref=f473e483]:
+                    - /url: /watch?v=uYy8iV-k0p8&pp=ugUEEgJlbg%3D%3D
+                    - text: I Tested GPT Astra in Rhino & Grasshopper — This Is Crazy
+                - generic [ref=f473e485]:
+                  - group [ref=f473e486]:
+                    - generic [ref=f473e487]: 3D Beast
+                  - group [ref=f473e488]:
+                    - generic "100 thousand views" [ref=f473e492]: 100k
+                    - generic "4 days ago" [ref=f473e493]
+                  - group [ref=f473e494]:
+                    - generic [ref=f473e495]: New
+              - button "More actions" [ref=f473e501]
+          - generic [ref=f473e506] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e507]:
+              - /url: /watch?v=OC0M6OYp4GU&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e513]:
+                - generic [ref=f473e514]: 10:39
+            - generic [ref=f473e516]:
+              - generic [ref=f473e517]:
+                - heading "The ONLY Way To Create Realistic AI Avatars That Look & Sound Like You (Using Zoice)" [level=3] [ref=f473e518]:
+                  - link "The ONLY Way To Create Realistic AI Avatars That Look & Sound Like You (Using Zoice) 10 minutes, 39 seconds" [ref=f473e519]:
+                    - /url: /watch?v=OC0M6OYp4GU&pp=ugUEEgJlbg%3D%3D
+                    - text: The ONLY Way To Create Realistic AI Avatars That Look & Sound Like You (Using Zoice)
+                - generic [ref=f473e521]:
+                  - group [ref=f473e522]:
+                    - generic [ref=f473e523]: AI Stack
+                  - group [ref=f473e524]:
+                    - generic "176 views" [ref=f473e528]: "176"
+                    - generic "3 days ago" [ref=f473e529]
+                  - group [ref=f473e530]:
+                    - generic [ref=f473e531]: New
+              - button "More actions" [ref=f473e537]
+          - generic [ref=f473e542] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e543]:
+              - /url: /watch?v=FGJ1RpAXsxA&t=4s&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e551]:
+                - generic [ref=f473e552]: 7:52
+            - generic [ref=f473e554]:
+              - generic [ref=f473e555]:
+                - heading "Turn AutoCAD Floor Plans into Stunning AI Renders" [level=3] [ref=f473e556]:
+                  - link "Turn AutoCAD Floor Plans into Stunning AI Renders 7 minutes, 52 seconds" [ref=f473e557]:
+                    - /url: /watch?v=FGJ1RpAXsxA&t=4s&pp=ugUEEgJlbg%3D%3D
+                    - text: Turn AutoCAD Floor Plans into Stunning AI Renders
+                - generic [ref=f473e559]:
+                  - group [ref=f473e560]:
+                    - generic [ref=f473e561]: Salmaan Mohamed
+                  - group [ref=f473e562]:
+                    - generic "7.5 thousand views" [ref=f473e566]: 7.5k
+                    - generic "1 month ago" [ref=f473e567]: 1 mo ago
+              - button "More actions" [ref=f473e570]
+          - generic [ref=f473e575] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e576]:
+              - /url: /watch?v=LRTuv2-JsrQ&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e582]:
+                - generic [ref=f473e583]: 11:55
+            - generic [ref=f473e585]:
+              - generic [ref=f473e586]:
+                - heading "Turn Photo into a 3D Model in Seconds! | Testing Hitem3D (Architecture Version)" [level=3] [ref=f473e587]:
+                  - link "Turn Photo into a 3D Model in Seconds! | Testing Hitem3D (Architecture Version) 11 minutes, 55 seconds" [ref=f473e588]:
+                    - /url: /watch?v=LRTuv2-JsrQ&pp=ugUEEgJlbg%3D%3D
+                    - text: Turn Photo into a 3D Model in Seconds! | Testing Hitem3D (Architecture Version)
+                - generic [ref=f473e590]:
+                  - group [ref=f473e591]:
+                    - generic [ref=f473e592]: Mr Rhino3D
+                  - group [ref=f473e593]:
+                    - generic "3.6 thousand views" [ref=f473e597]: 3.6k
+                    - generic "9 months ago" [ref=f473e598]: 9 mo ago
+              - button "More actions" [ref=f473e601]
+          - generic [ref=f473e606] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e607]:
+              - /url: /watch?v=KthZCHEymEA&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f473e613]:
+                - generic [ref=f473e614]: 2:53
+            - generic [ref=f473e616]:
+              - generic [ref=f473e617]:
+                - 'heading "Create Exploded Site Diagrams in 3 Mins with AI #airilab #aiarchitecture #ai #aitutorial #site" [level=3] [ref=f473e618]':
+                  - 'link "Create Exploded Site Diagrams in 3 Mins with AI #airilab #aiarchitecture #ai #aitutorial #site 2 minutes, 53 seconds" [ref=f473e619]':
+                    - /url: /watch?v=KthZCHEymEA&pp=0gcJCSQMAYcqIYzv
+                    - text: "Create Exploded Site Diagrams in 3 Mins with AI #airilab #aiarchitecture #ai #aitutorial #site"
+                - generic [ref=f473e621]:
+                  - group [ref=f473e622]:
+                    - generic [ref=f473e623]: AIRIlab.
+                  - group [ref=f473e624]:
+                    - generic "3.5 thousand views" [ref=f473e628]: 3.5k
+                    - generic "3 months ago" [ref=f473e629]: 3 mo ago
+              - button "More actions" [ref=f473e632]
+          - generic [ref=f473e637] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e638]:
+              - /url: /watch?v=la8Ml1fQfOg&pp=ugUHEgVlbi1VU9IHCQkkDAGHKiGM7w%3D%3D
+              - img [ref=f473e644]:
+                - generic [ref=f473e645]: 18:15
+            - generic [ref=f473e647]:
+              - generic [ref=f473e648]:
+                - heading "Architects Are Switching to Claude | Here's Why - FULL Guide" [level=3] [ref=f473e649]:
+                  - link "Architects Are Switching to Claude | Here's Why - FULL Guide 18 minutes" [ref=f473e650]:
+                    - /url: /watch?v=la8Ml1fQfOg&pp=ugUHEgVlbi1VU9IHCQkkDAGHKiGM7w%3D%3D
+                    - text: Architects Are Switching to Claude | Here's Why - FULL Guide
+                - generic [ref=f473e652]:
+                  - group [ref=f473e653]:
+                    - generic [ref=f473e654]: Urban Decoders
+                  - group [ref=f473e655]:
+                    - generic "115 thousand views" [ref=f473e659]: 115k
+                    - generic "1 month ago" [ref=f473e660]: 1 mo ago
+              - button "More actions" [ref=f473e663]
+          - generic [ref=f473e668] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e669]:
+              - /url: /watch?v=Ur1TamXxJqw&pp=ugUHEgVlbi1VUw%3D%3D
+              - img [ref=f473e675]:
+                - generic [ref=f473e676]: 5:17
+            - generic [ref=f473e678]:
+              - generic [ref=f473e679]:
+                - 'heading "I Tried Nano Banana AI: Free 3D Building from Just a Photo!" [level=3] [ref=f473e680]':
+                  - 'link "I Tried Nano Banana AI: Free 3D Building from Just a Photo! 5 minutes, 17 seconds" [ref=f473e681]':
+                    - /url: /watch?v=Ur1TamXxJqw&pp=ugUHEgVlbi1VUw%3D%3D
+                    - text: "I Tried Nano Banana AI: Free 3D Building from Just a Photo!"
+                - generic [ref=f473e683]:
+                  - group [ref=f473e684]:
+                    - generic [ref=f473e685]: LandSpace Architecture
+                  - group [ref=f473e686]:
+                    - generic "508 thousand views" [ref=f473e690]: 508k
+                    - generic "1 year ago" [ref=f473e691]: 1 yr ago
+              - button "More actions" [ref=f473e694]
+          - generic [ref=f473e699] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e700]:
+              - /url: /watch?v=OoGW0Agv4kk&pp=ugUHEgVlbi1HQg%3D%3D
+              - img [ref=f473e706]:
+                - generic [ref=f473e707]: 11:43
+            - generic [ref=f473e709]:
+              - generic [ref=f473e710]:
+                - heading "This AI Tool should be banned - ArchViz on another level" [level=3] [ref=f473e711]:
+                  - link "This AI Tool should be banned - ArchViz on another level 11 minutes, 43 seconds" [ref=f473e712]:
+                    - /url: /watch?v=OoGW0Agv4kk&pp=ugUHEgVlbi1HQg%3D%3D
+                    - text: This AI Tool should be banned - ArchViz on another level
+                - generic [ref=f473e714]:
+                  - group [ref=f473e715]:
+                    - generic [ref=f473e716]: VizAcademy UK
+                  - group [ref=f473e717]:
+                    - generic "71 thousand views" [ref=f473e721]: 71k
+                    - generic "7 months ago" [ref=f473e722]: 7 mo ago
+              - button "More actions" [ref=f473e725]
+          - generic [ref=f473e730] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e731]:
+              - /url: /watch?v=lEfSoR5JCaQ&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e737]:
+                - generic [ref=f473e738]: 14:49
+            - generic [ref=f473e740]:
+              - generic [ref=f473e741]:
+                - heading "3 AI workflows I actually use as an Architect" [level=3] [ref=f473e742]:
+                  - link "3 AI workflows I actually use as an Architect 14 minutes, 49 seconds" [ref=f473e743]:
+                    - /url: /watch?v=lEfSoR5JCaQ&pp=ugUEEgJlbg%3D%3D
+                    - text: 3 AI workflows I actually use as an Architect
+                - generic [ref=f473e745]:
+                  - group [ref=f473e746]:
+                    - generic [ref=f473e747]: Show It Better
+                  - group [ref=f473e753]:
+                    - generic "92 thousand views" [ref=f473e757]: 92k
+                    - generic "12 days ago" [ref=f473e758]
+              - button "More actions" [ref=f473e761]
+          - generic [ref=f473e766] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e767]:
+              - /url: /watch?v=KlSwbN8bXvo&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e773]:
+                - generic [ref=f473e774]: 12:26
+            - generic [ref=f473e776]:
+              - generic [ref=f473e777]:
+                - heading "10 ways Architects can use Nano Banana Pro" [level=3] [ref=f473e778]:
+                  - link "10 ways Architects can use Nano Banana Pro 12 minutes, 26 seconds" [ref=f473e779]:
+                    - /url: /watch?v=KlSwbN8bXvo&pp=ugUEEgJlbg%3D%3D
+                    - text: 10 ways Architects can use Nano Banana Pro
+                - generic [ref=f473e781]:
+                  - group [ref=f473e782]:
+                    - generic [ref=f473e783]: The Different Design
+                  - group [ref=f473e784]:
+                    - generic "80 thousand views" [ref=f473e788]: 80k
+                    - generic "8 months ago" [ref=f473e789]: 8 mo ago
+              - button "More actions" [ref=f473e792]
+          - generic [ref=f473e797] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e798]:
+              - /url: /watch?v=3JpEV8cqdzQ&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e804]:
+                - generic [ref=f473e805]: 9:02
+            - generic [ref=f473e807]:
+              - generic [ref=f473e808]:
+                - heading "Seedance 2.0 for Architecture is INSANE! 5 Ways To Use It for 3D Renders!" [level=3] [ref=f473e809]:
+                  - link "Seedance 2.0 for Architecture is INSANE! 5 Ways To Use It for 3D Renders! 9 minutes, 2 seconds" [ref=f473e810]:
+                    - /url: /watch?v=3JpEV8cqdzQ&pp=ugUEEgJlbg%3D%3D
+                    - text: Seedance 2.0 for Architecture is INSANE! 5 Ways To Use It for 3D Renders!
+                - generic [ref=f473e812]:
+                  - group [ref=f473e813]:
+                    - generic [ref=f473e814]: Nuno Silva
+                  - group [ref=f473e820]:
+                    - generic "61 thousand views" [ref=f473e824]: 61k
+                    - generic "5 months ago" [ref=f473e825]: 5 mo ago
+              - button "More actions" [ref=f473e828]
+          - generic [ref=f473e833] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e834]:
+              - /url: /watch?v=griQCHsramI
+              - img [ref=f473e840]:
+                - generic [ref=f473e841]: 11:20
+            - generic [ref=f473e843]:
+              - generic [ref=f473e844]:
+                - 'heading "How to create image in chatgpt for beginners in tamil | #chatgpt #aichatgpt" [level=3] [ref=f473e845]':
+                  - 'link "How to create image in chatgpt for beginners in tamil | #chatgpt #aichatgpt 11 minutes, 20 seconds" [ref=f473e846]':
+                    - /url: /watch?v=griQCHsramI
+                    - text: "How to create image in chatgpt for beginners in tamil | #chatgpt #aichatgpt"
+                - generic [ref=f473e848]:
+                  - group [ref=f473e849]:
+                    - generic [ref=f473e850]: Elite Ashwin
+                  - group [ref=f473e851]:
+                    - generic "37 thousand views" [ref=f473e855]: 37k
+                    - generic "9 months ago" [ref=f473e856]: 9 mo ago
+              - button "More actions" [ref=f473e859]
+          - generic [ref=f473e864] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e865]:
+              - /url: /watch?v=vmVvpKSSxWE&pp=ugUHEgVlbi1VUw%3D%3D
+              - img [ref=f473e871]:
+                - generic [ref=f473e872]: 9:44
+            - generic [ref=f473e874]:
+              - generic [ref=f473e875]:
+                - heading "I Connected Claude AI to Revit - The Results Scared Me" [level=3] [ref=f473e876]:
+                  - link "I Connected Claude AI to Revit - The Results Scared Me 9 minutes, 44 seconds" [ref=f473e877]:
+                    - /url: /watch?v=vmVvpKSSxWE&pp=ugUHEgVlbi1VUw%3D%3D
+                    - text: I Connected Claude AI to Revit - The Results Scared Me
+                - generic [ref=f473e879]:
+                  - group [ref=f473e880]:
+                    - generic [ref=f473e881]: Archi Vlogs
+                  - group [ref=f473e882]:
+                    - generic "151 thousand views" [ref=f473e886]: 151k
+                    - generic "3 months ago" [ref=f473e887]: 3 mo ago
+              - button "More actions" [ref=f473e890]
+          - generic [ref=f473e895] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e896]:
+              - /url: /watch?v=hf5OhriYEek&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e902]:
+                - generic [ref=f473e903]: 7:23
+            - generic [ref=f473e905]:
+              - generic [ref=f473e906]:
+                - heading "This AI Tool Turns a Single Render into a Full Construction Timelapse 😱" [level=3] [ref=f473e907]:
+                  - link "This AI Tool Turns a Single Render into a Full Construction Timelapse 😱 7 minutes, 23 seconds" [ref=f473e908]:
+                    - /url: /watch?v=hf5OhriYEek&pp=ugUEEgJlbg%3D%3D
+                    - text: This AI Tool Turns a Single Render into a Full Construction Timelapse 😱
+                - generic [ref=f473e910]:
+                  - group [ref=f473e911]:
+                    - generic [ref=f473e912]: Salmaan Mohamed
+                  - group [ref=f473e913]:
+                    - generic "261 thousand views" [ref=f473e917]: 261k
+                    - generic "10 months ago" [ref=f473e918]: 10 mo ago
+              - button "More actions" [ref=f473e921]
+          - generic [ref=f473e926] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e927]:
+              - /url: /watch?v=53C0NrgeRz4&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e933]:
+                - generic [ref=f473e934]: 10:47
+            - generic [ref=f473e936]:
+              - generic [ref=f473e937]:
+                - heading "I Found a Way to Control AI Renders Nobody Is Talking About | JSON Prompt for Architecture" [level=3] [ref=f473e938]:
+                  - link "I Found a Way to Control AI Renders Nobody Is Talking About | JSON Prompt for Architecture 10 minutes, 47 seconds" [ref=f473e939]:
+                    - /url: /watch?v=53C0NrgeRz4&pp=ugUEEgJlbg%3D%3D
+                    - text: I Found a Way to Control AI Renders Nobody Is Talking About | JSON Prompt for Architecture
+                - generic [ref=f473e941]:
+                  - group [ref=f473e942]:
+                    - generic [ref=f473e943]: Salmaan Mohamed
+                  - group [ref=f473e944]:
+                    - generic "47 thousand views" [ref=f473e948]: 47k
+                    - generic "5 months ago" [ref=f473e949]: 5 mo ago
+              - button "More actions" [ref=f473e952]
+          - generic [ref=f473e957] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e958]:
+              - /url: /watch?v=rw4SFwleSqA
+              - img [ref=f473e964]:
+                - generic [ref=f473e965]: 17:40
+            - generic [ref=f473e967]:
+              - generic [ref=f473e968]:
+                - heading "Learn AI Basics in 10 Mins | Complete Beginner Guide | Basics to Advanced" [level=3] [ref=f473e969]:
+                  - link "Learn AI Basics in 10 Mins | Complete Beginner Guide | Basics to Advanced 17 minutes" [ref=f473e970]:
+                    - /url: /watch?v=rw4SFwleSqA
+                    - text: Learn AI Basics in 10 Mins | Complete Beginner Guide | Basics to Advanced
+                - generic [ref=f473e972]:
+                  - group [ref=f473e973]:
+                    - generic [ref=f473e974]: CynoHub
+                  - group [ref=f473e975]:
+                    - generic "452 thousand views" [ref=f473e979]: 452k
+                    - generic "2 months ago" [ref=f473e980]: 2 mo ago
+              - button "More actions" [ref=f473e983]
+          - generic [ref=f473e988] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e989]:
+              - /url: /watch?v=t48kkMM3QsY&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e995]:
+                - generic [ref=f473e996]: 16:38
+            - generic [ref=f473e998]:
+              - generic [ref=f473e999]:
+                - heading "Bring ALL your Projects and Ideas to Life!! (Higgsfield ai image generation in 2026)" [level=3] [ref=f473e1000]:
+                  - link "Bring ALL your Projects and Ideas to Life!! (Higgsfield ai image generation in 2026) 16 minutes" [ref=f473e1001]:
+                    - /url: /watch?v=t48kkMM3QsY&pp=ugUEEgJlbg%3D%3D
+                    - text: Bring ALL your Projects and Ideas to Life!! (Higgsfield ai image generation in 2026)
+                - generic [ref=f473e1003]:
+                  - group [ref=f473e1004]:
+                    - generic [ref=f473e1005]: Andrew Chung
+                  - group [ref=f473e1006]:
+                    - generic "669 views" [ref=f473e1010]: "669"
+                    - generic "3 months ago" [ref=f473e1011]: 3 mo ago
+              - button "More actions" [ref=f473e1014]
+          - generic [ref=f473e1019] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e1020]:
+              - /url: /watch?v=f94CnlQ0eq4&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e1026]:
+                - generic [ref=f473e1027]: 16:36
+            - generic [ref=f473e1029]:
+              - generic [ref=f473e1030]:
+                - heading "How does a 3D Printer work? (A1 by Bambu Lab)" [level=3] [ref=f473e1031]:
+                  - link "How does a 3D Printer work? (A1 by Bambu Lab) 16 minutes" [ref=f473e1032]:
+                    - /url: /watch?v=f94CnlQ0eq4&pp=ugUEEgJlbg%3D%3D
+                    - text: How does a 3D Printer work? (A1 by Bambu Lab)
+                - generic [ref=f473e1034]:
+                  - group [ref=f473e1035]:
+                    - generic [ref=f473e1036]: Jared Owen
+                  - group [ref=f473e1042]:
+                    - generic "4 million views" [ref=f473e1046]: 4m
+                    - generic "1 year ago" [ref=f473e1047]: 1 yr ago
+              - button "More actions" [ref=f473e1050]
+          - generic [ref=f473e1055] [cursor=pointer]:
+            - link [aria-hidden] [ref=f473e1056]:
+              - /url: /watch?v=0AX-PD2WCbA&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f473e1062]:
+                - generic [ref=f473e1063]: 15:05
+            - generic [ref=f473e1065]:
+              - generic [ref=f473e1066]:
+                - heading "BEST AI 3D model generator? Meshy vs Tripo in VizMaker" [level=3] [ref=f473e1067]:
+                  - link "BEST AI 3D model generator? Meshy vs Tripo in VizMaker 15 minutes" [ref=f473e1068]:
+                    - /url: /watch?v=0AX-PD2WCbA&pp=ugUEEgJlbg%3D%3D
+                    - text: BEST AI 3D model generator? Meshy vs Tripo in VizMaker
+                - generic [ref=f473e1070]:
+                  - group [ref=f473e1071]:
+                    - generic [ref=f473e1072]: Adrian Mazur and 2 more
+                  - group [ref=f473e1073]:
+                    - generic "4.8 thousand views" [ref=f473e1077]: 4.8k
+                    - generic "6 months ago" [ref=f473e1078]: 6 mo ago
+              - button "More actions" [ref=f473e1081]

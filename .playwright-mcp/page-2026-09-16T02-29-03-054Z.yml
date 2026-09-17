@@ -1,0 +1,98 @@
+- generic [ref=f450e2]:
+  - banner [ref=f450e4]:
+    - generic [ref=f450e6]:
+      - generic [ref=f450e7]:
+        - button "Guide" [active] [ref=f450e9] [cursor=pointer]
+        - generic [ref=f450e11]:
+          - link:
+            - /url: /
+      - search [ref=f450e13]:
+        - generic [ref=f450e15]:
+          - generic [ref=f450e16]:
+            - combobox [expanded] [ref=f450e18]: architect client approved AI render real project
+            - button [ref=f450e20] [cursor=pointer]
+          - button "Search" [ref=f450e25] [cursor=pointer]
+  - navigation [ref=f450e32]
+  - main [ref=f450e34]:
+    - generic [ref=f450e35]:
+      - generic [ref=f450e37]:
+        - generic [ref=f450e40]:
+          - tablist [ref=f450e42]:
+            - tab "All" [selected] [ref=f450e46] [cursor=pointer]
+            - tab "Shorts" [ref=f450e52] [cursor=pointer]
+            - tab "Unwatched" [ref=f450e58] [cursor=pointer]
+            - tab "Watched" [ref=f450e64] [cursor=pointer]
+            - tab "Videos" [ref=f450e70] [cursor=pointer]
+            - tab "Recently uploaded" [ref=f450e76] [cursor=pointer]
+            - tab "Live" [ref=f450e82] [cursor=pointer]
+          - button "Next" [ref=f450e89] [cursor=pointer]
+        - generic [ref=f450e94]:
+          - button "Search filters" [ref=f450e96] [cursor=pointer]:
+            - generic: Filters
+          - tooltip "tooltip"
+      - generic [ref=f450e103]:
+        - generic [ref=f450e118] [cursor=pointer]:
+          - generic [ref=f450e119]:
+            - link "Professional AI Architecture - Render from Sketches & Models - Turn Sketches into Renders" [ref=f450e122]:
+              - /url: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwi68JnxhvKWAxUYgksFHQAXKGgYACICCAEQABoCc2Y&co=1&ase=2&gclid=EAIaIQobChMIuvCZ8YbylgMVGIJLBR0AFyhoEAAYASAAEgK45fD_BwE&cid=CAAS0wHkaDo-vRiLKrc8E7KY0_TZXEEXAH0DGuSL5--3gYOEy6db3UMVyCmwCzP_De760ZvYxlYcjC_2fTtNYjQpsXyikbpZVrrjSAYlAf-ID0_cGDrcSofSBD7cMg13nAyRXYn6KWQgA7FdF77GIeedpr01ZetsFiPI-ZYU7TNkOjKnLiOXzf6zFGly83hApOygLu0SOvPJKcAUgkUlZ8JxfG_G3-M-qXRUcruGZiZKk4-udGxktjhoAWFFCxX5veS0EiY3Ef1GjTKYQC_AofuEYnOEDw-b&cce=2&category=acrcp_v1_32&sig=AOD64_0jdrasu7oF8YEdYBUrFinfOP-AgQ&adurl=https://rerenderai.com/%3Fvia%3Dhau%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D23943507000%26utm_content%3D813147019909%26utm_term%3D%26network%3Ds%26device%3Dc%26devicemodel%3D%26matchtype%3Da%26adposition%3D%26adgroupid%3D196304181983%26gad_source%3D2%26gad_campaignid%3D23943507000%26gclid%3DEAIaIQobChMIuvCZ8YbylgMVGIJLBR0AFyhoEAAYASAAEgK45fD_BwE&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+            - 'link "ReRender AI Architectural Rendering | Fast Visuals for Architects. Highlights: Tutorials Available, Chat Option Available." [ref=f450e125]':
+              - /url: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwi68JnxhvKWAxUYgksFHQAXKGgYACICCAEQABoCc2Y&co=1&ase=2&gclid=EAIaIQobChMIuvCZ8YbylgMVGIJLBR0AFyhoEAAYASAAEgK45fD_BwE&cid=CAAS0wHkaDo-vRiLKrc8E7KY0_TZXEEXAH0DGuSL5--3gYOEy6db3UMVyCmwCzP_De760ZvYxlYcjC_2fTtNYjQpsXyikbpZVrrjSAYlAf-ID0_cGDrcSofSBD7cMg13nAyRXYn6KWQgA7FdF77GIeedpr01ZetsFiPI-ZYU7TNkOjKnLiOXzf6zFGly83hApOygLu0SOvPJKcAUgkUlZ8JxfG_G3-M-qXRUcruGZiZKk4-udGxktjhoAWFFCxX5veS0EiY3Ef1GjTKYQC_AofuEYnOEDw-b&cce=2&category=acrcp_v1_32&sig=AOD64_0jdrasu7oF8YEdYBUrFinfOP-AgQ&adurl=https://rerenderai.com/%3Fvia%3Dhau%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D23943507000%26utm_content%3D813147019909%26utm_term%3D%26network%3Ds%26device%3Dc%26devicemodel%3D%26matchtype%3Da%26adposition%3D%26adgroupid%3D196304181983%26gad_source%3D2%26gad_campaignid%3D23943507000%26gclid%3DEAIaIQobChMIuvCZ8YbylgMVGIJLBR0AFyhoEAAYASAAEgK45fD_BwE&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+            - generic [ref=f450e126]:
+              - generic [ref=f450e128]:
+                - generic [ref=f450e129]: Sponsored
+                - text: ·
+              - generic [ref=f450e130]: https://www.rerenderai.com/
+          - button "My Ad Centre" [ref=f450e134]
+        - generic [ref=f450e139]:
+          - generic [ref=f450e141]:
+            - link [aria-hidden] [ref=f450e143] [cursor=pointer]:
+              - /url: /watch?v=ng9-4WlMRIQ&pp=ygUwYXJjaGl0ZWN0IGNsaWVudCBhcHByb3ZlZCBBSSByZW5kZXIgcmVhbCBwcm9qZWN0
+            - generic [ref=f450e145] [cursor=pointer]:
+              - generic [ref=f450e146]:
+                - heading [level=3] [ref=f450e148]:
+                  - link "No 3D Software Needed?! Edit Renders & Walkthroughs with AI | Runway Aleph for Architects 9 minutes, 13 seconds" [ref=f450e149]:
+                    - /url: /watch?v=ng9-4WlMRIQ&pp=ygUwYXJjaGl0ZWN0IGNsaWVudCBhcHByb3ZlZCBBSSByZW5kZXIgcmVhbCBwcm9qZWN0
+                    - text: No 3D Software Needed?! Edit Renders & Walkthroughs with AI | Runway Aleph for Architects
+                - generic [ref=f450e152]:
+                  - generic [ref=f450e153]: 25k views
+                  - generic [ref=f450e154]: •10 months ago
+              - generic [ref=f450e155]:
+                - link "Go to channel Salmaan Mohamed" [ref=f450e156]:
+                  - /url: /@salmaanarchitect
+                - link "Salmaan Mohamed" [ref=f450e161]:
+                  - /url: /@salmaanarchitect
+              - generic [ref=f450e162]:
+                - generic [ref=f450e163]: "EXCLUSIVE Realistic floor plan rendering with Nano Banana + Photoshop: ..."
+                - tooltip "tooltip"
+              - img "4K" [ref=f450e168]
+              - generic [ref=f450e172]:
+                - generic [ref=f450e173]:
+                  - generic [ref=f450e176]: 7 chapters
+                  - button "Introduction | Getting Started | Relight Videos | Generate New Camera Angle | Virtual Staging Interiors | Changing Elements in Video | Change Designs on Drone Shots" [ref=f450e178]
+                - button "More" [ref=f450e183]
+          - generic [ref=f450e188]:
+            - link [aria-hidden] [ref=f450e190] [cursor=pointer]:
+              - /url: /watch?v=hj4_MWVu0ZA&pp=ygUwYXJjaGl0ZWN0IGNsaWVudCBhcHByb3ZlZCBBSSByZW5kZXIgcmVhbCBwcm9qZWN0
+            - generic [ref=f450e192] [cursor=pointer]:
+              - generic [ref=f450e193]:
+                - heading [level=3] [ref=f450e195]:
+                  - link "4 Best AI Rendering Tools Architects Shouldn't Miss 8 minutes, 29 seconds" [ref=f450e196]:
+                    - /url: /watch?v=hj4_MWVu0ZA&pp=ygUwYXJjaGl0ZWN0IGNsaWVudCBhcHByb3ZlZCBBSSByZW5kZXIgcmVhbCBwcm9qZWN0
+                    - text: 4 Best AI Rendering Tools Architects Shouldn't Miss
+                - generic [ref=f450e199]:
+                  - generic [ref=f450e200]: 16k views
+                  - generic [ref=f450e201]: •4 months ago
+              - generic [ref=f450e202]:
+                - link "Go to channel Melos Azemi" [ref=f450e203]:
+                  - /url: /@MelosAzemi
+                - link "Melos Azemi" [ref=f450e208]:
+                  - /url: /@MelosAzemi
+              - generic [ref=f450e209]:
+                - generic [ref=f450e210]: "Try Synaps for FREE: https://i.synapshq.com/l2emt Get my Prompts for Realistic Renders: https://archuide.com/ Try D5 here: ..."
+                - tooltip "tooltip"
+              - generic [ref=f450e213]:
+                - generic [ref=f450e214]:
+                  - generic [ref=f450e215]: Summary
+                  - button "Melos Azemi examines essential AI-driven software for architectural visualization, focusing on tools that enhance design workflows from conceptualization to final rendering. The overview covers platforms that integrate seamlessly with existing modeling programs, offering solutions for rapid floor plan generation, realistic material creation, and efficient post-production editing." [ref=f450e218]
+                  - text: ·
+                - button "More" [ref=f450e223]

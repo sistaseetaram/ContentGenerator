@@ -1,0 +1,290 @@
+- generic [ref=f453e2]:
+  - banner [ref=f453e4]:
+    - generic [ref=f453e6]:
+      - generic [ref=f453e7]:
+        - button "Guide" [ref=f453e9] [cursor=pointer]
+        - generic [ref=f453e11]:
+          - link "YouTube Home" [ref=f453e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f453e16]: IN
+        - button "Skip navigation" [ref=f453e20] [cursor=pointer]
+      - generic [ref=f453e24]:
+        - search [ref=f453e25]:
+          - generic [ref=f453e27]:
+            - combobox "Search" [expanded] [ref=f453e30]
+            - button "Search" [ref=f453e31] [cursor=pointer]
+        - generic [ref=f453e34]:
+          - button "Search with your voice" [ref=f453e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f453e45]
+  - main [ref=f453e47]:
+    - generic [ref=f453e54]:
+      - generic [ref=f453e70]:
+        - heading "Design Show" [level=1] [ref=f453e72]
+        - generic [ref=f453e73]:
+          - group [ref=f453e74]:
+            - generic [ref=f453e75]: "@DesignShow"
+          - generic [aria-hidden] [ref=f453e76]: •
+          - group [ref=f453e77]:
+            - generic "39.7 thousand subscribers" [ref=f453e78]: 39.7k subscribers
+            - generic [aria-hidden] [ref=f453e79]: •
+            - generic [ref=f453e80]: 356 videos
+        - generic [ref=f453e82] [cursor=pointer]:
+          - generic [ref=f453e83]: Thank you for checking out the About Page of the "Design Show" YouTube Channel.
+          - button "Description. Thank you for checking out the About Page of the \"Design Sho…tap for more." [ref=f453e84]:
+            - generic [ref=f453e85]: ...more
+        - generic [ref=f453e86]:
+          - link [ref=f453e89] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRzdDZ0ZGZlQzdGNZWjFKRjMtU0hKUnxBTl9pYzRmeGZiRnRHZDJrdTRnTlRldi1XRGZyZTgxWE80R2N1d0JVeW5aUjBONDVVTmZ1RkNIenlyTU4yQ1lxNGdSa2J1S3FEdjdnYXR0TWgzLWZkajhhZXBpSEYtX0tIeXox&q=https%3A%2F%2Fwww.designshow.co.in%2F
+          - button "and 4 more links" [ref=f453e94] [cursor=pointer]
+        - button "Subscribe" [ref=f453e98] [cursor=pointer]
+      - tablist [ref=f453e105]:
+        - tablist [ref=f453e109]:
+          - tab "Home" [selected] [ref=f453e110] [cursor=pointer]
+          - tab "Videos" [ref=f453e112] [cursor=pointer]
+          - tab "Shorts" [ref=f453e114] [cursor=pointer]
+          - tab "Live" [ref=f453e116] [cursor=pointer]
+          - tab "Playlists" [ref=f453e118] [cursor=pointer]
+          - tab "Posts" [ref=f453e120] [cursor=pointer]
+          - button "Search" [ref=f453e125] [cursor=pointer]
+    - generic [ref=f453e132]:
+      - generic [ref=f453e139]:
+        - generic [ref=f453e140]:
+          - heading "DesignShow 2.0 – Bigger, Better, and More Creative 4 minutes, 23 seconds" [level=3] [ref=f453e141]:
+            - link "DesignShow 2.0 – Bigger, Better, and More Creative" [ref=f453e142] [cursor=pointer]:
+              - /url: /watch?v=Y1RwkOBwSbM
+          - generic [ref=f453e145]:
+            - generic [ref=f453e146]: 934 views
+            - generic [ref=f453e147]: •11 months ago
+        - generic [ref=f453e148]:
+          - generic [ref=f453e150]:
+            - text: "DesignShow returns with fresh ideas, tutorials, and creative inspiration. From Structure, Architecture and Interior design to powerful visualization tools, we’re ready to explore the world of design together again. 🎨 Stay tuned for new content every week – let’s create something amazing! 👉 Don’t forget to like, share, and subscribe for more design inspiration. -------------------------------------------------------------------------- ✔️ Instagram:"
+            - link "https://www.instagram.com/design_shows/" [ref=f453e151] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRThYOXViazFpOGg5dS1EeDlKdzN3QXxBTl9pYzRmMlZDUXVKNjUyblFXaHB0UmZqQUlld2lNTWQ5N2l5YXMxekhBQkZpSE82M3NSajd2eXdPZ2RBY1plTlh4NWx0bUlwZHJBZHFDbW1zUklKbzB1WmZaUjM3RVFmeDgx&q=https%3A%2F%2Fwww.instagram.com%2Fdesign_shows%2F
+            - text: "✔️ Whatsapp Group for Architect:"
+            - link "https://chat.whatsapp.com/GOM9FL0LhCl..." [ref=f453e152] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSEVsemZzS2NkQW90dWdPaFdtazduM3xBTl9pYzRjRF84S2wxdEozUjZMVC0tUl91bTNreWV4RjN1RG54TThTUFJfdXY1T21POF9EYVdQT2lmVXZFSGlGeDJWRjdUeG96NDItRTc5aGktbWhpU1JWektMMURERlAyT3B1&q=https%3A%2F%2Fchat.whatsapp.com%2FGOM9FL0LhClCz0NoOw9Z0U
+            - text: "✔️ Whatsapp Group for Structure Engg:"
+            - link "https://chat.whatsapp.com/LTwNFZECzCR..." [ref=f453e153] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRXV3MTBKRm5KdXprVFkzdzJ0dk9jdHxBTl9pYzRjcFhVVzl0RndJOUUtOWxrck9QcGZtVnhXNUQzeFM4VERmTTVmRm8yYi1zbDVVX1NZaGZGSU44U2t4UFBrbXFVNnBSQkZ0ZVJCQzRPb1diS2ZFZ25UNHJhUXhGUHdj&q=https%3A%2F%2Fchat.whatsapp.com%2FLTwNFZECzCR5MV1SSg1bB4
+            - text: "✔️ Telegram Group:"
+            - link "https://t.me/designshow_official" [ref=f453e154] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRlljXy1BMlQ1aGFSWXlOVGkxQTVZRnxBTl9pYzRkbVl0RUxLWVpaMHF1VWlEUzBzcjRhMjZYMXlFelBGWTQtZG5DclVrcXZPd3VRa3VrZDdzSWlSbnFLQlBHV28wNTBQVjVPc3JBdXRnQWQ4Ymk2NV9YS2xlUHQ4ZXk2&q=https%3A%2F%2Ft.me%2Fdesignshow_official
+            - text: "✔️ Play store: Coming soon,.... (under development) ✔️ Website: Coming soon,.... (under development)"
+            - link "#DesignShow" [ref=f453e155] [cursor=pointer]:
+              - /url: /hashtag/designshow
+            - link "#Architecture" [ref=f453e156] [cursor=pointer]:
+              - /url: /hashtag/architecture
+            - link "#InteriorDesign" [ref=f453e157] [cursor=pointer]:
+              - /url: /hashtag/interiordesign
+            - link "#Rendering" [ref=f453e158] [cursor=pointer]:
+              - /url: /hashtag/rendering
+          - button [ref=f453e159] [cursor=pointer]:
+            - link "Read more" [ref=f453e161]:
+              - /url: /watch?v=Y1RwkOBwSbM&pp=0gcJCWodAYcqIYzv
+      - generic [ref=f453e165]:
+        - heading [level=2] [ref=f453e168]:
+          - link "Popular videos" [ref=f453e171] [cursor=pointer]:
+            - /url: /@DesignShow/videos?view=0&sort=p&shelf_id=2
+        - generic [ref=f453e174]:
+          - generic [ref=f453e177]:
+            - generic [ref=f453e179] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e180]:
+                - /url: /watch?v=9KS020Cs-TQ
+                - img [ref=f453e186]:
+                  - generic [ref=f453e187]: 18:30
+              - generic [ref=f453e189]:
+                - generic [ref=f453e190]:
+                  - heading "Rendering Architectural Floor Plan In Photoshop || DAY 1 || In HINDI" [level=3] [ref=f453e191]:
+                    - link "Rendering Architectural Floor Plan In Photoshop || DAY 1 || In HINDI 18 minutes" [ref=f453e192]:
+                      - /url: /watch?v=9KS020Cs-TQ
+                      - text: Rendering Architectural Floor Plan In Photoshop || DAY 1 || In HINDI
+                  - group [ref=f453e195]:
+                    - generic [ref=f453e196]: 301k views
+                    - generic [aria-hidden] [ref=f453e197]: •
+                    - generic "5 years ago" [ref=f453e198]
+                - button "More actions" [ref=f453e201]
+            - generic [ref=f453e206] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e207]:
+                - /url: /watch?v=GCmaw7SnahE
+                - img [ref=f453e213]:
+                  - generic [ref=f453e214]: 14:46
+              - generic [ref=f453e216]:
+                - generic [ref=f453e217]:
+                  - heading "Vray for SketchUp Tutorial for Beginners - Day 1" [level=3] [ref=f453e218]:
+                    - link "Vray for SketchUp Tutorial for Beginners - Day 1 14 minutes, 46 seconds" [ref=f453e219]:
+                      - /url: /watch?v=GCmaw7SnahE
+                      - text: Vray for SketchUp Tutorial for Beginners - Day 1
+                  - group [ref=f453e222]:
+                    - generic [ref=f453e223]: 222k views
+                    - generic [aria-hidden] [ref=f453e224]: •
+                    - generic "6 years ago" [ref=f453e225]
+                - button "More actions" [ref=f453e228]
+            - generic [ref=f453e233] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e234]:
+                - /url: /watch?v=mh2r0a_fths
+                - img [ref=f453e240]:
+                  - generic [ref=f453e241]: 14:41
+              - generic [ref=f453e243]:
+                - generic [ref=f453e244]:
+                  - heading "Lumion Tutorial for beginners in hindi - Day 1" [level=3] [ref=f453e245]:
+                    - link "Lumion Tutorial for beginners in hindi - Day 1 14 minutes, 41 seconds" [ref=f453e246]:
+                      - /url: /watch?v=mh2r0a_fths
+                      - text: Lumion Tutorial for beginners in hindi - Day 1
+                  - group [ref=f453e249]:
+                    - generic [ref=f453e250]: 141k views
+                    - generic [aria-hidden] [ref=f453e251]: •
+                    - generic "5 years ago" [ref=f453e252]
+                - button "More actions" [ref=f453e255]
+            - generic [ref=f453e260] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e261]:
+                - /url: /watch?v=ghWEawpT92c
+                - img [ref=f453e267]:
+                  - generic [ref=f453e268]: 18:59
+              - generic [ref=f453e270]:
+                - generic [ref=f453e271]:
+                  - heading "Rendering Architectural Floor Plan In Photoshop || DAY 2 || In HINDI" [level=3] [ref=f453e272]:
+                    - link "Rendering Architectural Floor Plan In Photoshop || DAY 2 || In HINDI 18 minutes" [ref=f453e273]:
+                      - /url: /watch?v=ghWEawpT92c
+                      - text: Rendering Architectural Floor Plan In Photoshop || DAY 2 || In HINDI
+                  - group [ref=f453e276]:
+                    - generic [ref=f453e277]: 116k views
+                    - generic [aria-hidden] [ref=f453e278]: •
+                    - generic "5 years ago" [ref=f453e279]
+                - button "More actions" [ref=f453e282]
+            - generic [ref=f453e287] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e288]:
+                - /url: /watch?v=dFrU-Qi1CdU
+                - img [ref=f453e294]:
+                  - generic [ref=f453e295]: 21:44
+              - generic [ref=f453e297]:
+                - generic [ref=f453e298]:
+                  - heading "Vray for SketchUp Tutorial for Beginners - Day 2" [level=3] [ref=f453e299]:
+                    - link "Vray for SketchUp Tutorial for Beginners - Day 2 21 minutes" [ref=f453e300]:
+                      - /url: /watch?v=dFrU-Qi1CdU
+                      - text: Vray for SketchUp Tutorial for Beginners - Day 2
+                  - group [ref=f453e303]:
+                    - generic [ref=f453e304]: 83k views
+                    - generic [aria-hidden] [ref=f453e305]: •
+                    - generic "6 years ago" [ref=f453e306]
+                - button "More actions" [ref=f453e309]
+            - generic [ref=f453e314] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e315]:
+                - /url: /watch?v=YFBe0Bu9ZUM
+                - img [ref=f453e321]:
+                  - generic [ref=f453e322]: 47:31
+              - generic [ref=f453e324]:
+                - generic [ref=f453e325]:
+                  - 'heading "Realistic Exterior Rendering Vray Sketchup #2" [level=3] [ref=f453e326]':
+                    - 'link "Realistic Exterior Rendering Vray Sketchup #2 47 minutes" [ref=f453e327]':
+                      - /url: /watch?v=YFBe0Bu9ZUM
+                      - text: "Realistic Exterior Rendering Vray Sketchup #2"
+                  - group [ref=f453e330]:
+                    - generic [ref=f453e331]: 81k views
+                    - generic [aria-hidden] [ref=f453e332]: •
+                    - generic "6 years ago" [ref=f453e333]
+                - button "More actions" [ref=f453e336]
+          - button "Next" [ref=f453e342] [cursor=pointer]
+      - generic [ref=f453e349]:
+        - heading [level=2] [ref=f453e352]:
+          - link "Videos" [ref=f453e355] [cursor=pointer]:
+            - /url: /@DesignShow/videos?view=0&sort=dd&shelf_id=3
+        - generic [ref=f453e358]:
+          - generic [ref=f453e361]:
+            - generic [ref=f453e363] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e364]:
+                - /url: /watch?v=zGdQqE2zwl0&pp=0gcJCSQMAYcqIYzv
+                - img [ref=f453e370]:
+                  - generic [ref=f453e371]: 1:08:57
+              - generic [ref=f453e373]:
+                - generic [ref=f453e374]:
+                  - heading "Complete ETABS Tutorial in 1+Hour | Building Design Step by Step" [level=3] [ref=f453e375]:
+                    - link "Complete ETABS Tutorial in 1+Hour | Building Design Step by Step 1 hour, 8 minutes" [ref=f453e376]:
+                      - /url: /watch?v=zGdQqE2zwl0&pp=0gcJCSQMAYcqIYzv
+                      - text: Complete ETABS Tutorial in 1+Hour | Building Design Step by Step
+                  - group [ref=f453e379]:
+                    - generic [ref=f453e380]: 4.5k views
+                    - generic [aria-hidden] [ref=f453e381]: •
+                    - generic "10 months ago" [ref=f453e382]
+                - button "More actions" [ref=f453e385]
+            - generic [ref=f453e390] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e391]:
+                - /url: /watch?v=wZYfncQtNNk
+                - img [ref=f453e397]:
+                  - generic [ref=f453e398]: 18:17
+              - generic [ref=f453e400]:
+                - generic [ref=f453e401]:
+                  - heading "Complete Interior Project with AI | Google AI Studio Tutorial" [level=3] [ref=f453e402]:
+                    - link "Complete Interior Project with AI | Google AI Studio Tutorial 18 minutes" [ref=f453e403]:
+                      - /url: /watch?v=wZYfncQtNNk
+                      - text: Complete Interior Project with AI | Google AI Studio Tutorial
+                  - group [ref=f453e406]:
+                    - generic [ref=f453e407]: 33k views
+                    - generic [aria-hidden] [ref=f453e408]: •
+                    - generic "11 months ago" [ref=f453e409]
+                - button "More actions" [ref=f453e412]
+            - generic [ref=f453e417] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e418]:
+                - /url: /watch?v=APrEh2Y7TfI
+                - img [ref=f453e424]:
+                  - generic [ref=f453e425]: 11:14
+              - generic [ref=f453e427]:
+                - generic [ref=f453e428]:
+                  - 'heading "The End of Slow Renders: Google AI Studio Revolution" [level=3] [ref=f453e429]':
+                    - 'link "The End of Slow Renders: Google AI Studio Revolution 11 minutes, 14 seconds" [ref=f453e430]':
+                      - /url: /watch?v=APrEh2Y7TfI
+                      - text: "The End of Slow Renders: Google AI Studio Revolution"
+                  - group [ref=f453e433]:
+                    - generic [ref=f453e434]: 1k views
+                    - generic [aria-hidden] [ref=f453e435]: •
+                    - generic "11 months ago" [ref=f453e436]
+                - button "More actions" [ref=f453e439]
+            - generic [ref=f453e444] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e445]:
+                - /url: /watch?v=Y1RwkOBwSbM
+                - img [ref=f453e451]:
+                  - generic [ref=f453e452]: 4:23
+              - generic [ref=f453e454]:
+                - generic [ref=f453e455]:
+                  - heading "DesignShow 2.0 – Bigger, Better, and More Creative" [level=3] [ref=f453e456]:
+                    - link "DesignShow 2.0 – Bigger, Better, and More Creative 4 minutes, 23 seconds" [ref=f453e457]:
+                      - /url: /watch?v=Y1RwkOBwSbM
+                      - text: DesignShow 2.0 – Bigger, Better, and More Creative
+                  - group [ref=f453e460]:
+                    - generic [ref=f453e461]: 934 views
+                    - generic [aria-hidden] [ref=f453e462]: •
+                    - generic "11 months ago" [ref=f453e463]
+                - button "More actions" [ref=f453e466]
+            - generic [ref=f453e471] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e472]:
+                - /url: /watch?v=z8OqGsisDUQ
+                - img [ref=f453e478]:
+                  - generic [ref=f453e479]: 1:09:20
+              - generic [ref=f453e481]:
+                - generic [ref=f453e482]:
+                  - heading "VRay 6 for SketchUp - Day 1 in Hindi" [level=3] [ref=f453e483]:
+                    - link "VRay 6 for SketchUp - Day 1 in Hindi 1 hour, 9 minutes" [ref=f453e484]:
+                      - /url: /watch?v=z8OqGsisDUQ
+                      - text: VRay 6 for SketchUp - Day 1 in Hindi
+                  - group [ref=f453e487]:
+                    - generic [ref=f453e488]: 7.7k views
+                    - generic [aria-hidden] [ref=f453e489]: •
+                    - generic "3 years ago" [ref=f453e490]
+                - button "More actions" [ref=f453e493]
+            - generic [ref=f453e498] [cursor=pointer]:
+              - link [aria-hidden] [ref=f453e499]:
+                - /url: /watch?v=ortGdoP3HBk
+                - img [ref=f453e505]:
+                  - generic [ref=f453e506]: 10:44
+              - generic [ref=f453e508]:
+                - generic [ref=f453e509]:
+                  - heading "Why to use VRay for SketchUp as a RENDER engine?" [level=3] [ref=f453e510]:
+                    - link "Why to use VRay for SketchUp as a RENDER engine? 10 minutes, 44 seconds" [ref=f453e511]:
+                      - /url: /watch?v=ortGdoP3HBk
+                      - text: Why to use VRay for SketchUp as a RENDER engine?
+                  - group [ref=f453e514]:
+                    - generic [ref=f453e515]: 2.4k views
+                    - generic [aria-hidden] [ref=f453e516]: •
+                    - generic "3 years ago" [ref=f453e517]
+                - button "More actions" [ref=f453e520]
+          - button "Next" [ref=f453e526] [cursor=pointer]

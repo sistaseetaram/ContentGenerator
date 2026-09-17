@@ -1,0 +1,256 @@
+- generic [active] [ref=f360e1]:
+  - generic [ref=f360e4]:
+    - navigation "Main navigation" [ref=f360e5]:
+      - generic [ref=f360e6]:
+        - link "vidIQ - Home" [ref=f360e7] [cursor=pointer]:
+          - /url: /
+        - list [ref=f360e13]:
+          - listitem [ref=f360e14]:
+            - link [ref=f360e15] [cursor=pointer]:
+              - /url: /features/
+              - paragraph [ref=f360e17]: Features
+          - listitem [ref=f360e21]:
+            - link [ref=f360e22] [cursor=pointer]:
+              - /url: /free-youtube-tools/
+              - paragraph [ref=f360e24]: Free AI Tools
+          - listitem [ref=f360e28]:
+            - link [ref=f360e29] [cursor=pointer]:
+              - /url: /coaching/
+              - paragraph [ref=f360e31]: Coaching
+          - listitem [ref=f360e32]:
+            - link [ref=f360e33] [cursor=pointer]:
+              - /url: /youtube-stats/top/100/
+              - paragraph [ref=f360e35]: Top 100 YouTube Channels
+          - listitem [ref=f360e36]:
+            - link [ref=f360e37] [cursor=pointer]:
+              - /url: "#"
+              - paragraph [ref=f360e39]: Resources
+          - listitem [ref=f360e43]:
+            - link [ref=f360e44] [cursor=pointer]:
+              - /url: /extension/
+              - paragraph [ref=f360e46]: Browser Extension
+          - listitem [ref=f360e47]:
+            - link [ref=f360e48] [cursor=pointer]:
+              - /url: /plans/
+              - paragraph [ref=f360e50]: Pricing
+        - generic [ref=f360e51]:
+          - link "Sign In" [ref=f360e52] [cursor=pointer]:
+            - /url: https://app.vidiq.com/auth/login
+          - button "Sign Up for Free" [ref=f360e54] [cursor=pointer]
+    - main [ref=f360e65]:
+      - generic [ref=f360e67]:
+        - generic [ref=f360e68]:
+          - heading "Pricing & Plans" [level=1] [ref=f360e69]
+          - paragraph [ref=f360e70]: Everything built to help you get more views — and keep growing.
+        - generic [ref=f360e71]:
+          - group "Billing frequency" [ref=f360e72]:
+            - button "Monthly" [ref=f360e74]
+            - button "Yearly" [pressed] [ref=f360e75]
+          - generic [ref=f360e76]: Save more with yearly. Cancel anytime.
+        - generic [ref=f360e77]:
+          - generic [ref=f360e79]:
+            - generic [ref=f360e80]:
+              - heading "Free" [level=3] [ref=f360e81]
+              - paragraph [ref=f360e82]: Test drive powerful creator tools
+            - generic [ref=f360e83]: $0
+            - generic [ref=f360e87]:
+              - link "Start for Free" [ref=f360e88] [cursor=pointer]:
+                - /url: /signup/
+              - paragraph [ref=f360e90]: Core tools included. Upgrade anytime.
+            - list [ref=f360e91]:
+              - listitem [ref=f360e92]:
+                - generic [ref=f360e95]: 150 AI Credits every month
+              - listitem [ref=f360e96]:
+                - generic [ref=f360e99]: Niche trends worth creating around
+              - listitem [ref=f360e100]:
+                - generic [ref=f360e103]: Fresh content ideas backed by data
+              - listitem [ref=f360e104]:
+                - generic [ref=f360e107]: Personalized growth tips from AI Coach
+          - generic [ref=f360e108]:
+            - generic [ref=f360e109]: Most Popular
+            - generic [ref=f360e110]:
+              - generic [ref=f360e111]:
+                - heading "Boost" [level=3] [ref=f360e112]
+                - paragraph [ref=f360e113]: Advanced tools to grow faster
+              - generic [ref=f360e115]:
+                - status "Loading Boost price" [ref=f360e117]
+                - generic [ref=f360e118]: /month
+              - generic [ref=f360e119]:
+                - link "Subscribe to Boost" [ref=f360e120] [cursor=pointer]:
+                  - /url: https://app.vidiq.com/checkout/boost-lite-2?redirectTo=/checkout/boost-lite-2
+                - paragraph [ref=f360e122]: Billed yearly. Cancel anytime.
+              - list [ref=f360e123]:
+                - listitem [ref=f360e124]:
+                  - generic [ref=f360e127]: 2,000 AI Credits monthly
+                - listitem [ref=f360e128]:
+                  - generic [ref=f360e131]: Click-worthy thumbnails in minutes
+                - listitem [ref=f360e132]:
+                  - generic [ref=f360e135]: Personalized ideas to fuel content
+                - listitem [ref=f360e136]:
+                  - generic [ref=f360e139]: Unlimited trends research
+                - listitem [ref=f360e140]:
+                  - generic [ref=f360e143]: Optimization to drive more views
+                - listitem [ref=f360e144]:
+                  - generic [ref=f360e147]: Unlimited subscriber insights
+                - listitem [ref=f360e148]:
+                  - generic [ref=f360e151]: AI Coach with deep thinking
+                - listitem [ref=f360e152]:
+                  - generic [ref=f360e155]: Masterclasses from top creators
+          - generic [ref=f360e156]:
+            - generic [ref=f360e157]: Most Powerful
+            - generic [ref=f360e161]:
+              - generic [ref=f360e162]:
+                - heading "Max" [level=3] [ref=f360e163]
+                - paragraph [ref=f360e164]: Unlimited insights
+              - generic [ref=f360e166]:
+                - status "Loading Max price" [ref=f360e168]
+                - generic [ref=f360e169]: /month
+              - generic [ref=f360e170]:
+                - link "Subscribe to Max" [ref=f360e171] [cursor=pointer]:
+                  - /url: https://app.vidiq.com/checkout/max-2?redirectTo=/checkout/max-2
+                - paragraph [ref=f360e173]: Billed yearly. Cancel anytime.
+              - list [ref=f360e174]:
+                - listitem [ref=f360e175]:
+                  - generic [ref=f360e178]: 6,000 AI Credits monthly
+                - listitem [ref=f360e179]:
+                  - generic [ref=f360e182]: "Everything in Boost, plus:"
+                - listitem [ref=f360e183]:
+                  - generic [ref=f360e186]: Up to 3x AI Coach conversations
+                - listitem [ref=f360e187]:
+                  - generic [ref=f360e190]: 5x more powerful Max Mode AI for deeper growth strategy
+                - listitem [ref=f360e191]:
+                  - generic [ref=f360e194]: Up to 11 hours of short clipping and generations
+        - generic [ref=f360e195]:
+          - generic [ref=f360e196]:
+            - generic [ref=f360e197]:
+              - generic [ref=f360e198]: Enterprise
+              - heading "For brands, agencies & MCNs" [level=2] [ref=f360e199]
+              - generic [ref=f360e200]: Centralized control. Scalable access. Full team visibility.
+            - generic [ref=f360e201]:
+              - generic [ref=f360e202]: Trusted by leading networks and agencies
+              - generic [ref=f360e203]:
+                - img "Indeed Logo" [ref=f360e204]
+                - img "NordVPN Logo" [ref=f360e205]
+                - img "Nintendo Logo" [ref=f360e206]
+                - img "GitHub Logo" [ref=f360e207]
+                - img "Intercom Logo" [ref=f360e208]
+          - generic [ref=f360e209]:
+            - generic [ref=f360e210]: "What's included:"
+            - list [ref=f360e211]:
+              - listitem [ref=f360e212]:
+                - generic [ref=f360e215]: Full enterprise access for every channel
+              - listitem [ref=f360e216]:
+                - generic [ref=f360e219]: Roles & permissions for your team
+              - listitem [ref=f360e220]:
+                - generic [ref=f360e223]: Priority onboarding & support
+              - listitem [ref=f360e224]:
+                - generic [ref=f360e227]: Cross-channel insights & reporting
+            - link "Learn More" [ref=f360e228] [cursor=pointer]:
+              - /url: /enterprise/
+        - generic [ref=f360e230]:
+          - heading "Have Questions?" [level=2] [ref=f360e231]
+          - generic [ref=f360e232]:
+            - generic [ref=f360e233]:
+              - button "Can I sign up for free?" [ref=f360e234]
+              - generic [ref=f360e238]: Yes! vidIQ offers a free tier that includes limited access to our most popular tools. Upgrade anytime as your channel grows.
+            - generic [ref=f360e241]:
+              - button "What do I get with the vidIQ Boost plan?" [ref=f360e242]
+              - generic [ref=f360e246]: vidIQ Boost includes over 30+ advanced tools that help you save time researching, ideating, creating, and publishing content on YouTube. Some examples include personalized keyword ideas, optimization suggestions, competitive intel, and tools like our AI Coach. Get feedback based on your channel and what’s working on YouTube in real time.
+            - generic [ref=f360e249]:
+              - button "How does the Boost + Coaching Plan work?" [ref=f360e250]
+              - generic [ref=f360e254]: This plan combines full Boost access with 1-on-1 YouTube coaching. You choose a coach who provides you with a personalized growth plans, and provides direct feedback on titles, hooks, pacing, and more. If you’re stuck on what to do next, we’re here to help!
+            - generic [ref=f360e257]:
+              - button "Do you offer plans for teams or multiple channels?" [ref=f360e258]
+              - generic [ref=f360e264]:
+                - text: Yes. If you're managing more than 3 channels, or want multiple team members to have access to vidIQ, we offer enterprise plans tailored for teams.
+                - link "Learn more about Enterprise." [ref=f360e265] [cursor=pointer]:
+                  - /url: /enterprise/
+    - contentinfo [ref=f360e266]:
+      - generic [ref=f360e267]:
+        - img "vidIQ logo" [ref=f360e270]
+        - generic [ref=f360e271]:
+          - generic [ref=f360e272]: Our mission is to empower every video creator with the insights and inspiration they need to grow. That’s why we’re obsessed with providing an intelligent mix of technological and human expertise that boosts your productivity and gets you more views. Whatever your next challenge, we’ll shine a light on the way forward.
+          - generic [ref=f360e273]: © 2026 vidIQ. All Rights Reserved.
+        - generic [ref=f360e275]:
+          - generic [ref=f360e276]:
+            - generic [ref=f360e277]: vidIQ
+            - generic [ref=f360e278]:
+              - button "Contact" [ref=f360e279]
+              - link "Support" [ref=f360e280] [cursor=pointer]:
+                - /url: https://support.vidiq.com/
+              - link "Careers" [ref=f360e281] [cursor=pointer]:
+                - /url: https://careers.vidiq.com/
+              - link "Privacy" [ref=f360e282] [cursor=pointer]:
+                - /url: /privacy/
+              - link "Terms" [ref=f360e283] [cursor=pointer]:
+                - /url: /terms/
+              - link "Cookie Settings" [ref=f360e284] [cursor=pointer]:
+                - /url: /cookie-policy/
+          - generic [ref=f360e285]:
+            - generic [ref=f360e286]: Solutions for Creators
+            - generic [ref=f360e287]:
+              - link "vidIQ Features" [ref=f360e288] [cursor=pointer]:
+                - /url: https://vidiq.com/features/
+              - link "Browser Extension" [ref=f360e289] [cursor=pointer]:
+                - /url: /extension/
+              - link "vidIQ Mobile App" [ref=f360e290] [cursor=pointer]:
+                - /url: https://vidiq.com/mobile-app/
+              - link "YouTube Coaching" [ref=f360e291] [cursor=pointer]:
+                - /url: /coaching/
+              - link "YouTube for Enterprise" [ref=f360e292] [cursor=pointer]:
+                - /url: /enterprise/
+              - link "vidIQ for Instagram" [ref=f360e293] [cursor=pointer]:
+                - /url: https://vidiq.com/instagram/
+          - generic [ref=f360e294]:
+            - generic [ref=f360e295]: Resources
+            - generic [ref=f360e296]:
+              - link "Top YouTube Channels" [ref=f360e297] [cursor=pointer]:
+                - /url: /youtube-stats/top/100/
+              - link "Affiliates" [ref=f360e298] [cursor=pointer]:
+                - /url: /affiliate/
+              - link "Blog" [ref=f360e299] [cursor=pointer]:
+                - /url: /blog/
+              - link "How To Get More YouTube Views" [ref=f360e300] [cursor=pointer]:
+                - /url: /how-to-get-more-views-on-youtube/
+              - link "How to Get 1,000 YouTube Subscribers" [ref=f360e301] [cursor=pointer]:
+                - /url: /blog/post/how-to-get-your-first-1000-youtube-subscribers/
+              - link "Events" [ref=f360e302] [cursor=pointer]:
+                - /url: /events/
+        - generic [ref=f360e303]:
+          - generic [ref=f360e304]: Connect with us
+          - generic [ref=f360e305]: Call Sales 888-998-VIDIQ (8434)
+          - generic [ref=f360e306]:
+            - link [ref=f360e307] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/vidIQchannel
+              - img "YouTube logo" [ref=f360e308]
+            - link [ref=f360e309] [cursor=pointer]:
+              - /url: https://discord.com/invite/vidiq
+              - img "Discord logo" [ref=f360e310]
+            - link [ref=f360e311] [cursor=pointer]:
+              - /url: https://www.facebook.com/vidIQapp/
+              - img "Facebook logo" [ref=f360e312]
+            - link [ref=f360e313] [cursor=pointer]:
+              - /url: https://www.instagram.com/vidiq/
+              - img "Instagram logo" [ref=f360e314]
+            - link [ref=f360e315] [cursor=pointer]:
+              - /url: https://twitter.com/vidiq
+              - img "Twitter logo" [ref=f360e316]
+            - link [ref=f360e317] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/vidiq/
+              - img "LinkedIn logo" [ref=f360e318]
+        - navigation "language navigation" [ref=f360e319]:
+          - link "English" [ref=f360e320] [cursor=pointer]:
+            - /url: /plans/
+          - link "Français" [ref=f360e321] [cursor=pointer]:
+            - /url: /fr/plans/
+          - link "Español" [ref=f360e322] [cursor=pointer]:
+            - /url: /es/plans/
+          - link "Русский" [ref=f360e323] [cursor=pointer]:
+            - /url: /ru/plans/
+          - link "Português" [ref=f360e324] [cursor=pointer]:
+            - /url: /pt/plans/
+          - link "Türkçe" [ref=f360e325] [cursor=pointer]:
+            - /url: /tr/plans/
+          - link "Tiếng Việt" [ref=f360e326] [cursor=pointer]:
+            - /url: /vi/plans/
+  - alert [ref=f360e327]

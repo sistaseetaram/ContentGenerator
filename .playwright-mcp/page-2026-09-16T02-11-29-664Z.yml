@@ -1,0 +1,534 @@
+- generic [ref=f15e2]:
+  - banner [ref=f15e3]:
+    - generic [ref=f15e7]:
+      - generic [ref=f15e9]:
+        - link "Back to homepage" [ref=f15e10] [cursor=pointer]:
+          - /url: /chat
+        - link "Chat" [ref=f15e15] [cursor=pointer]:
+          - /url: /chat
+        - link "Hand" [ref=f15e17] [cursor=pointer]:
+          - /url: /en/agents/hand
+        - link "Code" [ref=f15e19] [cursor=pointer]:
+          - /url: /agents/code
+        - link "Create" [ref=f15e21] [cursor=pointer]:
+          - /url: /create/image
+        - generic [ref=f15e23] [cursor=pointer]: Wisebase
+        - generic [ref=f15e28] [cursor=pointer]: Apps
+        - link "Pricing" [ref=f15e33] [cursor=pointer]:
+          - /url: /en/pricing?trigger=web_f_homepage
+      - generic [ref=f15e35]:
+        - link "Add to Chrome" [ref=f15e36] [cursor=pointer]:
+          - /url: https://chrome.google.com/webstore/detail/sider-chatgpt-sidebar-gpt/difoiogjjojoaoomphldepapgpbgkhkb
+        - generic [ref=f15e40] [cursor=pointer]: Log in
+  - generic [ref=f15e42]:
+    - generic [ref=f15e44]:
+      - generic [ref=f15e45]:
+        - list [ref=f15e46]:
+          - listitem [ref=f15e47]: Home
+          - listitem [ref=f15e50]:
+            - link "Blog" [ref=f15e51] [cursor=pointer]:
+              - /url: /en/blog
+          - listitem [ref=f15e54]:
+            - link "AI Tools" [ref=f15e55] [cursor=pointer]:
+              - /url: /en/blog/ai-tools
+          - listitem [ref=f15e58]: "Interior Designers, Meet AI: Your Fastest Mood Board, Budget, and Client-Taming Tool"
+        - generic [ref=f15e59]:
+          - textbox "Please enter keyword search" [ref=f15e60]
+          - button [ref=f15e61] [cursor=pointer]
+      - generic [ref=f15e65]:
+        - 'heading "Interior Designers, Meet AI: Your Fastest Mood Board, Budget, and Client-Taming Tool" [level=1] [ref=f15e66]'
+        - generic [ref=f15e67]:
+          - paragraph [ref=f15e68]: Updated at Oct 10, 2025
+          - paragraph [ref=f15e69]:
+            - generic [ref=f15e73]: 12 min
+        - separator [ref=f15e74]
+        - generic [ref=f15e76]:
+          - heading "The Day My Living Room Fired Me (And Hired AI)" [level=2] [ref=f15e77]
+          - generic [ref=f15e80]: Ever try to convince a spouse that mauve is a neutral? I did. My living room staged a walkout, my partner staged an intervention, and my Pinterest boards staged an uprising. That’s when I let artificial intelligence take the wheel. In less time than it takes my dog to steal a throw pillow, AI spit out a polished mood board, a floor plan that actually fit the sofa, and three budget scenarios that didn’t require a second mortgage.
+          - generic [ref=f15e83]: If you’re an interior designer wondering, “How can interior designers use AI in their work?”—you’re not alone. Designers across studios, from boutique to big-box, are quietly swapping late-night spreadsheet sessions for AI tools that draft, plan, source, quote, and—yes—help wrangle clients.
+          - generic [ref=f15e86]: Let’s unpack how to use AI in interior design without losing your style, your margins, or your sanity.
+          - separator [ref=f15e91]
+          - heading "What AI Can Actually Do for Interior Designers (No, It Won’t Pick the Ugly Couch)" [level=2] [ref=f15e92]
+          - generic [ref=f15e95]: "Think of AI as that extremely competent intern who never sleeps and never rolls their eyes when you ask for the 12th revision. Here’s where it earns its retainer:"
+          - list [ref=f15e99]:
+            - listitem [ref=f15e100]:
+              - generic [ref=f15e101]: "Concept development: Generate mood boards and color palettes tuned to a brief—“Japandi with a splash of coastal modern and zero macramé,” for instance."
+          - list [ref=f15e104]:
+            - listitem [ref=f15e105]:
+              - generic [ref=f15e106]: "Floor plans and space planning: Create layout options, traffic-flow checks, and furniture fit tests before your client buys a sectional the size of a yacht."
+          - list [ref=f15e109]:
+            - listitem [ref=f15e110]:
+              - generic [ref=f15e111]: "Sourcing and procurement: Search, shortlist, and compare products across vendors, factoring in style, dimensions, stock, lead times, and price."
+          - list [ref=f15e114]:
+            - listitem [ref=f15e115]:
+              - generic [ref=f15e116]: "Budgeting and proposals: Auto-build estimates, revise by scenario (good, better, best), and track changes without becoming Spreadsheet Hulk."
+          - list [ref=f15e119]:
+            - listitem [ref=f15e120]:
+              - generic [ref=f15e121]: "Visualizations: Produce quick renders and photorealistic mockups to align expectations before demo day."
+          - list [ref=f15e124]:
+            - listitem [ref=f15e125]:
+              - generic [ref=f15e126]: "Client communication: Turn jargon into plain English, summarize long threads, draft scope docs, and even pre-emptively answer the “When will my dining chairs arrive?” text."
+          - list [ref=f15e129]:
+            - listitem [ref=f15e130]:
+              - generic [ref=f15e131]: "Documentation: Generate spec sheets, schedules, and annotated drawings that won’t embarrass you in front of a contractor."
+          - separator [ref=f15e135]
+          - 'heading "Start With the Brief: Use AI to Nail the Vibe Fast" [level=2] [ref=f15e136]'
+          - generic [ref=f15e139]: "You know the drill: the client says “minimalist,” but they really mean “soft modern farmhouse with plants that won’t die and a sofa that can survive spaghetti.” AI can bridge that gap."
+          - list [ref=f15e143]:
+            - listitem [ref=f15e144]:
+              - generic [ref=f15e145]: "Feed it the brief: Include lifestyle notes (kids, pets, allergies), room dimensions, inspiration links, and non-negotiables (“no glass coffee tables, ever”)."
+          - list [ref=f15e148]:
+            - listitem [ref=f15e149]:
+              - generic [ref=f15e150]: "Ask for three distinct directions: e.g., “Scandinavian cozy,” “Urban mid-century remix,” and “Natural modern with texture.”"
+          - list [ref=f15e153]:
+            - listitem [ref=f15e154]:
+              - generic [ref=f15e155]: "Generate mood boards: AI can assemble palette suggestions, texture combos, and example pieces. You’ll refine, but it gives you a strong starting point."
+          - generic [ref=f15e157]: "Pro move: Use AI to write two-sentence “style statements” for each concept. Clients latch onto language before they commit to a lamp."
+          - separator [ref=f15e162]
+          - heading "Space Planning Without the Floor-Plan Headache" [level=2] [ref=f15e163]
+          - generic [ref=f15e166]: "If you’ve ever tried to shoehorn a king bed, two nightstands, a bench, a peloton, and marital happiness into 11x12 feet, you know: inches matter."
+          - list [ref=f15e170]:
+            - listitem [ref=f15e171]:
+              - generic [ref=f15e172]: Upload a rough floor plan or dimensions. Ask AI to propose multiple layout options with clear traffic flow and sightline notes.
+          - list [ref=f15e175]:
+            - listitem [ref=f15e176]:
+              - generic [ref=f15e177]: "Set constraints: “Clear 36-inch walkway,” “Sofa must face fireplace,” “Desk near natural light.”"
+          - list [ref=f15e180]:
+            - listitem [ref=f15e181]:
+              - generic [ref=f15e182]: "Layer in furniture models: Have AI flag conflicts—door swings, window heights, vent locations—before you spend 40 minutes nudging a rug around in CAD."
+          - generic [ref=f15e184]: "What you get: a shortlist of layouts that actually fit. No more “We can just tuck the dresser under the window” only to discover the window is practically grazing the floor."
+          - separator [ref=f15e189]
+          - 'heading "From Vision to Visual: AI Renders That Don’t Lie" [level=2] [ref=f15e190]'
+          - generic [ref=f15e193]: The fastest way to bust a budget is misaligned expectations. AI-generated visualizations bring the future room to life—minus the 3D modeling meltdown.
+          - list [ref=f15e197]:
+            - listitem [ref=f15e198]:
+              - generic [ref=f15e199]: "Rapid iterations: Change wall color, swap a sofa, test pendant sizes, and preview daylight vs. evening mood without re-rendering from scratch."
+          - list [ref=f15e202]:
+            - listitem [ref=f15e203]:
+              - generic [ref=f15e204]: "Material realism: Many tools can simulate wood grain, fabric nap, and lighting so clients see the difference between “linen blend” and “mystery poly.”"
+          - list [ref=f15e207]:
+            - listitem [ref=f15e208]:
+              - generic [ref=f15e209]: "Before/after photos: Use AI to stage existing rooms with proposed pieces. It’s HGTV, but without the fake timeline."
+          - generic [ref=f15e211]: Yes, you’ll still want your detailed 3D modeling for final construction sets. But for concept approval? AI makes it faster than a client can say, “Can we do one more option?”
+          - separator [ref=f15e216]
+          - heading "Sourcing, Pricing, and the Great Vendor Rabbit Hole" [level=2] [ref=f15e217]
+          - generic [ref=f15e220]: Shopping is fun—until you’re labeling 47 nearly identical counter stools and trying to remember which one ships before Thanksgiving.
+          - list [ref=f15e224]:
+            - listitem [ref=f15e225]:
+              - generic [ref=f15e226]: "Smart searches: Describe the piece (“counter-height stool, low back, 24–26 inches, walnut, brass footrest, under $450”). AI will surface options with dimensions, stock, and finish details."
+          - list [ref=f15e229]:
+            - listitem [ref=f15e230]:
+              - generic [ref=f15e231]: "Compare like a pro: Ask for pros/cons across three vendors, factoring lead times, return policies, and durability."
+          - list [ref=f15e234]:
+            - listitem [ref=f15e235]:
+              - generic [ref=f15e236]: "Spec sheets, done: Auto-generate product summaries with links, sizes, finishes, care, and trade pricing."
+          - generic [ref=f15e238]: "Heads up: AI can’t magically circumvent bad vendor info. Always verify dimensions, finishes, and lead times. Treat AI like an eager assistant with solid instincts—not an oracle."
+          - separator [ref=f15e243]
+          - 'heading "Budgeting Without the Tears: Good/Better/Best in Minutes" [level=2] [ref=f15e244]'
+          - generic [ref=f15e247]: Your client wants champagne taste on a sparkling-water budget. Classic. AI can help you price reality with fewer awkward silences.
+          - list [ref=f15e251]:
+            - listitem [ref=f15e252]:
+              - generic [ref=f15e253]: "Build a baseline: Feed your room list—sofa, two chairs, rug, coffee table, media console, lighting, window treatments, art, accessories."
+          - list [ref=f15e256]:
+            - listitem [ref=f15e257]:
+              - generic [ref=f15e258]: "Generate three scenarios: “Good” (value), “Better” (mid-range), “Best” (investment). Include labor, delivery, installation, and contingency line items."
+          - list [ref=f15e261]:
+            - listitem [ref=f15e262]:
+              - generic [ref=f15e263]: "Auto-revise: When the client insists on the fancy sofa, ask AI to rebalance the rest to stay on budget."
+          - generic [ref=f15e265]: "Pro tip: Use AI to convert that spreadsheet into a clean client-facing proposal with notes like “Lead time: 8–10 weeks” and “Fabric: performance, pet-friendly.” It’s like turning broccoli into brownies."
+          - separator [ref=f15e270]
+          - heading "Emails, Scope Creep, and the Zen of Client Communication" [level=2] [ref=f15e271]
+          - generic [ref=f15e274]: Some clients email like they’re live-tweeting their kitchen renovation. AI can help you keep up—and stay zen.
+          - list [ref=f15e278]:
+            - listitem [ref=f15e279]:
+              - generic [ref=f15e280]: "Summarize everything: Paste a long email chain; get a clear bullet-point summary with action items and decisions."
+          - list [ref=f15e283]:
+            - listitem [ref=f15e284]:
+              - generic [ref=f15e285]: "Draft responses: Let AI write empathetic, firm replies: “Yes, we can add a pot filler. Here’s the cost and timeline impact.”"
+          - list [ref=f15e288]:
+            - listitem [ref=f15e289]:
+              - generic [ref=f15e290]: "Scope control: Auto-detect new requests that fall outside the original agreement. Generate a friendly change-order note before you end up designing a sunroom you never quoted."
+          - generic [ref=f15e292]: "Also useful: turning texts and voice notes into a running project log. Future you will be grateful."
+          - separator [ref=f15e297]
+          - 'heading "Documentation: The Specs That Save Projects" [level=2] [ref=f15e298]'
+          - generic [ref=f15e301]: Documentation doesn’t win awards, but it does save you from thousand-dollar mistakes.
+          - list [ref=f15e305]:
+            - listitem [ref=f15e306]:
+              - generic [ref=f15e307]: "Auto-generate schedules: Lighting, plumbing, tile, hardware. AI can format by room, include quantities, finishes, and install notes."
+          - list [ref=f15e310]:
+            - listitem [ref=f15e311]:
+              - generic [ref=f15e312]: "Annotate drawings: Tag outlets, crown heights, switch locations, and appliance clearances. Avoid the “Why is the sconce kissing the mirror?” moment."
+          - list [ref=f15e315]:
+            - listitem [ref=f15e316]:
+              - generic [ref=f15e317]: "Vendor packets: Create clean spec PDFs for trades with cut sheets, mounting heights, and contact info."
+          - generic [ref=f15e319]: Double-check everything. AI gets you 80% of the way in 20% of the time—but that last 20% is the difference between “nailed it” and “why is the island off-center?”
+          - separator [ref=f15e324]
+          - heading "Portfolio, Social, and the Magic of AI Storytelling" [level=2] [ref=f15e325]
+          - generic [ref=f15e328]: You did the work. Now show it without spending Saturday stuck in Canva.
+          - list [ref=f15e332]:
+            - listitem [ref=f15e333]:
+              - generic [ref=f15e334]: "Before/after captions: Turn dry room facts into compelling mini-stories. “From sticky-note backsplash to stone slab serenity.”"
+          - list [ref=f15e337]:
+            - listitem [ref=f15e338]:
+              - generic [ref=f15e339]: "Case-study pages: Summarize brief, constraints, solutions, and results with consistent, branded copy."
+          - list [ref=f15e342]:
+            - listitem [ref=f15e343]:
+              - generic [ref=f15e344]: "SEO help: Generate alt text, metadata, and page summaries so your “How can interior designers use AI in their work?” content actually ranks."
+          - generic [ref=f15e346]: "Bonus: AI can suggest on-brand hashtags that don’t make you cringe."
+          - separator [ref=f15e351]
+          - 'heading "Real-World Workflow: A One-Day Living Room Sprint" [level=2] [ref=f15e352]'
+          - generic [ref=f15e355]: Let’s run a fictional—but very plausible—day using AI end-to-end.
+          - list [ref=f15e359]:
+            - listitem [ref=f15e360]:
+              - generic [ref=f15e361]: "9:00 a.m. Intake: You drop the client’s brief, photos, and measurements into your AI workspace."
+          - list [ref=f15e364]:
+            - listitem [ref=f15e365]:
+              - generic [ref=f15e366]: "9:30 a.m. Concepts: AI returns three mood board directions with color palettes and five hero pieces per direction."
+          - list [ref=f15e369]:
+            - listitem [ref=f15e370]:
+              - generic [ref=f15e371]: "10:30 a.m. Layouts: Two viable floor plans, one bold option, each with traffic flow notes and furniture fit checks."
+          - list [ref=f15e374]:
+            - listitem [ref=f15e375]:
+              - generic [ref=f15e376]: "12:00 p.m. Budget ranges: Good/Better/Best scenarios with line-item notes."
+          - list [ref=f15e379]:
+            - listitem [ref=f15e380]:
+              - generic [ref=f15e381]: "1:00 p.m. Visuals: Quick renders of each concept, plus a side-by-side of two sofa options."
+          - list [ref=f15e384]:
+            - listitem [ref=f15e385]:
+              - generic [ref=f15e386]: "2:30 p.m. Sourcing: Shortlisted SKUs with lead times and trade pricing."
+          - list [ref=f15e389]:
+            - listitem [ref=f15e390]:
+              - generic [ref=f15e391]: "3:30 p.m. Proposal: Branded PDF with scoped deliverables, timelines, and a clear approval button."
+          - list [ref=f15e394]:
+            - listitem [ref=f15e395]:
+              - generic [ref=f15e396]: "4:00 p.m. Client call: You present. AI takes notes, drafts follow-up, and updates the budget."
+          - generic [ref=f15e398]: "Total time saved: a full day… maybe two. Total sanity saved: priceless."
+          - separator [ref=f15e403]
+          - heading "Where AI Shines—and Where Your Eye Still Wins" [level=2] [ref=f15e404]
+          - generic [ref=f15e407]: AI is great at speed, breadth, and consistency. You’re great at taste, intuition, and understanding that the “perfect” rug isn’t perfect if the toddler thinks it’s a canvas.
+          - list [ref=f15e411]:
+            - listitem [ref=f15e412]:
+              - generic [ref=f15e413]: "Let AI: iterate fast, check measurements, compile options, draft communications, and keep your documentation immaculate."
+          - list [ref=f15e416]:
+            - listitem [ref=f15e417]:
+              - generic [ref=f15e418]: "Keep for you: color nuance in changing light, tactile material choices, composition, and those tiny balance decisions that separate “nice” from “chef’s kiss.”"
+          - generic [ref=f15e420]: Think of AI as the sous-chef. It preps the mise en place. You plate the dish.
+          - separator [ref=f15e425]
+          - 'heading "The Tools: What to Look For (Beyond Fancy Demos)" [level=2] [ref=f15e426]'
+          - generic [ref=f15e429]: "When evaluating AI for interior design, prioritize:"
+          - list [ref=f15e433]:
+            - listitem [ref=f15e434]:
+              - generic [ref=f15e435]: Accuracy with dimensions and product data
+          - list [ref=f15e438]:
+            - listitem [ref=f15e439]:
+              - generic [ref=f15e440]: Integration with your CAD/BIM or rendering tools
+          - list [ref=f15e443]:
+            - listitem [ref=f15e444]:
+              - generic [ref=f15e445]: Vendor database depth and reliable lead-time info
+          - list [ref=f15e448]:
+            - listitem [ref=f15e449]:
+              - generic [ref=f15e450]: Collaboration features for clients and trades
+          - list [ref=f15e453]:
+            - listitem [ref=f15e454]:
+              - generic [ref=f15e455]: Transparent privacy settings for client photos and plans
+          - list [ref=f15e458]:
+            - listitem [ref=f15e459]:
+              - generic [ref=f15e460]: "Export options: spec sheets, schedules, proposals, and branded decks"
+          - generic [ref=f15e462]:
+            - generic [ref=f15e463]: "Worth noting: If you want an AI sidekick that can research products, summarize vendor docs, draft proposals, and even turn chaotic notes into actionable tasks,"
+            - link "Sider.AI" [ref=f15e465] [cursor=pointer]:
+              - /url: https://sider.ai/
+            - generic [ref=f15e468]: can help. It’s like having a project manager, copywriter, and detective rolled into one tab. It won’t choose your chandelier, but it will make sure the cut sheet goes to the electrician before anyone drills a hole in the wrong spot.
+          - separator [ref=f15e472]
+          - heading "Prompt Recipes You’ll Actually Use" [level=2] [ref=f15e473]
+          - generic [ref=f15e476]: "Steal these, tweak them, and save hours:"
+          - list [ref=f15e480]:
+            - listitem [ref=f15e481]:
+              - generic [ref=f15e482]: "Concept brief to mood board: “Create three interior design concepts for a 12x18 living room, light-filled, pet- and kid-friendly, contemporary warm neutral palette with black accents. Include hero pieces, color palette hex codes, and two signature textures per concept.”"
+          - list [ref=f15e485]:
+            - listitem [ref=f15e486]:
+              - generic [ref=f15e487]: "Layout options with constraints: “Propose three furniture layouts. Keep 36-inch pathways, TV not opposite windows, desk near natural light, no blocking the hallway door swing.”"
+          - list [ref=f15e490]:
+            - listitem [ref=f15e491]:
+              - generic [ref=f15e492]: "Product sourcing: “Find five sideboards 70–80 inches wide, walnut or oak, modern lines, concealed storage, <$1,500, in stock within 4 weeks. Return dimensions, materials, ship times, and links.”"
+          - list [ref=f15e495]:
+            - listitem [ref=f15e496]:
+              - generic [ref=f15e497]: "Budget scenarios: “Create good/better/best budgets for living room furnishings. Include installation, delivery, and 10% contingency.”"
+          - list [ref=f15e500]:
+            - listitem [ref=f15e501]:
+              - generic [ref=f15e502]: "Client email: “Draft a friendly, clear update summarizing decisions made today, next steps, and any items waiting on client approval. Keep under 200 words.”"
+          - list [ref=f15e505]:
+            - listitem [ref=f15e506]:
+              - generic [ref=f15e507]: "Spec schedule: “Build a lighting schedule for kitchen: pendants over island, under-cabinet LEDs, recessed cans, dimmers. Include fixture IDs, mounting heights, finish, and lumens.”"
+          - separator [ref=f15e511]
+          - heading "Common AI Pitfalls (And How to Dodge Them With Style)" [level=2] [ref=f15e512]
+          - list [ref=f15e516]:
+            - listitem [ref=f15e517]:
+              - generic [ref=f15e518]: "Hallucinated details: Double-check product specs directly with the vendor. AI can be confident and wrong. Like your uncle at Thanksgiving."
+          - list [ref=f15e521]:
+            - listitem [ref=f15e522]:
+              - generic [ref=f15e523]: "Generic taste: Feed it your portfolio to train preferences. The more examples it sees, the better it mimics your signature look."
+          - list [ref=f15e526]:
+            - listitem [ref=f15e527]:
+              - generic [ref=f15e528]: "Privacy oops: Blur addresses, remove client names, and store plans in secure workspaces. Ask vendors before sharing proprietary documents."
+          - list [ref=f15e531]:
+            - listitem [ref=f15e532]:
+              - generic [ref=f15e533]: "Over-automation: Let AI propose; you decide. Clients aren’t hiring a bot—they’re hiring your eye."
+          - list [ref=f15e536]:
+            - listitem [ref=f15e537]:
+              - generic [ref=f15e538]: "Version chaos: Keep a consistent naming scheme and have AI maintain a change log. “Final_final_v7_really” is a cry for help."
+          - separator [ref=f15e542]
+          - 'heading "Business Wins: More Billables, Fewer Burnouts" [level=2] [ref=f15e543]'
+          - generic [ref=f15e546]: "Here’s what designers actually care about—besides beautiful millwork:"
+          - list [ref=f15e550]:
+            - listitem [ref=f15e551]:
+              - generic [ref=f15e552]: Faster proposals mean faster deposits.
+          - list [ref=f15e555]:
+            - listitem [ref=f15e556]:
+              - generic [ref=f15e557]: Clearer visuals mean fewer revision cycles.
+          - list [ref=f15e560]:
+            - listitem [ref=f15e561]:
+              - generic [ref=f15e562]: Cleaner documentation means fewer costly site mistakes.
+          - list [ref=f15e565]:
+            - listitem [ref=f15e566]:
+              - generic [ref=f15e567]: Organized sourcing means fewer backorders and panic swaps.
+          - list [ref=f15e570]:
+            - listitem [ref=f15e571]:
+              - generic [ref=f15e572]: Polished process means happier clients and more referrals.
+          - generic [ref=f15e574]: "Translation: AI isn’t here to take your job. It’s here to take the parts of your job that keep you up at 2 a.m. scrolling for a “just-right” 9x12."
+          - separator [ref=f15e579]
+          - heading "A Mini Q&A With My Inbox (Also Known as Your Brain)" [level=2] [ref=f15e580]
+          - list [ref=f15e584]:
+            - listitem [ref=f15e585]:
+              - generic [ref=f15e586]: Can AI pick paint colors? It can suggest palettes that work with lighting conditions and finishes. You still want to test samples on walls—AI can’t see your 3 p.m. sun glare.
+          - list [ref=f15e589]:
+            - listitem [ref=f15e590]:
+              - generic [ref=f15e591]: Can AI do construction docs? It can help annotate and assemble schedules, but you—or your architect—should sign off on final drawings and details.
+          - list [ref=f15e594]:
+            - listitem [ref=f15e595]:
+              - generic [ref=f15e596]: What about sustainability? Ask AI for eco-friendly alternatives, certifications (FSC, Greenguard), and VOC limits. Verify claims before specifying.
+          - list [ref=f15e599]:
+            - listitem [ref=f15e600]:
+              - generic [ref=f15e601]: Will my designs look like everyone else’s? Not if you feed it your work and constraints. AI is a mirror; give it your angle.
+          - separator [ref=f15e605]
+          - heading "The Five-Step AI-First Design Flow" [level=2] [ref=f15e606]
+          - list [ref=f15e610]:
+            - listitem [ref=f15e611]:
+              - generic [ref=f15e612]: "Intake and style mapping: Briefs, photos, dimensions, and a vibe check. AI condenses it into a clear plan."
+          - list [ref=f15e615]:
+            - listitem [ref=f15e616]:
+              - generic [ref=f15e617]: "Concepts and layouts: Three visual directions, three layout options. Quick stakeholder alignment."
+          - list [ref=f15e620]:
+            - listitem [ref=f15e621]:
+              - generic [ref=f15e622]: "Budget and sourcing: Good/Better/Best, with vetted SKUs and lead times."
+          - list [ref=f15e625]:
+            - listitem [ref=f15e626]:
+              - generic [ref=f15e627]: "Visualizations and approvals: Renders to set expectations; a single doc to sign."
+          - list [ref=f15e630]:
+            - listitem [ref=f15e631]:
+              - generic [ref=f15e632]: "Documentation and delivery: Schedules, specs, trades packets, and a post-install punch list that doesn’t miss the threshold reducer."
+          - generic [ref=f15e634]: Rinse, refine, repeat.
+          - separator [ref=f15e639]
+          - 'heading "The Wrap: You Bring the Taste, AI Brings the Time" [level=2] [ref=f15e640]'
+          - generic [ref=f15e643]: “How can interior designers use AI in their work?” Start with the pieces that sap your time—briefs, layouts, sourcing, budgets, docs—and let AI accelerate them. Keep the parts that make you, you—composition, material nuance, and that uncanny ability to know when a room needs exactly one more brass thing.
+          - generic [ref=f15e646]: The best rooms feel effortless. The best design processes should, too. Let AI be the assistant who quietly does the dishes while you plate the main course. Then take a bow—and maybe finally sit on that sofa before someone else does.
+          - heading "FAQ" [level=3] [ref=f15e649]
+          - generic [ref=f15e652]: Q1:What’s the fastest way interior designers can start using AI? Begin with mood boards and budgeting. Feed the brief into an AI tool to generate three visual directions and Good/Better/Best budgets—instant clarity without all-night spreadsheets.
+          - generic [ref=f15e655]: Q2:Can AI help interior designers with sourcing and lead times? Yes. Use AI to shortlist products by size, style, price, and availability, then verify lead times with vendors. It’s a time-saver that reduces backorders and last‑minute swaps.
+          - generic [ref=f15e658]: Q3:How do I keep my design style from becoming generic with AI? Train the tool with your portfolio and preferences, and set constraints tied to your signature look. AI mirrors your input—give it your taste, and it will reflect your brand.
+          - generic [ref=f15e661]: Q4:Is AI accurate enough for construction documentation? AI can assemble schedules and annotate drawings, but final specs and dimensions should be reviewed by you or your architect. Treat AI as a smart assistant, not the building inspector.
+          - generic [ref=f15e664]: Q5:Will AI replace interior designers? Nope. AI speeds up planning, sourcing, and communication, but human expertise decides proportion, material feel, and composition—the secret sauce clients actually hire.
+        - separator [ref=f15e667]
+        - generic [ref=f15e668]:
+          - generic [ref=f15e669]: Recent Articles
+          - generic [ref=f15e670]:
+            - link [ref=f15e671] [cursor=pointer]:
+              - /url: /en/blog/ai-tools/how-to-master-chatpdf-faster-insights-from-dense-documents
+              - 'img "How to Master ChatPDF: Faster Insights from Dense Documents" [ref=f15e673]'
+              - paragraph [ref=f15e674]: "How to Master ChatPDF: Faster Insights from Dense Documents"
+            - link [ref=f15e675] [cursor=pointer]:
+              - /url: /en/blog/ai-tools/the-best-x-auto-translation-alternative-for-fast-accurate-docs
+              - img "The best X Auto-Translation alternative for fast, accurate docs" [ref=f15e677]
+              - paragraph [ref=f15e678]: The best X Auto-Translation alternative for fast, accurate docs
+            - link [ref=f15e679] [cursor=pointer]:
+              - /url: /en/blog/ai-tools/samsung-ai-translation-unavailable-in-iran-practical-workarounds
+              - img "Samsung AI Translation Unavailable in Iran? Practical Workarounds" [ref=f15e681]
+              - paragraph [ref=f15e682]: Samsung AI Translation Unavailable in Iran? Practical Workarounds
+            - link [ref=f15e683] [cursor=pointer]:
+              - /url: /en/blog/ai-tools/persian-translate-tools-a-practical-guide-to-faster-accurate-work
+              - 'img "Persian translate tools: a practical guide to faster, accurate work" [ref=f15e685]'
+              - paragraph [ref=f15e686]: "Persian translate tools: a practical guide to faster, accurate work"
+            - link [ref=f15e687] [cursor=pointer]:
+              - /url: /en/blog/ai-tools/the-best-grok-alternative-for-deep-cited-research
+              - img "The Best Grok alternative for deep, cited research" [ref=f15e689]
+              - paragraph [ref=f15e690]: The Best Grok alternative for deep, cited research
+            - link [ref=f15e691] [cursor=pointer]:
+              - /url: /en/blog/ai-tools/top-15-features-of-ai-image-generator-you-ll-actually-use
+              - img "Top 15 Features of AI Image Generator You’ll Actually Use" [ref=f15e693]
+              - paragraph [ref=f15e694]: Top 15 Features of AI Image Generator You’ll Actually Use
+    - generic [ref=f15e697]:
+      - generic [ref=f15e707]:
+        - link [ref=f15e708] [cursor=pointer]:
+          - /url: /en/contact
+        - link [ref=f15e713] [cursor=pointer]:
+          - /url: https://discord.com/invite/5PQ3pYaTDZ
+        - link [ref=f15e716] [cursor=pointer]:
+          - /url: https://x.com/Sider_AI
+        - link [ref=f15e719] [cursor=pointer]:
+          - /url: https://www.youtube.com/@Sider_ai
+        - link [ref=f15e722] [cursor=pointer]:
+          - /url: https://www.tiktok.com/@sider.ai
+        - link [ref=f15e726] [cursor=pointer]:
+          - /url: https://www.facebook.com/SiderAIApp
+        - link [ref=f15e730] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sider-ai
+      - generic [ref=f15e733]:
+        - generic [ref=f15e734]:
+          - generic [ref=f15e735]: Products
+          - generic [ref=f15e736]:
+            - generic [ref=f15e737]:
+              - generic [ref=f15e738]: Apps
+              - list [ref=f15e739]:
+                - listitem [ref=f15e740]:
+                  - link "Extensions" [ref=f15e741] [cursor=pointer]:
+                    - /url: /en/extensions
+                - listitem [ref=f15e742]:
+                  - link "iOS" [ref=f15e743] [cursor=pointer]:
+                    - /url: /en/apps/ios
+                - listitem [ref=f15e744]:
+                  - link "Android" [ref=f15e745] [cursor=pointer]:
+                    - /url: /en/apps/android
+                - listitem [ref=f15e746]:
+                  - link "Mac OS" [ref=f15e747] [cursor=pointer]:
+                    - /url: /en/apps/mac
+                - listitem [ref=f15e748]:
+                  - link "Windows" [ref=f15e749] [cursor=pointer]:
+                    - /url: /en/apps/windows
+            - generic [ref=f15e750]:
+              - generic [ref=f15e751]: Wisebase
+              - list [ref=f15e752]:
+                - listitem [ref=f15e753]:
+                  - link "Wisebase" [ref=f15e754] [cursor=pointer]:
+                    - /url: /wisebase
+                - listitem [ref=f15e755]:
+                  - link "Deep Research" [ref=f15e756] [cursor=pointer]:
+                    - /url: /wisebase/deep-research
+                - listitem [ref=f15e757]:
+                  - link "Scholar Research" [ref=f15e758] [cursor=pointer]:
+                    - /url: /wisebase/scholar-research
+                - listitem [ref=f15e759]:
+                  - link "Math Solver" [ref=f15e760] [cursor=pointer]:
+                    - /url: /wisebase/math-solver
+                - listitem [ref=f15e761]:
+                  - link "Rec Note" [ref=f15e762] [cursor=pointer]:
+                    - /url: /en/rec-note
+                  - generic [ref=f15e763]: New
+                - listitem [ref=f15e764]:
+                  - link "Audio To Text" [ref=f15e765] [cursor=pointer]:
+                    - /url: /wisebase/audio-to-text
+                - listitem [ref=f15e766]:
+                  - link "Gamified Learning" [ref=f15e767] [cursor=pointer]:
+                    - /url: /wisebase/gamification
+                - listitem [ref=f15e768]:
+                  - link "Interactive Reading" [ref=f15e769] [cursor=pointer]:
+                    - /url: /wisebase/interactive-reading
+                - listitem [ref=f15e770]:
+                  - link "ChatPDF" [ref=f15e771] [cursor=pointer]:
+                    - /url: /en/chatpdf
+            - generic [ref=f15e772]:
+              - generic [ref=f15e773]: Tools
+              - list [ref=f15e774]:
+                - listitem [ref=f15e775]:
+                  - link "Web Creator" [ref=f15e776] [cursor=pointer]:
+                    - /url: /agents/web-creator
+                  - generic [ref=f15e777]: New
+                - listitem [ref=f15e778]:
+                  - link "AI Slides" [ref=f15e779] [cursor=pointer]:
+                    - /url: /agents/ai-slides
+                  - generic [ref=f15e780]: New
+                - listitem [ref=f15e781]:
+                  - link "AI Essay Writer" [ref=f15e782] [cursor=pointer]:
+                    - /url: /agents/ai-writer
+                - listitem [ref=f15e783]:
+                  - link "Nano Banana Pro" [ref=f15e784] [cursor=pointer]:
+                    - /url: /en/create/image/nano-banana-ai-image-generator
+                - listitem [ref=f15e791]:
+                  - link "Nano Banana Infographic" [ref=f15e792] [cursor=pointer]:
+                    - /url: /en/create/image/nano-banana-infographic
+                - listitem [ref=f15e793]:
+                  - link "AI Image Generator" [ref=f15e794] [cursor=pointer]:
+                    - /url: /en/create/image/ai-image-generator
+                - listitem [ref=f15e795]:
+                  - link "Italian Brainrot Generator" [ref=f15e796] [cursor=pointer]:
+                    - /url: /en/create/image/italian-brainrot-generator
+                - listitem [ref=f15e797]:
+                  - link "Background Remover" [ref=f15e798] [cursor=pointer]:
+                    - /url: /en/create/image/background-remover
+                - listitem [ref=f15e799]:
+                  - link "Background Changer" [ref=f15e800] [cursor=pointer]:
+                    - /url: /en/create/image/photo-background-changer
+                - listitem [ref=f15e801]:
+                  - link "Photo Eraser" [ref=f15e802] [cursor=pointer]:
+                    - /url: /en/create/image/photo-eraser
+                - listitem [ref=f15e803]:
+                  - link "Text Remover" [ref=f15e804] [cursor=pointer]:
+                    - /url: /en/create/image/text-remover
+                - listitem [ref=f15e805]:
+                  - link "Inpaint" [ref=f15e806] [cursor=pointer]:
+                    - /url: /en/create/image/inpaint
+                - listitem [ref=f15e807]:
+                  - link "Image Upscaler" [ref=f15e808] [cursor=pointer]:
+                    - /url: /en/create/image/image-upscaler
+                - listitem [ref=f15e809]:
+                  - link "Create" [ref=f15e810] [cursor=pointer]:
+                    - /url: /en/create
+                - listitem [ref=f15e811]:
+                  - link "AI Translator" [ref=f15e812] [cursor=pointer]:
+                    - /url: /en/translator/text-translator
+                - listitem [ref=f15e813]:
+                  - link "Image Translator" [ref=f15e814] [cursor=pointer]:
+                    - /url: /en/translator/image-translator
+                - listitem [ref=f15e815]:
+                  - link "PDF Translator" [ref=f15e816] [cursor=pointer]:
+                    - /url: /en/translator/pdf-translator
+        - generic [ref=f15e817]:
+          - generic [ref=f15e818]: Sider
+          - list [ref=f15e821]:
+            - listitem [ref=f15e822]:
+              - link "Contact Us" [ref=f15e823] [cursor=pointer]:
+                - /url: /en/contact
+            - listitem [ref=f15e824]:
+              - link "Help Center" [ref=f15e825] [cursor=pointer]:
+                - /url: /en/help-center
+            - listitem [ref=f15e826]:
+              - link "Download" [ref=f15e827] [cursor=pointer]:
+                - /url: /en/download
+            - listitem [ref=f15e828]:
+              - link "Pricing" [ref=f15e829] [cursor=pointer]:
+                - /url: /en/pricing
+            - listitem [ref=f15e830]:
+              - link "Education Plan" [ref=f15e831] [cursor=pointer]:
+                - /url: /en/education-pricing?trigger=edu_web_footer
+            - listitem [ref=f15e832]:
+              - link "What's New" [ref=f15e833] [cursor=pointer]:
+                - /url: /en/whats-new
+            - listitem [ref=f15e834]:
+              - link "Blog" [ref=f15e835] [cursor=pointer]:
+                - /url: /en/blog
+            - listitem [ref=f15e836]:
+              - link "Community" [ref=f15e837] [cursor=pointer]:
+                - /url: https://community.sider.ai/
+            - listitem [ref=f15e838]:
+              - link "Partners" [ref=f15e839] [cursor=pointer]:
+                - /url: /en/partners
+            - listitem [ref=f15e840]:
+              - link "Affiliate" [ref=f15e841] [cursor=pointer]:
+                - /url: /en/affiliate
+      - generic [ref=f15e850]:
+        - generic [ref=f15e851]:
+          - text: ©2026 All Rights Reserved
+          - link "Terms of Use" [ref=f15e853] [cursor=pointer]:
+            - /url: /en/policies/terms
+          - link "Privacy Policy" [ref=f15e855] [cursor=pointer]:
+            - /url: /en/policies/privacy
+        - button "English" [ref=f15e856] [cursor=pointer]

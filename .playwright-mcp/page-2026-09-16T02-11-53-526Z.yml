@@ -1,0 +1,418 @@
+- generic [active] [ref=f23e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f23e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f23e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IN
+  - generic [ref=f23e8]:
+    - search [ref=f23e9]:
+      - generic [ref=f23e11]:
+        - link "Go to Google Home" [ref=f23e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQPHoECAYQBA
+        - generic [ref=f23e21]:
+          - generic [ref=f23e22]:
+            - combobox "Search" [ref=f23e25]: small architecture firm annual spend rendering visualization budget small architecture firm annual spend rendering visualization budget
+            - generic [ref=f23e26]:
+              - button "Clear" [ref=f23e28] [cursor=pointer]
+              - generic [ref=f23e33]:
+                - button "Search by voice" [ref=f23e34] [cursor=pointer]
+                - button "Search by image" [ref=f23e37] [cursor=pointer]
+          - button "Search" [ref=f23e40] [cursor=pointer]
+    - generic [ref=f23e45]:
+      - button "Settings" [ref=f23e47] [cursor=pointer]
+      - button "Share" [ref=f23e52] [cursor=pointer]
+      - generic [ref=f23e58]:
+        - button "Google apps" [ref=f23e60] [cursor=pointer]
+        - link "Sign in" [ref=f23e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dsmall%2Barchitecture%2Bfirm%2Bannual%2Bspend%2Brendering%2Bvisualization%2Bbudget&ec=futura_srp_og_si_72236_p
+  - generic [ref=f23e68]:
+    - navigation [ref=f23e74]:
+      - generic [ref=f23e80]:
+        - list [ref=f23e81]:
+          - listitem [ref=f23e82]:
+            - link "AI Mode" [ref=f23e85] [cursor=pointer]:
+              - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLw6aUZJt2XKLzI6SnICUdGmKZ7Xrzzth4wQwhDPYPrNqKbGIKF144Y0rO3Ka1Fi6JlrAyOITbiR0jy7EzdOxFUqACKZ5OtjoMlkx9Lz2lwJ2z0DXTRc45LqB0xrRdyTXHTrVX0jrviMYLmSmEAvasVi6XuAQg&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ2J8OegQIEhAD
+          - listitem [ref=f23e89]:
+            - link "All" [disabled] [ref=f23e90]
+          - listitem [ref=f23e93]:
+            - link "Images" [ref=f23e94] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLw6aUZJt2XKLzI6SnICUdGmKZ7Xrzzth4wQwhDPYPrNqKbGIKF144Y0rO3Ka1Fi6JlrAyOITbiR0jy7EzdOxFUqACKZ5OtjoMlkx9Lz2lwJ2z0DXTRc45LqB0xrRdyTXHTrVX0jrviMYLmSmEAvasVi6XuAQg&q=small+architecture+firm+annual+spend+rendering+visualization+budget&sa=X&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQtKgLegQIIhAB
+          - listitem [ref=f23e97]:
+            - link "Short videos" [ref=f23e98] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLw6aUZJt2XKLzI6SnICUdGmKZ7Xrzzth4wQwhDPYPrNqKbGIKF144Y0rO3Ka1Fi6JlrAyOITbiR0jy7EzdOxFUqACKZ5OtjoMlkx9Lz2lwJ2z0DXTRc45LqB0xrRdyTXHTrVX0jrviMYLmSmEAvasVi6XuAQg&q=small+architecture+firm+annual+spend+rendering+visualization+budget&sa=X&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQs6gLegQIFRAB
+          - listitem [ref=f23e101]:
+            - link "Shopping" [ref=f23e102] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLw6aUZJt2XKLzI6SnICUdGmKZ7Xrzzth4wQwhDPYPrNqKbGIKF144Y0rO3Ka1Fi6JlrAyOITbiR0jy7EzdOxFUqACKZ5OtjoMlkx9Lz2lwJ2z0DXTRc45LqB0xrRdyTXHTrVX0jrviMYLmSmEAvasVi6XuAQg&q=small+architecture+firm+annual+spend+rendering+visualization+budget&ved=1t:220175&ictx=111
+          - listitem [ref=f23e105]:
+            - link "Forums" [ref=f23e106] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLw6aUZJt2XKLzI6SnICUdGmKZ7Xrzzth4wQwhDPYPrNqKbGIKF144Y0rO3Ka1Fi6JlrAyOITbiR0jy7EzdOxFUqACKZ5OtjoMlkx9Lz2lwJ2z0DXTRc45LqB0xrRdyTXHTrVX0jrviMYLmSmEAvasVi6XuAQg&q=small+architecture+firm+annual+spend+rendering+visualization+budget&sa=X&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQs6gLegQIGBAB
+          - listitem [ref=f23e109]:
+            - link "Videos" [ref=f23e110] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=7&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLw6aUZJt2XKLzI6SnICUdGmKZ7Xrzzth4wQwhDPYPrNqKbGIKF144Y0rO3Ka1Fi6JlrAyOITbiR0jy7EzdOxFUqACKZ5OtjoMlkx9Lz2lwJ2z0DXTRc45LqB0xrRdyTXHTrVX0jrviMYLmSmEAvasVi6XuAQg&q=small+architecture+firm+annual+spend+rendering+visualization+budget&sa=X&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQtKgLegQIGRAB
+          - listitem [ref=f23e113]:
+            - button [ref=f23e114] [cursor=pointer]:
+              - generic "More filters" [ref=f23e115]: More
+        - button "Tools" [ref=f23e122] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f23e129]
+    - generic [ref=f23e134]:
+      - generic [ref=f23e156]:
+        - generic [ref=f23e158]:
+          - heading "AI Overview" [level=2] [ref=f23e162]
+          - button "Listen" [ref=f23e166]:
+            - generic [ref=f23e170] [cursor=pointer]
+        - generic [ref=f23e177]:
+          - generic [ref=f23e196]:
+            - generic [ref=f23e199]:
+              - generic [ref=f23e200]:
+                - text: A small architecture firm typically spends
+                - mark [ref=f23e201]:
+                  - text: between
+                  - strong [ref=f23e202]: $5,000 and $25,000 per year
+                - text: on rendering and 3D visualization, depending on whether they outsource work or produce it in-house.
+                - generic [ref=f23e204]:
+                  - link "Fenestra (+1) – Architectural Rendering Cost & Pricing Guide 2026 - Fenestra. Related results" [ref=f23e205] [cursor=pointer]:
+                    - /url: /goto?url=CAESigEB6zswFeIivVmxYdBnEo1XdJjt_c5KzqFJgiTJAFYv2ydEb94qJnNFh0gjgnp55v8tSzhU3sT3LZNvzE17tjbJRz6zBAMSv4bWNcShgXPWg_F46ofIcmyjx5eDOn7RzXbuMkgn5IMTItRWE5iA_ouO0gDGtYGF_MuXLKI91IhzLVRQEIardSZx0M0
+                  - button "Fenestra (+1) – Architectural Rendering Cost & Pricing Guide 2026 - Fenestra. Related results" [ref=f23e206] [cursor=pointer]:
+                    - generic [ref=f23e208]:
+                      - generic [ref=f23e209]: Fenestra
+                      - generic [ref=f23e210]: "+1"
+              - heading "Annual Budget Breakdown by Approach" [level=3] [ref=f23e215]
+              - list [ref=f23e216]:
+                - listitem [ref=f23e218]:
+                  - generic [ref=f23e219]:
+                    - strong [ref=f23e220]: "Outsourced Freelancers / Mid-Tier Studios:"
+                    - text: Expect
+                    - strong [ref=f23e221]: $300 to $2,500 per image
+                    - text: . For a small firm needing 10 to 20 renders a year for client approvals and pitches, annual spending lands around
+                    - strong [ref=f23e222]: $5,000 to $15,000
+                    - text: .
+                  - generic [ref=f23e224]:
+                    - link "Fenestra – Architectural Rendering Cost & Pricing Guide 2026 - Fenestra. Related results" [ref=f23e225] [cursor=pointer]:
+                      - /url: /goto?url=CAESigEB6zswFeIivVmxYdBnEo1XdJjt_c5KzqFJgiTJAFYv2ydEb94qJnNFh0gjgnp55v8tSzhU3sT3LZNvzE17tjbJRz6zBAMSv4bWNcShgXPWg_F46ofIcmyjx5eDOn7RzXbuMkgn5IMTItRWE5iA_ouO0gDGtYGF_MuXLKI91IhzLVRQEIardSZx0M0
+                    - button "Fenestra – Architectural Rendering Cost & Pricing Guide 2026 - Fenestra. Related results" [ref=f23e226] [cursor=pointer]:
+                      - generic [ref=f23e227]: Fenestra
+                - listitem [ref=f23e235]:
+                  - generic [ref=f23e236]:
+                    - strong [ref=f23e237]: "In-House Dedicated Artist:"
+                    - text: A full-time staff visualizer costs
+                    - strong [ref=f23e238]: $70,000+ per year
+                    - text: in salary, plus $10,000+ in high-end hardware and $5,000+/year in software licenses. This is only financially rational if your firm produces over 60+ complex images annually.
+                  - generic [ref=f23e240]:
+                    - link "Visualizee.ai (+1) – How Much Does Architectural Rendering Cost? (2026). Related results" [ref=f23e241] [cursor=pointer]:
+                      - /url: /goto?url=CAESbwHrOzAV2rsrwDyWkTpfRiWM5ngM_9GFxrxTrjlG-leLs7RevBJ-4FA3-Ig87-sToypRHLhEosWH37Fu4Z3Pdfcq6mdKh6MWWxU0kedNKp7QZ7oT8aXw9qc1mBgwhEKm08UWjB8LjP6DrPcjC_PSog
+                    - button "Visualizee.ai (+1) – How Much Does Architectural Rendering Cost? (2026). Related results" [ref=f23e242] [cursor=pointer]:
+                      - generic [ref=f23e244]:
+                        - generic [ref=f23e245]: Visualizee.ai
+                        - generic [ref=f23e246]: "+1"
+                - listitem [ref=f23e252]:
+                  - generic [ref=f23e253]:
+                    - strong [ref=f23e254]: "Real-Time & AI-Assisted Workflows:"
+                    - text: Subscriptions to tools like Enscape, D5 Render, or AI platforms cost roughly
+                    - strong [ref=f23e255]: $20 to $400 per month
+                    - text: ($240–$4,800/year), heavily reducing the need for costly external outsourcing on early design concepts. Read more about
+                    - generic [ref=f23e256]: reducing visualization costs in small architecture studios
+                    - text: for tactical tips.
+                  - generic [ref=f23e258]:
+                    - link "monaverse.com (+2) – What 3D Rendering Really Costs Interior Designers in 2026. Related results" [ref=f23e259] [cursor=pointer]:
+                      - /url: /goto?url=CAESdAHrOzAV4qMJak8oPCzW0nGsIOa1PmanPEsUW0lCLslyP_gWDfkpX7OHwu5mSLiFBW82xHfbqz5pqiZJbh3P1AwWRvv4ruvq7sanxsc3lsv5We49U0CfO084tz99uhAm6quJ0_33Lt7qj6iUUnk0Q_Ty_5Hq
+                    - button "monaverse.com (+2) – What 3D Rendering Really Costs Interior Designers in 2026. Related results" [ref=f23e260] [cursor=pointer]:
+                      - generic [ref=f23e262]:
+                        - generic [ref=f23e263]: monaverse.com
+                        - generic [ref=f23e264]: "+2"
+              - heading "Cost-Saving Benchmarks" [level=3] [ref=f23e270]
+              - list [ref=f23e271]:
+                - listitem [ref=f23e273]:
+                  - generic [ref=f23e274]:
+                    - strong [ref=f23e275]: "Pitch vs. Billable Renders:"
+                    - text: Treat early uncontracted pitch imagery as a capped marketing expense (ideally under 5% of potential project fees).
+                - listitem [ref=f23e277]:
+                  - generic [ref=f23e278]:
+                    - strong [ref=f23e279]: "Clean BIM Inputs:"
+                    - text: Passing organized Revit, Rhino, or SketchUp files directly to renderers cuts base modeling fees by 30% or more.
+                  - generic [ref=f23e281]:
+                    - 'link "pixready (+2) – 3D Architectural Rendering Cost in 2026: Pricing Guide - pixready. Related results" [ref=f23e282] [cursor=pointer]':
+                      - /url: /goto?url=CAEScgHrOzAVugaBgX1AG0Mcii3Ce_Ra3kbT9Sc34rjI5rsCYiNR6F7oa43bfmWoyuJMoTzI9GwjMM4tD5TneE5v2QCWr01kMl6cuQTxxzNTMRzwDMTUtA-GA7ktsxAw_49qTTBDk6sz1CXRehceK1xMDQJhag
+                    - 'button "pixready (+2) – 3D Architectural Rendering Cost in 2026: Pricing Guide - pixready. Related results" [ref=f23e283] [cursor=pointer]':
+                      - generic [ref=f23e285]:
+                        - generic [ref=f23e286]: pixready
+                        - generic [ref=f23e287]: "+2"
+              - generic [ref=f23e294]:
+                - text: If you share your
+                - strong [ref=f23e295]: average annual project volume
+                - text: and
+                - strong [ref=f23e296]: how many still renders you need per project
+                - text: ", I can help you calculate the exact break-even point between outsourcing and software subscriptions."
+            - generic [ref=f23e301]:
+              - list [ref=f23e303]:
+                - listitem [ref=f23e304]:
+                  - generic [ref=f23e305]:
+                    - link "Architectural Rendering Cost & Pricing Guide 2026 - Fenestra. Opens in new tab." [ref=f23e306] [cursor=pointer]:
+                      - /url: /goto?url=CAESigEB6zswFeIivVmxYdBnEo1XdJjt_c5KzqFJgiTJAFYv2ydEb94qJnNFh0gjgnp55v8tSzhU3sT3LZNvzE17tjbJRz6zBAMSv4bWNcShgXPWg_F46ofIcmyjx5eDOn7RzXbuMkgn5IMTItRWE5iA_ouO0gDGtYGF_MuXLKI91IhzLVRQEIardSZx0M0
+                    - generic [ref=f23e307]:
+                      - generic [ref=f23e308]:
+                        - generic [ref=f23e311]: Fenestra
+                        - button "About this result" [ref=f23e317] [cursor=pointer]
+                      - generic [ref=f23e323]:
+                        - generic [ref=f23e324]: Architectural Rendering Cost & Pricing Guide 2026 - Fenestra
+                        - generic [ref=f23e325]: "This guide benchmarks architectural rendering prices in 2026 across every provider category an architect actually uses: high-end s..."
+                - listitem [ref=f23e328]:
+                  - generic [ref=f23e329]:
+                    - link "What 3D Rendering Really Costs Interior Designers in 2026. Opens in new tab." [ref=f23e330] [cursor=pointer]:
+                      - /url: /goto?url=CAESdAHrOzAV4qMJak8oPCzW0nGsIOa1PmanPEsUW0lCLslyP_gWDfkpX7OHwu5mSLiFBW82xHfbqz5pqiZJbh3P1AwWRvv4ruvq7sanxsc3lsv5We49U0CfO084tz99uhAm6quJ0_33Lt7qj6iUUnk0Q_Ty_5Hq
+                    - generic [ref=f23e331]:
+                      - generic [ref=f23e332]:
+                        - generic [ref=f23e335]: monaverse.com
+                        - button "About this result" [ref=f23e341] [cursor=pointer]
+                      - generic [ref=f23e347]:
+                        - generic [ref=f23e348]: What 3D Rendering Really Costs Interior Designers in 2026
+                        - generic [ref=f23e349]: 13 May 2026 — How much does a 3D render cost for interior design? Expect $200 to $1,500 per image from a freelance 3D artist, with a typical fur...
+                - listitem [ref=f23e353]:
+                  - generic [ref=f23e354]:
+                    - link "How Much Does Architectural Rendering Cost? (2026). Opens in new tab." [ref=f23e355] [cursor=pointer]:
+                      - /url: /goto?url=CAESbwHrOzAV2rsrwDyWkTpfRiWM5ngM_9GFxrxTrjlG-leLs7RevBJ-4FA3-Ig87-sToypRHLhEosWH37Fu4Z3Pdfcq6mdKh6MWWxU0kedNKp7QZ7oT8aXw9qc1mBgwhEKm08UWjB8LjP6DrPcjC_PSog
+                    - generic [ref=f23e356]:
+                      - generic [ref=f23e357]:
+                        - generic [ref=f23e360]: Visualizee.ai
+                        - button "About this result" [ref=f23e366] [cursor=pointer]
+                      - generic [ref=f23e372]:
+                        - generic [ref=f23e373]: How Much Does Architectural Rendering Cost? (2026)
+                        - generic [ref=f23e374]: "14 Jul 2026 — What Does Rendering It Yourself Really Cost? ... Stack it honestly: a small firm putting one artist on visualization full-time is ..."
+              - button "Show all related results" [ref=f23e378] [cursor=pointer]:
+                - generic [ref=f23e379]: Show all
+          - generic [ref=f23e383]:
+            - generic [ref=f23e384]: AI can make mistakes, so double-check responses
+            - generic [ref=f23e388]:
+              - button "Share" [ref=f23e395]
+              - generic [ref=f23e404]:
+                - button "Good response" [ref=f23e409] [cursor=pointer]:
+                  - img "Good response" [ref=f23e412]
+                - button "Bad response" [ref=f23e418] [cursor=pointer]:
+                  - img "Bad response" [ref=f23e421]
+              - button "More" [ref=f23e432] [cursor=pointer]
+      - main [ref=f23e441]:
+        - generic [ref=f23e445]:
+          - generic [ref=f23e448]:
+            - heading "Web results" [level=2] [ref=f23e449]
+            - generic [ref=f23e450]:
+              - generic [ref=f23e453]:
+                - 'link "Best Architectural Visualisation Firms: Budget-Friendly Picks Housescape https://www.house-scape.com › Blog" [ref=f23e455] [cursor=pointer]':
+                  - /url: /goto?url=CAESowEB6zswFTALZj6AZdV585VR2C-_--75TkwfyHNKYG5bYObRot09S06us7c2qz5XSLvffuT_U9hs5SCgDtyoqFWrdK3qUbkXSUpX5Njbn16JZswgPD2Uqa-UpPTEO2hggAqxtF2aAjUfwNnGE_x0uRNp61ZJv_zTkTDkjkQIOYlRLAWIU7OrPG0jP4fQbhikQN5rxaqUo_JkhXLna_3cnkTgg9OU
+                  - 'heading "Best Architectural Visualisation Firms: Budget-Friendly Picks" [level=3] [ref=f23e456]'
+                  - generic [ref=f23e462]:
+                    - generic [ref=f23e463]: Housescape
+                    - generic [ref=f23e465]: https://www.house-scape.com › Blog
+                - button "About this result" [ref=f23e471] [cursor=pointer]
+              - generic [ref=f23e477]:
+                - generic [ref=f23e478]: 13 Oct 2025 —
+                - generic [ref=f23e479]:
+                  - text: Discover trusted indie
+                  - emphasis [ref=f23e480]: architectural visualization firms
+                  - text: in 2025 that work in a
+                  - emphasis [ref=f23e481]: budget
+                  - text: "-friendly market segment and fit into real-world ..."
+          - generic [ref=f23e486]:
+            - heading "People also ask" [level=2] [ref=f23e488]
+            - generic [ref=f23e489]:
+              - button "How much do architects charge for renderings?" [ref=f23e495] [cursor=pointer]
+              - button "How much does architectural visualization cost?" [ref=f23e509] [cursor=pointer]
+              - button "How much to charge for rendering?" [ref=f23e523] [cursor=pointer]
+              - button "How much to charge for 3D rendering in India?" [ref=f23e537] [cursor=pointer]
+          - generic [ref=f23e547]:
+            - heading "Web results" [level=2] [ref=f23e548]
+            - generic [ref=f23e549]:
+              - generic [ref=f23e552]:
+                - link "Architectural Rendering Cost & Pricing Guide 2026 Fenestra https://www.fenestra.app › Solutions" [ref=f23e554] [cursor=pointer]:
+                  - /url: /goto?url=CAESigEB6zswFVcWGUjUf7Ky20OpnZSE_4uL7m8R1pp9NnVGpy-1InO2Letsy4I3VDOPzNlosmyd_nZZZVDpQM-1R3hOUNcWyei0aPYGxGNFCF-af0pp3Qp-ev5oQAo0y_sv7ITD0o8hIkNGBAJqCS97IeL4UFPwO1VuNQ-0ylJIbW2twinALZPaMCdXzb0
+                  - heading "Architectural Rendering Cost & Pricing Guide 2026" [level=3] [ref=f23e555]
+                  - generic [ref=f23e561]:
+                    - generic [ref=f23e562]: Fenestra
+                    - generic [ref=f23e564]: https://www.fenestra.app › Solutions
+                - button "About this result" [ref=f23e570] [cursor=pointer]
+              - generic [ref=f23e577]:
+                - text: How much does
+                - emphasis [ref=f23e578]: architectural rendering cost
+                - text: in 2026? Average
+                - emphasis [ref=f23e579]: cost
+                - text: "per image: studios $2000-$8000, freelancers $300-$1200, AI platforms from $0.04."
+              - generic [ref=f23e581]:
+                - text: "Missing: annual ‎| Show results with:"
+                - link "annual" [ref=f23e582] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=small+architecture+firm+%22annual%22+spend+rendering+visualization+budget&sa=X&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ5t4CegQINhAB
+          - generic [ref=f23e586]:
+            - generic [ref=f23e589]:
+              - link "How Much Does Architectural Rendering Cost? (2026) Visualizee.ai https://visualizee.ai › Blog" [ref=f23e591] [cursor=pointer]:
+                - /url: /goto?url=CAESbwHrOzAV91bfgDHFa2QOJFh1ASNtTJLLno6M9PYiGhEykRClKLYfsC4wes3z4XL3J_XAiovpGlu9tC_eJhjsUjXcAe-73CfgMdP8DUcj6kb4cYdweFUEUUgHz29I7XVLI1lO47gkcbmvMOhIObrARw
+                - heading "How Much Does Architectural Rendering Cost? (2026)" [level=3] [ref=f23e592]
+                - generic [ref=f23e598]:
+                  - generic [ref=f23e599]: Visualizee.ai
+                  - generic [ref=f23e601]: https://visualizee.ai › Blog
+              - button "About this result" [ref=f23e607] [cursor=pointer]
+            - generic [ref=f23e613]:
+              - generic [ref=f23e614]: 14 Jul 2026 —
+              - generic [ref=f23e615]:
+                - text: "Stack it honestly: a small firm putting one artist on visualization full-time is spending $"
+                - emphasis [ref=f23e616]: 70,000+ per year
+                - text: before the first image ships ...
+              - link "Read more" [ref=f23e617] [cursor=pointer]:
+                - /url: /goto?url=CAESwgEB6zswFVI3Do0DquoyY2irwDun4QTsUAUnjGsXHDIW77IkZnVM0cE7txCBI_9Q8uNuOB7PhqNLiMas8QWUnvuLkAiBFywxiAwSVJ2XOQyu66hcOfUcWDw2LwyN15YgpcN2ROvWw9O4WEZWJ4HC6uj20vdGvSiqjr_pDkVzHEzGryQQHpCsZQaOTjR9U2WsgWXqrtsZjsc2q7qTHpafkRwzoSZNILb1ZE0Au17zawaUsB4qy5g-rssxNQSbOCc2QpdTXw
+          - generic [ref=f23e621]:
+            - generic [ref=f23e624]:
+              - 'link "Architectural Rendering Cost 2026: $300–$5000 Vizcraft https://vizcraft.ai › blog › posts › architectural-renderin..." [ref=f23e626] [cursor=pointer]':
+                - /url: /goto?url=CAESeQHrOzAV64Ox6_2lfPlD4H5op3OGptRCX2Dq7VpcH-dE67GwsAt9J8mYWOD-9VNTxRdTedNY3ez1PRvP8sMATpm0e2h23X8XhAGG4mBax2bP9cJccIJiHpwLc-x-e55KPezVwru94y9VL2Q6ZWSa0-mNmox-NmqDtAw
+                - 'heading "Architectural Rendering Cost 2026: $300–$5000" [level=3] [ref=f23e627]'
+                - generic [ref=f23e633]:
+                  - generic [ref=f23e634]: Vizcraft
+                  - generic [ref=f23e636]: https://vizcraft.ai › blog › posts › architectural-renderin...
+              - button "About this result" [ref=f23e642] [cursor=pointer]
+            - generic [ref=f23e648]:
+              - generic [ref=f23e649]: 11 Apr 2026 —
+              - generic [ref=f23e650]:
+                - emphasis [ref=f23e651]: Architectural
+                - text: renderings
+                - emphasis [ref=f23e652]: cost
+                - text: $500–$1,200 per residential interior still, $1,200–$2,500 for complex interiors or
+                - emphasis [ref=f23e653]: small
+                - text: commercial views,
+            - generic [ref=f23e655]:
+              - text: "Missing: annual ‎| Show results with:"
+              - link "annual" [ref=f23e656] [cursor=pointer]:
+                - /url: /search?sca_esv=0fcbbd60dc8ae695&q=small+architecture+firm+%22annual%22+spend+rendering+visualization+budget&sa=X&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ5t4CegQIQBAB
+          - generic [ref=f23e660]:
+            - generic [ref=f23e663]:
+              - link "scaling young architecture firm portfolios with high-quality ... The Design Story https://www.thedesignstory.com › blog › news › scaling..." [ref=f23e665] [cursor=pointer]:
+                - /url: /goto?url=CAESswEB6zswFdDVpmUkY28hyAkDZ1294fPR6sSgkeEsS8l2NiUurCAhmdrv1bWd7F6BytHQhrlYNabOcDDW_QkWWtFt0USDG-PgzUBbud56v0BdytHtzWdXeX4-ezuQ9V9VRfi8kX6us4DWpCeFMXAMbapq0us8wTZTFv0yBO0BXvfq5o_upynypINT8i1RD2yZb_85nbnOSWTo4qnbJmJrvpJhRkgnvkwjF9yeL0-k-trugW7d2A
+                - heading "scaling young architecture firm portfolios with high-quality ..." [level=3] [ref=f23e666]
+                - generic [ref=f23e672]:
+                  - generic [ref=f23e673]: The Design Story
+                  - generic [ref=f23e675]: https://www.thedesignstory.com › blog › news › scaling...
+              - button "About this result" [ref=f23e681] [cursor=pointer]
+            - generic [ref=f23e688]:
+              - emphasis [ref=f23e689]: firms spend
+              - text: an average of 6.3% of
+              - emphasis [ref=f23e690]: annual budgets
+              - text: on marketing and business development. smaller
+              - emphasis [ref=f23e691]: firms
+              - text: with
+              - emphasis [ref=f23e692]: annual
+              - text: billings between $250,000 and $1 million were ...
+          - generic [ref=f23e696]:
+            - generic [ref=f23e699]:
+              - link "3D Rendering Cost in 2026 Maverick Frame Studio https://maverickframe.com › Blog" [ref=f23e701] [cursor=pointer]:
+                - /url: /goto?url=CAESbAHrOzAVaMDbeo3PRZm1njVTCXTKY1IPKkfL665spu_dD52cg_JXzpy-FLglEkqGfZV5gTmogF8K1LDEvd2MKxct-_GqgdxdlI2XEBD0sF82T2SeMHpLt4MrUwHHcGT0-Qm5K_f7dmp008lvrQ
+                - heading "3D Rendering Cost in 2026" [level=3] [ref=f23e702]
+                - generic [ref=f23e708]:
+                  - generic [ref=f23e709]: Maverick Frame Studio
+                  - generic [ref=f23e711]: https://maverickframe.com › Blog
+              - button "About this result" [ref=f23e717] [cursor=pointer]
+            - generic [ref=f23e723]:
+              - generic [ref=f23e724]: 24 Mar 2026 —
+              - generic [ref=f23e725]:
+                - text: Most 3D renderings cost $
+                - emphasis [ref=f23e726]: 250 to $5,000 per image
+                - text: . A residential interior or exterior still typically runs $250–$1,800, a detailed commercial ...
+              - link "Read more" [ref=f23e727] [cursor=pointer]:
+                - /url: /goto?url=CAESygEB6zswFVk5g8B0mWrPMUgFSlu14w-cVtkQ-6Y6MWLDYuHXr2jY6GQV9zJNrpF5XxExUuDUO4lObcYUMf-5UYTD-R2DVmDIIVvbDHtstTCdaqzuZlYvdZrzCCm0CrtbwqwiAoo0OW9Y5oMi8bIZ2Ux1DWjRz9kLAWxKQGVG1Xu-iqEutimLVZh6vk7LFdqQem6tr8XyNQkTXnL3fZ9YlHzng0Ye8XTUJVt9qAKxbu04tDJYGSgftk0Vwpgl5mjkTqhynDjhEDkVJB7P
+          - generic [ref=f23e731]:
+            - generic [ref=f23e734]:
+              - link "Reducing visualization costs in small architecture studios e-architect https://www.e-architect.com › articles › reducing-visuali..." [ref=f23e736] [cursor=pointer]:
+                - /url: /goto?url=CAESlwEB6zswFTG-4mqxJB6Qu8Gt66uSkaoZA2QtmOWUXB3Il2j3I9bPCom-PnJGNdBLEKIABTYe7vLk-Jun-IiSxyy579--DyOB7zA-Eqmey3xRXLYxvYs-BqZcnNZdhrprMYsBbpixaYAWAEXaVAcLjvO54pl3POVb3a94Jtr3YLzlRqQHGo_2AqrrMhQllGozVqy6la5J3XKc
+                - heading "Reducing visualization costs in small architecture studios" [level=3] [ref=f23e737]
+                - generic [ref=f23e743]:
+                  - generic [ref=f23e744]: e-architect
+                  - generic [ref=f23e746]: https://www.e-architect.com › articles › reducing-visuali...
+              - button "About this result" [ref=f23e752] [cursor=pointer]
+            - generic [ref=f23e758]:
+              - generic [ref=f23e759]: 2 Jun 2026 —
+              - generic [ref=f23e760]:
+                - text: Enscape Solo is billed
+                - emphasis [ref=f23e761]: annually
+                - text: at £472.80, while Lumion's official plans range from $229 per year for View to $1,149 for Pro and $1,499 for ...
+          - generic [ref=f23e765]:
+            - generic [ref=f23e768]:
+              - 'link "Architectural Rendering Cost: A Developer''s Guide Interface Multimedia https://ifmm.com › Insights" [ref=f23e770] [cursor=pointer]':
+                - /url: /goto?url=CAESdQHrOzAVqj6ryNajXAGCm7ea-N8N0bvZF26FrdP49P0Be0cFHk55TDHA4qQfEQkyiRyEAdIkjIz5wdC8quYjQDPLIm6Ic5uMrxMG9gfsTB3aRL5DmUpoprs0qmt596ccul-CDh-yCD4WZ9R_krAud60b30bd8g
+                - 'heading "Architectural Rendering Cost: A Developer''s Guide" [level=3] [ref=f23e771]'
+                - generic [ref=f23e777]:
+                  - generic [ref=f23e778]: Interface Multimedia
+                  - generic [ref=f23e780]: https://ifmm.com › Insights
+              - button "About this result" [ref=f23e786] [cursor=pointer]
+            - generic [ref=f23e792]:
+              - generic [ref=f23e793]: 5 Aug 2026 —
+              - generic [ref=f23e794]:
+                - text: A single photorealistic exterior
+                - emphasis [ref=f23e795]: rendering
+                - text: from a professional studio typically ranges from $2,000 to $8,000, depending on the project's ...
+            - generic [ref=f23e796]: "Missing: firm ‎annual"
+          - generic [ref=f23e801]:
+            - generic [ref=f23e804]:
+              - 'link "3D Visualization Cost 2026: Prices, Factors & ROI TWOBUILD https://www.twobuild.cc › blog › 3d-visualization-cost-..." [ref=f23e806] [cursor=pointer]':
+                - /url: /goto?url=CAESggEB6zswFR346GE1Qf1WMcNePdDvFWdrvUZcdU5paVdjF7I5JCNmVF9mC8W8XFUrNhiCHQajLZJsZGvzPTvzDlu4tmuJeV0IQTehcCkioRKfHXnyLKiisklQ-lHpDek-lWvDBI-zi1SnixFbYzO_En5HKU5RyVdYJ7x8EtOoR1Issg4Q
+                - 'heading "3D Visualization Cost 2026: Prices, Factors & ROI" [level=3] [ref=f23e807]'
+                - generic [ref=f23e813]:
+                  - generic [ref=f23e814]: TWOBUILD
+                  - generic [ref=f23e816]: https://www.twobuild.cc › blog › 3d-visualization-cost-...
+              - button "About this result" [ref=f23e822] [cursor=pointer]
+            - generic [ref=f23e828]:
+              - generic [ref=f23e829]: 23 Mar 2026 —
+              - generic [ref=f23e830]:
+                - text: A 3D floor plan transforms a flat
+                - emphasis [ref=f23e831]: architectural
+                - text: drawing into a three-dimensional, furnished layout. Prices range from EUR 150 to EUR 600 per ...
+              - link "Read more" [ref=f23e832] [cursor=pointer]:
+                - /url: /goto?url=CAESzgEB6zswFf5XRIV1DPZ4mm9nPiB2XIlsq3tNW3WzPPu1t0Wn6OtP69nmYQQErsdmwz4rr39_nH3CVWXFHBLsM2kmTVIhdIc4-AT9QY2tyL7kM-vZa69bans6Z_ZeZs8txMQyBfdt_OoVEtYO09_QUlfx994oZAndzURogmYlRDvyJey1Du2jbv5AcWPpgQDB85FgANmhsTtj71-VZG4LAn1suoOYhHO0wp3QlA-qd1ilGkTo03eQ8IJ2xuPEqeYppPnGCSq-fE7f2e037mm_xw
+        - navigation [ref=f23e835]:
+          - heading "Page navigation" [level=1] [ref=f23e836]
+          - text: "1"
+          - link "Page 2" [ref=f23e839] [cursor=pointer]:
+            - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&ei=5fqpatpOiKiG9w_PpafhCQ&start=10&sa=N&sstk=AS6-VmJ6uliQpviCHZmWMUQ32uEGEbP9T8ocmD5k9eTu16BG40sA-Y_YPaX2etcaBPiNYBO0rLtnYrkpPdpQm8sGj7x6PRvMhIbf0w&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ8tMDegQIJhAE
+            - text: "2"
+          - link "Page 3" [ref=f23e841] [cursor=pointer]:
+            - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&ei=5fqpatpOiKiG9w_PpafhCQ&start=20&sa=N&sstk=AS6-VmJ6uliQpviCHZmWMUQ32uEGEbP9T8ocmD5k9eTu16BG40sA-Y_YPaX2etcaBPiNYBO0rLtnYrkpPdpQm8sGj7x6PRvMhIbf0w&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ8tMDegQIJhAG
+            - text: "3"
+          - link "Page 4" [ref=f23e843] [cursor=pointer]:
+            - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&ei=5fqpatpOiKiG9w_PpafhCQ&start=30&sa=N&sstk=AS6-VmJ6uliQpviCHZmWMUQ32uEGEbP9T8ocmD5k9eTu16BG40sA-Y_YPaX2etcaBPiNYBO0rLtnYrkpPdpQm8sGj7x6PRvMhIbf0w&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ8tMDegQIJhAI
+            - text: "4"
+          - link "Page 5" [ref=f23e845] [cursor=pointer]:
+            - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&ei=5fqpatpOiKiG9w_PpafhCQ&start=40&sa=N&sstk=AS6-VmJ6uliQpviCHZmWMUQ32uEGEbP9T8ocmD5k9eTu16BG40sA-Y_YPaX2etcaBPiNYBO0rLtnYrkpPdpQm8sGj7x6PRvMhIbf0w&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ8tMDegQIJhAK
+            - text: "5"
+          - link "Page 6" [ref=f23e847] [cursor=pointer]:
+            - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&ei=5fqpatpOiKiG9w_PpafhCQ&start=50&sa=N&sstk=AS6-VmJ6uliQpviCHZmWMUQ32uEGEbP9T8ocmD5k9eTu16BG40sA-Y_YPaX2etcaBPiNYBO0rLtnYrkpPdpQm8sGj7x6PRvMhIbf0w&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ8tMDegQIJhAM
+            - text: "6"
+          - link "Page 7" [ref=f23e849] [cursor=pointer]:
+            - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&ei=5fqpatpOiKiG9w_PpafhCQ&start=60&sa=N&sstk=AS6-VmJ6uliQpviCHZmWMUQ32uEGEbP9T8ocmD5k9eTu16BG40sA-Y_YPaX2etcaBPiNYBO0rLtnYrkpPdpQm8sGj7x6PRvMhIbf0w&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ8tMDegQIJhAO
+            - text: "7"
+          - link "Page 8" [ref=f23e851] [cursor=pointer]:
+            - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&ei=5fqpatpOiKiG9w_PpafhCQ&start=70&sa=N&sstk=AS6-VmJ6uliQpviCHZmWMUQ32uEGEbP9T8ocmD5k9eTu16BG40sA-Y_YPaX2etcaBPiNYBO0rLtnYrkpPdpQm8sGj7x6PRvMhIbf0w&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ8tMDegQIJhAQ
+            - text: "8"
+          - link "Page 9" [ref=f23e853] [cursor=pointer]:
+            - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&ei=5fqpatpOiKiG9w_PpafhCQ&start=80&sa=N&sstk=AS6-VmJ6uliQpviCHZmWMUQ32uEGEbP9T8ocmD5k9eTu16BG40sA-Y_YPaX2etcaBPiNYBO0rLtnYrkpPdpQm8sGj7x6PRvMhIbf0w&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ8tMDegQIJhAS
+            - text: "9"
+          - link "Page 10" [ref=f23e855] [cursor=pointer]:
+            - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&ei=5fqpatpOiKiG9w_PpafhCQ&start=90&sa=N&sstk=AS6-VmJ6uliQpviCHZmWMUQ32uEGEbP9T8ocmD5k9eTu16BG40sA-Y_YPaX2etcaBPiNYBO0rLtnYrkpPdpQm8sGj7x6PRvMhIbf0w&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ8tMDegQIJhAU
+            - text: "10"
+          - heading [level=2] [ref=f23e857]:
+            - link "Next" [ref=f23e858] [cursor=pointer]:
+              - /url: /search?q=small+architecture+firm+annual+spend+rendering+visualization+budget&sca_esv=0fcbbd60dc8ae695&ei=5fqpatpOiKiG9w_PpafhCQ&start=10&sa=N&sstk=AS6-VmJ6uliQpviCHZmWMUQ32uEGEbP9T8ocmD5k9eTu16BG40sA-Y_YPaX2etcaBPiNYBO0rLtnYrkpPdpQm8sGj7x6PRvMhIbf0w&ved=2ahUKEwia1eOEg_KWAxUIlOEIHc_SKZwQ8NMDegQIJhAW
+        - navigation
+    - contentinfo [ref=f23e861]:
+      - heading "Footer links" [level=1] [ref=f23e862]
+      - generic [ref=f23e866]:
+        - generic [ref=f23e868]:
+          - text: India
+          - generic [ref=f23e870]:
+            - button "Vijayawada, Andhra Pradesh - From your IP address" [ref=f23e872] [cursor=pointer]:
+              - generic [ref=f23e873]: Vijayawada, Andhra Pradesh
+              - generic [ref=f23e875]:
+                - text: "-"
+                - generic [ref=f23e876]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=f23e878] [cursor=pointer]
+        - generic [ref=f23e881]:
+          - link "Help" [ref=f23e882] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+          - link "Send feedback" [ref=f23e883] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f23e884] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+          - link "Terms" [ref=f23e885] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IN&fg=1

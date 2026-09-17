@@ -75,3 +75,4 @@
 {"ts":"2026-09-15T01:30:56Z","project":"ContentGenerator","kind":"commit","sha":"3026ac3","summary":"chore: daily snapshot 2026-09-15","files":"updates.jsonl","new_hooks":"","actor":"git"}
 {"ts":"2026-09-16T01:31:00Z","project":"ContentGenerator","kind":"commit","sha":"162bb1d","summary":"chore: daily snapshot 2026-09-16","files":"updates.jsonl","new_hooks":"","actor":"git"}
 {"ts":"2026-09-16T02:44:55Z","project":"ContentGenerator","kind":"commit","sha":"2cf6ef3","summary":"chore: session log — context recon + student-kit evaluation","files":"updates.jsonl","new_hooks":"","actor":"git"}
+{"ts":"2026-09-16T17:39:38Z","project":"ContentGenerator","kind":"commit","sha":"b66db11","summary":"docs: session handoff for context-recon + video-kit session","files":".planning/HANDOFF-2026-09-16-context-recon-and-video-kit.md,updates.jsonl","new_hooks":"","actor":"git"}

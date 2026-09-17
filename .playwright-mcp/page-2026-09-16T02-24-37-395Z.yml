@@ -1,0 +1,364 @@
+- generic [active] [ref=f356e1]:
+  - generic [ref=f356e4]:
+    - navigation "Main navigation" [ref=f356e5]:
+      - generic [ref=f356e6]:
+        - link "vidIQ - Home" [ref=f356e7] [cursor=pointer]:
+          - /url: /
+        - list [ref=f356e13]:
+          - listitem [ref=f356e14]:
+            - link [ref=f356e15] [cursor=pointer]:
+              - /url: /features/
+              - paragraph [ref=f356e17]: Features
+          - listitem [ref=f356e21]:
+            - link [ref=f356e22] [cursor=pointer]:
+              - /url: /free-youtube-tools/
+              - paragraph [ref=f356e24]: Free AI Tools
+          - listitem [ref=f356e28]:
+            - link [ref=f356e29] [cursor=pointer]:
+              - /url: /coaching/
+              - paragraph [ref=f356e31]: Coaching
+          - listitem [ref=f356e32]:
+            - link [ref=f356e33] [cursor=pointer]:
+              - /url: /youtube-stats/top/100/
+              - paragraph [ref=f356e35]: Top 100 YouTube Channels
+          - listitem [ref=f356e36]:
+            - link [ref=f356e37] [cursor=pointer]:
+              - /url: "#"
+              - paragraph [ref=f356e39]: Resources
+          - listitem [ref=f356e43]:
+            - link [ref=f356e44] [cursor=pointer]:
+              - /url: /extension/
+              - paragraph [ref=f356e46]: Browser Extension
+          - listitem [ref=f356e47]:
+            - link [ref=f356e48] [cursor=pointer]:
+              - /url: /plans/
+              - paragraph [ref=f356e50]: Pricing
+        - generic [ref=f356e51]:
+          - link "Sign In" [ref=f356e52] [cursor=pointer]:
+            - /url: https://app.vidiq.com/auth/login
+          - button "Sign Up for Free" [ref=f356e54] [cursor=pointer]
+    - main [ref=f356e65]:
+      - generic [ref=f356e67]:
+        - generic [ref=f356e68]:
+          - generic [ref=f356e69]:
+            - generic [ref=f356e70]:
+              - heading "YouTube data, in any AI tool" [level=1] [ref=f356e71]: YouTube data,in any AI tool
+              - paragraph [ref=f356e72]: Connect vidIQ MCP to Claude, ChatGPT, Cursor, and more. Get real, data-backed answers - without switching tabs.
+              - generic [ref=f356e73]:
+                - generic [ref=f356e74]: Connect
+                - generic [ref=f356e80]: Ask
+              - generic [ref=f356e87]:
+                - button "Try vidIQ MCP Free" [ref=f356e88] [cursor=pointer]
+                - generic [ref=f356e100] [cursor=pointer]: See it in Action
+            - generic [ref=f356e102]:
+              - generic:
+                - img "vidIQ"
+              - generic [ref=f356e140]:
+                - img "Claude" [ref=f356e142]
+                - generic [ref=f356e143]: Claude
+              - generic [ref=f356e144]:
+                - img "ChatGPT" [ref=f356e146]
+                - generic [ref=f356e147]: ChatGPT
+              - generic [ref=f356e148]:
+                - img "Cursor" [ref=f356e150]
+                - generic [ref=f356e151]: Cursor
+              - generic [ref=f356e152]:
+                - img "Codex" [ref=f356e154]
+                - generic [ref=f356e155]: Codex
+              - generic [ref=f356e156]: +more
+              - generic [ref=f356e159]: mcp.vidiq.com
+          - generic [ref=f356e163]:
+            - paragraph [ref=f356e164]: Compatible with
+            - generic [ref=f356e165]:
+              - generic [ref=f356e166]:
+                - img "claude" [ref=f356e167]
+                - generic [ref=f356e168]: Claude
+              - generic [ref=f356e169]:
+                - img "openai" [ref=f356e170]
+                - generic [ref=f356e171]: ChatGPT
+              - generic [ref=f356e172]:
+                - img "cursor" [ref=f356e173]
+                - generic [ref=f356e174]: Cursor
+              - generic [ref=f356e175]:
+                - img "codex" [ref=f356e176]
+                - generic [ref=f356e177]: Codex
+              - generic [ref=f356e178]:
+                - img "openclaw" [ref=f356e179]
+                - generic [ref=f356e180]: OpenClaw
+              - generic [ref=f356e181]: + more
+        - generic [ref=f356e182]:
+          - generic [ref=f356e183]:
+            - generic [ref=f356e184]: See It in Action
+            - heading "Real YouTube Prompts. Real vidIQ Data." [level=2] [ref=f356e186]
+            - paragraph [ref=f356e187]: Ask vidIQ MCP anything about your channel, competitors, or trends - and get answers backed by creator intelligence.
+          - generic [ref=f356e190]:
+            - generic [ref=f356e191]: Without vidIQ MCP
+            - generic [ref=f356e192]: With vidIQ MCP
+        - generic [ref=f356e202]:
+          - generic [ref=f356e203]:
+            - generic [ref=f356e204]: Why vidIQ MCP
+            - heading "The Only YouTube MCP Server Built on 135M+ Channels" [level=2] [ref=f356e206]
+            - paragraph [ref=f356e207]: Real YouTube intelligence, built for creators - not generic data endpoints.
+          - generic [ref=f356e208]:
+            - generic [ref=f356e216]:
+              - paragraph [ref=f356e217]: Already Connected
+              - paragraph [ref=f356e218]: Your YouTube account is already linked through vidIQ. No extra OAuth flows, no re-authentication.
+            - generic [ref=f356e227]:
+              - paragraph [ref=f356e228]: Creator-Native Data
+              - paragraph [ref=f356e229]: Access outlier scores, keyword research, and competitor analysis - the same data 20M creators use.
+            - generic [ref=f356e236]:
+              - paragraph [ref=f356e237]: 60-Second Setup
+              - paragraph [ref=f356e238]: Paste a URL, add your API key. No config files to debug, no documentation to read.
+            - generic [ref=f356e246]:
+              - paragraph [ref=f356e247]: Flexible Auth, Secure by Default
+              - paragraph [ref=f356e248]: Authenticate with an API key (recommended) or OAuth. API keys are simpler, revocable anytime, and work across every MCP client.
+            - generic [ref=f356e255]:
+              - paragraph [ref=f356e256]: Natural Language
+              - paragraph [ref=f356e257]: Ask questions like you'd ask a colleague. No SQL, no API calls, no query syntax to learn.
+            - generic [ref=f356e267]:
+              - paragraph [ref=f356e268]: Works With Everything
+              - paragraph [ref=f356e269]: MCP is an open standard. Claude, ChatGPT, Cursor, Codex - if it supports MCP, it works with vidIQ.
+        - generic [ref=f356e270]:
+          - generic [ref=f356e271]:
+            - generic [ref=f356e272]: vidIQ MCP Setup Guide
+            - heading "Set Up the YouTube MCP in 60 Seconds" [level=2] [ref=f356e274]
+            - paragraph [ref=f356e275]: Pick your AI tool and follow the steps.
+          - generic [ref=f356e277]:
+            - generic [ref=f356e278]:
+              - button "claude Claude" [ref=f356e279]:
+                - img "claude" [ref=f356e280]
+                - generic [ref=f356e281]: Claude
+              - button "openai ChatGPT" [ref=f356e283]:
+                - img "openai" [ref=f356e284]
+                - generic [ref=f356e285]: ChatGPT
+              - button "cursor Cursor" [ref=f356e286]:
+                - img "cursor" [ref=f356e287]
+                - generic [ref=f356e288]: Cursor
+              - button "claude Claude Code" [ref=f356e289]:
+                - img "claude" [ref=f356e290]
+                - generic [ref=f356e291]: Claude Code
+              - button "codex Codex" [ref=f356e292]:
+                - img "codex" [ref=f356e293]
+                - generic [ref=f356e294]: Codex
+              - button "openclaw OpenClaw" [ref=f356e295]:
+                - img "openclaw" [ref=f356e296]
+                - generic [ref=f356e297]: OpenClaw
+            - generic [ref=f356e298]:
+              - list [ref=f356e300]:
+                - listitem [ref=f356e301]:
+                  - generic [ref=f356e302]: "1"
+                  - paragraph [ref=f356e304]: Open vidIQ's official listing in Claude's Connector Directory
+                - listitem [ref=f356e305]:
+                  - generic [ref=f356e306]: "2"
+                  - paragraph [ref=f356e308]: Click Connect, then sign in or create your vidIQ account to authorize access
+                - listitem [ref=f356e309]:
+                  - generic [ref=f356e310]: "3"
+                  - paragraph [ref=f356e312]: You're all set. vidIQ tools are now available in your Claude conversations.
+              - generic [ref=f356e314]:
+                - paragraph [ref=f356e315]: Claude's Connector Directory
+                - link "Connect vidIQ to Claude (opens in a new tab)" [ref=f356e316] [cursor=pointer]:
+                  - /url: https://claude.ai/directory/vidiq
+                  - generic [ref=f356e317]:
+                    - text: Connect vidIQ to Claude
+                    - generic [ref=f356e318]: (opens in a new tab)
+                - paragraph [ref=f356e319]: Official directory listing - no server URL required
+                - button "Prefer manual setup? Copy the MCP server URL" [ref=f356e320]
+        - generic [ref=f356e325]:
+          - generic [ref=f356e326]:
+            - generic [ref=f356e327]: vidIQ MCP Prompt Library
+            - heading "Ready-to-Use Prompts for YouTube MCP" [level=2] [ref=f356e329]
+            - paragraph [ref=f356e330]: Ready-to-use prompts. Paste directly into your AI tool.
+          - generic [ref=f356e331]:
+            - navigation [ref=f356e332]:
+              - button "all" [ref=f356e333]
+              - button "competition" [ref=f356e334]
+              - button "performance" [ref=f356e335]
+              - button "keywords" [ref=f356e336]
+              - button "trends" [ref=f356e337]
+              - button "analytics" [ref=f356e338]
+            - generic [ref=f356e339]:
+              - button "competition Who are the fastest-growing channels in my niche this month?" [ref=f356e340]:
+                - generic [ref=f356e341]: competition
+                - paragraph [ref=f356e342]: Who are the fastest-growing channels in my niche this month?
+              - button "competition Show me Instagram creators in my niche worth learning from, and what is working for them." [ref=f356e347]:
+                - generic [ref=f356e348]: competition
+                - paragraph [ref=f356e349]: Show me Instagram creators in my niche worth learning from, and what is working for them.
+              - button "competition Compare my channel growth against my top 3 competitors." [ref=f356e354]:
+                - generic [ref=f356e355]: competition
+                - paragraph [ref=f356e356]: Compare my channel growth against my top 3 competitors.
+              - button "performance Why did my last 5 videos underperform? Show me the data." [ref=f356e361]:
+                - generic [ref=f356e362]: performance
+                - paragraph [ref=f356e363]: Why did my last 5 videos underperform? Show me the data.
+              - button "performance What's my average CTR vs. my niche benchmark?" [ref=f356e368]:
+                - generic [ref=f356e369]: performance
+                - paragraph [ref=f356e370]: What's my average CTR vs. my niche benchmark?
+              - button "keywords Find low-competition keywords for a beginner [topic] video." [ref=f356e375]:
+                - generic [ref=f356e376]: keywords
+                - paragraph [ref=f356e377]: Find low-competition keywords for a beginner [topic] video.
+              - button "keywords What keywords am I ranking for that I haven't fully optimized?" [ref=f356e382]:
+                - generic [ref=f356e383]: keywords
+                - paragraph [ref=f356e384]: What keywords am I ranking for that I haven't fully optimized?
+              - button "trends What topics are trending in my niche that I haven't covered yet?" [ref=f356e389]:
+                - generic [ref=f356e390]: trends
+                - paragraph [ref=f356e391]: What topics are trending in my niche that I haven't covered yet?
+              - button "trends Is [topic] still trending, or has the peak passed?" [ref=f356e396]:
+                - generic [ref=f356e397]: trends
+                - paragraph [ref=f356e398]: Is [topic] still trending, or has the peak passed?
+              - button "analytics Give me a 90-day channel health report with key insights." [ref=f356e403]:
+                - generic [ref=f356e404]: analytics
+                - paragraph [ref=f356e405]: Give me a 90-day channel health report with key insights.
+        - generic [ref=f356e410]:
+          - generic [ref=f356e411]:
+            - generic [ref=f356e412]: vidIQ MCP Credits & Tools
+            - heading "50 tools and counting" [level=2] [ref=f356e414]
+            - paragraph [ref=f356e415]: 44 core tools below, plus 6 free utility tools
+          - list [ref=f356e417]:
+            - listitem [ref=f356e418]:
+              - paragraph [ref=f356e419]: keyword_research
+              - paragraph [ref=f356e420]: Find keywords your competitors are sleeping on
+            - listitem [ref=f356e421]:
+              - paragraph [ref=f356e422]: outliers
+              - paragraph [ref=f356e423]: Spot videos that blew up for a reason
+            - listitem [ref=f356e424]:
+              - paragraph [ref=f356e425]: generate_clips
+              - paragraph [ref=f356e426]: Turn a long video into vertical clips
+            - listitem [ref=f356e427]:
+              - paragraph [ref=f356e428]: generate_thumbnail
+              - paragraph [ref=f356e429]: Generate a thumbnail from a prompt
+            - listitem [ref=f356e430]:
+              - paragraph [ref=f356e431]: generate_titles
+              - paragraph [ref=f356e432]: Generate high-CTR title ideas
+            - listitem [ref=f356e433]:
+              - paragraph [ref=f356e434]: subscriber_insights
+              - paragraph [ref=f356e435]: Find your best time to post and who else your fans watch
+            - listitem [ref=f356e436]:
+              - paragraph [ref=f356e437]: video_transcript
+              - paragraph [ref=f356e438]: Read any video without watching it
+            - listitem [ref=f356e439]:
+              - paragraph [ref=f356e440]: trending_videos
+              - paragraph [ref=f356e441]: See what formats are blowing up right now
+          - paragraph [ref=f356e442]: "Plus 6 free utility tools: credits balance, your connected channels, async job tracking, voice library, and feedback. Tool calls draw from your vidIQ plan’s shared credit pool."
+          - button "Show all 44 core tools" [ref=f356e444]
+        - generic [ref=f356e449]:
+          - heading "vidIQ MCP Common Questions" [level=2] [ref=f356e450]
+          - generic [ref=f356e451]:
+            - generic [ref=f356e452]:
+              - button "What is MCP and how does it work with vidIQ?" [expanded] [ref=f356e453]
+              - region "What is MCP and how does it work with vidIQ?" [ref=f356e457]:
+                - generic [ref=f356e458]: MCP (Model Context Protocol) is an open standard that lets AI tools connect to external data sources. vidIQ's MCP server gives Claude, Cursor, ChatGPT, Codex, and others direct access to your YouTube analytics - so you can ask questions in plain English and get real, data-backed answers.
+            - generic [ref=f356e460]:
+              - button "Is vidIQ listed in Claude's Connector Directory?" [ref=f356e461]
+              - generic: Yes. vidIQ is officially listed in Claude's Connector Directory. Open the vidIQ listing, click Connect, and authorize your account - no custom connector or MCP server URL is required.
+            - generic [ref=f356e465]:
+              - button "What plan do I need to use the MCP server?" [ref=f356e466]
+              - generic: The vidIQ MCP server is available on every plan, including Free. MCP calls draw from the same shared credit pool as the rest of your vidIQ plan, so usage stays consolidated in one place.
+            - generic [ref=f356e470]:
+              - button "How do I authenticate - API key or OAuth?" [ref=f356e471]
+              - generic: Both. We recommend an API key (Bearer token) - it works with every MCP client and takes about 10 seconds to set up. Claude and ChatGPT can also use OAuth so you sign in with your vidIQ account in the browser. Generate or rotate keys any time at app.vidiq.com/account/settings/mcp - keys are scoped to MCP access only and revocable in one click.
+            - generic [ref=f356e475]:
+              - button "Does using MCP count against my YouTube API quota?" [ref=f356e476]
+              - generic: No. vidIQ's MCP server uses our own data infrastructure, not the YouTube Data API. Your YouTube API quota is completely unaffected.
+            - generic [ref=f356e480]:
+              - button "Can the AI tool modify my YouTube channel through MCP?" [ref=f356e481]
+              - generic: No. vidIQ's MCP server is read-only for your YouTube channel. AI tools can query and surface insights from YouTube data, but they cannot post videos, change channel settings, or modify anything on your account. The only thing they can update is your vidIQ competitor watchlist.
+            - generic [ref=f356e485]:
+              - button "Which AI tools are supported?" [ref=f356e486]
+              - generic: "Any tool that speaks the MCP protocol: Claude, Claude Code, ChatGPT, Cursor, Codex, OpenClaw, and others. If your tool supports MCP, vidIQ works with it."
+            - generic [ref=f356e490]:
+              - button "Is my YouTube data secure?" [ref=f356e491]
+              - generic: Yes. API keys are scoped to MCP access only, are revocable at any time, and are never shared with third-party AI providers. vidIQ only sends data in response to your explicit queries.
+        - generic [ref=f356e496]:
+          - generic [ref=f356e497]: Start Now
+          - heading "Ready to supercharge your AI workflow?" [level=2] [ref=f356e499]: Ready to superchargeyour AI workflow?
+          - paragraph [ref=f356e500]: Connect vidIQ MCP to your AI tools and get real, data-backed answers about your YouTube channel.
+          - button "Try vidIQ MCP Free" [ref=f356e501] [cursor=pointer]
+          - paragraph [ref=f356e513]: Works with Claude, ChatGPT, Cursor, Codex, OpenClaw, and any MCP-compatible tool. Available on every vidIQ plan, including Free.
+    - contentinfo [ref=f356e514]:
+      - generic [ref=f356e515]:
+        - img "vidIQ logo" [ref=f356e518]
+        - generic [ref=f356e519]:
+          - generic [ref=f356e520]: Our mission is to empower every video creator with the insights and inspiration they need to grow. That’s why we’re obsessed with providing an intelligent mix of technological and human expertise that boosts your productivity and gets you more views. Whatever your next challenge, we’ll shine a light on the way forward.
+          - generic [ref=f356e521]: © 2026 vidIQ. All Rights Reserved.
+        - generic [ref=f356e523]:
+          - generic [ref=f356e524]:
+            - generic [ref=f356e525]: vidIQ
+            - generic [ref=f356e526]:
+              - button "Contact" [ref=f356e527]
+              - link "Support" [ref=f356e528] [cursor=pointer]:
+                - /url: https://support.vidiq.com/
+              - link "Careers" [ref=f356e529] [cursor=pointer]:
+                - /url: https://careers.vidiq.com/
+              - link "Privacy" [ref=f356e530] [cursor=pointer]:
+                - /url: /privacy/
+              - link "Terms" [ref=f356e531] [cursor=pointer]:
+                - /url: /terms/
+              - link "Cookie Settings" [ref=f356e532] [cursor=pointer]:
+                - /url: /cookie-policy/
+          - generic [ref=f356e533]:
+            - generic [ref=f356e534]: Solutions for Creators
+            - generic [ref=f356e535]:
+              - link "vidIQ Features" [ref=f356e536] [cursor=pointer]:
+                - /url: https://vidiq.com/features/
+              - link "Browser Extension" [ref=f356e537] [cursor=pointer]:
+                - /url: /extension/
+              - link "vidIQ Mobile App" [ref=f356e538] [cursor=pointer]:
+                - /url: https://vidiq.com/mobile-app/
+              - link "YouTube Coaching" [ref=f356e539] [cursor=pointer]:
+                - /url: /coaching/
+              - link "YouTube for Enterprise" [ref=f356e540] [cursor=pointer]:
+                - /url: /enterprise/
+              - link "vidIQ for Instagram" [ref=f356e541] [cursor=pointer]:
+                - /url: https://vidiq.com/instagram/
+          - generic [ref=f356e542]:
+            - generic [ref=f356e543]: Resources
+            - generic [ref=f356e544]:
+              - link "Top YouTube Channels" [ref=f356e545] [cursor=pointer]:
+                - /url: /youtube-stats/top/100/
+              - link "Affiliates" [ref=f356e546] [cursor=pointer]:
+                - /url: /affiliate/
+              - link "Blog" [ref=f356e547] [cursor=pointer]:
+                - /url: /blog/
+              - link "How To Get More YouTube Views" [ref=f356e548] [cursor=pointer]:
+                - /url: /how-to-get-more-views-on-youtube/
+              - link "How to Get 1,000 YouTube Subscribers" [ref=f356e549] [cursor=pointer]:
+                - /url: /blog/post/how-to-get-your-first-1000-youtube-subscribers/
+              - link "Events" [ref=f356e550] [cursor=pointer]:
+                - /url: /events/
+        - generic [ref=f356e551]:
+          - generic [ref=f356e552]: Connect with us
+          - generic [ref=f356e553]: Call Sales 888-998-VIDIQ (8434)
+          - generic [ref=f356e554]:
+            - link [ref=f356e555] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/vidIQchannel
+              - img "YouTube logo" [ref=f356e556]
+            - link [ref=f356e557] [cursor=pointer]:
+              - /url: https://discord.com/invite/vidiq
+              - img "Discord logo" [ref=f356e558]
+            - link [ref=f356e559] [cursor=pointer]:
+              - /url: https://www.facebook.com/vidIQapp/
+              - img "Facebook logo" [ref=f356e560]
+            - link [ref=f356e561] [cursor=pointer]:
+              - /url: https://www.instagram.com/vidiq/
+              - img "Instagram logo" [ref=f356e562]
+            - link [ref=f356e563] [cursor=pointer]:
+              - /url: https://twitter.com/vidiq
+              - img "Twitter logo" [ref=f356e564]
+            - link [ref=f356e565] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/vidiq/
+              - img "LinkedIn logo" [ref=f356e566]
+        - navigation "language navigation" [ref=f356e567]:
+          - link "English" [ref=f356e568] [cursor=pointer]:
+            - /url: /mcp/
+          - link "Français" [ref=f356e569] [cursor=pointer]:
+            - /url: /fr/mcp/
+          - link "Español" [ref=f356e570] [cursor=pointer]:
+            - /url: /es/mcp/
+          - link "Русский" [ref=f356e571] [cursor=pointer]:
+            - /url: /ru/mcp/
+          - link "Português" [ref=f356e572] [cursor=pointer]:
+            - /url: /pt/mcp/
+          - link "Türkçe" [ref=f356e573] [cursor=pointer]:
+            - /url: /tr/mcp/
+          - link "Tiếng Việt" [ref=f356e574] [cursor=pointer]:
+            - /url: /vi/mcp/
+  - alert [ref=f356e575]

@@ -1,0 +1,546 @@
+- generic [ref=f487e2]:
+  - banner [ref=f487e4]:
+    - generic [ref=f487e6]:
+      - generic [ref=f487e7]:
+        - button "Guide" [ref=f487e9] [cursor=pointer]
+        - generic [ref=f487e11]:
+          - link "YouTube Home" [ref=f487e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f487e16]: IN
+        - button "Skip navigation" [ref=f487e20] [cursor=pointer]
+      - generic [ref=f487e24]:
+        - search [ref=f487e25]:
+          - generic [ref=f487e27]:
+            - combobox "Search" [expanded] [ref=f487e30]
+            - button "Search" [ref=f487e31] [cursor=pointer]
+        - generic [ref=f487e34]:
+          - button "Search with your voice" [ref=f487e36] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f487e41]:
+        - button "Settings" [ref=f487e46] [cursor=pointer]
+        - link "Sign in" [ref=f487e50] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%2540BusinessofArchitecture%252Fvideos&hl=en-GB&ec=65620
+  - navigation [ref=f487e54]:
+    - generic [ref=f487e55]:
+      - link "Home" [ref=f487e57] [cursor=pointer]:
+        - /url: /
+      - link "Shorts" [ref=f487e61] [cursor=pointer]:
+        - /url: /shorts/
+      - link "Subscriptions" [ref=f487e65] [cursor=pointer]:
+        - /url: /feed/subscriptions
+      - link "You" [ref=f487e69] [cursor=pointer]:
+        - /url: /feed/you
+  - main [ref=f487e73]:
+    - generic [ref=f487e80]:
+      - generic [ref=f487e96]:
+        - heading "Business of Architecture" [level=1] [ref=f487e98]
+        - generic [ref=f487e99]:
+          - group [ref=f487e100]:
+            - generic [ref=f487e101]: "@BusinessofArchitecture"
+          - generic [aria-hidden] [ref=f487e102]: •
+          - group [ref=f487e103]:
+            - generic "44.9 thousand subscribers" [ref=f487e104]: 44.9k subscribers
+            - generic [aria-hidden] [ref=f487e105]: •
+            - generic [ref=f487e106]: 1.3k videos
+        - generic [ref=f487e108] [cursor=pointer]:
+          - generic [ref=f487e109]: Helping architects create profitable businesses - that free them to do their best architecture.
+          - button "Description. Helping architects create profitable businesses - that free …tap for more." [ref=f487e110]:
+            - generic [ref=f487e111]: ...more
+        - link [ref=f487e115] [cursor=pointer]:
+          - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRkp6Vk5iSjlONm1ldllXQk5yWjhUM3xBTl9pYzRkX09NS2lYbFNyeVJvTW43U3Y4ZUVka0phZWYwRTJQRlhRTzhFZjBqRFZaVWg2WkU0NUxIXzhjNjNKNkpoWG1YR3ZHS0VONVNiVW51dXRKNzhRSE5hbDNvZExUcjN5&q=http%3A%2F%2Fbusinessofarchitecture.com
+        - button "Subscribe" [ref=f487e121] [cursor=pointer]
+      - tablist [ref=f487e128]:
+        - tablist [ref=f487e132]:
+          - tab "Home" [ref=f487e133] [cursor=pointer]
+          - tab "Videos" [selected] [ref=f487e135] [cursor=pointer]
+          - tab "Shorts" [ref=f487e137] [cursor=pointer]
+          - tab "Live" [ref=f487e139] [cursor=pointer]
+          - tab "Podcasts" [ref=f487e141] [cursor=pointer]
+          - tab "Playlists" [ref=f487e143] [cursor=pointer]
+          - button "Search" [ref=f487e148] [cursor=pointer]
+    - generic [ref=f487e154]:
+      - tablist [ref=f487e157]:
+        - tab "Latest" [selected] [ref=f487e160] [cursor=pointer]
+        - tab "Popular" [ref=f487e165] [cursor=pointer]
+        - tab "Oldest" [ref=f487e170] [cursor=pointer]
+      - generic [ref=f487e173]:
+        - generic [ref=f487e177] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e178]:
+            - /url: /watch?v=MARiYMvHKW4&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f487e184]:
+              - generic [ref=f487e185]: 52:27
+          - generic [ref=f487e187]:
+            - generic [ref=f487e188]:
+              - heading "What High-Profit Architecture Firms Do Differently" [level=3] [ref=f487e189]:
+                - link "What High-Profit Architecture Firms Do Differently 52 minutes" [ref=f487e190]:
+                  - /url: /watch?v=MARiYMvHKW4&pp=0gcJCSQMAYcqIYzv
+                  - text: What High-Profit Architecture Firms Do Differently
+              - group [ref=f487e193]:
+                - generic [ref=f487e194]: 347 views
+                - generic [aria-hidden] [ref=f487e195]: •
+                - generic "1 day ago" [ref=f487e196]
+            - button "More actions" [ref=f487e199]
+        - generic [ref=f487e206] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e207]:
+            - /url: /watch?v=42kUVjeTIYk
+            - img [ref=f487e213]:
+              - generic [ref=f487e214]: 57:13
+          - generic [ref=f487e216]:
+            - generic [ref=f487e217]:
+              - heading "Architecture Business Mistakes I Had to Learn the Hard Way" [level=3] [ref=f487e218]:
+                - link "Architecture Business Mistakes I Had to Learn the Hard Way 57 minutes" [ref=f487e219]:
+                  - /url: /watch?v=42kUVjeTIYk
+                  - text: Architecture Business Mistakes I Had to Learn the Hard Way
+              - group [ref=f487e222]:
+                - generic [ref=f487e223]: 678 views
+                - generic [aria-hidden] [ref=f487e224]: •
+                - generic "8 days ago" [ref=f487e225]
+            - button "More actions" [ref=f487e228]
+        - generic [ref=f487e235] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e236]:
+            - /url: /watch?v=QEPlrmG_aM4
+            - img [ref=f487e242]:
+              - generic [ref=f487e243]: 32:06
+          - generic [ref=f487e245]:
+            - generic [ref=f487e246]:
+              - heading "The Hidden Data Inside Your Architecture Firm" [level=3] [ref=f487e247]:
+                - link "The Hidden Data Inside Your Architecture Firm 32 minutes" [ref=f487e248]:
+                  - /url: /watch?v=QEPlrmG_aM4
+                  - text: The Hidden Data Inside Your Architecture Firm
+              - group [ref=f487e251]:
+                - generic [ref=f487e252]: 673 views
+                - generic [aria-hidden] [ref=f487e253]: •
+                - generic "2 weeks ago" [ref=f487e254]
+            - button "More actions" [ref=f487e257]
+        - generic [ref=f487e264] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e265]:
+            - /url: /watch?v=Y37CUvevsZ4
+            - img [ref=f487e271]:
+              - generic [ref=f487e272]: 1:30:25
+          - generic [ref=f487e274]:
+            - generic [ref=f487e275]:
+              - heading "The Money Beliefs That Are Keeping Architects Broke" [level=3] [ref=f487e276]:
+                - link "The Money Beliefs That Are Keeping Architects Broke 1 hour, 30 minutes" [ref=f487e277]:
+                  - /url: /watch?v=Y37CUvevsZ4
+                  - text: The Money Beliefs That Are Keeping Architects Broke
+              - group [ref=f487e280]:
+                - generic [ref=f487e281]: 645 views
+                - generic [aria-hidden] [ref=f487e282]: •
+                - generic "3 weeks ago" [ref=f487e283]
+            - button "More actions" [ref=f487e286]
+        - generic [ref=f487e293] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e294]:
+            - /url: /watch?v=e_iUEosBpVU
+            - img [ref=f487e300]:
+              - generic [ref=f487e301]: 54:07
+          - generic [ref=f487e303]:
+            - generic [ref=f487e304]:
+              - heading "Hong Kong’s Hidden Design Principle" [level=3] [ref=f487e305]:
+                - link "Hong Kong’s Hidden Design Principle 54 minutes" [ref=f487e306]:
+                  - /url: /watch?v=e_iUEosBpVU
+                  - text: Hong Kong’s Hidden Design Principle
+              - group [ref=f487e309]:
+                - generic [ref=f487e310]: 233 views
+                - generic [aria-hidden] [ref=f487e311]: •
+                - generic "4 weeks ago" [ref=f487e312]
+            - button "More actions" [ref=f487e315]
+        - generic [ref=f487e322] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e323]:
+            - /url: /watch?v=8CtL15zptcE
+            - img [ref=f487e329]:
+              - generic [ref=f487e330]: 1:13:22
+          - generic [ref=f487e332]:
+            - generic [ref=f487e333]:
+              - heading "What Happens When Architects Really Understand Business" [level=3] [ref=f487e334]:
+                - link "What Happens When Architects Really Understand Business 1 hour, 13 minutes" [ref=f487e335]:
+                  - /url: /watch?v=8CtL15zptcE
+                  - text: What Happens When Architects Really Understand Business
+              - group [ref=f487e338]:
+                - generic [ref=f487e339]: 537 views
+                - generic [aria-hidden] [ref=f487e340]: •
+                - generic "1 month ago" [ref=f487e341]
+            - button "More actions" [ref=f487e344]
+        - generic [ref=f487e351] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e352]:
+            - /url: /watch?v=8aVPdx-P_lY
+            - img [ref=f487e358]:
+              - generic [ref=f487e359]: 1:01:04
+          - generic [ref=f487e361]:
+            - generic [ref=f487e362]:
+              - heading "What Happens When You Build From the Heart" [level=3] [ref=f487e363]:
+                - link "What Happens When You Build From the Heart 1 hour, 1 minute" [ref=f487e364]:
+                  - /url: /watch?v=8aVPdx-P_lY
+                  - text: What Happens When You Build From the Heart
+              - group [ref=f487e367]:
+                - generic [ref=f487e368]: 199 views
+                - generic [aria-hidden] [ref=f487e369]: •
+                - generic "1 month ago" [ref=f487e370]
+            - button "More actions" [ref=f487e373]
+        - generic [ref=f487e380] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e381]:
+            - /url: /watch?v=OF7lYuytrF4
+            - img [ref=f487e387]:
+              - generic [ref=f487e388]: 34:31
+          - generic [ref=f487e390]:
+            - generic [ref=f487e391]:
+              - heading "The Team Mistake That Creates Burnout in Architecture Firms" [level=3] [ref=f487e392]:
+                - link "The Team Mistake That Creates Burnout in Architecture Firms 34 minutes" [ref=f487e393]:
+                  - /url: /watch?v=OF7lYuytrF4
+                  - text: The Team Mistake That Creates Burnout in Architecture Firms
+              - group [ref=f487e396]:
+                - generic [ref=f487e397]: 370 views
+                - generic [aria-hidden] [ref=f487e398]: •
+                - generic "1 month ago" [ref=f487e399]
+            - button "More actions" [ref=f487e402]
+        - generic [ref=f487e409] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e410]:
+            - /url: /watch?v=PGoCpFl8Hes
+            - img [ref=f487e416]:
+              - generic [ref=f487e417]: 19:44
+          - generic [ref=f487e419]:
+            - generic [ref=f487e420]:
+              - heading "Why Architects Keep Taking the Wrong Risks" [level=3] [ref=f487e421]:
+                - link "Why Architects Keep Taking the Wrong Risks 19 minutes" [ref=f487e422]:
+                  - /url: /watch?v=PGoCpFl8Hes
+                  - text: Why Architects Keep Taking the Wrong Risks
+              - group [ref=f487e425]:
+                - generic [ref=f487e426]: 281 views
+                - generic [aria-hidden] [ref=f487e427]: •
+                - generic "1 month ago" [ref=f487e428]
+            - button "More actions" [ref=f487e431]
+        - generic [ref=f487e438] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e439]:
+            - /url: /watch?v=JgQlSUF-jkg
+            - img [ref=f487e445]:
+              - generic [ref=f487e446]: 48:29
+          - generic [ref=f487e448]:
+            - generic [ref=f487e449]:
+              - heading "How to Prospect Like a Premium Firm" [level=3] [ref=f487e450]:
+                - link "How to Prospect Like a Premium Firm 48 minutes" [ref=f487e451]:
+                  - /url: /watch?v=JgQlSUF-jkg
+                  - text: How to Prospect Like a Premium Firm
+              - group [ref=f487e454]:
+                - generic [ref=f487e455]: 424 views
+                - generic [aria-hidden] [ref=f487e456]: •
+                - generic "2 months ago" [ref=f487e457]
+            - button "More actions" [ref=f487e460]
+        - generic [ref=f487e467] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e468]:
+            - /url: /watch?v=Vz6hpUJuI2s&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f487e474]:
+              - generic [ref=f487e475]: 32:56
+          - generic [ref=f487e477]:
+            - generic [ref=f487e478]:
+              - 'heading "Firm Owners: How to Deal With Entitlement In Your Teams" [level=3] [ref=f487e479]':
+                - 'link "Firm Owners: How to Deal With Entitlement In Your Teams 32 minutes" [ref=f487e480]':
+                  - /url: /watch?v=Vz6hpUJuI2s&pp=0gcJCSQMAYcqIYzv
+                  - text: "Firm Owners: How to Deal With Entitlement In Your Teams"
+              - group [ref=f487e483]:
+                - generic [ref=f487e484]: 208 views
+                - generic [aria-hidden] [ref=f487e485]: •
+                - generic "2 months ago" [ref=f487e486]
+            - button "More actions" [ref=f487e489]
+        - generic [ref=f487e496] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e497]:
+            - /url: /watch?v=tFXIqE8E8AQ
+            - img [ref=f487e503]:
+              - generic [ref=f487e504]: 50:59
+          - generic [ref=f487e506]:
+            - generic [ref=f487e507]:
+              - 'heading "AI in Architecture: Threat, Tool, or the Future of Design?" [level=3] [ref=f487e508]':
+                - 'link "AI in Architecture: Threat, Tool, or the Future of Design? 50 minutes" [ref=f487e509]':
+                  - /url: /watch?v=tFXIqE8E8AQ
+                  - text: "AI in Architecture: Threat, Tool, or the Future of Design?"
+              - group [ref=f487e512]:
+                - generic [ref=f487e513]: 524 views
+                - generic [aria-hidden] [ref=f487e514]: •
+                - generic "2 months ago" [ref=f487e515]
+            - button "More actions" [ref=f487e518]
+        - generic [ref=f487e525] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e526]:
+            - /url: /watch?v=cfycW655NaU
+            - img [ref=f487e532]:
+              - generic [ref=f487e533]: 42:06
+          - generic [ref=f487e535]:
+            - generic [ref=f487e536]:
+              - heading "The Difference Between Owning a Firm and Owning a Job" [level=3] [ref=f487e537]:
+                - link "The Difference Between Owning a Firm and Owning a Job 42 minutes" [ref=f487e538]:
+                  - /url: /watch?v=cfycW655NaU
+                  - text: The Difference Between Owning a Firm and Owning a Job
+              - group [ref=f487e541]:
+                - generic [ref=f487e542]: 452 views
+                - generic [aria-hidden] [ref=f487e543]: •
+                - generic "2 months ago" [ref=f487e544]
+            - button "More actions" [ref=f487e547]
+        - generic [ref=f487e554] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e555]:
+            - /url: /watch?v=JOIUHgiY2BA
+            - img [ref=f487e561]:
+              - generic [ref=f487e562]: 49:35
+          - generic [ref=f487e564]:
+            - generic [ref=f487e565]:
+              - heading "How Manifestation + Grit Created a Global Design Studio" [level=3] [ref=f487e566]:
+                - link "How Manifestation + Grit Created a Global Design Studio 49 minutes" [ref=f487e567]:
+                  - /url: /watch?v=JOIUHgiY2BA
+                  - text: How Manifestation + Grit Created a Global Design Studio
+              - group [ref=f487e570]:
+                - generic [ref=f487e571]: 294 views
+                - generic [aria-hidden] [ref=f487e572]: •
+                - generic "3 months ago" [ref=f487e573]
+            - button "More actions" [ref=f487e576]
+        - generic [ref=f487e583] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e584]:
+            - /url: /watch?v=vu7DxAiOaA8
+            - img [ref=f487e590]:
+              - generic [ref=f487e591]: 45:14
+          - generic [ref=f487e593]:
+            - generic [ref=f487e594]:
+              - heading "The Real Reason Your Fees Never Feel High Enough" [level=3] [ref=f487e595]:
+                - link "The Real Reason Your Fees Never Feel High Enough 45 minutes" [ref=f487e596]:
+                  - /url: /watch?v=vu7DxAiOaA8
+                  - text: The Real Reason Your Fees Never Feel High Enough
+              - group [ref=f487e599]:
+                - generic [ref=f487e600]: 495 views
+                - generic [aria-hidden] [ref=f487e601]: •
+                - generic "3 months ago" [ref=f487e602]
+            - button "More actions" [ref=f487e605]
+        - generic [ref=f487e612] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e613]:
+            - /url: /watch?v=LAm8Y2tO6X4
+            - img [ref=f487e619]:
+              - generic [ref=f487e620]: 47:33
+          - generic [ref=f487e622]:
+            - generic [ref=f487e623]:
+              - heading "How Architects Win Work Without “Selling” Themselves" [level=3] [ref=f487e624]:
+                - link "How Architects Win Work Without “Selling” Themselves 47 minutes" [ref=f487e625]:
+                  - /url: /watch?v=LAm8Y2tO6X4
+                  - text: How Architects Win Work Without “Selling” Themselves
+              - group [ref=f487e628]:
+                - generic [ref=f487e629]: 536 views
+                - generic [aria-hidden] [ref=f487e630]: •
+                - generic "3 months ago" [ref=f487e631]
+            - button "More actions" [ref=f487e634]
+        - generic [ref=f487e641] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e642]:
+            - /url: /watch?v=Zl4TOE-ti-k
+            - img [ref=f487e648]:
+              - generic [ref=f487e649]: 42:30
+          - generic [ref=f487e651]:
+            - generic [ref=f487e652]:
+              - heading "What Every Busy Architect Forgets (And Pays For Later)" [level=3] [ref=f487e653]:
+                - link "What Every Busy Architect Forgets (And Pays For Later) 42 minutes" [ref=f487e654]:
+                  - /url: /watch?v=Zl4TOE-ti-k
+                  - text: What Every Busy Architect Forgets (And Pays For Later)
+              - group [ref=f487e657]:
+                - generic [ref=f487e658]: 358 views
+                - generic [aria-hidden] [ref=f487e659]: •
+                - generic "3 months ago" [ref=f487e660]
+            - button "More actions" [ref=f487e663]
+        - generic [ref=f487e670] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e671]:
+            - /url: /watch?v=5RbhqZDU4pA
+            - img [ref=f487e677]:
+              - generic [ref=f487e678]: 50:53
+          - generic [ref=f487e680]:
+            - generic [ref=f487e681]:
+              - heading "Building a Firm People Never Want to Leave" [level=3] [ref=f487e682]:
+                - link "Building a Firm People Never Want to Leave 50 minutes" [ref=f487e683]:
+                  - /url: /watch?v=5RbhqZDU4pA
+                  - text: Building a Firm People Never Want to Leave
+              - group [ref=f487e686]:
+                - generic [ref=f487e687]: 318 views
+                - generic [aria-hidden] [ref=f487e688]: •
+                - generic "3 months ago" [ref=f487e689]
+            - button "More actions" [ref=f487e692]
+        - generic [ref=f487e699] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e700]:
+            - /url: /watch?v=6VyM2rDfqIQ
+            - img [ref=f487e706]:
+              - generic [ref=f487e707]: 38:40
+          - generic [ref=f487e709]:
+            - generic [ref=f487e710]:
+              - heading "A Counterintuitive Pricing Shift That Attracts Better Clients" [level=3] [ref=f487e711]:
+                - link "A Counterintuitive Pricing Shift That Attracts Better Clients 38 minutes" [ref=f487e712]:
+                  - /url: /watch?v=6VyM2rDfqIQ
+                  - text: A Counterintuitive Pricing Shift That Attracts Better Clients
+              - group [ref=f487e715]:
+                - generic [ref=f487e716]: 570 views
+                - generic [aria-hidden] [ref=f487e717]: •
+                - generic "4 months ago" [ref=f487e718]
+            - button "More actions" [ref=f487e721]
+        - generic [ref=f487e728] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e729]:
+            - /url: /watch?v=IDxOkzzuVtY
+            - img [ref=f487e735]:
+              - generic [ref=f487e736]: 1:04:11
+          - generic [ref=f487e738]:
+            - generic [ref=f487e739]:
+              - heading "Why Architects Struggle to Win the Right Clients" [level=3] [ref=f487e740]:
+                - link "Why Architects Struggle to Win the Right Clients 1 hour, 4 minutes" [ref=f487e741]:
+                  - /url: /watch?v=IDxOkzzuVtY
+                  - text: Why Architects Struggle to Win the Right Clients
+              - group [ref=f487e744]:
+                - generic [ref=f487e745]: 437 views
+                - generic [aria-hidden] [ref=f487e746]: •
+                - generic "4 months ago" [ref=f487e747]
+            - button "More actions" [ref=f487e750]
+        - generic [ref=f487e757] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e758]:
+            - /url: /watch?v=sIECbzo4kb8
+            - img [ref=f487e764]:
+              - generic [ref=f487e765]: 46:59
+          - generic [ref=f487e767]:
+            - generic [ref=f487e768]:
+              - heading "Why Undercharging Is Ruining Your Life as an Architect" [level=3] [ref=f487e769]:
+                - link "Why Undercharging Is Ruining Your Life as an Architect 46 minutes" [ref=f487e770]:
+                  - /url: /watch?v=sIECbzo4kb8
+                  - text: Why Undercharging Is Ruining Your Life as an Architect
+              - group [ref=f487e773]:
+                - generic [ref=f487e774]: 614 views
+                - generic [aria-hidden] [ref=f487e775]: •
+                - generic "4 months ago" [ref=f487e776]
+            - button "More actions" [ref=f487e779]
+        - generic [ref=f487e786] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e787]:
+            - /url: /watch?v=n5qaQznExpU
+            - img [ref=f487e793]:
+              - generic [ref=f487e794]: 51:54
+          - generic [ref=f487e796]:
+            - generic [ref=f487e797]:
+              - heading "Smarter Systems for More Profitable Firms" [level=3] [ref=f487e798]:
+                - link "Smarter Systems for More Profitable Firms 51 minutes" [ref=f487e799]:
+                  - /url: /watch?v=n5qaQznExpU
+                  - text: Smarter Systems for More Profitable Firms
+              - group [ref=f487e802]:
+                - generic [ref=f487e803]: 355 views
+                - generic [aria-hidden] [ref=f487e804]: •
+                - generic "4 months ago" [ref=f487e805]
+            - button "More actions" [ref=f487e808]
+        - generic [ref=f487e815] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e816]:
+            - /url: /watch?v=0e0_VMB0mY0
+            - img [ref=f487e822]:
+              - generic [ref=f487e823]: 50:35
+          - generic [ref=f487e825]:
+            - generic [ref=f487e826]:
+              - 'heading "From $979K Lawsuit to $260K Revenue: My Brutal Lessons" [level=3] [ref=f487e827]':
+                - 'link "From $979K Lawsuit to $260K Revenue: My Brutal Lessons 50 minutes" [ref=f487e828]':
+                  - /url: /watch?v=0e0_VMB0mY0
+                  - text: "From $979K Lawsuit to $260K Revenue: My Brutal Lessons"
+              - group [ref=f487e831]:
+                - generic [ref=f487e832]: 367 views
+                - generic [aria-hidden] [ref=f487e833]: •
+                - generic "5 months ago" [ref=f487e834]
+            - button "More actions" [ref=f487e837]
+        - generic [ref=f487e844] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e845]:
+            - /url: /watch?v=rHXSnC9tMUg
+            - img [ref=f487e851]:
+              - generic [ref=f487e852]: 37:40
+          - generic [ref=f487e854]:
+            - generic [ref=f487e855]:
+              - heading "Stop Managing Projects Like It’s 1999" [level=3] [ref=f487e856]:
+                - link "Stop Managing Projects Like It’s 1999 37 minutes" [ref=f487e857]:
+                  - /url: /watch?v=rHXSnC9tMUg
+                  - text: Stop Managing Projects Like It’s 1999
+              - group [ref=f487e860]:
+                - generic [ref=f487e861]: 502 views
+                - generic [aria-hidden] [ref=f487e862]: •
+                - generic "5 months ago" [ref=f487e863]
+            - button "More actions" [ref=f487e866]
+        - generic [ref=f487e873] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e874]:
+            - /url: /watch?v=T1BWssm2MfA
+            - img [ref=f487e880]:
+              - generic [ref=f487e881]: 43:43
+          - generic [ref=f487e883]:
+            - generic [ref=f487e884]:
+              - heading "The Surprising Business Case for Giving Away Free Work" [level=3] [ref=f487e885]:
+                - link "The Surprising Business Case for Giving Away Free Work 43 minutes" [ref=f487e886]:
+                  - /url: /watch?v=T1BWssm2MfA
+                  - text: The Surprising Business Case for Giving Away Free Work
+              - group [ref=f487e889]:
+                - generic [ref=f487e890]: 266 views
+                - generic [aria-hidden] [ref=f487e891]: •
+                - generic "5 months ago" [ref=f487e892]
+            - button "More actions" [ref=f487e895]
+        - generic [ref=f487e902] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e903]:
+            - /url: /watch?v=TAgZrdJrLik
+            - img [ref=f487e909]:
+              - generic [ref=f487e910]: 21:45
+          - generic [ref=f487e912]:
+            - generic [ref=f487e913]:
+              - heading "Why Architects Need To Rethink Risk" [level=3] [ref=f487e914]:
+                - link "Why Architects Need To Rethink Risk 21 minutes" [ref=f487e915]:
+                  - /url: /watch?v=TAgZrdJrLik
+                  - text: Why Architects Need To Rethink Risk
+              - group [ref=f487e918]:
+                - generic [ref=f487e919]: 469 views
+                - generic [aria-hidden] [ref=f487e920]: •
+                - generic "5 months ago" [ref=f487e921]
+            - button "More actions" [ref=f487e924]
+        - generic [ref=f487e931] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e932]:
+            - /url: /watch?v=bg4_x4fiCR4
+            - img [ref=f487e938]:
+              - generic [ref=f487e939]: 54:12
+          - generic [ref=f487e941]:
+            - generic [ref=f487e942]:
+              - heading "Architect Builds Million-Dollar Team Inside Real Estate Giant" [level=3] [ref=f487e943]:
+                - link "Architect Builds Million-Dollar Team Inside Real Estate Giant 54 minutes" [ref=f487e944]:
+                  - /url: /watch?v=bg4_x4fiCR4
+                  - text: Architect Builds Million-Dollar Team Inside Real Estate Giant
+              - group [ref=f487e947]:
+                - generic [ref=f487e948]: 381 views
+                - generic [aria-hidden] [ref=f487e949]: •
+                - generic "5 months ago" [ref=f487e950]
+            - button "More actions" [ref=f487e953]
+        - generic [ref=f487e960] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e961]:
+            - /url: /watch?v=Fc7KaAVyIdc&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f487e967]:
+              - generic [ref=f487e968]: 43:58
+          - generic [ref=f487e970]:
+            - generic [ref=f487e971]:
+              - heading "Stop Sacrificing Your Life For Your Firm" [level=3] [ref=f487e972]:
+                - link "Stop Sacrificing Your Life For Your Firm 43 minutes" [ref=f487e973]:
+                  - /url: /watch?v=Fc7KaAVyIdc&pp=0gcJCSQMAYcqIYzv
+                  - text: Stop Sacrificing Your Life For Your Firm
+              - group [ref=f487e976]:
+                - generic [ref=f487e977]: 401 views
+                - generic [aria-hidden] [ref=f487e978]: •
+                - generic "6 months ago" [ref=f487e979]
+            - button "More actions" [ref=f487e982]
+        - generic [ref=f487e989] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e990]:
+            - /url: /watch?v=oAopMyH0b5Q&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f487e996]:
+              - generic [ref=f487e997]: 57:03
+          - generic [ref=f487e999]:
+            - generic [ref=f487e1000]:
+              - heading "How Top Firms Are Using AI to Free Up Time & Command Higher Fees" [level=3] [ref=f487e1001]:
+                - link "How Top Firms Are Using AI to Free Up Time & Command Higher Fees 57 minutes" [ref=f487e1002]:
+                  - /url: /watch?v=oAopMyH0b5Q&pp=0gcJCSQMAYcqIYzv
+                  - text: How Top Firms Are Using AI to Free Up Time & Command Higher Fees
+              - group [ref=f487e1005]:
+                - generic [ref=f487e1006]: 581 views
+                - generic [aria-hidden] [ref=f487e1007]: •
+                - generic "6 months ago" [ref=f487e1008]
+            - button "More actions" [ref=f487e1011]
+        - generic [ref=f487e1018] [cursor=pointer]:
+          - link [aria-hidden] [ref=f487e1019]:
+            - /url: /watch?v=kibhp_YRC5U
+            - img [ref=f487e1025]:
+              - generic [ref=f487e1026]: 41:09
+          - generic [ref=f487e1028]:
+            - generic [ref=f487e1029]:
+              - heading "Why Great Architects Still Struggle in Business" [level=3] [ref=f487e1030]:
+                - link "Why Great Architects Still Struggle in Business 41 minutes" [ref=f487e1031]:
+                  - /url: /watch?v=kibhp_YRC5U
+                  - text: Why Great Architects Still Struggle in Business
+              - group [ref=f487e1034]:
+                - generic [ref=f487e1035]: 1k views
+                - generic [aria-hidden] [ref=f487e1036]: •
+                - generic "6 months ago" [ref=f487e1037]
+            - button "More actions" [ref=f487e1040]

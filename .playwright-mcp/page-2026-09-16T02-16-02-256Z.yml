@@ -1,0 +1,172 @@
+- generic [active] [ref=f201e1]:
+  - banner [ref=f201e3]:
+    - generic [ref=f201e4]:
+      - link "ArchDaily home" [ref=f201e5] [cursor=pointer]:
+        - /url: https://www.archdaily.com?ad_name=small-logo
+        - img "ArchDaily Logo" [ref=f201e7]
+      - textbox "Find on ArchDaily" [ref=f201e12]
+      - navigation [ref=f201e13]:
+        - link "Projects" [ref=f201e14] [cursor=pointer]:
+          - /url: https://www.archdaily.com/search/projects?ad_source=hd-header&ad_name=main-menu-sticky
+        - link "Articles" [ref=f201e15] [cursor=pointer]:
+          - /url: https://www.archdaily.com/articles?ad_source=hd-header&ad_name=main-menu-sticky
+        - link "Products" [ref=f201e16] [cursor=pointer]:
+          - /url: https://www.archdaily.com/search/products?ad_source=hd-header&ad_name=main-menu-sticky
+        - link "News" [ref=f201e17] [cursor=pointer]:
+          - /url: https://www.archdaily.com/architecture-news?ad_source=hd-header&ad_name=main-menu-sticky
+        - link "Images" [ref=f201e18] [cursor=pointer]:
+          - /url: https://www.archdaily.com/search/images?ad_source=hd-header&ad_name=main-menu-sticky
+      - generic [ref=f201e19]:
+        - generic [ref=f201e22]:
+          - link "Log in" [ref=f201e23] [cursor=pointer]:
+            - /url: "#"
+          - link "Sign Up" [ref=f201e24] [cursor=pointer]:
+            - /url: "#"
+        - button "Open menu" [ref=f201e30] [cursor=pointer]
+  - generic [ref=f201e36]:
+    - generic [ref=f201e37]:
+      - heading "Oops! This is a 404 error." [level=1] [ref=f201e38]
+      - heading "The page you have requested does not exist." [level=2] [ref=f201e39]
+    - generic:
+      - generic [ref=f201e40]:
+        - heading "Don't worry!" [level=2] [ref=f201e41]
+        - heading "You can use the search to find what you were looking for." [level=3] [ref=f201e42]
+        - search [ref=f201e43]:
+          - textbox [ref=f201e44]
+          - button "Search" [ref=f201e45] [cursor=pointer]
+        - heading "See our most visited content" [level=2] [ref=f201e46]
+        - list [ref=f201e47]:
+          - listitem [ref=f201e48]:
+            - link "Architecture News" [ref=f201e49] [cursor=pointer]:
+              - /url: /architecture-news
+          - listitem [ref=f201e50]:
+            - link "Articles" [ref=f201e51] [cursor=pointer]:
+              - /url: /articles
+          - listitem [ref=f201e52]:
+            - link "Selected Projects" [ref=f201e53] [cursor=pointer]:
+              - /url: /selected-projects
+          - listitem [ref=f201e54]:
+            - link "Classics" [ref=f201e55] [cursor=pointer]:
+              - /url: /classics
+          - listitem [ref=f201e56]:
+            - link "Competitions" [ref=f201e57] [cursor=pointer]:
+              - /url: /architecture-competitions
+        - link [ref=f201e58] [cursor=pointer]:
+          - /url: /contact
+          - text: Or
+          - strong [ref=f201e59]: Contact us
+          - text: for questions or feedback.
+      - complementary [ref=f201e61]:
+        - list [ref=f201e65]:
+          - listitem [ref=f201e66]
+          - listitem [ref=f201e76]
+          - listitem [ref=f201e77]
+          - listitem [ref=f201e87]
+          - listitem [ref=f201e88]
+          - listitem [ref=f201e98]
+  - contentinfo [ref=f201e100]:
+    - generic [ref=f201e101]:
+      - generic [ref=f201e102]:
+        - heading "Our Partners" [level=3] [ref=f201e103]
+        - generic [ref=f201e104]:
+          - link [ref=f201e105] [cursor=pointer]:
+            - /url: https://www.holcimfoundation.org
+            - img "Holcim" [ref=f201e106]
+          - link [ref=f201e107] [cursor=pointer]:
+            - /url: https://www.worldarchitecturefestival.com
+            - img "World Architecture Festival" [ref=f201e108]
+          - link [ref=f201e109] [cursor=pointer]:
+            - /url: https://www.uia-architectes.org/en
+            - img "Union Internationale des Architectes" [ref=f201e110]
+          - link [ref=f201e111] [cursor=pointer]:
+            - /url: https://unhabitat.org
+            - img "UN Habitat" [ref=f201e112]
+          - link [ref=f201e113] [cursor=pointer]:
+            - /url: https://obelaward.org
+            - img "OBEL Award" [ref=f201e114]
+          - link [ref=f201e115] [cursor=pointer]:
+            - /url: https://europeanculturalcentre.eu
+            - img "European Cultural Centre" [ref=f201e116]
+      - generic [ref=f201e117]:
+        - generic [ref=f201e118]:
+          - link "About" [ref=f201e119] [cursor=pointer]:
+            - /url: https://www.archdaily.com/content/about?ad_name=footer-links
+          - link "Imprint" [ref=f201e120] [cursor=pointer]:
+            - /url: https://www.archdaily.com/imprint?ad_name=footer-links
+          - link "Terms of Use" [ref=f201e121] [cursor=pointer]:
+            - /url: https://daaily.com/terms-conditions.html?ad_name=footer-links
+          - link "Privacy Policy" [ref=f201e122] [cursor=pointer]:
+            - /url: https://daaily.com/privacy-policy.html?ad_name=footer-links
+          - link "Cookie Policy" [ref=f201e123] [cursor=pointer]:
+            - /url: https://www.archdaily.com/content/cookie-policy?ad_name=footer-links
+          - link "Contributors Policy" [ref=f201e124] [cursor=pointer]:
+            - /url: https://www.archdaily.com/content/contributors-policy?ad_name=footer-links
+          - link "RSS" [ref=f201e125] [cursor=pointer]:
+            - /url: https://www.archdaily.com/feed?ad_name=footer-links
+        - generic [ref=f201e126]:
+          - link [ref=f201e127] [cursor=pointer]:
+            - /url: https://www.facebook.com/ArchDaily
+          - link [ref=f201e131] [cursor=pointer]:
+            - /url: https://x.com/archdaily
+          - link [ref=f201e135] [cursor=pointer]:
+            - /url: https://www.pinterest.com/archdaily
+          - link [ref=f201e139] [cursor=pointer]:
+            - /url: https://instagram.com/archdaily
+          - link [ref=f201e144] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/archdaily
+      - generic [ref=f201e148]:
+        - img "ArchDaily logo" [ref=f201e150]
+        - generic [ref=f201e151]: © All rights reserved. ArchDaily, part of DAAily platforms AG 2008-2026 | ISSN 0719-8884 | All images are © each office/photographer mentioned.
+  - generic:
+    - generic:
+      - button
+      - generic:
+        - generic:
+          - banner:
+            - figure:
+              - generic:
+                - img "ArchDaily"
+            - banner:
+              - heading "Create Your ArchDaily Account" [level=2]
+              - paragraph: Gain access to curated insights, professional tools, and daily inspiration to elevate your work.
+          - generic:
+            - link "Continue with Google":
+              - /url: https://www.archdaily.com/accounts/google/sign_in?site=us&redirect_uri=https%3A%2F%2Fwww.archdaily.com%2F1042000%2Fwhat-architects-expect-from-ai-tools-in-2026%3Fauth%3Dhadid
+            - generic: or use your email
+          - generic:
+            - generic:
+              - generic: Email
+              - textbox "Email"
+              - paragraph
+            - generic:
+              - paragraph:
+                - text: By creating an account, you agree to our
+                - link "Terms of Service":
+                  - /url: https://www.daaily.com/terms-conditions.html
+                - text: and
+                - link "Privacy Policy":
+                  - /url: https://www.daaily.com/privacy-policy.html
+                - text: .
+              - generic:
+                - button "Continue with email" [disabled]
+              - paragraph: Already have a free account or paid plan? Log In
+      - paragraph: Step 1 / 2
+  - generic [ref=f201e154]:
+    - generic [ref=f201e155]:
+      - heading [level=3] [ref=f201e156]:
+        - text: By using ArchDaily, you agree to our
+        - link "Terms of Use" [ref=f201e157] [cursor=pointer]:
+          - /url: https://daaily.com/terms-conditions.html
+        - text: ","
+        - link "Privacy Policy" [ref=f201e158] [cursor=pointer]:
+          - /url: https://daaily.com/privacy-policy.html
+        - text: and
+        - link "Cookie Policy" [ref=f201e159] [cursor=pointer]:
+          - /url: https://www.archdaily.com/content/cookie-policy
+        - text: .
+      - paragraph [ref=f201e160]:
+        - text: If you want to make the best of your experience on our site,
+        - link "sign-up" [ref=f201e161] [cursor=pointer]:
+          - /url: https://my.archdaily.com/
+        - text: .
+    - button "I accept" [ref=f201e163] [cursor=pointer]

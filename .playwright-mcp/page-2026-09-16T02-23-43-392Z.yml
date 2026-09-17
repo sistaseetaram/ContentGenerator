@@ -1,0 +1,12 @@
+- iframe [ref=f332e2]:
+  - generic [ref=f333e3]:
+    - paragraph [ref=f333e4]: This page isn't available. Sorry about that.
+    - paragraph [ref=f333e5]: Try searching for something else.
+    - generic [ref=f333e6]:
+      - link "YouTube Home IN" [ref=f333e7] [cursor=pointer]:
+        - /url: https://www.youtube.com/
+        - generic "YouTube Home" [ref=f333e8]
+        - text: IN
+      - generic [ref=f333e9]:
+        - textbox "Search" [ref=f333e11]
+        - button "Search" [ref=f333e12] [cursor=pointer]

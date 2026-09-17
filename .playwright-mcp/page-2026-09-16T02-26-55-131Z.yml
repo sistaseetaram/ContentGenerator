@@ -1,0 +1,525 @@
+- generic [ref=f414e2]:
+  - banner [ref=f414e4]:
+    - generic [ref=f414e6]:
+      - generic [ref=f414e7]:
+        - button "Guide" [ref=f414e9] [cursor=pointer]
+        - generic [ref=f414e11]:
+          - link "YouTube Home" [ref=f414e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f414e16]: IN
+        - button "Skip navigation" [ref=f414e20] [cursor=pointer]
+      - generic [ref=f414e24]:
+        - search [ref=f414e25]:
+          - generic [ref=f414e27]:
+            - combobox "Search" [expanded] [ref=f414e30]
+            - button "Search" [ref=f414e31] [cursor=pointer]
+        - generic [ref=f414e34]:
+          - button "Search with your voice" [ref=f414e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f414e45]
+  - main [ref=f414e47]:
+    - generic [ref=f414e54]:
+      - generic [ref=f414e70]:
+        - heading "Rayon Academy" [level=1] [ref=f414e72]
+        - generic [ref=f414e73]:
+          - group [ref=f414e74]:
+            - generic [ref=f414e75]: "@rayon.design"
+          - generic [aria-hidden] [ref=f414e76]: •
+          - group [ref=f414e77]:
+            - generic "31.3 thousand subscribers" [ref=f414e78]: 31.3k subscribers
+            - generic [aria-hidden] [ref=f414e79]: •
+            - generic [ref=f414e80]: 837 videos
+        - generic [ref=f414e82] [cursor=pointer]:
+          - generic [ref=f414e83]: "The #1 interior design academy, powered by Rayon"
+          - 'button "Description. The #1 interior design academy, powered by Rayon…tap for more." [ref=f414e84]':
+            - generic [ref=f414e85]: ...more
+        - generic [ref=f414e86]:
+          - link [ref=f414e89] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljR0VDTWtrS1hWWmJ4ajVjdnRZVGh4TXxBTl9pYzRlWXVjMDZRWTJuMWdGUjNVX3NvbGZOYWdRSTNjUXE1UXZWY3FuZU94ZnZ3djZDNHp2SExwSjJQdG5WM3NNdERfc3BjM2phbGJQam9iT014SlhCWXExeW5vck83YlNo&q=rayon.design
+          - button "and 4 more links" [ref=f414e94] [cursor=pointer]
+        - button "Subscribe" [ref=f414e98] [cursor=pointer]
+      - tablist [ref=f414e105]:
+        - tablist [ref=f414e109]:
+          - tab "Home" [selected] [ref=f414e110] [cursor=pointer]
+          - tab "Videos" [ref=f414e112] [cursor=pointer]
+          - tab "Shorts" [ref=f414e114] [cursor=pointer]
+          - tab "Courses" [ref=f414e116] [cursor=pointer]
+          - tab "Playlists" [ref=f414e118] [cursor=pointer]
+          - tab "Posts" [ref=f414e120] [cursor=pointer]
+          - button "Search" [ref=f414e125] [cursor=pointer]
+    - generic [ref=f414e132]:
+      - generic [ref=f414e139]:
+        - generic [ref=f414e140]:
+          - heading "What is Rayon? 1 minute" [level=3] [ref=f414e141]:
+            - link "What is Rayon?" [ref=f414e142] [cursor=pointer]:
+              - /url: /watch?v=87otjDcsYvQ
+          - generic [ref=f414e145]:
+            - generic [ref=f414e146]: 30,214 views
+            - generic [ref=f414e147]: •1 year ago
+        - generic [ref=f414e148]:
+          - generic [ref=f414e150]:
+            - text: "Meet Rayon, the fastest tool for creating perfect architectural drawings. 🚀 Signup (for free):"
+            - link "https://www.rayon.design/try/youtube" [ref=f414e151] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR0liQ3FTeEJlTEZZeEdjZks4SXJnMnxBTl9pYzRjdUtkZmV6ejZOZjlWcllOVmRJUURNM1lsQzVidVRxQ1dTcWZCOGl4cnVBbV9sU0R4QUZxeUltcHJGd0l6WjRCRmt4X3Q5ajc1a2hTdzN5Qzh5YmNBTHpOTF9pYm9S&q=https%3A%2F%2Fwww.rayon.design%2Ftry%2Fyoutube
+            - text: "📅 Book a demo:"
+            - link "https://www.rayon.design/r/demo-yt" [ref=f414e152] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRS1FRUtpSDNjMHRYdE1GYWU2d1ZISXxBTl9pYzRkcUVaTGptcF9CM0wtWlNTaUpka2NvY3hleVYwaFp5WnZQejVoamhVQlRxbzEyMGRqclBBVUJvb2FKUUZ1b18wakhrbzRUWTJOc1RCVVRaOUcyc2ttbmNqMTRhb2Rx&q=https%3A%2F%2Fwww.rayon.design%2Fr%2Fdemo-yt
+            - text: "🌍 Join our community:"
+            - link "https://community.rayon.design/" [ref=f414e153] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR0tka210MXVxaENaZERlSmZOVUdHbXxBTl9pYzRlY0Q3bUV2blFNbkd4ZGxpR1l5MWg1RUhGWHd0ek83b2N2RDBzMXZRM0Z5dW5aZFkwOExxbHhSYVd0aEh5YnQ1cTNuWFg3VVRyc21mTGVuVkNZQ0xnam9OZmswLXNP&q=https%3A%2F%2Fcommunity.rayon.design%2F
+            - text: "📚 Check our documentation:"
+            - link "https://docs.rayon.design/" [ref=f414e154] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRURVQWNvS2RlUDNFaE80MVBuYzdEQXxBTl9pYzRkc28xd1Z6TVBick04cG5LWjBWOXpRR3NGM2k2M2FkREVvUHktdkUtYnozbTFEck1iT2MyXzlQSGFuS1pXUTNVaXg0a0p2TmJfVGZPamNIbW45Y2hHWjk2SnNvWVVw&q=https%3A%2F%2Fdocs.rayon.design%2F
+            - text: "————————— Follow Rayon on... Instagram: / rayon.design TikTok: / rayon.design LinkedIn:"
+            - link "https://www.linkedin.com/company/rayo.." [ref=f414e155] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSE1EUURONmU2OVpYU09PRmExSkNLZnxBTl9pYzRkUDdRNlNHc0RxbGhwbW5BLTFIVFdRbnU0UHVWYVZaVDFZU1RLV3ZOU2xBWlB5d2xybkZNaDRteXVSc2xDN3pvaWFFd25lNjNXR2RSWFlTVXc1Qm5UbG1mY09mVjRK&q=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Frayo..
+            - text: ". Twitter: / rayonapp Pinterest: / rayonapp Read our blog:"
+            - link "https://www.rayon.design/blog" [ref=f414e156] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSDQ3YmViZzNQcUFSWFh2VUx3T01qRXxBTl9pYzRlM3pnVkpseUV5TUVBNkVQYS1yUUpTYXlza2dlNjZsLUowSEJTU3M5enJXYU9UUTNYdEFtVHRqVDctN2xHNGtMS3h5U2lJeHAwc1draE95NTVOUnp0OTRpeE1RT0x1&q=https%3A%2F%2Fwww.rayon.design%2Fblog
+            - text: "Discover our resources:"
+            - link "https://www.rayon.design/knowledge-base" [ref=f414e157] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR3RpMDNDN3ZKQU1leG92WXFmLTRjbnxBTl9pYzRmV3R1MzJGdEROT3NQVVRBMXBzWFltZjlkaVBKVXFLNUY4Qm9WYUVoeUUzcDVDZ21sZHUwQWJmNWZ5ZzRIajVHZ3ZXOWF4U0g0WXR4cFJaRE1FUmpXTWhZVW5FTzdN&q=https%3A%2F%2Fwww.rayon.design%2Fknowledge-base
+            - text: "Download our assets:"
+            - link "https://www.rayon.design/assets/libra.." [ref=f414e158] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRXNTSl9RY05sNGJNcFZQZ3M4LXUtQnxBTl9pYzRlTXRqcEp6TlpCNk45OVBzZzJlRHNEN3NmSFZrQ1A0eTVuUDZxSHM4ZWtwSzQ2cTJlNktwbjNtQ254OHhDT29ZTlE0RXpCNmZMQjdYdEJ5ZGFkWFpTbWxiSEZabUtP&q=https%3A%2F%2Fwww.rayon.design%2Fassets%2Flibra..
+            - text: . Subscribe to our YouTube channel for more hands-on tutorials! —————————
+            - link "#interiordesign" [ref=f414e159] [cursor=pointer]:
+              - /url: /hashtag/interiordesign
+            - link "#interiordesigner" [ref=f414e160] [cursor=pointer]:
+              - /url: /hashtag/interiordesigner
+            - link "#architecture" [ref=f414e161] [cursor=pointer]:
+              - /url: /hashtag/architecture
+            - link "#collaboration" [ref=f414e162] [cursor=pointer]:
+              - /url: /hashtag/collaboration
+            - link "#section" [ref=f414e163] [cursor=pointer]:
+              - /url: /hashtag/section
+            - link "#elevation" [ref=f414e164] [cursor=pointer]:
+              - /url: /hashtag/elevation
+            - link "#layout" [ref=f414e165] [cursor=pointer]:
+              - /url: /hashtag/layout
+            - link "#floorplans" [ref=f414e166] [cursor=pointer]:
+              - /url: /hashtag/floorplans
+            - link "#floorplan" [ref=f414e167] [cursor=pointer]:
+              - /url: /hashtag/floorplan
+            - link "#drawings" [ref=f414e168] [cursor=pointer]:
+              - /url: /hashtag/drawings
+            - link "#drawing" [ref=f414e169] [cursor=pointer]:
+              - /url: /hashtag/drawing
+            - link "#rayon" [ref=f414e170] [cursor=pointer]:
+              - /url: /hashtag/rayon
+            - link "#rayonapp" [ref=f414e171] [cursor=pointer]:
+              - /url: /hashtag/rayonapp
+            - link "#cadblocks" [ref=f414e172] [cursor=pointer]:
+              - /url: /hashtag/cadblocks
+            - link "#blocks" [ref=f414e173] [cursor=pointer]:
+              - /url: /hashtag/blocks
+            - link "#furniture" [ref=f414e174] [cursor=pointer]:
+              - /url: /hashtag/furniture
+            - link "#furnituredesign" [ref=f414e175] [cursor=pointer]:
+              - /url: /hashtag/furnituredesign
+            - link "#interiorarchitecture" [ref=f414e176] [cursor=pointer]:
+              - /url: /hashtag/interiorarchitecture
+            - link "#interiorarchitectureanddesign" [ref=f414e177] [cursor=pointer]:
+              - /url: /hashtag/interiorarchitectureanddesign
+            - link "#design" [ref=f414e178] [cursor=pointer]:
+              - /url: /hashtag/design
+          - button [ref=f414e179] [cursor=pointer]:
+            - link "Read more" [ref=f414e181]:
+              - /url: /watch?v=87otjDcsYvQ
+      - generic [ref=f414e185]:
+        - generic [ref=f414e186]:
+          - heading [level=2] [ref=f414e188]:
+            - link "'How to' Tutorials" [ref=f414e191] [cursor=pointer]:
+              - /url: /playlist?list=PL2mYb69TvSpwGns4OUpNEl0r_ICkLMztk
+          - generic [ref=f414e193]: A series of in-depth how-to tutorials about interior design and architecture workflows.
+        - generic [ref=f414e195]:
+          - generic [ref=f414e198]:
+            - generic [ref=f414e200] [cursor=pointer]:
+              - link [aria-hidden] [ref=f414e201]:
+                - /url: /watch?v=moOIDymBUrU
+                - img [ref=f414e207]:
+                  - generic [ref=f414e208]: 17:46
+              - generic [ref=f414e210]:
+                - generic [ref=f414e211]:
+                  - heading "9 Tools Every Interior Designer Needs in Your Workflow" [level=3] [ref=f414e212]:
+                    - link "9 Tools Every Interior Designer Needs in Your Workflow 17 minutes" [ref=f414e213]:
+                      - /url: /watch?v=moOIDymBUrU
+                      - text: 9 Tools Every Interior Designer Needs in Your Workflow
+                  - group [ref=f414e216]:
+                    - generic [ref=f414e217]: 15k views
+                    - generic [aria-hidden] [ref=f414e218]: •
+                    - generic "5 days ago" [ref=f414e219]
+                - button "More actions" [ref=f414e222]
+            - generic [ref=f414e227] [cursor=pointer]:
+              - link [aria-hidden] [ref=f414e228]:
+                - /url: /watch?v=SEa2zCovAHA&pp=0gcJCSQMAYcqIYzv
+                - img [ref=f414e234]:
+                  - generic [ref=f414e235]: 16:30
+              - generic [ref=f414e237]:
+                - generic [ref=f414e238]:
+                  - heading "Good vs Bad Floor Plan - Architect Reviews (Rayon Edition)" [level=3] [ref=f414e239]:
+                    - link "Good vs Bad Floor Plan - Architect Reviews (Rayon Edition) 16 minutes" [ref=f414e240]:
+                      - /url: /watch?v=SEa2zCovAHA&pp=0gcJCSQMAYcqIYzv
+                      - text: Good vs Bad Floor Plan - Architect Reviews (Rayon Edition)
+                  - group [ref=f414e243]:
+                    - generic [ref=f414e244]: 3k views
+                    - generic [aria-hidden] [ref=f414e245]: •
+                    - generic "11 days ago" [ref=f414e246]
+                - button "More actions" [ref=f414e249]
+            - generic [ref=f414e254] [cursor=pointer]:
+              - link [aria-hidden] [ref=f414e255]:
+                - /url: /watch?v=Cra03p1HNB8
+                - img [ref=f414e261]:
+                  - generic [ref=f414e262]: 16:35
+              - generic [ref=f414e264]:
+                - generic [ref=f414e265]:
+                  - 'heading "From Client Email to Concept Mood Board: My Full Process in Rayon" [level=3] [ref=f414e266]':
+                    - 'link "From Client Email to Concept Mood Board: My Full Process in Rayon 16 minutes" [ref=f414e267]':
+                      - /url: /watch?v=Cra03p1HNB8
+                      - text: "From Client Email to Concept Mood Board: My Full Process in Rayon"
+                  - group [ref=f414e270]:
+                    - generic [ref=f414e271]: 1.4k views
+                    - generic [aria-hidden] [ref=f414e272]: •
+                    - generic "12 days ago" [ref=f414e273]
+                - button "More actions" [ref=f414e276]
+            - generic [ref=f414e281] [cursor=pointer]:
+              - link [aria-hidden] [ref=f414e282]:
+                - /url: /watch?v=NJT06K5B4DY
+                - img [ref=f414e288]:
+                  - generic [ref=f414e289]: 11:50
+              - generic [ref=f414e291]:
+                - generic [ref=f414e292]:
+                  - 'heading "AI Tools for Interior Designers: Tools That Are Actually Useful" [level=3] [ref=f414e293]':
+                    - 'link "AI Tools for Interior Designers: Tools That Are Actually Useful 11 minutes, 50 seconds" [ref=f414e294]':
+                      - /url: /watch?v=NJT06K5B4DY
+                      - text: "AI Tools for Interior Designers: Tools That Are Actually Useful"
+                  - group [ref=f414e297]:
+                    - generic [ref=f414e298]: 58k views
+                    - generic [aria-hidden] [ref=f414e299]: •
+                    - generic "2 weeks ago" [ref=f414e300]
+                - button "More actions" [ref=f414e303]
+            - generic [ref=f414e308] [cursor=pointer]:
+              - link [aria-hidden] [ref=f414e309]:
+                - /url: /watch?v=7lGMEKsAyK4&pp=0gcJCSQMAYcqIYzv
+                - img [ref=f414e315]:
+                  - generic [ref=f414e316]: 11:33
+              - generic [ref=f414e318]:
+                - generic [ref=f414e319]:
+                  - heading "Why Most Interior Design Mood Boards Don't Work (and How to Fix That)" [level=3] [ref=f414e320]:
+                    - link "Why Most Interior Design Mood Boards Don't Work (and How to Fix That) 11 minutes, 33 seconds" [ref=f414e321]:
+                      - /url: /watch?v=7lGMEKsAyK4&pp=0gcJCSQMAYcqIYzv
+                      - text: Why Most Interior Design Mood Boards Don't Work (and How to Fix That)
+                  - group [ref=f414e324]:
+                    - generic [ref=f414e325]: 878 views
+                    - generic [aria-hidden] [ref=f414e326]: •
+                    - generic "3 weeks ago" [ref=f414e327]
+                - button "More actions" [ref=f414e330]
+            - generic [ref=f414e335]:
+              - link [aria-hidden] [ref=f414e336] [cursor=pointer]:
+                - /url: /shorts/y_DDawkKgDs
+              - generic [ref=f414e340] [cursor=pointer]:
+                - 'link "These are the steps to create a client presentation #interiordesign" [ref=f414e341]':
+                  - /url: /shorts/y_DDawkKgDs
+                - generic [ref=f414e342]: 814 views
+              - button "More actions" [ref=f414e344] [cursor=pointer]
+            - generic [ref=f414e349] [cursor=pointer]:
+              - link [aria-hidden] [ref=f414e350]:
+                - /url: /watch?v=wEsADWrxX3A
+                - img [ref=f414e356]:
+                  - generic [ref=f414e357]: 19:43
+              - generic [ref=f414e359]:
+                - generic [ref=f414e360]:
+                  - heading "How to Build a Client Ready Presentation (Step-by-step in Rayon)" [level=3] [ref=f414e361]:
+                    - link "How to Build a Client Ready Presentation (Step-by-step in Rayon) 19 minutes" [ref=f414e362]:
+                      - /url: /watch?v=wEsADWrxX3A
+                      - text: How to Build a Client Ready Presentation (Step-by-step in Rayon)
+                  - group [ref=f414e365]:
+                    - generic [ref=f414e366]: 1.2k views
+                    - generic [aria-hidden] [ref=f414e367]: •
+                    - generic "1 month ago" [ref=f414e368]
+                - button "More actions" [ref=f414e371]
+            - generic [ref=f414e376] [cursor=pointer]:
+              - link [aria-hidden] [ref=f414e377]:
+                - /url: /watch?v=fiD-xrfmOm0
+                - img [ref=f414e383]:
+                  - generic [ref=f414e384]: 7:13
+              - generic [ref=f414e386]:
+                - generic [ref=f414e387]:
+                  - 'heading "Restaurant Interior Design Process: Layout, Mood Board, and Presentation in Rayon" [level=3] [ref=f414e388]':
+                    - 'link "Restaurant Interior Design Process: Layout, Mood Board, and Presentation in Rayon 7 minutes, 13 seconds" [ref=f414e389]':
+                      - /url: /watch?v=fiD-xrfmOm0
+                      - text: "Restaurant Interior Design Process: Layout, Mood Board, and Presentation in Rayon"
+                  - group [ref=f414e392]:
+                    - generic [ref=f414e393]: 1.2k views
+                    - generic [aria-hidden] [ref=f414e394]: •
+                    - generic "1 month ago" [ref=f414e395]
+                - button "More actions" [ref=f414e398]
+            - generic [ref=f414e403] [cursor=pointer]:
+              - link [aria-hidden] [ref=f414e404]:
+                - /url: /watch?v=FmRvqceNXbI
+                - img [ref=f414e410]:
+                  - generic [ref=f414e411]: 23:04
+              - generic [ref=f414e413]:
+                - generic [ref=f414e414]:
+                  - 'heading "From Plain to Polished: Elevate Your Floor Plans in 3 Steps" [level=3] [ref=f414e415]':
+                    - 'link "From Plain to Polished: Elevate Your Floor Plans in 3 Steps 23 minutes" [ref=f414e416]':
+                      - /url: /watch?v=FmRvqceNXbI
+                      - text: "From Plain to Polished: Elevate Your Floor Plans in 3 Steps"
+                  - group [ref=f414e419]:
+                    - generic [ref=f414e420]: 1.2k views
+                    - generic [aria-hidden] [ref=f414e421]: •
+                    - generic "1 month ago" [ref=f414e422]
+                - button "More actions" [ref=f414e425]
+            - generic [ref=f414e430]:
+              - link [aria-hidden] [ref=f414e431] [cursor=pointer]:
+                - /url: /shorts/QVdrd43hhkw
+              - generic [ref=f414e435] [cursor=pointer]:
+                - 'link "My Method for Presenting Floor Plan Options to Clients #architecture #tutorial" [ref=f414e436]':
+                  - /url: /shorts/QVdrd43hhkw
+                - generic [ref=f414e437]: 1k views
+              - button "More actions" [ref=f414e439] [cursor=pointer]
+          - button "Next" [ref=f414e445] [cursor=pointer]
+      - generic [ref=f414e452]:
+        - generic [ref=f414e453]:
+          - heading [level=2] [ref=f414e455]:
+            - link "Interior Design Workflows" [ref=f414e458] [cursor=pointer]:
+              - /url: /playlist?list=PLbnh1QZ_MATk
+            - link "Play all" [ref=f414e463] [cursor=pointer]:
+              - /url: /watch?v=8VbhujBavWc&list=PLbnh1QZ_MATk
+          - generic [ref=f414e467]: If you are an interior designer looking to improve your workflow, this is where to start. Real use cases, real projects, and real processes - showing how to go from brief to final deliverable without switching tools.
+        - generic [ref=f414e472]:
+          - generic [ref=f414e474] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e475]:
+              - /url: /watch?v=8VbhujBavWc
+              - img [ref=f414e481]:
+                - generic [ref=f414e482]: 7:37
+            - generic [ref=f414e484]:
+              - generic [ref=f414e485]:
+                - 'heading "Interior Designer''s Guide to Furniture Planning: From Blank Plan to Furnished Layout" [level=3] [ref=f414e486]':
+                  - 'link "Interior Designer''s Guide to Furniture Planning: From Blank Plan to Furnished Layout 7 minutes, 37 seconds" [ref=f414e487]':
+                    - /url: /watch?v=8VbhujBavWc
+                    - text: "Interior Designer's Guide to Furniture Planning: From Blank Plan to Furnished Layout"
+                - generic [ref=f414e489]:
+                  - group [ref=f414e490]:
+                    - link "Rayon Academy" [ref=f414e493]:
+                      - /url: /@rayon.design
+                  - group [ref=f414e494]:
+                    - generic [ref=f414e495]: 460 views
+                    - generic [aria-hidden] [ref=f414e496]: •
+                    - generic "12 hours ago" [ref=f414e497]
+              - button "More actions" [ref=f414e500]
+          - generic [ref=f414e505] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e506]:
+              - /url: /watch?v=6-0PRJThmGY&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f414e512]:
+                - generic [ref=f414e513]: 11:23
+            - generic [ref=f414e515]:
+              - generic [ref=f414e516]:
+                - heading "Interior Design AI Rendering From Floor Plan to Visualisation in Seconds" [level=3] [ref=f414e517]:
+                  - link "Interior Design AI Rendering From Floor Plan to Visualisation in Seconds 11 minutes, 23 seconds" [ref=f414e518]:
+                    - /url: /watch?v=6-0PRJThmGY&pp=0gcJCSQMAYcqIYzv
+                    - text: Interior Design AI Rendering From Floor Plan to Visualisation in Seconds
+                - generic [ref=f414e520]:
+                  - group [ref=f414e521]:
+                    - link "Rayon Academy" [ref=f414e524]:
+                      - /url: /@rayon.design
+                  - group [ref=f414e525]:
+                    - generic [ref=f414e526]: 3k views
+                    - generic [aria-hidden] [ref=f414e527]: •
+                    - generic "4 days ago" [ref=f414e528]
+              - button "More actions" [ref=f414e531]
+          - generic [ref=f414e536] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e537]:
+              - /url: /watch?v=moOIDymBUrU
+              - img [ref=f414e543]:
+                - generic [ref=f414e544]: 17:46
+            - generic [ref=f414e546]:
+              - generic [ref=f414e547]:
+                - heading "9 Tools Every Interior Designer Needs in Your Workflow" [level=3] [ref=f414e548]:
+                  - link "9 Tools Every Interior Designer Needs in Your Workflow 17 minutes" [ref=f414e549]:
+                    - /url: /watch?v=moOIDymBUrU
+                    - text: 9 Tools Every Interior Designer Needs in Your Workflow
+                - generic [ref=f414e551]:
+                  - group [ref=f414e552]:
+                    - link "Rayon Academy" [ref=f414e555]:
+                      - /url: /@rayon.design
+                  - group [ref=f414e556]:
+                    - generic [ref=f414e557]: 15k views
+                    - generic [aria-hidden] [ref=f414e558]: •
+                    - generic "5 days ago" [ref=f414e559]
+              - button "More actions" [ref=f414e562]
+          - generic [ref=f414e567] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e568]:
+              - /url: /watch?v=Cra03p1HNB8
+              - img [ref=f414e574]:
+                - generic [ref=f414e575]: 16:35
+            - generic [ref=f414e577]:
+              - generic [ref=f414e578]:
+                - 'heading "From Client Email to Concept Mood Board: My Full Process in Rayon" [level=3] [ref=f414e579]':
+                  - 'link "From Client Email to Concept Mood Board: My Full Process in Rayon 16 minutes" [ref=f414e580]':
+                    - /url: /watch?v=Cra03p1HNB8
+                    - text: "From Client Email to Concept Mood Board: My Full Process in Rayon"
+                - generic [ref=f414e582]:
+                  - group [ref=f414e583]:
+                    - link "Rayon Academy" [ref=f414e586]:
+                      - /url: /@rayon.design
+                  - group [ref=f414e587]:
+                    - generic [ref=f414e588]: 1.4k views
+                    - generic [aria-hidden] [ref=f414e589]: •
+                    - generic "12 days ago" [ref=f414e590]
+              - button "More actions" [ref=f414e593]
+          - generic [ref=f414e598] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e599]:
+              - /url: /watch?v=NJT06K5B4DY
+              - img [ref=f414e605]:
+                - generic [ref=f414e606]: 11:50
+            - generic [ref=f414e608]:
+              - generic [ref=f414e609]:
+                - 'heading "AI Tools for Interior Designers: Tools That Are Actually Useful" [level=3] [ref=f414e610]':
+                  - 'link "AI Tools for Interior Designers: Tools That Are Actually Useful 11 minutes, 50 seconds" [ref=f414e611]':
+                    - /url: /watch?v=NJT06K5B4DY
+                    - text: "AI Tools for Interior Designers: Tools That Are Actually Useful"
+                - generic [ref=f414e613]:
+                  - group [ref=f414e614]:
+                    - link "Rayon Academy" [ref=f414e617]:
+                      - /url: /@rayon.design
+                  - group [ref=f414e618]:
+                    - generic [ref=f414e619]: 58k views
+                    - generic [aria-hidden] [ref=f414e620]: •
+                    - generic "2 weeks ago" [ref=f414e621]
+              - button "More actions" [ref=f414e624]
+          - generic [ref=f414e629] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e630]:
+              - /url: /watch?v=7lGMEKsAyK4&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f414e636]:
+                - generic [ref=f414e637]: 11:33
+            - generic [ref=f414e639]:
+              - generic [ref=f414e640]:
+                - heading "Why Most Interior Design Mood Boards Don't Work (and How to Fix That)" [level=3] [ref=f414e641]:
+                  - link "Why Most Interior Design Mood Boards Don't Work (and How to Fix That) 11 minutes, 33 seconds" [ref=f414e642]:
+                    - /url: /watch?v=7lGMEKsAyK4&pp=0gcJCSQMAYcqIYzv
+                    - text: Why Most Interior Design Mood Boards Don't Work (and How to Fix That)
+                - generic [ref=f414e644]:
+                  - group [ref=f414e645]:
+                    - link "Rayon Academy" [ref=f414e648]:
+                      - /url: /@rayon.design
+                  - group [ref=f414e649]:
+                    - generic [ref=f414e650]: 878 views
+                    - generic [aria-hidden] [ref=f414e651]: •
+                    - generic "3 weeks ago" [ref=f414e652]
+              - button "More actions" [ref=f414e655]
+      - generic [ref=f414e662]:
+        - generic [ref=f414e663]:
+          - heading [level=2] [ref=f414e665]:
+            - link "Hear from our Creator Partners" [ref=f414e668] [cursor=pointer]:
+              - /url: /playlist?list=PL2mYb69TvSpxhbXusQUy2yQhapyy2AzDN
+            - link "Play all" [ref=f414e673] [cursor=pointer]:
+              - /url: /watch?v=sK3OX3TYkOI&list=PL2mYb69TvSpxhbXusQUy2yQhapyy2AzDN
+          - generic [ref=f414e677]: A curated collection of YouTube videos about Rayon from diverse creators across the platform. Dive in!
+        - generic [ref=f414e682]:
+          - generic [ref=f414e684] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e685]:
+              - /url: /watch?v=sK3OX3TYkOI
+              - img [ref=f414e691]:
+                - generic [ref=f414e692]: 16:44
+            - generic [ref=f414e694]:
+              - generic [ref=f414e695]:
+                - heading "interior designer fixes floor plans (ep 7. danish courtyard house)" [level=3] [ref=f414e696]:
+                  - link "interior designer fixes floor plans (ep 7. danish courtyard house) 16 minutes" [ref=f414e697]:
+                    - /url: /watch?v=sK3OX3TYkOI
+                    - text: interior designer fixes floor plans (ep 7. danish courtyard house)
+                - generic [ref=f414e699]:
+                  - group [ref=f414e700]:
+                    - link "Noah Daniel" [ref=f414e703]:
+                      - /url: /@noahdaniel.studio
+                  - group [ref=f414e704]:
+                    - generic [ref=f414e705]: 57k views
+                    - generic [aria-hidden] [ref=f414e706]: •
+                    - generic "2 months ago" [ref=f414e707]
+              - button "More actions" [ref=f414e710]
+          - generic [ref=f414e715] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e716]:
+              - /url: /watch?v=5NXGsPqJ_Xc
+              - img [ref=f414e722]:
+                - generic [ref=f414e723]: 10:33
+            - generic [ref=f414e725]:
+              - generic [ref=f414e726]:
+                - heading "The Premium Ecosystem Interior Designers were waiting for" [level=3] [ref=f414e727]:
+                  - link "The Premium Ecosystem Interior Designers were waiting for 10 minutes, 33 seconds" [ref=f414e728]:
+                    - /url: /watch?v=5NXGsPqJ_Xc
+                    - text: The Premium Ecosystem Interior Designers were waiting for
+                - generic [ref=f414e730]:
+                  - group [ref=f414e731]:
+                    - link "Lauro Dominici" [ref=f414e734]:
+                      - /url: /@lauro.dominici
+                  - group [ref=f414e735]:
+                    - generic [ref=f414e736]: 3.1k views
+                    - generic [aria-hidden] [ref=f414e737]: •
+                    - generic "5 months ago" [ref=f414e738]
+              - button "More actions" [ref=f414e741]
+          - generic [ref=f414e746] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e747]:
+              - /url: /watch?v=wUSh0Ur-qcg
+              - img [ref=f414e753]:
+                - generic [ref=f414e754]: 15:18
+            - generic [ref=f414e756]:
+              - generic [ref=f414e757]:
+                - heading "Inside the Wabi-Sabi Jungle Loft That Proves Less Is Actually More | Interior Design House Tour" [level=3] [ref=f414e758]:
+                  - link "Inside the Wabi-Sabi Jungle Loft That Proves Less Is Actually More | Interior Design House Tour 15 minutes" [ref=f414e759]:
+                    - /url: /watch?v=wUSh0Ur-qcg
+                    - text: Inside the Wabi-Sabi Jungle Loft That Proves Less Is Actually More | Interior Design House Tour
+                - generic [ref=f414e761]:
+                  - group [ref=f414e762]:
+                    - link "Interior Insights" [ref=f414e765]:
+                      - /url: /@Interior_Insights_
+                  - group [ref=f414e766]:
+                    - generic [ref=f414e767]: 24k views
+                    - generic [aria-hidden] [ref=f414e768]: •
+                    - generic "3 months ago" [ref=f414e769]
+                  - group [ref=f414e770]:
+                    - img "Closed captions" [ref=f414e773]:
+                      - generic [ref=f414e774]: Subtitles
+              - button "More actions" [ref=f414e777]
+          - generic [ref=f414e782] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e783]:
+              - /url: /watch?v=du-z4x7FZqc&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f414e789]:
+                - generic [ref=f414e790]: 16:32
+            - generic [ref=f414e792]:
+              - generic [ref=f414e793]:
+                - heading "I Drew the Same Floor Plan in 3 Levels of Complexity. Here is How" [level=3] [ref=f414e794]:
+                  - link "I Drew the Same Floor Plan in 3 Levels of Complexity. Here is How 16 minutes" [ref=f414e795]:
+                    - /url: /watch?v=du-z4x7FZqc&pp=0gcJCSQMAYcqIYzv
+                    - text: I Drew the Same Floor Plan in 3 Levels of Complexity. Here is How
+                - generic [ref=f414e797]:
+                  - group [ref=f414e798]:
+                    - link [ref=f414e801]:
+                      - /url: /@ShowItBetter
+                  - group [ref=f414e805]:
+                    - generic [ref=f414e806]: 53k views
+                    - generic [aria-hidden] [ref=f414e807]: •
+                    - generic "6 months ago" [ref=f414e808]
+                  - group [ref=f414e809]:
+                    - img "Closed captions" [ref=f414e812]:
+                      - generic [ref=f414e813]: Subtitles
+              - button "More actions" [ref=f414e816]
+          - generic [ref=f414e821] [cursor=pointer]:
+            - link [aria-hidden] [ref=f414e822]:
+              - /url: /watch?v=-YILbkb7LEg
+              - img [ref=f414e828]:
+                - generic [ref=f414e829]: 9:50
+            - generic [ref=f414e831]:
+              - generic [ref=f414e832]:
+                - heading "Is Rayon the Future of CAD in 2026" [level=3] [ref=f414e833]:
+                  - link "Is Rayon the Future of CAD in 2026 9 minutes, 50 seconds" [ref=f414e834]:
+                    - /url: /watch?v=-YILbkb7LEg
+                    - text: Is Rayon the Future of CAD in 2026
+                - generic [ref=f414e836]:
+                  - group [ref=f414e837]:
+                    - link [ref=f414e840]:
+                      - /url: /@DavidTomic
+                  - group [ref=f414e844]:
+                    - generic [ref=f414e845]: 41k views
+                    - generic [aria-hidden] [ref=f414e846]: •
+                    - generic "8 months ago" [ref=f414e847]
+              - button "More actions" [ref=f414e850]

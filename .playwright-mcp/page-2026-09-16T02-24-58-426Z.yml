@@ -1,0 +1,455 @@
+- generic [ref=f361e2]:
+  - banner [ref=f361e4]:
+    - generic [ref=f361e6]:
+      - generic [ref=f361e7]:
+        - button "Guide" [ref=f361e9] [cursor=pointer]
+        - generic [ref=f361e11]:
+          - link "YouTube Home" [ref=f361e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f361e16]: IN
+        - button "Skip navigation" [ref=f361e20] [cursor=pointer]
+      - generic [ref=f361e24]:
+        - search [ref=f361e25]:
+          - generic [ref=f361e27]:
+            - combobox "Search" [expanded] [ref=f361e30]
+            - button "Search" [ref=f361e31] [cursor=pointer]
+        - generic [ref=f361e34]:
+          - button "Search with your voice" [ref=f361e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f361e45]
+  - main [ref=f361e47]:
+    - generic [ref=f361e54]:
+      - generic [ref=f361e70]:
+        - heading "ArchiTech Network" [level=1] [ref=f361e72]
+        - generic [ref=f361e73]:
+          - group [ref=f361e74]:
+            - generic [ref=f361e75]: "@architech.network"
+          - generic [aria-hidden] [ref=f361e76]: •
+          - group [ref=f361e77]:
+            - generic "44.7 thousand subscribers" [ref=f361e78]: 44.7k subscribers
+            - generic [aria-hidden] [ref=f361e79]: •
+            - generic [ref=f361e80]: 209 videos
+        - generic [ref=f361e82] [cursor=pointer]:
+          - generic [ref=f361e83]: Technology is quickly shaping the future of the built environment and changing the way we design and build the world around us!
+          - button "Description. Technology is quickly shaping the future of the built enviro…tap for more." [ref=f361e84]:
+            - generic [ref=f361e85]: ...more
+        - generic [ref=f361e86]:
+          - link [ref=f361e89] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRVgwSC10U3RVQmJ3QnRtYktWcWZxd3xBTl9pYzRlSTkwN1FYMGZCOV94bktOSGJsSzdSNDRteFRqczdqQXZud0ZWRzRoUnMxZ2wydzM4ZDlIT1NCX3hwUFRwYXNqSjFBaWczZENIZ0oyYXN1TDJiTVVZaFN5Qi1ZVWg3&q=https%3A%2F%2Fwww.instagram.com%2Farchitech.network
+          - button "and 5 more links" [ref=f361e94] [cursor=pointer]
+        - button "Subscribe" [ref=f361e98] [cursor=pointer]
+      - tablist [ref=f361e105]:
+        - tablist [ref=f361e109]:
+          - tab "Home" [selected] [ref=f361e110] [cursor=pointer]
+          - tab "Videos" [ref=f361e112] [cursor=pointer]
+          - tab "Shorts" [ref=f361e114] [cursor=pointer]
+          - tab "Live" [ref=f361e116] [cursor=pointer]
+          - tab "Podcasts" [ref=f361e118] [cursor=pointer]
+          - tab "Playlists" [ref=f361e120] [cursor=pointer]
+          - tab "Posts" [ref=f361e122] [cursor=pointer]
+          - button "Search" [ref=f361e127] [cursor=pointer]
+    - generic [ref=f361e134]:
+      - generic [ref=f361e141]:
+        - generic [ref=f361e142]:
+          - heading "What is Archi-Tech Network? 1 minute, 45 seconds" [level=3] [ref=f361e143]:
+            - link "What is Archi-Tech Network?" [ref=f361e144] [cursor=pointer]:
+              - /url: /watch?v=29h4oBX_e2A
+          - generic [ref=f361e147]:
+            - generic [ref=f361e148]: 100,219 views
+            - generic [ref=f361e149]: •1 year ago
+        - generic [ref=f361e150]:
+          - generic [ref=f361e152]:
+            - text: Archi-Tech Network is an online educational platform promoting the discussion, knowledge sharing and entrepreneurship at the intersection of Architecture and Technology. We connect the gap between university and practice by getting world class tutors working in real world practice to teach. We share knowledge through our 4 main mediums, our Podcast, Tours, Events and Online courses. Founded by Oliver Thomas after working for over a decade in practice for firms like Aedas, Front Inc and Bjarke Ingels Group specializing in design, technology and fabrication. Oliver curatues the courses, events, podcast and tours to give students top tier real world knowledge from the unique practice of working in practice. Join the Archi-Tech Network by subscribing to our channel and other social media platforms. ARCHITECH NETWORK |
+            - link "https://archi-tech.network/" [ref=f361e153] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR0MtV2stRlRFcm5TeWExSUxkdnBMYnxBTl9pYzRjaXdnNW5IeTd3TThLZWxHM2M5amtxMkFUS1hTTzJWTGpmMXdxZFF4RnF6MHZFaVNSc00yWU5qZzlBazlnV3V4WjRxcG5sbERvSm9TbVJHdjk1WWdWbThvR1NxaUgz&q=https%3A%2F%2Farchi-tech.network%2F
+            - text: ATN MASTERCLASS |
+            - link "https://archi-tech.network/pages/atn-..." [ref=f361e154] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRUcycU9PZkRCdnZzNVNVYlpnSXloc3xBTl9pYzRkYXhXVUN0Vm9EZWRSb0hFXzJ2YzRrNW5NbV9KcHpwQmpXNWFhRlNPVWZuLXkzeXdnMTQ4Z1MzZnRfekdiaXlkVmxxa3RXOHBZeEFiZ1RJRGRKT2NGUlh3VjI0bWpY&q=https%3A%2F%2Farchi-tech.network%2Fpages%2Fatn-courses
+            - text: ATN HOST | Oliver Thomas |
+            - link "https://www.instagram.com/olly____t/" [ref=f361e155] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRmN0YlFkWTJySjk2aE44VGw3MWFTVHxBTl9pYzRkLTBTU3M3ZzlEMnk2UGpzU2o2b3plQ1VON2JFQVcyNVU4NExIb0hBT21KOXVJVVNrNHUtNWxmenVSYUNzZ3pWMzdvS0s3TlpzWHI5MGJLNWlXNXJTWmIteVNhWGl0&q=https%3A%2F%2Fwww.instagram.com%2Folly____t%2F
+            - text: VIDEOGRAPHY AND EDITING |
+            - link "https://www.instagram.com/jemchevillo..." [ref=f361e156] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR1htaUJEYkxGMGl3SnNKWkgzS1FObXxBTl9pYzRlMlNiSXpuUlkwLWlCZy1pVUo3MVZ6b1ZKWmh4WHpJeDR6NWV5c2ZDVmE1b2Y0SGtIQUVoREkxSXFXcGd4OEFkM2d1bDhYdi1JVUY2YUJoWFRoeUJveWZMaU42ZC1I&q=https%3A%2F%2Fwww.instagram.com%2Fjemchevillotte%2F
+            - text: "Enjoyed the video? Be sure to like, subscribe, and share for more insights into the intersection of the Metaverse and Architecture. Don't forget to hit the bell icon to stay updated on our latest content. Join the conversation on our social media platforms: INSTAGRAM |"
+            - link "https://www.instagram.com/architech.n..." [ref=f361e157] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSDNtREoxYWp1c21HcF9xUkxiVzdkcXxBTl9pYzRkbGN2bFlJX0lrRWdOelNQR04zR0FmdmVpTm5rejhWVDZPSjBDV0VxcF95NTZNQUtNTGVtRmtWMXhCT08tR21vN21uV1lQWGM2RWlFQmY2am85eUJyck5vVlIxNVlR&q=https%3A%2F%2Fwww.instagram.com%2Farchitech.network%2F
+            - text: LINKEDIN |
+            - link "https://www.linkedin.com/company/arch..." [ref=f361e158] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR3dYTHRUTm9uRVFxaTgxdk1ldzlIRnxBTl9pYzRlN1M5N0licVFKNXlvcUFzakdjUkJaNXZPakEtV2U1UmhFVXRBbmF5VkZ2dVJvS3FORU9pUTdtc1RvbEVMQ0V6aEZITV9OUHd5clpUeXZaMTlZajVhSjNUTi1pQUZW&q=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Farchi-tech-network
+            - text: TIKTOK |
+            - link "https://www.tiktok.com/@architech.net..." [ref=f361e159] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRjl3dHVIRy1YRU9RY0lDWklRdzZQOHxBTl9pYzRkUzhZRE9hanVYZEZjX3JEank2dUVMNjJuNXBxT3NzWlNfWkgyMmhPZ2JkLVVvZk1fWTJDU2pzMFd0OVVpa2lRTFAxSHRHMnFQUklPYi0wUThSa25FQmZPZ1ItLWFf&q=https%3A%2F%2Fwww.tiktok.com%2F%40architech.network
+            - text: EVENTS |
+            - link "https://linktr.ee/architech_network" [ref=f361e160] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSEQtWFRGR29NeTduN3VFT3JXWFJtWXxBTl9pYzRjaGZCbFp2UllMZnFlR04ycGpMSDNZcGhIZHBpbU1zSmp3Q29MZ2wzdXYxYmFqYnFxanhfcnFPQmNNWTdoUGJGRlNzTi1GM3FiUE1BQXlZLU5HSVd5azNJSVhhWW9Y&q=https%3A%2F%2Flinktr.ee%2Farchitech_network
+            - link "#architech" [ref=f361e161] [cursor=pointer]:
+              - /url: /hashtag/architech
+            - link "#atn" [ref=f361e162] [cursor=pointer]:
+              - /url: /hashtag/atn
+            - link "#architechnetwork" [ref=f361e163] [cursor=pointer]:
+              - /url: /hashtag/architechnetwork
+            - link "#architecture" [ref=f361e164] [cursor=pointer]:
+              - /url: /hashtag/architecture
+            - link "#technology" [ref=f361e165] [cursor=pointer]:
+              - /url: /hashtag/technology
+            - link "#designtechnology" [ref=f361e166] [cursor=pointer]:
+              - /url: /hashtag/designtechnology
+            - link "#architecture" [ref=f361e167] [cursor=pointer]:
+              - /url: /hashtag/architecture
+            - link "#computationaldesign" [ref=f361e168] [cursor=pointer]:
+              - /url: /hashtag/computationaldesign
+            - link "#aiarchitecture" [ref=f361e169] [cursor=pointer]:
+              - /url: /hashtag/aiarchitecture
+            - link "#bim" [ref=f361e170] [cursor=pointer]:
+              - /url: /hashtag/bim
+            - link "#parametricarchitecture" [ref=f361e171] [cursor=pointer]:
+              - /url: /hashtag/parametricarchitecture
+            - link "#rhino3d" [ref=f361e172] [cursor=pointer]:
+              - /url: /hashtag/rhino3d
+            - link "#grasshopper" [ref=f361e173] [cursor=pointer]:
+              - /url: /hashtag/grasshopper
+            - link "#digitalfabrication" [ref=f361e174] [cursor=pointer]:
+              - /url: /hashtag/digitalfabrication
+            - link "#aiarchitecture" [ref=f361e175] [cursor=pointer]:
+              - /url: /hashtag/aiarchitecture
+          - button [ref=f361e176] [cursor=pointer]:
+            - link "Read more" [ref=f361e178]:
+              - /url: /watch?v=29h4oBX_e2A
+      - generic [ref=f361e182]:
+        - heading [level=2] [ref=f361e185]:
+          - link "Popular videos" [ref=f361e188] [cursor=pointer]:
+            - /url: /@architech.network/videos?view=0&sort=p&shelf_id=2
+        - generic [ref=f361e191]:
+          - generic [ref=f361e194]:
+            - generic [ref=f361e196] [cursor=pointer]:
+              - link [aria-hidden] [ref=f361e197]:
+                - /url: /watch?v=N_5Ju9czZ-E
+                - img [ref=f361e203]:
+                  - generic [ref=f361e204]: 9:29
+              - generic [ref=f361e206]:
+                - generic [ref=f361e207]:
+                  - heading "Why Rhino is KING for Innovative Architecture!" [level=3] [ref=f361e208]:
+                    - link "Why Rhino is KING for Innovative Architecture! 9 minutes, 29 seconds" [ref=f361e209]:
+                      - /url: /watch?v=N_5Ju9czZ-E
+                      - text: Why Rhino is KING for Innovative Architecture!
+                  - group [ref=f361e212]:
+                    - generic [ref=f361e213]: 237k views
+                    - generic [aria-hidden] [ref=f361e214]: •
+                    - generic "1 year ago" [ref=f361e215]
+                - button "More actions" [ref=f361e218]
+            - generic [ref=f361e223] [cursor=pointer]:
+              - link [aria-hidden] [ref=f361e224]:
+                - /url: /watch?v=dturff3XgSk
+                - img [ref=f361e230]:
+                  - generic [ref=f361e231]: 20:15
+              - generic [ref=f361e233]:
+                - generic [ref=f361e234]:
+                  - 'heading "The Rise of BIM 2.0: 9 Startups Redefining the Future of Architecture Software" [level=3] [ref=f361e235]':
+                    - 'link "The Rise of BIM 2.0: 9 Startups Redefining the Future of Architecture Software 20 minutes" [ref=f361e236]':
+                      - /url: /watch?v=dturff3XgSk
+                      - text: "The Rise of BIM 2.0: 9 Startups Redefining the Future of Architecture Software"
+                  - group [ref=f361e239]:
+                    - generic [ref=f361e240]: 164k views
+                    - generic [aria-hidden] [ref=f361e241]: •
+                    - generic "1 year ago" [ref=f361e242]
+                - button "More actions" [ref=f361e245]
+            - generic [ref=f361e250] [cursor=pointer]:
+              - link [aria-hidden] [ref=f361e251]:
+                - /url: /watch?v=Vp01EbDI1CI
+                - img [ref=f361e257]:
+                  - generic [ref=f361e258]: 44:46
+              - generic [ref=f361e260]:
+                - generic [ref=f361e261]:
+                  - heading "EP 1 | ArchiTech Office Tours | Bjarke Ingels Group London" [level=3] [ref=f361e262]:
+                    - link "EP 1 | ArchiTech Office Tours | Bjarke Ingels Group London 44 minutes" [ref=f361e263]:
+                      - /url: /watch?v=Vp01EbDI1CI
+                      - text: EP 1 | ArchiTech Office Tours | Bjarke Ingels Group London
+                  - group [ref=f361e266]:
+                    - generic [ref=f361e267]: 105k views
+                    - generic [aria-hidden] [ref=f361e268]: •
+                    - generic "2 years ago" [ref=f361e269]
+                - button "More actions" [ref=f361e272]
+            - generic [ref=f361e277] [cursor=pointer]:
+              - link [aria-hidden] [ref=f361e278]:
+                - /url: /watch?v=29h4oBX_e2A
+                - img [ref=f361e284]:
+                  - generic [ref=f361e285]: 1:45
+              - generic [ref=f361e287]:
+                - generic [ref=f361e288]:
+                  - heading "What is Archi-Tech Network?" [level=3] [ref=f361e289]:
+                    - link "What is Archi-Tech Network? 1 minute, 45 seconds" [ref=f361e290]:
+                      - /url: /watch?v=29h4oBX_e2A
+                      - text: What is Archi-Tech Network?
+                  - group [ref=f361e293]:
+                    - generic [ref=f361e294]: 100k views
+                    - generic [aria-hidden] [ref=f361e295]: •
+                    - generic "1 year ago" [ref=f361e296]
+                - button "More actions" [ref=f361e299]
+            - generic [ref=f361e304] [cursor=pointer]:
+              - link [aria-hidden] [ref=f361e305]:
+                - /url: /watch?v=p-oF3aIG_OA
+                - img [ref=f361e311]:
+                  - generic [ref=f361e312]: 1:23:26
+              - generic [ref=f361e314]:
+                - generic [ref=f361e315]:
+                  - heading "EP 4 | ArchiTech Office Tours | Foster + Partners" [level=3] [ref=f361e316]:
+                    - link "EP 4 | ArchiTech Office Tours | Foster + Partners 1 hour, 23 minutes" [ref=f361e317]:
+                      - /url: /watch?v=p-oF3aIG_OA
+                      - text: EP 4 | ArchiTech Office Tours | Foster + Partners
+                  - group [ref=f361e320]:
+                    - generic [ref=f361e321]: 91k views
+                    - generic [aria-hidden] [ref=f361e322]: •
+                    - generic "2 years ago" [ref=f361e323]
+                - button "More actions" [ref=f361e326]
+            - generic [ref=f361e331] [cursor=pointer]:
+              - link [aria-hidden] [ref=f361e332]:
+                - /url: /watch?v=Vp1r9UHNZ-c&pp=0gcJCSQMAYcqIYzv
+                - img [ref=f361e338]:
+                  - generic [ref=f361e339]: 35:18
+              - generic [ref=f361e341]:
+                - generic [ref=f361e342]:
+                  - heading "WHAT IS BIM AND HOW IS IT USED IN PRACTICE?" [level=3] [ref=f361e343]:
+                    - link "WHAT IS BIM AND HOW IS IT USED IN PRACTICE? 35 minutes" [ref=f361e344]:
+                      - /url: /watch?v=Vp1r9UHNZ-c&pp=0gcJCSQMAYcqIYzv
+                      - text: WHAT IS BIM AND HOW IS IT USED IN PRACTICE?
+                  - group [ref=f361e347]:
+                    - generic [ref=f361e348]: 73k views
+                    - generic [aria-hidden] [ref=f361e349]: •
+                    - generic "3 years ago" [ref=f361e350]
+                - button "More actions" [ref=f361e353]
+          - button "Next" [ref=f361e359] [cursor=pointer]
+      - generic [ref=f361e366]:
+        - heading [level=2] [ref=f361e369]:
+          - link "ATN Summit 2026" [ref=f361e372] [cursor=pointer]:
+            - /url: /playlist?list=PLtkOEk7Y622MSZZInMt4hCgUS1ZNZfup-
+          - link "Play all" [ref=f361e377] [cursor=pointer]:
+            - /url: /watch?v=bTxrhcZ3vFQ&list=PLtkOEk7Y622MSZZInMt4hCgUS1ZNZfup-
+        - generic [ref=f361e385]:
+          - generic [ref=f361e387] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e388]:
+              - /url: /watch?v=bTxrhcZ3vFQ
+              - img [ref=f361e394]:
+                - generic [ref=f361e395]: 18:17
+            - generic [ref=f361e397]:
+              - generic [ref=f361e398]:
+                - 'heading "From BIM to Real-Time: How Unreal Engine Is Transforming Architecture | Simon Blakeney | Epic Games" [level=3] [ref=f361e399]':
+                  - 'link "From BIM to Real-Time: How Unreal Engine Is Transforming Architecture | Simon Blakeney | Epic Games 18 minutes" [ref=f361e400]':
+                    - /url: /watch?v=bTxrhcZ3vFQ
+                    - text: "From BIM to Real-Time: How Unreal Engine Is Transforming Architecture | Simon Blakeney | Epic Games"
+                - generic [ref=f361e402]:
+                  - group [ref=f361e403]:
+                    - link "ArchiTech Network" [ref=f361e406]:
+                      - /url: /@architech.network
+                  - group [ref=f361e407]:
+                    - generic [ref=f361e408]: 6.7k views
+                    - generic [aria-hidden] [ref=f361e409]: •
+                    - generic "2 days ago" [ref=f361e410]
+              - button "More actions" [ref=f361e413]
+          - generic [ref=f361e418] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e419]:
+              - /url: /watch?v=4fWR8x2BtP0
+              - img [ref=f361e425]:
+                - generic [ref=f361e426]: 16:04
+            - generic [ref=f361e428]:
+              - generic [ref=f361e429]:
+                - 'heading "George Proud & Ismail Seleit | AI Sucks: Why Architects need better AI tools | Gendo" [level=3] [ref=f361e430]':
+                  - 'link "George Proud & Ismail Seleit | AI Sucks: Why Architects need better AI tools | Gendo 16 minutes" [ref=f361e431]':
+                    - /url: /watch?v=4fWR8x2BtP0
+                    - text: "George Proud & Ismail Seleit | AI Sucks: Why Architects need better AI tools | Gendo"
+                - generic [ref=f361e433]:
+                  - group [ref=f361e434]:
+                    - link "ArchiTech Network" [ref=f361e437]:
+                      - /url: /@architech.network
+                  - group [ref=f361e438]:
+                    - generic [ref=f361e439]: 7.4k views
+                    - generic [aria-hidden] [ref=f361e440]: •
+                    - generic "2 weeks ago" [ref=f361e441]
+              - button "More actions" [ref=f361e444]
+          - generic [ref=f361e449] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e450]:
+              - /url: /watch?v=RDm_F_NKsrs
+              - img [ref=f361e456]:
+                - generic [ref=f361e457]: 25:50
+            - generic [ref=f361e459]:
+              - generic [ref=f361e460]:
+                - 'heading "Amar Hanspal: From Information to Intelligence: AI, BIM & the Future of Architecture | Motif" [level=3] [ref=f361e461]':
+                  - 'link "Amar Hanspal: From Information to Intelligence: AI, BIM & the Future of Architecture | Motif 25 minutes" [ref=f361e462]':
+                    - /url: /watch?v=RDm_F_NKsrs
+                    - text: "Amar Hanspal: From Information to Intelligence: AI, BIM & the Future of Architecture | Motif"
+                - generic [ref=f361e464]:
+                  - group [ref=f361e465]:
+                    - link "ArchiTech Network" [ref=f361e468]:
+                      - /url: /@architech.network
+                  - group [ref=f361e469]:
+                    - generic [ref=f361e470]: 5.1k views
+                    - generic [aria-hidden] [ref=f361e471]: •
+                    - generic "3 weeks ago" [ref=f361e472]
+              - button "More actions" [ref=f361e475]
+          - generic [ref=f361e480] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e481]:
+              - /url: /watch?v=1A0bD4BWCPw
+              - img [ref=f361e487]:
+                - generic [ref=f361e488]: 15:52
+            - generic [ref=f361e490]:
+              - generic [ref=f361e491]:
+                - 'heading "Shajay Bhooshan: Beyond AI, How Do We Actually Build It? | ZHA | ATN Summit 2026" [level=3] [ref=f361e492]':
+                  - 'link "Shajay Bhooshan: Beyond AI, How Do We Actually Build It? | ZHA | ATN Summit 2026 15 minutes" [ref=f361e493]':
+                    - /url: /watch?v=1A0bD4BWCPw
+                    - text: "Shajay Bhooshan: Beyond AI, How Do We Actually Build It? | ZHA | ATN Summit 2026"
+                - generic [ref=f361e495]:
+                  - group [ref=f361e496]:
+                    - link "ArchiTech Network" [ref=f361e499]:
+                      - /url: /@architech.network
+                  - group [ref=f361e500]:
+                    - generic [ref=f361e501]: 3.4k views
+                    - generic [aria-hidden] [ref=f361e502]: •
+                    - generic "4 weeks ago" [ref=f361e503]
+              - button "More actions" [ref=f361e506]
+          - generic [ref=f361e511] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e512]:
+              - /url: /watch?v=y105RX5aUzY
+              - img [ref=f361e518]:
+                - generic [ref=f361e519]: 25:21
+            - generic [ref=f361e521]:
+              - generic [ref=f361e522]:
+                - 'heading "Michael Drobnik: Unlearn | Herzog & de Meuron | ATN Summit 2026" [level=3] [ref=f361e523]':
+                  - 'link "Michael Drobnik: Unlearn | Herzog & de Meuron | ATN Summit 2026 25 minutes" [ref=f361e524]':
+                    - /url: /watch?v=y105RX5aUzY
+                    - text: "Michael Drobnik: Unlearn | Herzog & de Meuron | ATN Summit 2026"
+                - generic [ref=f361e526]:
+                  - group [ref=f361e527]:
+                    - link "ArchiTech Network" [ref=f361e530]:
+                      - /url: /@architech.network
+                  - group [ref=f361e531]:
+                    - generic [ref=f361e532]: 4.2k views
+                    - generic [aria-hidden] [ref=f361e533]: •
+                    - generic "1 month ago" [ref=f361e534]
+              - button "More actions" [ref=f361e537]
+          - generic [ref=f361e542] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e543]:
+              - /url: /watch?v=q76vU5meB_8
+              - img [ref=f361e549]:
+                - generic [ref=f361e550]: 18:24
+            - generic [ref=f361e552]:
+              - generic [ref=f361e553]:
+                - 'heading "Harlen Miller: Lossless Transcription: Preserving Architectural Intent Through Time | UNS" [level=3] [ref=f361e554]':
+                  - 'link "Harlen Miller: Lossless Transcription: Preserving Architectural Intent Through Time | UNS 18 minutes" [ref=f361e555]':
+                    - /url: /watch?v=q76vU5meB_8
+                    - text: "Harlen Miller: Lossless Transcription: Preserving Architectural Intent Through Time | UNS"
+                - generic [ref=f361e557]:
+                  - group [ref=f361e558]:
+                    - link "ArchiTech Network" [ref=f361e561]:
+                      - /url: /@architech.network
+                  - group [ref=f361e562]:
+                    - generic [ref=f361e563]: 1.1k views
+                    - generic [aria-hidden] [ref=f361e564]: •
+                    - generic "1 month ago" [ref=f361e565]
+              - button "More actions" [ref=f361e568]
+      - generic [ref=f361e575]:
+        - heading [level=2] [ref=f361e578]:
+          - link "ATN ArchiTech Tours" [ref=f361e581] [cursor=pointer]:
+            - /url: /playlist?list=PLtkOEk7Y622OApbilxrwPNGK3Ta_5kPQq
+          - link "Play all" [ref=f361e586] [cursor=pointer]:
+            - /url: /watch?v=Vp01EbDI1CI&list=PLtkOEk7Y622OApbilxrwPNGK3Ta_5kPQq
+        - generic [ref=f361e594]:
+          - generic [ref=f361e596] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e597]:
+              - /url: /watch?v=Vp01EbDI1CI
+              - img [ref=f361e603]:
+                - generic [ref=f361e604]: 44:46
+            - generic [ref=f361e606]:
+              - generic [ref=f361e607]:
+                - heading "EP 1 | ArchiTech Office Tours | Bjarke Ingels Group London" [level=3] [ref=f361e608]:
+                  - link "EP 1 | ArchiTech Office Tours | Bjarke Ingels Group London 44 minutes" [ref=f361e609]:
+                    - /url: /watch?v=Vp01EbDI1CI
+                    - text: EP 1 | ArchiTech Office Tours | Bjarke Ingels Group London
+                - generic [ref=f361e611]:
+                  - group [ref=f361e612]:
+                    - link "ArchiTech Network" [ref=f361e615]:
+                      - /url: /@architech.network
+                  - group [ref=f361e616]:
+                    - generic [ref=f361e617]: 105k views
+                    - generic [aria-hidden] [ref=f361e618]: •
+                    - generic "2 years ago" [ref=f361e619]
+              - button "More actions" [ref=f361e622]
+          - generic [ref=f361e627] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e628]:
+              - /url: /watch?v=aoWlS_2Hr10
+              - img [ref=f361e634]:
+                - generic [ref=f361e635]: 1:09:36
+            - generic [ref=f361e637]:
+              - generic [ref=f361e638]:
+                - heading "EP 2 | ArchiTech Office Tours | Zaha Hadid Architects" [level=3] [ref=f361e639]:
+                  - link "EP 2 | ArchiTech Office Tours | Zaha Hadid Architects 1 hour, 9 minutes" [ref=f361e640]:
+                    - /url: /watch?v=aoWlS_2Hr10
+                    - text: EP 2 | ArchiTech Office Tours | Zaha Hadid Architects
+                - generic [ref=f361e642]:
+                  - group [ref=f361e643]:
+                    - link "ArchiTech Network" [ref=f361e646]:
+                      - /url: /@architech.network
+                  - group [ref=f361e647]:
+                    - generic [ref=f361e648]: 46k views
+                    - generic [aria-hidden] [ref=f361e649]: •
+                    - generic "2 years ago" [ref=f361e650]
+              - button "More actions" [ref=f361e653]
+          - generic [ref=f361e658] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e659]:
+              - /url: /watch?v=spPxJvv6T_E
+              - img [ref=f361e665]:
+                - generic [ref=f361e666]: 1:14:19
+            - generic [ref=f361e668]:
+              - generic [ref=f361e669]:
+                - heading "EP 3 | ArchiTech Office Tours | Mamou-Mani Architects & Fab Pub" [level=3] [ref=f361e670]:
+                  - link "EP 3 | ArchiTech Office Tours | Mamou-Mani Architects & Fab Pub 1 hour, 14 minutes" [ref=f361e671]:
+                    - /url: /watch?v=spPxJvv6T_E
+                    - text: EP 3 | ArchiTech Office Tours | Mamou-Mani Architects & Fab Pub
+                - generic [ref=f361e673]:
+                  - group [ref=f361e674]:
+                    - link "ArchiTech Network" [ref=f361e677]:
+                      - /url: /@architech.network
+                  - group [ref=f361e678]:
+                    - generic [ref=f361e679]: 6.3k views
+                    - generic [aria-hidden] [ref=f361e680]: •
+                    - generic "2 years ago" [ref=f361e681]
+              - button "More actions" [ref=f361e684]
+          - generic [ref=f361e689] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e690]:
+              - /url: /watch?v=p-oF3aIG_OA
+              - img [ref=f361e696]:
+                - generic [ref=f361e697]: 1:23:26
+            - generic [ref=f361e699]:
+              - generic [ref=f361e700]:
+                - heading "EP 4 | ArchiTech Office Tours | Foster + Partners" [level=3] [ref=f361e701]:
+                  - link "EP 4 | ArchiTech Office Tours | Foster + Partners 1 hour, 23 minutes" [ref=f361e702]:
+                    - /url: /watch?v=p-oF3aIG_OA
+                    - text: EP 4 | ArchiTech Office Tours | Foster + Partners
+                - generic [ref=f361e704]:
+                  - group [ref=f361e705]:
+                    - link "ArchiTech Network" [ref=f361e708]:
+                      - /url: /@architech.network
+                  - group [ref=f361e709]:
+                    - generic [ref=f361e710]: 91k views
+                    - generic [aria-hidden] [ref=f361e711]: •
+                    - generic "2 years ago" [ref=f361e712]
+              - button "More actions" [ref=f361e715]
+          - generic [ref=f361e720] [cursor=pointer]:
+            - link [aria-hidden] [ref=f361e721]:
+              - /url: /watch?v=lepu_3djPxk
+              - img [ref=f361e727]:
+                - generic [ref=f361e728]: 1:15:03
+            - generic [ref=f361e730]:
+              - generic [ref=f361e731]:
+                - heading "EP 5 | ArchiTech Office Tours | AI Build" [level=3] [ref=f361e732]:
+                  - link "EP 5 | ArchiTech Office Tours | AI Build 1 hour, 15 minutes" [ref=f361e733]:
+                    - /url: /watch?v=lepu_3djPxk
+                    - text: EP 5 | ArchiTech Office Tours | AI Build
+                - generic [ref=f361e735]:
+                  - group [ref=f361e736]:
+                    - link "ArchiTech Network" [ref=f361e739]:
+                      - /url: /@architech.network
+                  - group [ref=f361e740]:
+                    - generic [ref=f361e741]: 5.6k views
+                    - generic [aria-hidden] [ref=f361e742]: •
+                    - generic "2 years ago" [ref=f361e743]
+              - button "More actions" [ref=f361e746]

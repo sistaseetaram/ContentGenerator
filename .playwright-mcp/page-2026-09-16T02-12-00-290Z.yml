@@ -1,0 +1,560 @@
+- generic [active] [ref=f27e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f27e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f27e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IN
+  - generic [ref=f27e8]:
+    - search [ref=f27e9]:
+      - generic [ref=f27e11]:
+        - link "Go to Google Home" [ref=f27e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQPHoECAYQBA
+        - generic [ref=f27e21]:
+          - generic [ref=f27e22]:
+            - combobox "Search" [ref=f27e25]: architecture studio AI rendering tool adoption 2026 survey architecture studio AI rendering tool adoption 2026 survey
+            - generic [ref=f27e26]:
+              - button "Clear" [ref=f27e28] [cursor=pointer]
+              - generic [ref=f27e33]:
+                - button "Search by voice" [ref=f27e34] [cursor=pointer]
+                - button "Search by image" [ref=f27e37] [cursor=pointer]
+          - button "Search" [ref=f27e40] [cursor=pointer]
+    - generic [ref=f27e45]:
+      - button "Settings" [ref=f27e47] [cursor=pointer]
+      - button "Share" [ref=f27e52] [cursor=pointer]
+      - generic [ref=f27e58]:
+        - button "Google apps" [ref=f27e60] [cursor=pointer]
+        - link "Sign in" [ref=f27e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Darchitecture%2Bstudio%2BAI%2Brendering%2Btool%2Badoption%2B2026%2Bsurvey&ec=futura_srp_og_si_72236_p
+  - generic [ref=f27e68]:
+    - navigation [ref=f27e74]:
+      - generic [ref=f27e80]:
+        - list [ref=f27e81]:
+          - listitem [ref=f27e82]:
+            - link "AI Mode" [ref=f27e85] [cursor=pointer]:
+              - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLxso-ey9S3qvKmp2OvfKTwGXnqiRiLAcb3Xgx8-u8mgVzMxtuncv-cSm8WTUtb-iT_o2n1yTJWN6ybRhJK7rwefCEqUwq3Q0eH-36rLE4ETkyC0B4b2MP5cGVbLsYOY8CmvNr6D9aG476C_cME__kj3zvBtrQ&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ2J8OegQIExAD
+          - listitem [ref=f27e89]:
+            - link "All" [disabled] [ref=f27e90]
+          - listitem [ref=f27e93]:
+            - link "Images" [ref=f27e94] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLxso-ey9S3qvKmp2OvfKTwGXnqiRiLAcb3Xgx8-u8mgVzMxtuncv-cSm8WTUtb-iT_o2n1yTJWN6ybRhJK7rwefCEqUwq3Q0eH-36rLE4ETkyC0B4b2MP5cGVbLsYOY8CmvNr6D9aG476C_cME__kj3zvBtrQ&q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sa=X&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQtKgLegQIFxAB
+          - listitem [ref=f27e97]:
+            - link "Short videos" [ref=f27e98] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLxso-ey9S3qvKmp2OvfKTwGXnqiRiLAcb3Xgx8-u8mgVzMxtuncv-cSm8WTUtb-iT_o2n1yTJWN6ybRhJK7rwefCEqUwq3Q0eH-36rLE4ETkyC0B4b2MP5cGVbLsYOY8CmvNr6D9aG476C_cME__kj3zvBtrQ&q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sa=X&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQs6gLegQIGRAB
+          - listitem [ref=f27e101]:
+            - link "Videos" [ref=f27e102] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=7&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLxso-ey9S3qvKmp2OvfKTwGXnqiRiLAcb3Xgx8-u8mgVzMxtuncv-cSm8WTUtb-iT_o2n1yTJWN6ybRhJK7rwefCEqUwq3Q0eH-36rLE4ETkyC0B4b2MP5cGVbLsYOY8CmvNr6D9aG476C_cME__kj3zvBtrQ&q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sa=X&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQtKgLegQIFRAB
+          - listitem [ref=f27e105]:
+            - link "Shopping" [ref=f27e106] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLxso-ey9S3qvKmp2OvfKTwGXnqiRiLAcb3Xgx8-u8mgVzMxtuncv-cSm8WTUtb-iT_o2n1yTJWN6ybRhJK7rwefCEqUwq3Q0eH-36rLE4ETkyC0B4b2MP5cGVbLsYOY8CmvNr6D9aG476C_cME__kj3zvBtrQ&q=architecture+studio+AI+rendering+tool+adoption+2026+survey&ved=1t:220175&ictx=111
+          - listitem [ref=f27e109]:
+            - link "Forums" [ref=f27e110] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLxso-ey9S3qvKmp2OvfKTwGXnqiRiLAcb3Xgx8-u8mgVzMxtuncv-cSm8WTUtb-iT_o2n1yTJWN6ybRhJK7rwefCEqUwq3Q0eH-36rLE4ETkyC0B4b2MP5cGVbLsYOY8CmvNr6D9aG476C_cME__kj3zvBtrQ&q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sa=X&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQs6gLegQIFhAB
+          - listitem [ref=f27e113]:
+            - button [ref=f27e114] [cursor=pointer]:
+              - generic "More filters" [ref=f27e115]: More
+        - button "Tools" [ref=f27e122] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f27e129]
+    - generic [ref=f27e134]:
+      - generic [ref=f27e156]:
+        - generic [ref=f27e158]:
+          - heading "AI Overview" [level=2] [ref=f27e162]
+          - button "Listen" [ref=f27e166]:
+            - generic [ref=f27e170] [cursor=pointer]
+        - generic [ref=f27e176]:
+          - generic [ref=f27e177]:
+            - generic [ref=f27e196]:
+              - generic [ref=f27e199]:
+                - generic [ref=f27e200]:
+                  - button [ref=f27e203]:
+                    - img "Chaos survey finds \"AI is becoming collaborator\" in workplaces" [ref=f27e204]
+                  - text: By 2026,
+                  - mark [ref=f27e205]: about 60% of architecture firms actively use artificial intelligence
+                  - text: ", with AI-rendering overtaking traditional visualization as a top software investment priority (36% vs. 33%), according to industry data from"
+                  - link "Chaos" [ref=f27e207] [cursor=pointer]:
+                    - /url: /goto?url=CAESgwEB6zswFQaSlrHTKAF6Pr9YhqibOPFXWZb3VhFwSCCCcI99hoDs-XuAz7ILyzlC-m6--k_BNgAFwKcsIg0Xri6x4fE-KYG0Img8VkKazV7--vuN1LnM4607iX-sBWAnPSGjBYE2dRrokJJd0swzuhe9yqDQHij4-fm0C6scpcnI9DhYOA
+                  - text: and
+                  - generic [ref=f27e208]: Architizer
+                  - text: .
+                  - generic [ref=f27e210]:
+                    - link "ArchDaily (+2) – What Architects Expect From AI Tools in 2026 | ArchDaily. Related results" [ref=f27e211] [cursor=pointer]:
+                      - /url: /goto?url=CAEShgEB6zswFQWOb-BFc2_eapa08o0fvoYSyY7c7FdK84mblwlZ4XyTtoS1fs9kZgIMYn7kAhJdniWgxs5PTwjAjQZ8bjoYkm1Jp5RguieibjsJunC8mb-t3SfJr4XY7E9IBQa46wYqTGHdZUUZClGEOTAyfpi8QGGjudVe6HJn0Dio5t9Q5TMtKw
+                    - button "ArchDaily (+2) – What Architects Expect From AI Tools in 2026 | ArchDaily. Related results" [ref=f27e212] [cursor=pointer]:
+                      - generic [ref=f27e214]:
+                        - generic [ref=f27e215]: ArchDaily
+                        - generic [ref=f27e216]: "+2"
+                - heading "Key Adoption Statistics" [level=3] [ref=f27e221]
+                - list [ref=f27e222]:
+                  - listitem [ref=f27e224]:
+                    - generic [ref=f27e225]:
+                      - strong [ref=f27e226]: "High Efficiency:"
+                      - text: 85% to 86% of current users report measurable time savings, mostly in early-stage concept development and visualization workflows.
+                    - generic [ref=f27e228]:
+                      - link "Chaos Blog (+1) – how AI is reshaping architectural design & visualization in 2026. Related results" [ref=f27e229] [cursor=pointer]:
+                        - /url: /goto?url=CAESfgHrOzAVz8Wvb46MrarIi8laczm8qunHMbSdYi8V_Y5BJU880w_XM6PaVhEyesbO9TGhk4lv4ypkQ4k7myyCOkjyJE38b9Gt7xW2qYTpzy-DX0dEdos2uxK4h1yFNVK2G9Y00HfClpnAxPjgVKnNIuQFSFUNYM2muJyzh0Jz7w
+                      - button "Chaos Blog (+1) – how AI is reshaping architectural design & visualization in 2026. Related results" [ref=f27e230] [cursor=pointer]:
+                        - generic [ref=f27e232]:
+                          - generic [ref=f27e233]: Chaos Blog
+                          - generic [ref=f27e234]: "+1"
+                  - listitem [ref=f27e240]:
+                    - generic [ref=f27e241]:
+                      - strong [ref=f27e242]: "Future Growth:"
+                      - text: 73% to 93% of architectural professionals plan to increase their AI tool usage.
+                    - generic [ref=f27e244]:
+                      - 'link "LinkedIn (+1) – AI Adoption in Architecture: Productivity Gains, Pricing .... Related results" [ref=f27e245] [cursor=pointer]':
+                        - /url: /goto?url=CAES1gEB6zswFbzi8BmImvTDLF8_zfyJvBa0DF-EEAMr-wk9TwdHRE4xa_vZjkfUFCUTOcIhbFiqrwoerBr_KqQZtsj0Knw59seT3nOvcaS7QBH7ZMKwB_VAJ2NWclU_w2d3mnsQdR4a41sBEBnLPEzoOHp5mxod5qBPy2QzO-edCsEY8dVhFsgF9Um2xGPgObM3owEXJ5BvsiB3P1VXkq6sIM6l9MOGLphVkZxQmN0n8fxDB4vPs_pRiw91NxoVMaQ38fNgQv0KnxviOtWY5uN2mYXdnlHaak9F
+                      - 'button "LinkedIn (+1) – AI Adoption in Architecture: Productivity Gains, Pricing .... Related results" [ref=f27e246] [cursor=pointer]':
+                        - generic [ref=f27e248]:
+                          - generic [ref=f27e249]: LinkedIn
+                          - generic [ref=f27e250]: ·Responsible AI for the Built Environment (RAI4BE)
+                          - generic [ref=f27e251]: "+1"
+                  - listitem [ref=f27e257]:
+                    - generic [ref=f27e258]:
+                      - strong [ref=f27e259]: "Firm Size Split:"
+                      - text: Mid-to-large global studios (like ZHA, Snøhetta, and HOK) actively encourage AI use, and over half have built custom in-house systems. Smaller firms rely on low-barrier subscription plug-ins.
+                    - generic [ref=f27e261]:
+                      - link "Dezeen (+1) – Big-name studios encouraging architects to use AI. Related results" [ref=f27e262] [cursor=pointer]:
+                        - /url: /goto?url=CAEShgEB6zswFbP9Wp4YZEWCJDU4uC0BhlYSgNt-wvIwu7CAivkXvo-pDaYDG_8BMxbpOTAaRnyLdL8tuEVGeMwYJ_mDPRTjTvTnWBxH6B6v6VLo0XqpaegL60Dpm6SZs7gq9e6qSnbbmSBFEoHZBKsj01CccldyScCv72SYoLbUcZfjk08kKF-Sow
+                      - button "Dezeen (+1) – Big-name studios encouraging architects to use AI. Related results" [ref=f27e263] [cursor=pointer]:
+                        - generic [ref=f27e265]:
+                          - generic [ref=f27e266]: Dezeen
+                          - generic [ref=f27e267]: "+1"
+                - heading "Popular Tools & Workflows" [level=3] [ref=f27e273]
+                - list [ref=f27e274]:
+                  - listitem [ref=f27e276]:
+                    - generic [ref=f27e277]:
+                      - strong [ref=f27e278]: "Rendering Accelerators:"
+                      - text: Tools like
+                      - link "Veras" [ref=f27e280] [cursor=pointer]:
+                        - /url: /goto?url=CAESUQHrOzAVUF6TunsQ72fucvRPYymuPt55Ic4Qm9jyhUP94yAdHcsnNrXcT890GP8rZC1gBF3-VnRtQ0NgEwuj7UyJogTzNaWSUMZY0bdR5_PEpA
+                      - text: plug straight into Revit, SketchUp, and Rhino to re-render local models using geometry-aware diffusion models rather than guessing shapes.
+                    - generic [ref=f27e282]:
+                      - link "designedbyai.io (+1) – What is the best AI architecture software in 2026? - designedbyai.io. Related results" [ref=f27e283] [cursor=pointer]:
+                        - /url: /goto?url=CAESjwEB6zswFeFvdmS81JtB0yuxJQc1u7cZumsWjT4DpgkffkMqfC0hcUrfJzyiE6Dm3HYz-dXIBUQK2xkQbG2zcbjw8DRVkdBz4QctKZavPbP26mII7Tdj9iHU-htIRWW6zqbNfx-42xzZMu591BzEKvT3KTOFu1JdqmB89mUMWEPQgnnMjSbj4EHAtxVmB9gG4A
+                      - button "designedbyai.io (+1) – What is the best AI architecture software in 2026? - designedbyai.io. Related results" [ref=f27e284] [cursor=pointer]:
+                        - generic [ref=f27e286]:
+                          - generic [ref=f27e287]: designedbyai.io
+                          - generic [ref=f27e288]: "+1"
+                  - listitem [ref=f27e294]:
+                    - generic [ref=f27e295]:
+                      - strong [ref=f27e296]: "Concept & Exploration:"
+                      - text: Platforms like Midjourney, LookX AI, and Gendo help test lighting, atmosphere, and materials during initial schematics.
+                    - generic [ref=f27e298]:
+                      - link "Gendo (+2) – Top 10 AI Rendering Software for Architects in 2026 - Gendo. Related results" [ref=f27e299] [cursor=pointer]:
+                        - /url: /goto?url=CAESfgHrOzAVc9EmFL_pWVuuZjHT8kRMiWQCJXdbJdR_IBnxyHn3fybrsbyn-1I1k79iu-yQZ4nqbu69pDWPtRbmp9Uc_f-9aE_Z2MzlJnkPwJkTE-JJL9E_C9emY8ZEnyKmCOP9P1W9QfZwPcin38qQPdZGBfHGXJbFwbTjzC9LlQ
+                      - button "Gendo (+2) – Top 10 AI Rendering Software for Architects in 2026 - Gendo. Related results" [ref=f27e300] [cursor=pointer]:
+                        - generic [ref=f27e302]:
+                          - generic [ref=f27e303]: Gendo
+                          - generic [ref=f27e304]: "+2"
+                - heading "Main Adoption Barriers" [level=3] [ref=f27e310]
+                - list [ref=f27e311]:
+                  - listitem [ref=f27e313]:
+                    - generic [ref=f27e314]:
+                      - strong [ref=f27e315]: "Control vs. Quality:"
+                      - text: Architects note that fine details still need manual tweaks (such as in Photoshop) because AI can produce "too perfect" or unreliable dimensional outputs.
+                    - generic [ref=f27e317]:
+                      - 'link "Dan Cumberland Labs (+2) – AI Rendering in Architecture: The \"Too Perfect\" Problem. Related results" [ref=f27e318] [cursor=pointer]':
+                        - /url: /goto?url=CAESdQHrOzAVkI-BFw6BLwW-6vIYFvrkTQZRFgPn8d9ajHFWafUGvQqW6PPu5ioNoYLh1f3lyRoKk9smx91Uut7lXtcNrqH-5p889triMDZg3dYRNma95ZmWHTxl_3fAgvvhx25IpwXUflg6ddpWwMcxGI7D7gF_7w
+                      - 'button "Dan Cumberland Labs (+2) – AI Rendering in Architecture: The \"Too Perfect\" Problem. Related results" [ref=f27e319] [cursor=pointer]':
+                        - generic [ref=f27e321]:
+                          - generic [ref=f27e322]: Dan Cumberland Labs
+                          - generic [ref=f27e323]: "+2"
+                  - listitem [ref=f27e329]:
+                    - generic [ref=f27e330]:
+                      - strong [ref=f27e331]: "Risk & Liability:"
+                      - text: Concerns regarding copyright ownership, client disclosure rules, and data security keep roughly 40% of firms cautious or hesitant to fully integrate automated workflows.
+                    - generic [ref=f27e333]:
+                      - 'link "Dan Cumberland Labs (+1) – AI Rendering in Architecture: The \"Too Perfect\" Problem. Related results" [ref=f27e334] [cursor=pointer]':
+                        - /url: /goto?url=CAESdQHrOzAVkI-BFw6BLwW-6vIYFvrkTQZRFgPn8d9ajHFWafUGvQqW6PPu5ioNoYLh1f3lyRoKk9smx91Uut7lXtcNrqH-5p889triMDZg3dYRNma95ZmWHTxl_3fAgvvhx25IpwXUflg6ddpWwMcxGI7D7gF_7w
+                      - 'button "Dan Cumberland Labs (+1) – AI Rendering in Architecture: The \"Too Perfect\" Problem. Related results" [ref=f27e335] [cursor=pointer]':
+                        - generic [ref=f27e337]:
+                          - generic [ref=f27e338]: Dan Cumberland Labs
+                          - generic [ref=f27e339]: "+1"
+                - generic [ref=f27e345]:
+                  - generic [ref=f27e346]: "If you'd like, let me know:"
+                  - list [ref=f27e347]:
+                    - listitem [ref=f27e348]:
+                      - generic [ref=f27e349]:
+                        - text: Your
+                        - strong [ref=f27e350]: firm size
+                    - listitem [ref=f27e351]:
+                      - generic [ref=f27e352]:
+                        - text: The
+                        - strong [ref=f27e353]: 3D modeling software
+                        - text: you currently use (Revit, Rhino, SketchUp)
+                  - generic [ref=f27e354]:
+                    - text: I can recommend the
+                    - strong [ref=f27e355]: best AI rendering plugin
+                    - text: for your specific workflow.
+              - generic [ref=f27e360]:
+                - list [ref=f27e362]:
+                  - listitem [ref=f27e363]:
+                    - generic [ref=f27e364]:
+                      - link "What Architects Expect From AI Tools in 2026 | ArchDaily. Opens in new tab." [ref=f27e365] [cursor=pointer]:
+                        - /url: /goto?url=CAEShgEB6zswFQWOb-BFc2_eapa08o0fvoYSyY7c7FdK84mblwlZ4XyTtoS1fs9kZgIMYn7kAhJdniWgxs5PTwjAjQZ8bjoYkm1Jp5RguieibjsJunC8mb-t3SfJr4XY7E9IBQa46wYqTGHdZUUZClGEOTAyfpi8QGGjudVe6HJn0Dio5t9Q5TMtKw
+                      - generic [ref=f27e366]:
+                        - generic [ref=f27e367]:
+                          - generic [ref=f27e370]: ArchDaily
+                          - button "About this result" [ref=f27e376] [cursor=pointer]
+                        - generic [ref=f27e382]:
+                          - generic [ref=f27e383]: What Architects Expect From AI Tools in 2026 | ArchDaily
+                          - generic [ref=f27e384]: "31 Mar 2026 — A survey by Chaos and Architizer found that architects are using AI in their daily work. The survey found that: * **64% of archite..."
+                  - listitem [ref=f27e388]:
+                    - generic [ref=f27e389]:
+                      - link "how AI is reshaping architectural design & visualization in 2026. Opens in new tab." [ref=f27e390] [cursor=pointer]:
+                        - /url: /goto?url=CAESfgHrOzAVz8Wvb46MrarIi8laczm8qunHMbSdYi8V_Y5BJU880w_XM6PaVhEyesbO9TGhk4lv4ypkQ4k7myyCOkjyJE38b9Gt7xW2qYTpzy-DX0dEdos2uxK4h1yFNVK2G9Y00HfClpnAxPjgVKnNIuQFSFUNYM2muJyzh0Jz7w
+                      - generic [ref=f27e391]:
+                        - generic [ref=f27e392]:
+                          - generic [ref=f27e395]: Chaos Blog
+                          - button "About this result" [ref=f27e401] [cursor=pointer]
+                        - generic [ref=f27e407]:
+                          - generic [ref=f27e408]: how AI is reshaping architectural design & visualization in 2026
+                          - generic [ref=f27e409]: "23 Mar 2026 — Key findings. Looking at the survey results as a whole, a few clear patterns begin to emerge: AI is most effective in early design..."
+                  - listitem [ref=f27e413]:
+                    - generic [ref=f27e414]:
+                      - 'link "The 2026 archviz pulse: 10 stats defining the new era of design. Opens in new tab." [ref=f27e415] [cursor=pointer]':
+                        - /url: /goto?url=CAESgwEB6zswFQaSlrHTKAF6Pr9YhqibOPFXWZb3VhFwSCCCcI99hoDs-XuAz7ILyzlC-m6--k_BNgAFwKcsIg0Xri6x4fE-KYG0Img8VkKazV7--vuN1LnM4607iX-sBWAnPSGjBYE2dRrokJJd0swzuhe9yqDQHij4-fm0C6scpcnI9DhYOA
+                      - generic [ref=f27e416]:
+                        - generic [ref=f27e417]:
+                          - generic [ref=f27e420]: Chaos Blog
+                          - button "About this result" [ref=f27e426] [cursor=pointer]
+                        - generic [ref=f27e432]:
+                          - generic [ref=f27e433]: "The 2026 archviz pulse: 10 stats defining the new era of design"
+                          - generic [ref=f27e434]: "30 Apr 2026 — Firms are shifting software budgets toward tools that offer automated, intelligent assistance. The takeaway: The industry is putti..."
+                - button "Show all related results" [ref=f27e438] [cursor=pointer]:
+                  - generic [ref=f27e439]: Show all
+            - generic [ref=f27e444]:
+              - button "Share" [ref=f27e451]
+              - generic [ref=f27e460]:
+                - button "Good response" [ref=f27e465] [cursor=pointer]:
+                  - img "Good response" [ref=f27e468]
+                - button "Bad response" [ref=f27e474] [cursor=pointer]:
+                  - img "Bad response" [ref=f27e477]
+              - button "More" [ref=f27e488] [cursor=pointer]
+          - generic [ref=f27e499]:
+            - generic:
+              - alert
+            - textbox "Ask anything" [ref=f27e501]
+            - button "Add files and tools" [ref=f27e504] [cursor=pointer]
+            - button "Microphone" [ref=f27e523] [cursor=pointer]
+      - main [ref=f27e529]:
+        - generic [ref=f27e533]:
+          - generic [ref=f27e536]:
+            - heading "Web results" [level=2] [ref=f27e537]
+            - generic [ref=f27e538]:
+              - generic [ref=f27e541]:
+                - link "Big-name studios encouraging architects to use AI Dezeen https://www.dezeen.com › 2026/08/25 › architecture-st..." [ref=f27e543] [cursor=pointer]:
+                  - /url: /goto?url=CAEShgEB6zswFZWgFNYSmmskHdKSgQjM4b9M3ohYeTv5vSS0GKHsq4VaYX5_TGIx-KBGDxiFqLV8DGEpvZsX1S6Nq78z7tRTpVJ-TeI56iDQJkvGSngdgZgxdzvkv4WSuZ8VciKyDxxFV9eUgN_wz_nreoEtqGqEKJoBQbYzi17ShPuv9oeV3oLDnQ
+                  - heading "Big-name studios encouraging architects to use AI" [level=3] [ref=f27e544]
+                  - generic [ref=f27e550]:
+                    - generic [ref=f27e551]: Dezeen
+                    - generic [ref=f27e553]: https://www.dezeen.com › 2026/08/25 › architecture-st...
+                - button "About this result" [ref=f27e559] [cursor=pointer]
+              - generic [ref=f27e565]:
+                - generic [ref=f27e566]: 25 Aug 2026 —
+                - generic [ref=f27e567]:
+                  - text: Signature
+                  - emphasis [ref=f27e568]: architecture studios
+                  - text: use
+                  - emphasis [ref=f27e569]: AI
+                  - text: as a
+                  - emphasis [ref=f27e570]: tool
+                  - text: ", not as an end in itself. They will never abuse of"
+                  - emphasis [ref=f27e571]: AI
+                  - text: ": whatever exceptional"
+                  - emphasis [ref=f27e572]: softwares
+                  - text: are ...
+                - link "Read more" [ref=f27e573] [cursor=pointer]:
+                  - /url: /goto?url=CAES5AEB6zswFRjqBg_493iwp3vuBoxCLPpuuSG90efEm0HW25UaDFn3un5zp6yJEBsDAdLjIaHVTAk-oPhUqI4E-fZw68otiwpPtc8tiWGCRqkIOh7dTcWvqVkX3MXoNV9uuCQKHLb4slZtoO_LCHw_EpfJWQzPqQZ6ja6mSnC0l9qjnGN2-Jr32d9yJQv0jA_KAXQW4g691XJsBMKDGywMQeHYIL-BvLvBe2IEaPlBvwR6wH2Itd8wE8giVCHqpENCBDdPHwlqwMqamY2m0gE0fVuzPSMAj0k0_HHCcL1yNcnXb9zsYUM
+          - generic [ref=f27e577]:
+            - generic [ref=f27e580]:
+              - link "What Architects Expect From AI Tools in 2026 ArchDaily https://www.archdaily.com › Articles" [ref=f27e582] [cursor=pointer]:
+                - /url: /goto?url=CAEShgEB6zswFaZkVoo1Vwg8HGoo9siCND89YiDBgNCWRsA8jNf26y5WOUsi1SiV7gNqKmISglM7xaPXJa6Rn_4CBK6KswReRuSReSpmn9KQgqu47T8Ue9QCGhnLvYwcTlcYg5B15dqbhDbZr1QOr0PiYHSQsH70jLdJ1lSEAAsGPvwNpZmrsxyv0w
+                - heading "What Architects Expect From AI Tools in 2026" [level=3] [ref=f27e583]
+                - generic [ref=f27e589]:
+                  - generic [ref=f27e590]: ArchDaily
+                  - generic [ref=f27e592]: https://www.archdaily.com › Articles
+              - button "About this result" [ref=f27e598] [cursor=pointer]
+            - generic [ref=f27e604]:
+              - generic [ref=f27e605]: 31 Mar 2026 —
+              - generic [ref=f27e606]:
+                - emphasis [ref=f27e607]: AI Adoption
+                - text: in
+                - emphasis [ref=f27e608]: Architecture
+                - text: ": How Many Firms Are Using"
+                - emphasis [ref=f27e609]: AI
+                - text: in
+                - emphasis [ref=f27e610]: "2026"
+                - text: "? · 64% of architects report experimenting with"
+                - emphasis [ref=f27e611]: AI tools
+                - text: in their daily workflows ...
+              - link "Read more" [ref=f27e612] [cursor=pointer]:
+                - /url: /goto?url=CAESuAIB6zswFeGwM52odjA6i5xJLh9Knqe0p-KEBEW9csKVb_8_5Ib3MsQg_AtAf6s0rGungAiO5ewcvaG8C7QUZS1m66egiVPfcBaJfqVwyA4fS0f2HKAMEcWeka_7AoU6SylG1lgKR8eSUJDUssecSPCNs9K0d3bLaEVafqv7e-FnGdV3O83SpiOUmoMJJ_8bsu-64LW8Gh8JECL9NzgiffH7RawzriYEre4GhKcqPtz4UqExPDXPo4qu6I7XWFLzuyMiZrB2vjB4FEQ3Mu4MYU6DZPTV7gFQHO8NMNVOJmnCqlHCMsutgtMbHQ19WgNQ4HoDFGtOex5YEUwScFXqiYGrQfeZv6tLUsJ7f6VTsULGeQlo6QoBFJr0XPLOuVqazD-bpSsFaxioxMwpbH0QaRpdD5FJu_XXy-g
+          - generic [ref=f27e616]:
+            - generic [ref=f27e618]:
+              - heading "Videos" [level=2] [ref=f27e619]
+              - button "About this result" [ref=f27e624] [cursor=pointer]
+            - generic [ref=f27e630]:
+              - generic [ref=f27e636]:
+                - generic [ref=f27e637]:
+                  - link [ref=f27e639] [cursor=pointer]:
+                    - /url: /goto?url=CAESYwHrOzAVTEARsRdJdxWqdd8qLw56DnaVkk9BfBTNBnePPbZ-z2CNGqnbe5bHR7AE1sWxip1YeNHY3217D-ZwXUH6whNjplaBeQdTg36nJYc8uEYHqHvhYgeYIS_Zmk6lAZsTjg
+                    - heading "AI for Architects - How I Actually Use It (2026) YouTube Architect Russell 3 days ago" [level=3] [ref=f27e640]:
+                      - generic [ref=f27e641]: AI for Architects - How I Actually Use It (2026)
+                      - generic [ref=f27e645]:
+                        - generic [ref=f27e646]:
+                          - text: YouTube
+                          - generic [ref=f27e647]: · Architect Russell
+                        - generic [ref=f27e648]: 3 days ago
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic [aria-hidden]:
+                            - text: YouTube
+                            - generic: · Architect Russell
+                      - button "About this result" [ref=f27e652] [cursor=pointer]
+                - button "AI for Architects - How I Actually Use It (2026) by Architect Russell on YouTube. Play on Google. 13:05" [ref=f27e657] [cursor=pointer]:
+                  - generic [ref=f27e664]: 13:05
+              - generic [ref=f27e676]:
+                - generic [ref=f27e677]:
+                  - link [ref=f27e679] [cursor=pointer]:
+                    - /url: /goto?url=CAESYwHrOzAVvYLXCJEOWV7CQrK_UNke3pTEwmgWSJyZCbXI7z5v5aBvHUOJdedvl9ciY7n1gQh52poSEX-GJWpLprEiYOm355vhe6R0qWkNR0nTQNovKYxj886v8_tc35rbfh5rpg
+                    - heading "AI for Architecture in 2026 YouTube Andrew Chung 1 month ago" [level=3] [ref=f27e680]:
+                      - generic [ref=f27e681]: AI for Architecture in 2026
+                      - generic [ref=f27e685]:
+                        - generic [ref=f27e686]:
+                          - text: YouTube
+                          - generic [ref=f27e687]: · Andrew Chung
+                        - generic [ref=f27e688]: 1 month ago
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic [aria-hidden]:
+                            - text: YouTube
+                            - generic: · Andrew Chung
+                      - button "About this result" [ref=f27e692] [cursor=pointer]
+                - button "AI for Architecture in 2026 by Andrew Chung on YouTube. Play on Google. 11:47" [ref=f27e697] [cursor=pointer]:
+                  - generic [ref=f27e707]: 11:47
+              - generic [ref=f27e718]:
+                - generic [ref=f27e719]:
+                  - generic [ref=f27e720]:
+                    - link [ref=f27e722] [cursor=pointer]:
+                      - /url: /goto?url=CAESYwHrOzAVJ4ag2usKPFiOj_qSIbaG1hVu1GsOAKwytRw3JCNns85qsbxqGsypBr0hbdGpdDvKHoEUkbbZTQHRTQxSrJhz3jqxtOSimISwKytJxna-cTNExj48crzYgI9Jtb-Tdg
+                      - 'heading "How AI & Tech are Transforming Architecture: The Top Tools ... YouTube Danny Loza 29 Nov 2025" [level=3] [ref=f27e723]':
+                        - generic [ref=f27e724]: "How AI & Tech are Transforming Architecture: The Top Tools ..."
+                        - generic [ref=f27e728]:
+                          - generic [ref=f27e729]:
+                            - text: YouTube
+                            - generic [ref=f27e730]: · Danny Loza
+                          - generic [ref=f27e731]: 29 Nov 2025
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic [aria-hidden]:
+                              - text: YouTube
+                              - generic: · Danny Loza
+                        - button "About this result" [ref=f27e735] [cursor=pointer]
+                  - 'button "How AI & Tech are Transforming Architecture: The Top Tools ... by Danny Loza on YouTube. Play on Google. 1:00:50" [ref=f27e740] [cursor=pointer]':
+                    - generic [ref=f27e750]: 1:00:50
+                - button "6 key moments in this video" [ref=f27e760] [cursor=pointer]
+            - link "View all videos" [ref=f27e772] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=7&q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sa=X&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8ccDKAJ6BAg6EAU
+              - separator [aria-hidden] [ref=f27e773]
+              - generic [ref=f27e774]: View all
+          - generic [ref=f27e781]:
+            - heading "Web results" [level=2] [ref=f27e782]
+            - generic [ref=f27e783]:
+              - generic [ref=f27e786]:
+                - 'link "The 2026 archviz pulse: 10 stats defining the new era of ... Chaos Blog https://blog.chaos.com › statistics-ai-architectural-design..." [ref=f27e788] [cursor=pointer]':
+                  - /url: /goto?url=CAESgwEB6zswFYrbP1M6E-Ph2jE08ZZeMS_VBYkgb4TuvAGD5_nJ1HNhDohpD0JWdAn3GTDZWuTxRt1VIWYzAx2_QTg8puDyEeHQwfe0Oe1Dg21A1SH8a8NQ6znO340JcVQkn7sTcq3P1IRW8yTgo7mNMvoB9qwB_0o7TKAyEbMdmmFm1T4jrw
+                  - 'heading "The 2026 archviz pulse: 10 stats defining the new era of ..." [level=3] [ref=f27e789]'
+                  - generic [ref=f27e795]:
+                    - generic [ref=f27e796]: Chaos Blog
+                    - generic [ref=f27e798]: https://blog.chaos.com › statistics-ai-architectural-design...
+                - button "About this result" [ref=f27e804] [cursor=pointer]
+              - generic [ref=f27e810]:
+                - generic [ref=f27e811]: 30 Apr 2026 —
+                - generic [ref=f27e812]:
+                  - text: Firms are shifting
+                  - emphasis [ref=f27e813]: software
+                  - text: budgets toward
+                  - emphasis [ref=f27e814]: tools
+                  - text: "that offer automated, intelligent assistance. The takeaway: The industry is putting its money ..."
+                - link "Read more" [ref=f27e815] [cursor=pointer]:
+                  - /url: /goto?url=CAES3wEB6zswFWgy-Db7cuQUUUyY-J3NPDlF1jlA2Y6uSVZrlgGq9ucBUWmP8YjUyJqEfB-yQLNRX6tnZnDWdr57jLxpDRWFaB0SX-y4gLQzVXA_ZF19lcXWdjUv0qibYvM-mm4YHgEUp3-KQGWduHBb4f5ZoI3I76CPM6KSEXilZX5aBUnFdUtK05YxQOVh888fWgj1I9trlTr8R-zsrIttrWMIXg4YpO8Az2HzaGX8qiXTMSY4IrNHkkXHqXw6mdjatZdTLi5cowDLw9B8c5yMz-CSRRydJn9TrTmJ_FdEW4N0
+          - generic [ref=f27e819]:
+            - generic [ref=f27e822]:
+              - link "Will AI Replace Architects? What the Data Says in 2026 MyArchitectAI https://www.myarchitectai.com › blog › will-ai-replace-..." [ref=f27e824] [cursor=pointer]:
+                - /url: /goto?url=CAESdQHrOzAVXNnCF_6heoU7QNzpQEasVWnw7HGe2bsVVMzTv51kxnEbf7DHdiOWxlVXn92hcOQBUqP5OCvirTu-_idbcczNnNxlkDHacC3IJ1LFf1f62vE9XsrNWlMjic4c866R96a7elud5VBb6cEh8fiuGCu9Jg
+                - heading "Will AI Replace Architects? What the Data Says in 2026" [level=3] [ref=f27e825]
+                - generic [ref=f27e831]:
+                  - generic [ref=f27e832]: MyArchitectAI
+                  - generic [ref=f27e834]: https://www.myarchitectai.com › blog › will-ai-replace-...
+              - button "About this result" [ref=f27e840] [cursor=pointer]
+            - generic [ref=f27e846]:
+              - generic [ref=f27e847]: 20 Aug 2026 —
+              - generic [ref=f27e848]:
+                - text: How much should an
+                - emphasis [ref=f27e849]: architecture firm
+                - text: budget for
+                - emphasis [ref=f27e850]: AI tools
+                - text: "? For a 15-person"
+                - emphasis [ref=f27e851]: firm
+                - text: ", initial"
+                - emphasis [ref=f27e852]: AI tool
+                - text: investments range from $3,000 to $8,000 ...
+              - link "Read more" [ref=f27e853] [cursor=pointer]:
+                - /url: /goto?url=CAESxwEB6zswFXHR5YXZzHT9-mGPwEk2MkFrAAxK5ur7wRGnImUy5eOUO9uvB73SnJhulLnfL_9aCl2eEjUINb5G_QEE6iv5ILZeecPNB5D3Lef7Z8YUJXninycJ1dL9zeo9fEqGxoPgsCXV4ULrLYQxWQtzB4OdbM5PXhLm1gCMUpRGsfWJbhE_v9i4v74y9eUA2UwsD2vPtjlY5MsX6kTdv3uwAepoHVTFQNOXai8dpZbpky_bv1QJebo87YDvRd9UQv2HlrtaENm1
+          - generic [ref=f27e857]:
+            - generic [ref=f27e860]:
+              - link "20 Best AI Tools for Architects (2026) MeltFlex https://www.meltflexai.com › Blog" [ref=f27e862] [cursor=pointer]:
+                - /url: /goto?url=CAESfgHrOzAV6TOCM9ROuAJkPqwkVIFctohRn97C9IobiI4PFcIeTem8c-I7drUhy677IptNu7kk1dLyUgUwl8mcwK5y-4QqusirlSrS1P_OzMIJb7R3ZATcGZPaAretxTaPeV_4FpHwpFyurvQCg98OWxnb2TZ9sDE6nnJ65262DQ
+                - heading "20 Best AI Tools for Architects (2026)" [level=3] [ref=f27e863]
+                - generic [ref=f27e869]:
+                  - generic [ref=f27e870]: MeltFlex
+                  - generic [ref=f27e872]: https://www.meltflexai.com › Blog
+              - button "About this result" [ref=f27e878] [cursor=pointer]
+            - generic [ref=f27e884]:
+              - generic [ref=f27e885]: 12 Jun 2026 —
+              - generic [ref=f27e886]:
+                - text: This guide maps 20
+                - emphasis [ref=f27e887]: AI tools
+                - text: to that workflow, with an honest note on who in the
+                - emphasis [ref=f27e888]: studio
+                - text: benefits and where the
+                - emphasis [ref=f27e889]: tool
+                - text: stops. Our articles are still ...
+              - link "Read more" [ref=f27e890] [cursor=pointer]:
+                - /url: /goto?url=CAESygEB6zswFTQMfaBDUi44ChBWErQm6qi9l8Esw1JarnLdRj_P2eCUWFBMZru65LsnmZCKzmT3-kXeI8pm6nuKo4dNGWmbwU3din8ddfvIVUh3Yqw9q2Mvif00i3jV55a0R4RwP23hQXDrV7c2o750OY1AfvFOJq3WXqVTwEnjBcNTBtv97JqHQJCwQGCLP3g-cW6WnzPYb3yvgrcFXObYTQ-4QFRbwMi0or0Gq0lFY9bAjXNWYTuBlOYAo2gCDrdXCPYxP78HnlkCNJ0h
+          - generic [ref=f27e894]:
+            - generic [ref=f27e897]:
+              - link "Top 10 AI Rendering Software for Architects in 2026 Gendo https://www.gendo.ai › blog › top-10-ai-rendering-soft..." [ref=f27e899] [cursor=pointer]:
+                - /url: /goto?url=CAESfgHrOzAVK_vT2oKJFRlBaC018BgZ39HvSdYyrPml_OZvIIFVAEh56WBk4hjhsSBX5w4jdagwcZ8IIsJKYzkNVEXOjARGzCas6jJKStjgGjiJfqurBVJUkMp5qGsBBVIbVfo_p1m-j2Ma_qqXH_sY2RcSUkMlir_ayOup8jx45Q
+                - heading "Top 10 AI Rendering Software for Architects in 2026" [level=3] [ref=f27e900]
+                - generic [ref=f27e906]:
+                  - generic [ref=f27e907]: Gendo
+                  - generic [ref=f27e909]: https://www.gendo.ai › blog › top-10-ai-rendering-soft...
+              - button "About this result" [ref=f27e915] [cursor=pointer]
+            - generic [ref=f27e921]:
+              - generic [ref=f27e922]: 11 Jun 2026 —
+              - generic [ref=f27e923]:
+                - text: "Conclusion: Why Gendo Is the Best"
+                - emphasis [ref=f27e924]: AI Rendering Software
+                - text: for Architects in
+                - emphasis [ref=f27e925]: "2026"
+                - text: . Every
+                - emphasis [ref=f27e926]: tool
+                - text: on this list earns its place. Veras is unbeatable ...
+              - link "Read more" [ref=f27e927] [cursor=pointer]:
+                - /url: /goto?url=CAES1gEB6zswFYSVjiEhwJLfswcCV9SzwSelc1A4LXHNq6dCuYUlyrzBjGiMuienyM6W2_vHtnpfu1a6DFMj7suiP_zwkRS_NKy7efmzLHeotXTrIac5F5tx7a0EaYpBHxR-_4dswtn0hfpvaxWvdrF9kE8Qq4XaVl0seKynSKSr7OmZD9M7SOUeiMJdogKpktC3ctAGIjtXm81BDkRdOyshNMSr7Da_Ly9_2mUjvGNX5KUbqdHlFt5SWwpZu5lNNxTPsAkO2tb8gdlrFJaWbv_4z5c1txFlRI2F
+          - generic [ref=f27e931]:
+            - generic [ref=f27e934]:
+              - 'link "AI Rendering in Architecture: 2026 Research, Benchmarks, ... Rendervi https://rendervi.com › Blog" [ref=f27e936] [cursor=pointer]':
+                - /url: /goto?url=CAESfAHrOzAVEPfWkKOKxeYq7aoLgKRLUv0Zdk2UvUAftPW39dNaWLfPZqZf0oUxr78-_z0hr36QUB3xAI-YU_X-WUFVpML5sTglJVCXpWPWG1vOFMAnnz53kZrEsYUxF5IztX75hc2QHXsvx7YxQEwlhswG0k66yl-TiCnwtN0
+                - 'heading "AI Rendering in Architecture: 2026 Research, Benchmarks, ..." [level=3] [ref=f27e937]'
+                - generic [ref=f27e943]:
+                  - generic [ref=f27e944]: Rendervi
+                  - generic [ref=f27e946]: https://rendervi.com › Blog
+              - button "About this result" [ref=f27e952] [cursor=pointer]
+            - generic [ref=f27e958]:
+              - generic [ref=f27e959]: 24 May 2026 —
+              - generic [ref=f27e960]:
+                - text: Chaos reports that 40% of respondents were not yet using
+                - emphasis [ref=f27e961]: AI
+                - text: ", with barriers including cost, lack of time to explore"
+                - emphasis [ref=f27e962]: tools
+                - text: ", and"
+                - emphasis [ref=f27e963]: software
+                - text: ...
+              - link "Read more" [ref=f27e964] [cursor=pointer]:
+                - /url: /goto?url=CAES3AEB6zswFbBSl2kwQZ2ITeZ68A9Tqw2NgYyyJqICCkIb_dbK4qFNkVV0MkysbCTVlR-qZjAsYcDV2EceEeXsAPyS04cRuMAJNGpLQTMNAKr-1yfoWqcBqgd3gbb1krwf4oY9IzylycVXsaNBnKqUDyERxNXA-nYupcGSX3CKCeNDTWJ-pZpt0TbL7a9BbjYYJEvgRH3SqddzRbbjehO0lUmmmOork-jmp8m1hnakmblzQaqT3b6CYcCjFzDHWJ43swMFMZ1zWPWB9cg4iDEB8u_3b_BsVksTVXZrlF0v
+          - generic [ref=f27e968]:
+            - generic [ref=f27e971]:
+              - 'link "AI for Architecture Firms in 2026: Beyond Rendering to Full ... AI Magicx https://www.aimagicx.com › blog › ai-for-architects-ful..." [ref=f27e973] [cursor=pointer]':
+                - /url: /goto?url=CAEShAEB6zswFfG6oQBt_p7YD65XeQl7QtjQfuASqTCJG1Jv7edFLoS0Vzss2hBOlZSHzc01KUmoBW75QLE_w1B8feGH47FUxvWjyZ9Flw5Jg--9rW4P4lgY7oXiSOVKtR1QNVTf9xwXZ1c3CA3X7HXzueRd0SITjDwSxlGGuJI31_7x519cMfs
+                - 'heading "AI for Architecture Firms in 2026: Beyond Rendering to Full ..." [level=3] [ref=f27e974]'
+                - generic [ref=f27e980]:
+                  - generic [ref=f27e981]: AI Magicx
+                  - generic [ref=f27e983]: https://www.aimagicx.com › blog › ai-for-architects-ful...
+              - button "About this result" [ref=f27e989] [cursor=pointer]
+            - generic [ref=f27e995]:
+              - generic [ref=f27e996]: 28 Mar 2026 —
+              - generic [ref=f27e997]:
+                - text: Available
+                - emphasis [ref=f27e998]: Tools
+                - text: .
+                - emphasis [ref=f27e999]: Tool
+                - text: ", Code Coverage, Interface, Pricing, Notable Feature. UpCodes"
+                - emphasis [ref=f27e1000]: AI
+                - text: ", IBC, IRC, IECC, ADA, ..."
+              - link "Read more" [ref=f27e1001] [cursor=pointer]:
+                - /url: /goto?url=CAESyAEB6zswFeeC3FAu2RGLLndJS1wHJ-D2Q9fU6TWUiZ01UZvyzXDzXKWTZWsvKTud2XIoNry2cfGDeV48NY4U6OrgZuDK8nI6OdYXrgXkpJT5Ufmyoy-eN9SOiF271HlCNs9_7DbW_dVHoou-aTFNAOP046jmZbIHpOeB30dFMMkBkAB0-d6vb3rhObU5WCw5XZLTcxUYuJS6x6UzPtJHM4Cun_9dwtyXrBAaQBVZbByT4bKCh1f7jRiXIk6fRRcYwQ7-VOPjWPxoiw
+        - generic [ref=f27e1003]:
+          - generic [ref=f27e1008]:
+            - heading "People also search for" [level=2] [ref=f27e1010]
+            - generic [ref=f27e1012]:
+              - generic [ref=f27e1013]:
+                - link "Architecture studio ai rendering tool adoption 2026 survey free" [ref=f27e1017] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Architecture+studio+ai+rendering+tool+adoption+2026+survey+free&sa=X&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ1QJ6BAgiEAE
+                - link "NOT A HOTEL DESIGN COMPETITION 2026" [ref=f27e1031] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=NOT+A+HOTEL+DESIGN+COMPETITION+2026&sa=X&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ1QJ6BAgkEAE
+              - link "Midjourney" [ref=f27e1046] [cursor=pointer]:
+                - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Midjourney&sa=X&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ1QJ6BAgjEAE
+          - navigation [ref=f27e1057]:
+            - heading "Page navigation" [level=1] [ref=f27e1058]
+            - text: "1"
+            - link "Page 2" [ref=f27e1061] [cursor=pointer]:
+              - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&ei=6vqpar3uO5ehhvcPwd-c4Aw&start=10&sa=N&sstk=AS6-VmJkr72ZYsHT3T5Av9kl20EmX3b3TiVr58MJAJ1J_SLaLP8R0IhSZ1iUZNf2sYOmwyXezQCrUiDSrgdwj7vR-ZuMhWSnAAs1iw&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8tMDegQIIBAE
+              - text: "2"
+            - link "Page 3" [ref=f27e1063] [cursor=pointer]:
+              - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&ei=6vqpar3uO5ehhvcPwd-c4Aw&start=20&sa=N&sstk=AS6-VmJkr72ZYsHT3T5Av9kl20EmX3b3TiVr58MJAJ1J_SLaLP8R0IhSZ1iUZNf2sYOmwyXezQCrUiDSrgdwj7vR-ZuMhWSnAAs1iw&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8tMDegQIIBAG
+              - text: "3"
+            - link "Page 4" [ref=f27e1065] [cursor=pointer]:
+              - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&ei=6vqpar3uO5ehhvcPwd-c4Aw&start=30&sa=N&sstk=AS6-VmJkr72ZYsHT3T5Av9kl20EmX3b3TiVr58MJAJ1J_SLaLP8R0IhSZ1iUZNf2sYOmwyXezQCrUiDSrgdwj7vR-ZuMhWSnAAs1iw&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8tMDegQIIBAI
+              - text: "4"
+            - link "Page 5" [ref=f27e1067] [cursor=pointer]:
+              - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&ei=6vqpar3uO5ehhvcPwd-c4Aw&start=40&sa=N&sstk=AS6-VmJkr72ZYsHT3T5Av9kl20EmX3b3TiVr58MJAJ1J_SLaLP8R0IhSZ1iUZNf2sYOmwyXezQCrUiDSrgdwj7vR-ZuMhWSnAAs1iw&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8tMDegQIIBAK
+              - text: "5"
+            - link "Page 6" [ref=f27e1069] [cursor=pointer]:
+              - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&ei=6vqpar3uO5ehhvcPwd-c4Aw&start=50&sa=N&sstk=AS6-VmJkr72ZYsHT3T5Av9kl20EmX3b3TiVr58MJAJ1J_SLaLP8R0IhSZ1iUZNf2sYOmwyXezQCrUiDSrgdwj7vR-ZuMhWSnAAs1iw&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8tMDegQIIBAM
+              - text: "6"
+            - link "Page 7" [ref=f27e1071] [cursor=pointer]:
+              - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&ei=6vqpar3uO5ehhvcPwd-c4Aw&start=60&sa=N&sstk=AS6-VmJkr72ZYsHT3T5Av9kl20EmX3b3TiVr58MJAJ1J_SLaLP8R0IhSZ1iUZNf2sYOmwyXezQCrUiDSrgdwj7vR-ZuMhWSnAAs1iw&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8tMDegQIIBAO
+              - text: "7"
+            - link "Page 8" [ref=f27e1073] [cursor=pointer]:
+              - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&ei=6vqpar3uO5ehhvcPwd-c4Aw&start=70&sa=N&sstk=AS6-VmJkr72ZYsHT3T5Av9kl20EmX3b3TiVr58MJAJ1J_SLaLP8R0IhSZ1iUZNf2sYOmwyXezQCrUiDSrgdwj7vR-ZuMhWSnAAs1iw&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8tMDegQIIBAQ
+              - text: "8"
+            - link "Page 9" [ref=f27e1075] [cursor=pointer]:
+              - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&ei=6vqpar3uO5ehhvcPwd-c4Aw&start=80&sa=N&sstk=AS6-VmJkr72ZYsHT3T5Av9kl20EmX3b3TiVr58MJAJ1J_SLaLP8R0IhSZ1iUZNf2sYOmwyXezQCrUiDSrgdwj7vR-ZuMhWSnAAs1iw&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8tMDegQIIBAS
+              - text: "9"
+            - link "Page 10" [ref=f27e1077] [cursor=pointer]:
+              - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&ei=6vqpar3uO5ehhvcPwd-c4Aw&start=90&sa=N&sstk=AS6-VmJkr72ZYsHT3T5Av9kl20EmX3b3TiVr58MJAJ1J_SLaLP8R0IhSZ1iUZNf2sYOmwyXezQCrUiDSrgdwj7vR-ZuMhWSnAAs1iw&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8tMDegQIIBAU
+              - text: "10"
+            - heading [level=2] [ref=f27e1079]:
+              - link "Next" [ref=f27e1080] [cursor=pointer]:
+                - /url: /search?q=architecture+studio+AI+rendering+tool+adoption+2026+survey&sca_esv=0fcbbd60dc8ae695&ei=6vqpar3uO5ehhvcPwd-c4Aw&start=10&sa=N&sstk=AS6-VmJkr72ZYsHT3T5Av9kl20EmX3b3TiVr58MJAJ1J_SLaLP8R0IhSZ1iUZNf2sYOmwyXezQCrUiDSrgdwj7vR-ZuMhWSnAAs1iw&ved=2ahUKEwi9i9CHg_KWAxWXkOEIHcEvB8wQ8NMDegQIIBAW
+        - navigation
+    - contentinfo [ref=f27e1083]:
+      - heading "Footer links" [level=1] [ref=f27e1084]
+      - generic [ref=f27e1088]:
+        - generic [ref=f27e1090]:
+          - text: India
+          - generic [ref=f27e1092]:
+            - button "Vijayawada, Andhra Pradesh - From your IP address" [ref=f27e1094] [cursor=pointer]:
+              - generic [ref=f27e1095]: Vijayawada, Andhra Pradesh
+              - generic [ref=f27e1097]:
+                - text: "-"
+                - generic [ref=f27e1098]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=f27e1100] [cursor=pointer]
+        - generic [ref=f27e1103]:
+          - link "Help" [ref=f27e1104] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+          - link "Send feedback" [ref=f27e1105] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f27e1106] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+          - link "Terms" [ref=f27e1107] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IN&fg=1

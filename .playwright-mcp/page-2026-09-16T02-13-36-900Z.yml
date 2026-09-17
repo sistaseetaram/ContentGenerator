@@ -1,0 +1,2441 @@
+- generic [active] [ref=f140e1]:
+  - complementary "Advertisement"
+  - generic [ref=f140e2]:
+    - generic [ref=f140e3]:
+      - banner [ref=f140e4]:
+        - dialog [aria-hidden] [ref=f140e5]:
+          - generic [ref=f140e6] [cursor=pointer]
+          - navigation [ref=f140e9]:
+            - list [ref=f140e10]:
+              - listitem [ref=f140e11]:
+                - link [ref=f140e12] [cursor=pointer]:
+                  - /url: /
+                  - text: Magazine
+              - listitem [ref=f140e13]:
+                - link [ref=f140e14] [cursor=pointer]:
+                  - /url: /awards
+                  - text: Awards
+              - listitem [ref=f140e15]:
+                - link [ref=f140e16] [cursor=pointer]:
+                  - /url: https://www.dezeenjobs.com/
+                  - text: Jobs
+              - listitem [ref=f140e17]:
+                - link [ref=f140e18] [cursor=pointer]:
+                  - /url: /eventsguide
+                  - text: Events Guide
+              - listitem [ref=f140e19]:
+                - link [ref=f140e20] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/showroom/
+                  - text: Showroom
+              - listitem [ref=f140e21]:
+                - link [ref=f140e22] [cursor=pointer]:
+                  - /url: /schoolshows
+                  - text: School Shows
+              - listitem [ref=f140e23]:
+                - link [ref=f140e24] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/courses/
+                  - text: Courses
+              - listitem [ref=f140e25]:
+                - link [ref=f140e26] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/competitions/
+                  - text: Competitions
+            - list [ref=f140e27]:
+              - listitem [ref=f140e28]:
+                - link [ref=f140e29] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/architecture/
+                  - text: Architecture
+              - listitem [ref=f140e30]:
+                - link [ref=f140e31] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/interiors/
+                  - text: Interiors
+              - listitem [ref=f140e32]:
+                - link [ref=f140e33] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/design/
+                  - text: Design
+              - listitem [ref=f140e34]:
+                - link [ref=f140e35] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/technology/
+                  - text: Technology
+            - list [ref=f140e36]:
+              - listitem [ref=f140e37]:
+                - link [ref=f140e38] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/editorial-series/
+                  - text: Series
+              - listitem [ref=f140e39]:
+                - link [ref=f140e40] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/features/
+                  - text: Features
+              - listitem [ref=f140e41]:
+                - link [ref=f140e42] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/interviews/
+                  - text: Interviews
+              - listitem [ref=f140e43]:
+                - link [ref=f140e44] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/opinion/
+                  - text: Opinion
+              - listitem [ref=f140e45]:
+                - link [ref=f140e46] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/news/
+                  - text: News
+              - listitem [ref=f140e47]:
+                - link [ref=f140e48] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/lookbooks/
+                  - text: Lookbooks
+              - listitem [ref=f140e49]:
+                - link [ref=f140e50] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/talks/
+                  - text: Talks
+              - listitem [ref=f140e51]:
+                - link [ref=f140e52] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/videos/
+                  - text: Videos
+              - listitem [ref=f140e53]:
+                - link [ref=f140e54] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/podcasts/
+                  - text: Podcasts
+            - list [ref=f140e55]:
+              - listitem [ref=f140e56]:
+                - link [ref=f140e57] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/about/
+                  - text: About
+              - listitem [ref=f140e58]:
+                - link [ref=f140e59] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/comments
+                  - text: Comments
+              - listitem [ref=f140e60]:
+                - link [ref=f140e61] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/newsletters/
+                  - text: Newsletters
+              - listitem [ref=f140e62]:
+                - link [ref=f140e63] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/newsletter-preferences/
+                  - text: Preferences
+              - listitem [ref=f140e64]:
+                - link [ref=f140e65] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/submit-a-story/
+                  - text: Submit a story
+              - listitem [ref=f140e66]:
+                - link [ref=f140e67] [cursor=pointer]:
+                  - /url: /advertise
+                  - text: Advertise
+              - listitem [ref=f140e68]:
+                - link [ref=f140e69] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/privacy-notice/
+                  - text: Privacy notice
+              - listitem [ref=f140e70]:
+                - link [ref=f140e71] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/contact/
+                  - text: Contact
+        - generic [ref=f140e72]:
+          - iframe [ref=f140e76]:
+            - generic [ref=f162e1]:
+              - link [ref=f162e2] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsvtpBNGUN_ESytXg0-xfrAcejONCorFY13iSqDyEomOJ8gSMM1-yKwi8IsSvLtt7g-a4FmswrEACTs1iWo93SPOu5tkjz_uusXws_uZsX-HGx3m4n9BTaZx1k4kfVpFomlwGG2rSjpZH556blayLCmmRwUT1SQcUgB_mbT9UGaRlA5WTqPsY9J0n8FuvG1ck4xfOzuq8gYhdVqjTEwk_sMeFazCpjzCWqAMp3RaJRY2IUMceOCYv0TB8MdoMfoQI_rQ5unW_p7DyMdiMLunIkp4qptdqVZoTFl257iPiXa473FBKZYNXXPEQN2LIuI3VaaeGxyQxPhhpbrtIEe4OZSzd0c68Ftj-utmzD-4VppIy3OUKsFPBEsnm-ThuPLIa-JAbczK_0DIUo2dPNbrJ9ZcxtuGrj8yozToSP7eUpGqUUXG&sai=AMfl-YSZBeh29YBQQ9EMkF0HEOI3phHTFGwPnXzZtMmOEz0Xr02ADbVHjVbPAt-UTthllA9zJqz6KCWHo4rJK1EaFrbIgXG2OaQ3wvBUOSzWhI3bLnbqD7YiI25gNjxthvTDudYjTXVj2-gK9Re9D7IZgL4gI1fKssEM0fd9PtlUGSXmy7f_ePOc9G1VepG6tpjAGH9FkjY8W0OWp5sNtKMA6n6d68AjBfpAvCLRCpm_XNAqBQMHvoMvaYvn-KFSqSpFIQm5wccB_vUPaYkvYc8l-j6vOBpBVPYKKEnU7zuV1j_B4pXlPxmcft6_jgXl87XyEV2UG9YK3XVfKkvZI6TnU131KhcqyvrYkgy5gfbXS3UVi2TXkNky9lTFb-Us8ohvJzmb3s4k4ZnDd02PV4FtiKdf&sig=Cg0ArKJSzE2lBrMwSYQU&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+              - generic [ref=f162e3] [cursor=pointer]
+              - button [ref=f162e8] [cursor=pointer]
+          - generic [ref=f140e77]:
+            - heading "Dezeen Magazine dezeen-logo dezeen-logo" [level=1] [ref=f140e78]:
+              - link "Dezeen Magazine dezeen-logo dezeen-logo":
+                - /url: /
+                - generic: Dezeen Magazine
+                - img "dezeen-logo" [ref=f140e79] [cursor=pointer]
+                - img "dezeen-logo" [ref=f140e82] [cursor=pointer]
+            - navigation:
+              - link "Elon Musk reveals plans for world's largest building":
+                - /url: https://www.dezeen.com/2026/08/10/terafab-elon-musk-spacex-tesla-largest-building/
+              - link "RTA Studio designs mass-timber groundscraper in Auckland as \"continuous ribbon\"":
+                - /url: https://www.dezeen.com/2026/08/10/rta-studio-mass-timber-office-auckland/
+              - generic:
+                - link "Next story":
+                  - /url: https://www.dezeen.com/2026/08/10/rta-studio-mass-timber-office-auckland/
+                  - heading "Next story" [level=4]
+            - navigation "Main Navigation" [ref=f140e87]:
+              - complementary "Header search" [ref=f140e88]:
+                - search [ref=f140e91]:
+                  - generic [ref=f140e92]: Enter your site search term
+                  - searchbox "Enter your site search term" [ref=f140e93]
+                - generic: clear
+                - generic [ref=f140e94]:
+                  - heading "Follow:" [level=2] [ref=f140e95]
+                  - link "Go to Dezeen on Pinterest" [ref=f140e96] [cursor=pointer]:
+                    - /url: https://pinterest.com/dezeen/
+                  - link "Go to Dezeen on Instagram" [ref=f140e97] [cursor=pointer]:
+                    - /url: https://www.instagram.com/dezeen/
+                  - link "Go to Dezeen on LinkedIn" [ref=f140e98] [cursor=pointer]:
+                    - /url: http://www.linkedin.com/company/dezeen
+                  - link "Go to Dezeen on Facebook" [ref=f140e99] [cursor=pointer]:
+                    - /url: https://www.facebook.com/dezeen
+                  - link "Follow Dezeen on Twitter" [ref=f140e100] [cursor=pointer]:
+                    - /url: https://twitter.com/intent/follow?screen_name=dezeen
+                  - link "Go to Dezeen on Youtube" [ref=f140e101] [cursor=pointer]:
+                    - /url: https://www.youtube.com/channel/UCsWG9ANbrmgR0z-eFk_A3YQ?sub_confirmation=1
+              - list [ref=f140e102]:
+                - listitem [ref=f140e103]:
+                  - link "Awards" [ref=f140e104] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/awards/
+                - listitem [ref=f140e105]:
+                  - link "Jobs" [ref=f140e106] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/
+                - listitem [ref=f140e107]:
+                  - link "Events Guide" [ref=f140e108] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/eventsguide/
+                - listitem [ref=f140e109]:
+                  - link "Showroom" [ref=f140e110] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/showroom/
+                - listitem [ref=f140e111]:
+                  - link "School Shows" [ref=f140e112] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/schoolshows/
+                - listitem [ref=f140e113]:
+                  - link "Courses" [ref=f140e114] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/courses/
+                - listitem [ref=f140e115]:
+                  - link "Competitions" [ref=f140e116] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/competitions/
+              - list [ref=f140e117]:
+                - listitem [ref=f140e118]:
+                  - link "Series" [ref=f140e119] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/editorial-series/
+                - listitem [ref=f140e120]:
+                  - link "Interviews" [ref=f140e121] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/interviews/
+                - listitem [ref=f140e122]:
+                  - link "Opinion" [ref=f140e123] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/opinion/
+                - listitem [ref=f140e124]:
+                  - link "Talks" [ref=f140e125] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/talks/
+                - listitem [ref=f140e126]:
+                  - link "Videos" [ref=f140e127] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/videos/
+                - listitem [ref=f140e128]:
+                  - link "Newsletters" [ref=f140e129] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/newsletters/
+                - listitem [ref=f140e130]:
+                  - link "Podcasts" [ref=f140e131] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/podcasts/dezeenweekly/
+              - list [ref=f140e132]:
+                - listitem [ref=f140e133]:
+                  - link "Magazine" [ref=f140e134] [cursor=pointer]:
+                    - /url: /
+                - listitem [ref=f140e135]:
+                  - link "Architecture" [ref=f140e136] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/architecture/
+                - listitem [ref=f140e137]:
+                  - link "Interiors" [ref=f140e138] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/interiors/
+                - listitem [ref=f140e139]:
+                  - link "Design" [ref=f140e140] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/design/
+                - listitem [ref=f140e141]:
+                  - link "Technology" [ref=f140e142] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/technology/
+        - button "Open menu" [ref=f140e143] [cursor=pointer]
+      - main [ref=f140e146]:
+        - generic [ref=f140e147]:
+          - main [ref=f140e148]:
+            - article [ref=f140e149]:
+              - generic [ref=f140e150]:
+                - figure [ref=f140e151]:
+                  - link [ref=f140e152]:
+                    - /url: https://static.dezeen.com/uploads/2026/06/hotel-attraction-gaudi-thierry-lechanteur-architecture-hotels-new-york-ai-render_dezeen_2364_hero-2.jpg
+                    - img "Thierry Lechanteur AI-generated image of Antoni Gaudí hotel" [ref=f140e153]
+                - heading [level=1] [ref=f140e154]:
+                  - link "Realistic AI architectural renderings must be labelled under EU AI Act" [ref=f140e155] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/
+                - generic [ref=f140e156]:
+                  - generic [ref=f140e157]:
+                    - link "Share on Facebook" [ref=f140e158] [cursor=pointer]:
+                      - /url: https://www.facebook.com/dialog/share?app_id=507209817137444&href=https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/
+                    - link "Share on Twitter" [ref=f140e159] [cursor=pointer]:
+                      - /url: https://twitter.com/intent/tweet?via=dezeen&url=https%3A%2F%2Fwww.dezeen.com%2F2026%2F08%2F10%2Fai-architectural-renderings-eu-ai-act%2F&text=Realistic%20AI%20architectural%20renderings%20must%20be%20labelled%20under%20EU%20AI%20Act
+                    - generic "Share on Pinterest" [ref=f140e160] [cursor=pointer]
+                    - link "Share on Reddit" [ref=f140e161] [cursor=pointer]:
+                      - /url: http://reddit.com/submit?url=https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/&title=Realistic+AI+architectural+renderings+must+be+labelled+under+EU+AI+Act
+                    - link "Share on LinkedIn" [ref=f140e162] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/&title=Realistic%20AI%20architectural%20renderings%20must%20be%20labelled%20under%20EU%20AI%20Act
+                    - link "Share on Tumblr" [ref=f140e163] [cursor=pointer]:
+                      - /url: https://tumblr.com/widgets/share/photo?canonicalUrl=https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/&title=Realistic+AI+architectural+renderings+must+be+labelled+under+EU+AI+Act
+                  - link "Prefer Dezeen on Google" [ref=f140e165] [cursor=pointer]:
+                    - /url: https://www.google.com/preferences/source?q=dezeen.com
+                - generic [ref=f140e173]:
+                  - link "Rima Sabina Aouf" [ref=f140e174] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/author/rima-sabina-aouf/
+                  - text: "|"
+                  - link [ref=f140e175] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/08/10/
+                    - time [ref=f140e176]: 10 August 2026
+                  - generic [ref=f140e177] [cursor=pointer]:
+                    - text: "|"
+                    - link "23 comments" [ref=f140e178]:
+                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#disqus_thread
+              - generic [ref=f140e179]:
+                - paragraph [ref=f140e180]:
+                  - text: Artists and companies publishing realistic
+                  - link "AI" [ref=f140e181] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/ai/
+                  - text: "-generated architectural"
+                  - link "renderings" [ref=f140e182] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/renderings/
+                  - text: in the
+                  - link "European Union" [ref=f140e183] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/tag/european-union/
+                  - text: without labelling risk being fined under provisions in the EU AI Act that came into force last week.
+                - paragraph [ref=f140e184]:
+                  - text: The
+                  - link "EU Artificial Intelligence Act Article 50" [ref=f140e185] [cursor=pointer]:
+                    - /url: https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50
+                  - text: ", which came into force on 2 August, requires creators of realistic-looking images, audio or video to disclose if the content is AI-generated or modified to reduce incidences of harm through deception."
+                - paragraph [ref=f140e186]:
+                  - text: Many creative works are exempt from the provisions, but realistic AI-generated visualisations of buildings and interiors appear to fall under the act's categorisation of "deepfakes", according to Szymon Sieniewicz, a counsel at law firm
+                  - link "Addleshaw Goddard" [ref=f140e187] [cursor=pointer]:
+                    - /url: https://www.addleshawgoddard.com/en/
+                  - text: .
+                - paragraph [ref=f140e188]: "\"If it's realistic scenery with people walking around and it is AI generated, it will need to be labelled as AI generated,\" he told Dezeen."
+                - paragraph [ref=f140e189]: Companies using AI to modify product photos, using chatbots on their homepage or publishing AI-generated text on matters of public interest will also face new obligations under the provisions.
+                - paragraph [ref=f140e190]:
+                  - strong [ref=f140e191]: Realistic renderings "likely" to come under deepfake definition
+                - paragraph [ref=f140e192]: The EU AI Act was passed in 2024, but its Article 50 transparency provisions are the first section to come into force that affects all businesses using AI, not just those developing AI systems.
+                - paragraph [ref=f140e193]: The subsection expected to have the most impact is Article 50(4), which requires creators of images, audio or video content constituting a deepfake to disclose that the content has been artificially generated or manipulated.
+                - paragraph [ref=f140e194]: While architectural visualisations might not be what most people think of as deepfakes – a term most commonly used to refer to synthetic media of real people saying or doing things they've never done – Sieniewicz told Dezeen that they are "likely" to be swept up in the act's definition.
+                - paragraph [ref=f140e195]: Under this definition, an image is a deepfake if it resembles existing persons, objects, places, entities or events and would falsely appear to a person to be authentic or truthful.
+                - figure "The European Commission's AI Office has created icons that are available for public use" [ref=f140e196]:
+                  - link [ref=f140e197]:
+                    - /url: https://static.dezeen.com/uploads/2026/08/eu-ai-act-transparency-icons-design_dezeen_1704_col_0.jpg
+                    - img "Screeshot of AI generated and AI modified icons created by the EU AI Office in four different variations" [ref=f140e198]
+                - paragraph [ref=f140e200]: This includes situations where the depicted subject is fictional but realistic, as in the case of an unbuilt building or a non-existent person.
+                - paragraph [ref=f140e201]: Sieniewicz said the video games industry would be facing a similar situation to architects in the case of games with realistic environments resembling cities.
+                - paragraph [ref=f140e202]:
+                  - text: The act does not dictate how AI content should be labelled beyond that it should be clear and distinguishable and relayed at the latest at the time of the first interaction or exposure. But guidelines in the European Commission's accompanying
+                  - link "Code of Practice on Transparency of AI-generated Content" [ref=f140e203] [cursor=pointer]:
+                    - /url: https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+                  - text: call for the use of an icon with the text "AI generated" or "AI modified".
+                - paragraph [ref=f140e204]: Violation of the act can attract fines of up to €15 million or up to 3 per cent of a company's annual turnover, but Sieniewicz stressed that he does not expect regulators to impose severe fines right away.
+                - paragraph [ref=f140e205]:
+                  - strong [ref=f140e206]: Product imagery and public-interest text also affected
+                - paragraph [ref=f140e207]: Designers and companies showcasing their products through photography will also need to be aware of the new obligations, as any AI-made material alterations to an image will also require labelling.
+                - paragraph [ref=f140e208]: For instance, Addleshaw Goddard advises that using AI to make a product appear more attractive, of higher quality or of a different colour will trigger the obligation to disclose AI modification.
+                - paragraph [ref=f140e209]: Mere retouching with AI – such as cropping, colour correction, compression or replacing a background – is exempt from the rules.
+                - paragraph [ref=f140e210]: There is also an equivalent obligation to disclose AI generation or manipulation for text, but only where it is published "with the purpose of informing the public on matters of public interest".
+                - complementary [ref=f140e211]:
+                  - article [ref=f140e212]:
+                    - link [ref=f140e213] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/05/28/design-fairs-need-to-adopt-ai-policy-now/
+                      - img "Salone del Mobile 2025" [ref=f140e214]
+                      - generic [ref=f140e215]:
+                        - heading "Read:" [level=1] [ref=f140e216]
+                        - heading "\"Design fairs need to adopt an AI policy, and need to do it now\"" [level=2] [ref=f140e217]
+                - paragraph [ref=f140e218]: General web copy is therefore unlikely to require labelling, but text related to matters such as sustainability, consumer rights and Environmental, Social and Governance (ESG) strategy will, unless it has been substantially reviewed by a human.
+                - paragraph [ref=f140e219]: The disclosure obligations also affect the provision of AI chatbots, such as for the purpose of customer service on a brand homepage, which is covered by Article 50(1).
+                - paragraph [ref=f140e220]: Sieniewicz advises that there is no one definitive way to do this, but that the safest choice is to advise that the interaction is with an "AI-powered tool" or an "AI bot" and to make it clear in the first communication with the customer.
+                - paragraph [ref=f140e221]: Other subsections in the provisions impose obligations on tech companies making tools such as ChatGPT and Nano Banana to embed machine-readable markers of AI generation into synthetic content, which users are now allowed to remove.
+                - paragraph [ref=f140e222]:
+                  - strong [ref=f140e223]: Provisions come at time of controversy about AI in architectural visualisation
+                - paragraph [ref=f140e224]: Addleshaw Goddard advises that a lighter disclosure regime applies for artistic, creative, satirical or fictional works, but that is unlikely to apply where content is made in part for promotional purposes, such as architectural renderings and advertisements.
+                - paragraph [ref=f140e225]: "\"There are some exemptions for artistic works, and that requires less direct transparency, but for the standard businesses in the architecture and design space, and also for product pictures, it will be the case that they need to be labelled as AI-generated,\" said Sieniewicz."
+                - paragraph [ref=f140e226]:
+                  - text: The implementation of Article 50 is likely to be welcomed by architectural visualisation artists, who have argued that using AI generation in place of professional 3D rendering
+                  - link "diminishes their craft and produces error-filled results" [ref=f140e227] [cursor=pointer]:
+                    - /url: https://www.genesisstudios.com/2025/08/08/924446-moreland-capital-partners-2/
+                  - text: .
+                - paragraph [ref=f140e228]:
+                  - text: There has also been anger over perceived copyright violations in the training of AI systems, which are fed vast quantities of human-authored work, usually without permission, as well as worries that
+                  - link "the use of generative AI tools may render output unprotectable" [ref=f140e229] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2023/08/21/ai-copyright-designers-architects-aitopia/
+                  - text: and so able to be copied with impunity by others.
+                - paragraph [ref=f140e230]:
+                  - emphasis [ref=f140e231]: "Top image: Hotel Attraction by AI artist Thierry Lechanteur."
+                - generic [ref=f140e233]:
+                  - text: "Read more:"
+                  - list [ref=f140e234]:
+                    - listitem [ref=f140e235]:
+                      - link "Artificial intelligence (AI)" [ref=f140e236] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/ai/
+                    - listitem [ref=f140e237]:
+                      - link "Renderings" [ref=f140e238] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/renderings/
+                    - listitem [ref=f140e239]:
+                      - link "Architecture" [ref=f140e240] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/architecture/
+                    - listitem [ref=f140e241]:
+                      - link "Interiors" [ref=f140e242] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/interiors/
+                    - listitem [ref=f140e243]:
+                      - link "Design" [ref=f140e244] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/design/
+                    - listitem [ref=f140e245]:
+                      - link "Highlights" [ref=f140e246] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/highlights/
+                    - listitem [ref=f140e247]:
+                      - link "News" [ref=f140e248] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/news/
+              - generic [ref=f140e253]:
+                - heading "Subscribe to our newsletters" [level=2] [ref=f140e254]
+                - generic [ref=f140e255]: Your email address
+                - textbox "Your email address" [ref=f140e256]:
+                  - /placeholder: Email*
+                - button "Next" [ref=f140e257] [cursor=pointer]
+              - generic [ref=f140e258]:
+                - complementary [ref=f140e259]:
+                  - heading "Share and comment" [level=2] [ref=f140e260]
+                  - generic [ref=f140e261]:
+                    - link "Share on Facebook" [ref=f140e262] [cursor=pointer]:
+                      - /url: https://www.facebook.com/dialog/share?app_id=507209817137444&href=https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/
+                    - link "Share on Twitter" [ref=f140e263] [cursor=pointer]:
+                      - /url: https://twitter.com/intent/tweet?via=dezeen&url=https%3A%2F%2Fwww.dezeen.com%2F2026%2F08%2F10%2Fai-architectural-renderings-eu-ai-act%2F&text=Realistic%20AI%20architectural%20renderings%20must%20be%20labelled%20under%20EU%20AI%20Act
+                    - generic "Share on Pinterest" [ref=f140e264] [cursor=pointer]
+                    - link "Share on Reddit" [ref=f140e265] [cursor=pointer]:
+                      - /url: http://reddit.com/submit?url=https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/&title=Realistic+AI+architectural+renderings+must+be+labelled+under+EU+AI+Act
+                    - link "Share on LinkedIn" [ref=f140e266] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/&title=Realistic%20AI%20architectural%20renderings%20must%20be%20labelled%20under%20EU%20AI%20Act
+                    - link "Share on Tumblr" [ref=f140e267] [cursor=pointer]:
+                      - /url: https://tumblr.com/widgets/share/photo?canonicalUrl=https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/&title=Realistic+AI+architectural+renderings+must+be+labelled+under+EU+AI+Act
+                  - link "23 comments" [ref=f140e269] [cursor=pointer]:
+                    - /url: "#disqus_thread"
+                - complementary [ref=f140e270]:
+                  - heading "More" [level=2] [ref=f140e271]
+                  - list [ref=f140e272]:
+                    - listitem [ref=f140e273]:
+                      - link "Series" [ref=f140e274] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/editorial-series/
+                    - listitem [ref=f140e275]:
+                      - link "Interviews" [ref=f140e276] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/interviews/
+                    - listitem [ref=f140e277]:
+                      - link "Opinion" [ref=f140e278] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/opinion/
+                    - listitem [ref=f140e279]:
+                      - link "Talks" [ref=f140e280] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/talks/
+                    - listitem [ref=f140e281]:
+                      - link "Videos" [ref=f140e282] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/videos/
+                    - listitem [ref=f140e283]:
+                      - link "Newsletters" [ref=f140e284] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/newsletters/
+                    - listitem [ref=f140e285]:
+                      - link "Podcasts" [ref=f140e286] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/podcasts/dezeenweekly/
+                - complementary [ref=f140e287]:
+                  - heading "Recommended stories" [level=4] [ref=f140e288]
+                  - list:
+                    - listitem [ref=f140e289]:
+                      - link [ref=f140e290] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/26/riksbyggen-swedens-smallest-apartments-housing-crisis-tangible/?li_source=LI&li_medium=bottom_block_1
+                        - figure [ref=f140e291]:
+                          - img "Miniature home in Sweden" [ref=f140e292]
+                        - paragraph [ref=f140e293]: Sweden's smallest apartments "make the housing crisis tangible"
+                    - listitem [ref=f140e294]:
+                      - link [ref=f140e295] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/31/burning-man-40-years-architects/?li_source=LI&li_medium=bottom_block_1
+                        - figure [ref=f140e296]:
+                          - img "Burning Man round up" [ref=f140e297]
+                        - paragraph [ref=f140e298]: Twelve installations by architects at Burning Man over the years
+                    - listitem [ref=f140e299]:
+                      - link [ref=f140e300] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/28/swift-build-robot-construction-foster-partners/?li_source=LI&li_medium=bottom_block_1
+                        - figure [ref=f140e301]:
+                          - img "SWIFT-Built robot construction by Foster + Partners" [ref=f140e302]
+                        - paragraph [ref=f140e303]: Foster + Partners unveils plans for robot construction project
+                    - listitem [ref=f140e304]:
+                      - link [ref=f140e305] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/25/digital-camouflage-shirt-ai-video-surveillance-simon-weckert/?li_source=LI&li_medium=bottom_block_1
+                        - figure [ref=f140e306]:
+                          - img "Digital Camouflage shirt by Simon Weckert" [ref=f140e307]
+                        - paragraph [ref=f140e308]: Simon Weckert creates Digital Camouflage shirt to avoid AI video surveillance
+                    - listitem [ref=f140e309]:
+                      - link [ref=f140e310] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/07/23/world-tallest-timber-tower-atlassian-central-sydney/?li_source=LI&li_medium=bottom_block_1
+                        - figure [ref=f140e311]:
+                          - img "Atlassian Central by SHoP Architects and BVN Architecture" [ref=f140e312]
+                        - paragraph [ref=f140e313]: World's tallest timber tower tops out in Sydney
+                    - listitem [ref=f140e314]:
+                      - link [ref=f140e315] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/13/jaguar-type-01-interior-launch-october/?li_source=LI&li_medium=bottom_block_1
+                        - figure [ref=f140e316]:
+                          - img "Jaguar Type 01 electric car interior" [ref=f140e317]
+                        - paragraph [ref=f140e318]: Jaguar reveals first look at Type 01's four-seat interior
+                    - listitem [ref=f140e319]:
+                      - link [ref=f140e320] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/24/manhattan-jail-hok-chinatown-construction/?li_source=LI&li_medium=bottom_block_1
+                        - figure [ref=f140e321]
+                        - paragraph [ref=f140e322]: Construction begins on world's tallest jail in Manhattan
+                    - listitem [ref=f140e323]:
+                      - link [ref=f140e324] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/?li_source=LI&li_medium=bottom_block_1
+                        - figure [ref=f140e325]:
+                          - img "Kennedy Center DC" [ref=f140e326]
+                        - paragraph [ref=f140e327]: US government may demolish Kennedy Center in favour of amphitheatre
+                - complementary "Recommended links" [ref=f140e328]:
+                  - heading [level=4] [ref=f140e329]:
+                    - link "Latest from Dezeen Showroom" [ref=f140e330] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/showroom/
+                  - list:
+                    - listitem [ref=f140e331]:
+                      - link [ref=f140e332] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/28/exa-tech-facade-tiles-exagres-dezeen-showroom/?li_source=LI&li_medium=recommendations_block
+                        - figure [ref=f140e333]:
+                          - img "Exa-tech tiles by Exagres" [ref=f140e334]
+                        - paragraph [ref=f140e335]: Exa-tech facade tiles by Exagres
+                    - listitem [ref=f140e336]:
+                      - link [ref=f140e337] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/28/lighting-furniture-accessories-seating-australian-brands-dezeen-showroom/?li_source=LI&li_medium=recommendations_block
+                        - figure [ref=f140e338]:
+                          - img "Sail table by Tom Fereday for Design By Them" [ref=f140e339]
+                        - paragraph [ref=f140e340]: Eight furnishings by Australian brands
+                    - listitem [ref=f140e341]:
+                      - link [ref=f140e342] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/24/artis-sense-artis-frame-christian-haas-villeroy-boch-dezeen-showroom/?li_source=LI&li_medium=recommendations_block
+                        - figure [ref=f140e343]:
+                          - img "Artis Sense and Artis Frame by Christian Haas for Villeroy & Boch" [ref=f140e344]
+                        - paragraph [ref=f140e345]: Artis Sense and Artis Frame by Christian Haas for Villeroy & Boch
+                    - listitem [ref=f140e346]:
+                      - link [ref=f140e347] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/17/new-colour-palette-by-raffaella-mangiarotti-lapalma-dezeen-showroom/?li_source=LI&li_medium=recommendations_block
+                        - figure [ref=f140e348]:
+                          - img "New colour palette by Raffaella Mangiarotti and Lapalma" [ref=f140e349]
+                        - paragraph [ref=f140e350]: New colour palette by Raffaella Mangiarotti and Lapalma
+                    - listitem [ref=f140e351]:
+                      - link [ref=f140e352] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/14/kitchens-chairs-seating-tables-lighting-wood-timber-dezeen-showroom/?li_source=LI&li_medium=recommendations_block
+                        - figure [ref=f140e353]:
+                          - img "Theo folding chair by Matteo Thun and Benedetto Fasciana for Plank" [ref=f140e354]
+                        - paragraph [ref=f140e355]: Eight products that showcase the versatility of wood
+                    - listitem [ref=f140e356]:
+                      - link [ref=f140e357] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/08/11/antao-earth-washbasins-kaschkasch-villeroy-boch-dezeen-showroom/?li_source=LI&li_medium=recommendations_block
+                        - figure [ref=f140e358]:
+                          - img "Antao Earth washbasins by KaschKasch and Villeroy & Boch" [ref=f140e359]
+                        - paragraph [ref=f140e360]: Antao Earth washbasins by KaschKasch and Villeroy & Boch
+                    - listitem [ref=f140e361]:
+                      - link [ref=f140e362] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/07/30/flo-wall-light-soktas-dezeen-showroom/?li_source=LI&li_medium=recommendations_block
+                        - figure [ref=f140e363]:
+                          - img "Flo wall light by Soktas" [ref=f140e364]
+                        - paragraph [ref=f140e365]: Flo wall light by Soktas
+                    - listitem [ref=f140e366]:
+                      - link [ref=f140e367] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/07/28/linde-chair-table-out-furnishings-flooring-seating-dezeen-showroom/?li_source=LI&li_medium=recommendations_block
+                        - figure [ref=f140e368]
+                        - paragraph [ref=f140e369]: Linde chair and table by OUT among five new products on Dezeen Showroom
+                - complementary [ref=f140e370]:
+                  - heading "Comments" [level=2] [ref=f140e371]
+                  - paragraph [ref=f140e372]:
+                    - link "Visit our comments page" [ref=f140e373] [cursor=pointer]:
+                      - /url: /comments
+                    - text: "|"
+                    - link "Read our comments policy" [ref=f140e374] [cursor=pointer]:
+                      - /url: /dezeens-comments-policy
+                  - iframe [ref=f140e376]:
+                    - generic [ref=f144e1]:
+                      - status [ref=f144e2]
+                      - generic [ref=f144e7]:
+                        - banner [ref=f144e8]:
+                          - navigation [ref=f144e10]:
+                            - list:
+                              - listitem [ref=f144e11]:
+                                - generic [ref=f144e12]: 23 comments
+                              - listitem [ref=f144e14]:
+                                - list:
+                                  - listitem [ref=f144e15]:
+                                    - link "1" [ref=f144e16] [cursor=pointer]:
+                                      - /url: https://disqus.com/home/notifications/
+                                      - generic [aria-hidden] [ref=f144e17]: 
+                                  - listitem [ref=f144e19]:
+                                    - button "Login" [ref=f144e20] [cursor=pointer]
+                        - generic [ref=f144e24]:
+                          - generic [ref=f144e27]:
+                            - alert
+                            - generic [ref=f144e28]:
+                              - img "Avatar" [ref=f144e31]
+                              - generic [ref=f144e34]:
+                                - generic [ref=f144e35]: Join the discussion…
+                                - textbox [ref=f144e36]
+                            - generic [ref=f144e41]:
+                              - generic [ref=f144e42]:
+                                - heading "Log in with" [level=6] [ref=f144e43]
+                                - list [ref=f144e44]:
+                                  - listitem [ref=f144e45]:
+                                    - button "Login with Disqus" [ref=f144e46] [cursor=pointer]:
+                                      - generic [ref=f144e47]: d
+                                  - listitem [ref=f144e48]:
+                                    - button "Login with Facebook" [ref=f144e49] [cursor=pointer]:
+                                      - generic [ref=f144e50]: F
+                                  - listitem [ref=f144e51]:
+                                    - button "Login with X (Twitter)" [ref=f144e52] [cursor=pointer]:
+                                      - generic [ref=f144e53]: 
+                                  - listitem [ref=f144e54]:
+                                    - button "Login with Google" [ref=f144e55] [cursor=pointer]:
+                                      - generic [ref=f144e56]: G
+                                  - listitem [ref=f144e57]:
+                                    - button "Login with Microsoft" [ref=f144e58] [cursor=pointer]
+                                  - listitem [ref=f144e59]:
+                                    - button "Login with Apple" [ref=f144e60] [cursor=pointer]
+                              - generic [ref=f144e61]:
+                                - generic [ref=f144e62]:
+                                  - heading "or sign up with Disqus" [level=6] [ref=f144e63]
+                                  - button "?" [ref=f144e65] [cursor=pointer]
+                                - paragraph [ref=f144e66]:
+                                  - textbox "name" [ref=f144e67]:
+                                    - /placeholder: Name
+                                - text: → →
+                          - list [ref=f144e70]:
+                            - listitem [ref=f144e71]:
+                              - link "Favorite this discussion" [ref=f144e75] [cursor=pointer]:
+                                - /url: "#"
+                                - generic [ref=f144e76]: 
+                                - text: 
+                              - link "Share" [ref=f144e82] [cursor=pointer]:
+                                - /url: "#"
+                            - listitem [ref=f144e83]:
+                              - list [ref=f144e84]:
+                                - listitem [ref=f144e85]:
+                                  - link "Best" [ref=f144e86] [cursor=pointer]:
+                                    - /url: "#"
+                                - listitem [ref=f144e87]:
+                                  - link "Newest" [ref=f144e88] [cursor=pointer]:
+                                    - /url: "#"
+                                - listitem [ref=f144e89]:
+                                  - link "Oldest" [ref=f144e90] [cursor=pointer]:
+                                    - /url: "#"
+                          - list [ref=f144e91]:
+                            - listitem [ref=f144e92]:
+                              - alert
+                              - 'article "Comment by Luca Silenzi , We have been operating our own “artificial intelligence” for centuries, together with our very human algorithms, on all intellectual output, both images and text, and much of that output would meet the Article 50 flag: we imposed perspectives, straightened villas in print, sanitized competition views, and then deemed the gap between the image and reality an acceptable tolerance. https://medium.com/design-bootcamp/the-friedrichstrasse-deepfake-9100720ff3bc" [ref=f144e93]':
+                                - list [ref=f144e95]:
+                                  - listitem [ref=f144e96]:
+                                    - link "−" [ref=f144e97] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e98]:
+                                    - button "Post menu" [ref=f144e100] [cursor=pointer]
+                                - button "Avatar for Luca Silenzi, profile card button" [ref=f144e103] [cursor=pointer]:
+                                  - img "Avatar for Luca Silenzi" [ref=f144e104]
+                                - generic [ref=f144e105]:
+                                  - generic [ref=f144e106]:
+                                    - generic [ref=f144e108]:
+                                      - link "View profile for Luca Silenzi" [ref=f144e110] [cursor=pointer]:
+                                        - /url: https://disqus.com/by/lucasilenzi/
+                                        - text: Luca Silenzi
+                                      - generic "Follow" [ref=f144e112] [cursor=pointer]
+                                    - link "25 days ago" [ref=f144e114] [cursor=pointer]:
+                                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6924431894
+                                  - generic [ref=f144e117]:
+                                    - paragraph [ref=f144e120]:
+                                      - text: "We have been operating our own “artificial intelligence” for centuries, together with our very human algorithms, on all intellectual output, both images and text, and much of that output would meet the Article 50 flag: we imposed perspectives, straightened villas in print, sanitized competition views, and then deemed the gap between the image and reality an acceptable tolerance."
+                                      - link "https://medium.com/design-bootcamp/the-friedrichstrasse-deepfake-9100720ff3bc" [ref=f144e121] [cursor=pointer]:
+                                        - /url: https://disq.us/url?url=https%3A%2F%2Fmedium.com%2Fdesign-bootcamp%2Fthe-friedrichstrasse-deepfake-9100720ff3bc%3AG8zXzr8pXjh6Z1EcS3eVdY_DUp4&cuid=2520325
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e123]:
+                                    - listitem [ref=f144e124]:
+                                      - generic [ref=f144e125]:
+                                        - button "Vote up, 1 votes" [ref=f144e126] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e128]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 0 votes" [ref=f144e129] [cursor=pointer]:
+                                          - text: "0"
+                                          - generic [ref=f144e131]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e132]:
+                                      - link "Reply" [ref=f144e133] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e134]:
+                                      - link "Share ›" [ref=f144e135] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - generic:
+                                - list
+                            - listitem [ref=f144e137]:
+                              - alert
+                              - article "Comment by thinkagain , When a digital image that has been created by AI is indistinguishable enough from reality to deceive anyone in any situation, the need to undo that seems unarguable. AI digital art pieces by known AI artists are often distinguishable by association, but disconnected from that association, not always. If the artists were to sign their digital AI work as painters do, wouldn't it be easy to manipulate unlike a hard painting? I welcome this new AI act as I am weary of guessing and being deceived enough as well the mistrust it ensues. This all after suffering the damage of years of photoshopped images, so I am sure the AI act will serve us all well and evolve as needed." [ref=f144e138]:
+                                - list [ref=f144e140]:
+                                  - listitem [ref=f144e141]:
+                                    - link "−" [ref=f144e142] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e143]:
+                                    - button "Post menu" [ref=f144e145] [cursor=pointer]
+                                - button "Avatar for thinkagain, profile card button" [ref=f144e148] [cursor=pointer]:
+                                  - img "Avatar for thinkagain" [ref=f144e149]
+                                - generic [ref=f144e150]:
+                                  - generic [ref=f144e151]:
+                                    - generic [ref=f144e153]:
+                                      - link "View profile for thinkagain" [ref=f144e155] [cursor=pointer]:
+                                        - /url: https://disqus.com/by/disqus_hSUUMYKnG6/
+                                        - text: thinkagain
+                                      - generic "Follow" [ref=f144e157] [cursor=pointer]
+                                    - generic [ref=f144e158]:
+                                      - link "a month ago" [ref=f144e159] [cursor=pointer]:
+                                        - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6923362130
+                                      - generic [ref=f144e160]: edited
+                                  - generic [ref=f144e163]:
+                                    - generic [ref=f144e165]:
+                                      - paragraph [ref=f144e166]: When a digital image that has been created by AI is indistinguishable enough from reality to deceive anyone in any situation, the need to undo that seems unarguable. AI digital art pieces by known AI artists are often distinguishable by association, but disconnected from that association, not always.
+                                      - paragraph [ref=f144e167]: If the artists were to sign their digital AI work as painters do, wouldn't it be easy to manipulate unlike a hard painting? I welcome this new AI act as I am weary of guessing and being deceived enough as well the mistrust it ensues. This all after suffering the damage of years of photoshopped images, so I am sure the AI act will serve us all well and evolve as needed.
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e169]:
+                                    - listitem [ref=f144e170]:
+                                      - generic [ref=f144e171]:
+                                        - button "Vote up, 0 votes" [ref=f144e172] [cursor=pointer]:
+                                          - text: "0"
+                                          - generic [ref=f144e174]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 1 votes" [ref=f144e175] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e177]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e178]:
+                                      - link "Reply" [ref=f144e179] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e180]:
+                                      - link "Share ›" [ref=f144e181] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - generic:
+                                - list
+                            - listitem [ref=f144e183]:
+                              - alert
+                              - article "Comment by Disqus , People who are not able to tell what's generated by AI should not be allowed to punish those who are able to. How is it different from Albrecht Durer painting something that was not real? Like a beautiful woman? Should he have plastered \"Imaginary\" across the painting so fools like you could tell?!" [ref=f144e184]:
+                                - list [ref=f144e186]:
+                                  - listitem [ref=f144e187]:
+                                    - link "−" [ref=f144e188] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e189]:
+                                    - button "Post menu" [ref=f144e191] [cursor=pointer]
+                                - img "Avatar" [ref=f144e195]
+                                - generic [ref=f144e196]:
+                                  - generic [ref=f144e197]:
+                                    - generic [ref=f144e198]: Disqus
+                                    - link "a month ago" [ref=f144e200] [cursor=pointer]:
+                                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6923145985
+                                  - generic [ref=f144e203]:
+                                    - paragraph [ref=f144e206]: People who are not able to tell what's generated by AI should not be allowed to punish those who are able to. How is it different from Albrecht Durer painting something that was not real? Like a beautiful woman? Should he have plastered "Imaginary" across the painting so fools like you could tell?!
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e208]:
+                                    - listitem [ref=f144e209]:
+                                      - generic [ref=f144e210]:
+                                        - button "Vote up, 1 votes" [ref=f144e211] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e213]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 1 votes" [ref=f144e214] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e216]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e217]:
+                                      - link "Reply" [ref=f144e218] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e219]:
+                                      - link "Share ›" [ref=f144e220] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - generic:
+                                - list
+                            - listitem [ref=f144e222]:
+                              - alert
+                              - article "Comment by Ken Steffes , Yes , 100 per cent AI should be identified as such. If you grow up with AI technology and have never seen the real thing. AI will become your reality. This is very dangerous. A simple AI water mark will can avoid a future generation full of AI fakes preserved as the real thing. AI is not reality." [ref=f144e223]:
+                                - list [ref=f144e225]:
+                                  - listitem [ref=f144e226]:
+                                    - link "−" [ref=f144e227] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e228]:
+                                    - button "Post menu" [ref=f144e230] [cursor=pointer]
+                                - button "Avatar for Ken Steffes, profile card button" [ref=f144e233] [cursor=pointer]:
+                                  - img "Avatar for Ken Steffes" [ref=f144e234]
+                                - generic [ref=f144e235]:
+                                  - generic [ref=f144e236]:
+                                    - generic [ref=f144e238]:
+                                      - link "View profile for Ken Steffes" [ref=f144e240] [cursor=pointer]:
+                                        - /url: https://disqus.com/by/kensteffes/
+                                        - text: Ken Steffes
+                                      - generic "Follow" [ref=f144e242] [cursor=pointer]
+                                    - generic [ref=f144e243]:
+                                      - link "a month ago" [ref=f144e244] [cursor=pointer]:
+                                        - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6923099057
+                                      - generic [ref=f144e245]: edited
+                                  - generic [ref=f144e248]:
+                                    - paragraph [ref=f144e251]: Yes , 100 per cent AI should be identified as such. If you grow up with AI technology and have never seen the real thing. AI will become your reality. This is very dangerous. A simple AI water mark will can avoid a future generation full of AI fakes preserved as the real thing. AI is not reality.
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e253]:
+                                    - listitem [ref=f144e254]:
+                                      - generic [ref=f144e255]:
+                                        - button "Vote up, 1 votes" [ref=f144e256] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e258]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 1 votes" [ref=f144e259] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e261]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e262]:
+                                      - link "Reply" [ref=f144e263] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e264]:
+                                      - link "Share ›" [ref=f144e265] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - generic:
+                                - list
+                            - listitem [ref=f144e267]:
+                              - alert
+                              - article "Comment by Andrew S.t.y.l.ish , It will take a long time before AI images will become \"realistic\". The rendering you used to illustrate this article is a pure deep fake. The point of view is at a flying drone level. The light on the facade must be coming from an UFO that is passing by. The dramatic cloudy sky makes nonsense out of the stark shadows cast by the humans. What time of the day it is? The brightly lit windows suggest nighttime. Has anyone ever seen a stone facade projecting mildly radioactive glow in peacetime conditions? I could go forever and ever." [ref=f144e268]:
+                                - list [ref=f144e270]:
+                                  - listitem [ref=f144e271]:
+                                    - link "−" [ref=f144e272] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e273]:
+                                    - button "Post menu" [ref=f144e275] [cursor=pointer]
+                                - button "Avatar for Andrew S.t.y.l.ish, profile card button" [ref=f144e278] [cursor=pointer]:
+                                  - img "Avatar for Andrew S.t.y.l.ish" [ref=f144e279]
+                                - generic [ref=f144e280]:
+                                  - generic [ref=f144e281]:
+                                    - link "View profile for Andrew S.t.y.l.ish" [ref=f144e285] [cursor=pointer]:
+                                      - /url: https://disqus.com/by/andrew_stys/
+                                      - text: Andrew S.t.y.l.ish
+                                    - link "a month ago" [ref=f144e287] [cursor=pointer]:
+                                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6922937695
+                                  - generic [ref=f144e290]:
+                                    - paragraph [ref=f144e293]: It will take a long time before AI images will become "realistic". The rendering you used to illustrate this article is a pure deep fake. The point of view is at a flying drone level. The light on the facade must be coming from an UFO that is passing by. The dramatic cloudy sky makes nonsense out of the stark shadows cast by the humans. What time of the day it is? The brightly lit windows suggest nighttime. Has anyone ever seen a stone facade projecting mildly radioactive glow in peacetime conditions? I could go forever and ever.
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e295]:
+                                    - listitem [ref=f144e296]:
+                                      - generic [ref=f144e297]:
+                                        - button "Vote up, 1 votes" [ref=f144e298] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e300]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 0 votes" [ref=f144e301] [cursor=pointer]:
+                                          - text: "0"
+                                          - generic [ref=f144e303]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e304]:
+                                      - link "Reply" [ref=f144e305] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e306]:
+                                      - link "Share ›" [ref=f144e307] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - generic:
+                                - list
+                            - listitem [ref=f144e309]:
+                              - alert
+                              - article "Comment by Julian , \"Mere retouching with AI – such as cropping, colour correction, compression or replacing a background – is exempt from the rules.\". Anthropic is already planning to label all text it creates as generated by AI. The image and 3D program suppliers won't take the risk of not doing the same. Cameras with AI processing will have to label every photo by default. Therefore, in future every single drawing, photograph, 3D model, product image, product description, planning application, design brief etc. will be labelled as having been created with AI. How exactly is that going to help anyone?" [ref=f144e310]:
+                                - list [ref=f144e312]:
+                                  - listitem [ref=f144e313]:
+                                    - link "−" [ref=f144e314] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e315]:
+                                    - button "Post menu" [ref=f144e317] [cursor=pointer]
+                                - button "Avatar for Julian, profile card button" [ref=f144e320] [cursor=pointer]:
+                                  - img "Avatar for Julian" [ref=f144e321]
+                                - generic [ref=f144e322]:
+                                  - generic [ref=f144e323]:
+                                    - generic [ref=f144e325]:
+                                      - link "View profile for Julian" [ref=f144e327] [cursor=pointer]:
+                                        - /url: https://disqus.com/by/disqus_gkYVB6yTsY/
+                                        - text: Julian
+                                      - generic "Follow" [ref=f144e329] [cursor=pointer]
+                                    - link "a month ago" [ref=f144e331] [cursor=pointer]:
+                                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6922925349
+                                  - generic [ref=f144e334]:
+                                    - paragraph [ref=f144e337]: "\"Mere retouching with AI – such as cropping, colour correction, compression or replacing a background – is exempt from the rules.\".Anthropic is already planning to label all text it creates as generated by AI. The image and 3D program suppliers won't take the risk of not doing the same. Cameras with AI processing will have to label every photo by default. Therefore, in future every single drawing, photograph, 3D model, product image, product description, planning application, design brief etc. will be labelled as having been created with AI.How exactly is that going to help anyone?"
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e339]:
+                                    - listitem [ref=f144e340]:
+                                      - generic [ref=f144e341]:
+                                        - button "Vote up, 1 votes" [ref=f144e342] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e344]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 0 votes" [ref=f144e345] [cursor=pointer]:
+                                          - text: "0"
+                                          - generic [ref=f144e347]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e348]:
+                                      - link "Reply" [ref=f144e349] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e350]:
+                                      - link "Share ›" [ref=f144e351] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - list [ref=f144e354]:
+                                - listitem [ref=f144e355]:
+                                  - alert
+                                  - article "Comment by Ken Steffes , in reply to Julian When it comes to making money. AI law will come too little to late. Anthropic is so far the only company protecting humans from AI software. They would not give the current FACIST US government maga republican administration total control of AI war software and chose to lose billions of dollars for the good of the world. Good on them!" [ref=f144e356]:
+                                    - list [ref=f144e358]:
+                                      - listitem [ref=f144e359]:
+                                        - link "−" [ref=f144e360] [cursor=pointer]:
+                                          - /url: "#"
+                                      - listitem [ref=f144e361]:
+                                        - button "Post menu" [ref=f144e363] [cursor=pointer]
+                                    - button "Avatar for Ken Steffes, profile card button" [ref=f144e366] [cursor=pointer]:
+                                      - img "Avatar for Ken Steffes" [ref=f144e367]
+                                    - generic [ref=f144e368]:
+                                      - generic [ref=f144e369]:
+                                        - generic [ref=f144e370]:
+                                          - generic [ref=f144e371]:
+                                            - link "View profile for Ken Steffes" [ref=f144e373] [cursor=pointer]:
+                                              - /url: https://disqus.com/by/kensteffes/
+                                              - text: Ken Steffes
+                                            - generic "Follow" [ref=f144e375] [cursor=pointer]
+                                          - link "in reply to Julian" [ref=f144e377] [cursor=pointer]:
+                                            - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6922925349
+                                            - generic "in reply to" [ref=f144e378]: ">"
+                                            - text: Julian
+                                        - generic [ref=f144e379]:
+                                          - link "a month ago" [ref=f144e380] [cursor=pointer]:
+                                            - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6923102328
+                                          - generic [ref=f144e381]: edited
+                                      - generic [ref=f144e384]:
+                                        - paragraph [ref=f144e387]: When it comes to making money. AI law will come too little to late. Anthropic is so far the only company protecting humans from AI software. They would not give the current FACIST US government maga republican administration total control of AI war software and chose to lose billions of dollars for the good of the world. Good on them!
+                                        - generic:
+                                          - list
+                                      - list [ref=f144e389]:
+                                        - listitem [ref=f144e390]:
+                                          - generic [ref=f144e391]:
+                                            - button "Vote up, 0 votes" [ref=f144e392] [cursor=pointer]:
+                                              - text: "0"
+                                              - generic [ref=f144e394]: Press the down arrow key to see users who liked this
+                                            - button "Vote down, 1 votes" [ref=f144e395] [cursor=pointer]:
+                                              - text: "1"
+                                              - generic [ref=f144e397]: Press the down arrow key to see users who disliked this
+                                        - listitem [ref=f144e398]:
+                                          - link "Reply" [ref=f144e399] [cursor=pointer]:
+                                            - /url: "#"
+                                        - listitem [ref=f144e400]:
+                                          - link "Share ›" [ref=f144e401] [cursor=pointer]:
+                                            - /url: "#"
+                                            - text: ⥅
+                                        - listitem: ✏
+                                  - generic:
+                                    - list
+                            - listitem [ref=f144e403]:
+                              - alert
+                              - article "Comment by Rad4Cap , \"the content has been artificially generated or manipulated.\" LOL. As opposed to content that has been 'naturally generated or manipulated'?! EU once again proving the fact that it REJECTS the individual's rights - including the right of Free Speech." [ref=f144e404]:
+                                - list [ref=f144e406]:
+                                  - listitem [ref=f144e407]:
+                                    - link "−" [ref=f144e408] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e409]:
+                                    - button "Post menu" [ref=f144e411] [cursor=pointer]
+                                - button "Avatar for Rad4Cap, profile card button" [ref=f144e414] [cursor=pointer]:
+                                  - img "Avatar for Rad4Cap" [ref=f144e415]
+                                - generic [ref=f144e416]:
+                                  - generic [ref=f144e417]:
+                                    - link "View profile for Rad4Cap" [ref=f144e421] [cursor=pointer]:
+                                      - /url: https://disqus.com/by/rad4cap/
+                                      - text: Rad4Cap
+                                    - generic [ref=f144e422]:
+                                      - link "a month ago" [ref=f144e423] [cursor=pointer]:
+                                        - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6922066189
+                                      - generic [ref=f144e424]: edited
+                                  - generic [ref=f144e427]:
+                                    - generic [ref=f144e429]:
+                                      - paragraph [ref=f144e430]: "\"the content has been artificially generated or manipulated.\""
+                                      - paragraph [ref=f144e431]: LOL. As opposed to content that has been 'naturally generated or manipulated'?!
+                                      - paragraph [ref=f144e432]: EU once again proving the fact that it REJECTS the individual's rights - including the right of Free Speech.
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e434]:
+                                    - listitem [ref=f144e435]:
+                                      - generic [ref=f144e436]:
+                                        - button "Vote up, 1 votes" [ref=f144e437] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e439]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 0 votes" [ref=f144e440] [cursor=pointer]:
+                                          - text: "0"
+                                          - generic [ref=f144e442]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e443]:
+                                      - link "Reply" [ref=f144e444] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e445]:
+                                      - link "Share ›" [ref=f144e446] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - generic:
+                                - list
+                            - listitem [ref=f144e448]:
+                              - alert
+                              - article "Comment by Giulio , It is safer, easier and better the other way around. Allow the labelling of NO AI, same as NO OGM or BIO on product that are NO AI. Then also softwares should do the same, to make sure there is no AI involved if used. We may end up with warnings like \"product produced with softwares with small quantities or traces of AI\" similar to allergy warnings. How can a rock hold back the sea?" [ref=f144e449]:
+                                - list [ref=f144e451]:
+                                  - listitem [ref=f144e452]:
+                                    - link "−" [ref=f144e453] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e454]:
+                                    - button "Post menu" [ref=f144e456] [cursor=pointer]
+                                - img "Avatar" [ref=f144e460]
+                                - generic [ref=f144e461]:
+                                  - generic [ref=f144e462]:
+                                    - generic [ref=f144e463]: Giulio
+                                    - generic [ref=f144e464]:
+                                      - link "a month ago" [ref=f144e465] [cursor=pointer]:
+                                        - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6921869577
+                                      - generic [ref=f144e466]: edited
+                                  - generic [ref=f144e469]:
+                                    - paragraph [ref=f144e472]: It is safer, easier and better the other way around. Allow the labelling of NO AI, same as NO OGM or BIO on product that are NO AI. Then also softwares should do the same, to make sure there is no AI involved if used. We may end up with warnings like "product produced with softwares with small quantities or traces of AI" similar to allergy warnings. How can a rock hold back the sea?
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e474]:
+                                    - listitem [ref=f144e475]:
+                                      - generic [ref=f144e476]:
+                                        - button "Vote up, 0 votes" [ref=f144e477] [cursor=pointer]:
+                                          - text: "0"
+                                          - generic [ref=f144e479]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 1 votes" [ref=f144e480] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e482]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e483]:
+                                      - link "Reply" [ref=f144e484] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e485]:
+                                      - link "Share ›" [ref=f144e486] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - generic:
+                                - list
+                            - listitem [ref=f144e488]:
+                              - alert
+                              - article "Comment by Milton Welch , I went straight to check some FLR renderings without reading this post. Just to make sure that I am alive as a human. Right after I spent time slowly licking my finger and turning the pages of 20 lb heavy volume of \"Case Study Houses\". For the same reason." [ref=f144e489]:
+                                - list [ref=f144e491]:
+                                  - listitem [ref=f144e492]:
+                                    - link "−" [ref=f144e493] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e494]:
+                                    - button "Post menu" [ref=f144e496] [cursor=pointer]
+                                - button "Avatar for Milton Welch, profile card button" [ref=f144e499] [cursor=pointer]:
+                                  - img "Avatar for Milton Welch" [ref=f144e500]
+                                - generic [ref=f144e501]:
+                                  - generic [ref=f144e502]:
+                                    - link "View profile for Milton Welch" [ref=f144e506] [cursor=pointer]:
+                                      - /url: https://disqus.com/by/milutinvelimirovich/
+                                      - text: Milton Welch
+                                    - link "a month ago" [ref=f144e508] [cursor=pointer]:
+                                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920419052
+                                  - generic [ref=f144e511]:
+                                    - paragraph [ref=f144e514]: I went straight to check some FLR renderings without reading this post. Just to make sure that I am alive as a human.Right after I spent time slowly licking my finger and turning the pages of 20 lb heavy volume of "Case Study Houses".For the same reason.
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e516]:
+                                    - listitem [ref=f144e517]:
+                                      - generic [ref=f144e518]:
+                                        - button "Vote up, 0 votes" [ref=f144e519] [cursor=pointer]:
+                                          - text: "0"
+                                          - generic [ref=f144e521]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 0 votes" [ref=f144e522] [cursor=pointer]:
+                                          - text: "0"
+                                          - generic [ref=f144e524]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e525]:
+                                      - link "Reply" [ref=f144e526] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e527]:
+                                      - link "Share ›" [ref=f144e528] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - generic:
+                                - list
+                            - listitem [ref=f144e530]:
+                              - alert
+                              - article "Comment by apsco radiales , We have finally reached the panacea that Autodesk has been peddling for a long time. \"With this new version of AutoCAD – sorry, it's Revit now, and with one press of the Enter key, all your drawings will be done in less than an hour!\". Glad I'm retired." [ref=f144e531]:
+                                - list [ref=f144e533]:
+                                  - listitem [ref=f144e534]:
+                                    - link "−" [ref=f144e535] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e536]:
+                                    - button "Post menu" [ref=f144e538] [cursor=pointer]
+                                - button "Avatar for apsco radiales, profile card button" [ref=f144e541] [cursor=pointer]:
+                                  - img "Avatar for apsco radiales" [ref=f144e542]
+                                - generic [ref=f144e543]:
+                                  - generic [ref=f144e544]:
+                                    - generic [ref=f144e546]:
+                                      - link "View profile for apsco radiales" [ref=f144e548] [cursor=pointer]:
+                                        - /url: https://disqus.com/by/apscoradiales/
+                                        - text: apsco radiales
+                                      - generic "Follow" [ref=f144e550] [cursor=pointer]
+                                    - generic [ref=f144e551]:
+                                      - link "a month ago" [ref=f144e552] [cursor=pointer]:
+                                        - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920016191
+                                      - generic [ref=f144e553]: edited
+                                  - generic [ref=f144e556]:
+                                    - paragraph [ref=f144e559]: We have finally reached the panacea that Autodesk has been peddling for a long time."With this new version of AutoCAD – sorry, it's Revit now, and with one press of the Enter key, all your drawings will be done in less than an hour!".Glad I'm retired.
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e561]:
+                                    - listitem [ref=f144e562]:
+                                      - generic [ref=f144e563]:
+                                        - button "Vote up, 1 votes" [ref=f144e564] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e566]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 1 votes" [ref=f144e567] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e569]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e570]:
+                                      - link "Reply" [ref=f144e571] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e572]:
+                                      - link "Share ›" [ref=f144e573] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - list [ref=f144e576]:
+                                - listitem [ref=f144e577]:
+                                  - alert
+                                  - article "Comment by Architect incognito , in reply to apsco radiales So are we ;)" [ref=f144e578]:
+                                    - list [ref=f144e580]:
+                                      - listitem [ref=f144e581]:
+                                        - link "−" [ref=f144e582] [cursor=pointer]:
+                                          - /url: "#"
+                                      - listitem [ref=f144e583]:
+                                        - button "Post menu" [ref=f144e585] [cursor=pointer]
+                                    - button "Avatar for Architect incognito, profile card button" [ref=f144e588] [cursor=pointer]:
+                                      - img "Avatar for Architect incognito" [ref=f144e589]
+                                    - generic [ref=f144e590]:
+                                      - generic [ref=f144e591]:
+                                        - generic [ref=f144e592]:
+                                          - link "View profile for Architect incognito" [ref=f144e595] [cursor=pointer]:
+                                            - /url: https://disqus.com/by/architectincognito/
+                                            - text: Architect incognito
+                                          - link "in reply to apsco radiales" [ref=f144e597] [cursor=pointer]:
+                                            - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920016191
+                                            - generic "in reply to" [ref=f144e598]: ">"
+                                            - text: apsco radiales
+                                        - link "a month ago" [ref=f144e600] [cursor=pointer]:
+                                          - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920723612
+                                      - generic [ref=f144e603]:
+                                        - paragraph [ref=f144e606]: So are we ;)
+                                        - generic:
+                                          - list
+                                      - list [ref=f144e608]:
+                                        - listitem [ref=f144e609]:
+                                          - generic [ref=f144e610]:
+                                            - button "Vote up, 0 votes" [ref=f144e611] [cursor=pointer]:
+                                              - text: "0"
+                                              - generic [ref=f144e613]: Press the down arrow key to see users who liked this
+                                            - button "Vote down, 1 votes" [ref=f144e614] [cursor=pointer]:
+                                              - text: "1"
+                                              - generic [ref=f144e616]: Press the down arrow key to see users who disliked this
+                                        - listitem [ref=f144e617]:
+                                          - link "Reply" [ref=f144e618] [cursor=pointer]:
+                                            - /url: "#"
+                                        - listitem [ref=f144e619]:
+                                          - link "Share ›" [ref=f144e620] [cursor=pointer]:
+                                            - /url: "#"
+                                            - text: ⥅
+                                        - listitem: ✏
+                                  - generic:
+                                    - list
+                            - listitem [ref=f144e622]:
+                              - alert
+                              - article "Comment by bfdd , EU remains so far ahead of this compared to the USA, where basically every large firm now is just pumping out AI images for their proposals in a race to the bottom that seems to benefit no one." [ref=f144e623]:
+                                - list [ref=f144e625]:
+                                  - listitem [ref=f144e626]:
+                                    - link "−" [ref=f144e627] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e628]:
+                                    - button "Post menu" [ref=f144e630] [cursor=pointer]
+                                - img "Avatar" [ref=f144e634]
+                                - generic [ref=f144e635]:
+                                  - generic [ref=f144e636]:
+                                    - generic [ref=f144e637]: bfdd
+                                    - link "a month ago" [ref=f144e639] [cursor=pointer]:
+                                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6919950683
+                                  - generic [ref=f144e642]:
+                                    - paragraph [ref=f144e645]: EU remains so far ahead of this compared to the USA, where basically every large firm now is just pumping out AI images for their proposals in a race to the bottom that seems to benefit no one.
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e647]:
+                                    - listitem [ref=f144e648]:
+                                      - generic [ref=f144e649]:
+                                        - button "Vote up, 4 votes" [ref=f144e650] [cursor=pointer]:
+                                          - text: "4"
+                                          - generic [ref=f144e652]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 2 votes" [ref=f144e653] [cursor=pointer]:
+                                          - text: "2"
+                                          - generic [ref=f144e655]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e656]:
+                                      - link "Reply" [ref=f144e657] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e658]:
+                                      - link "Share ›" [ref=f144e659] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - list [ref=f144e662]:
+                                - listitem [ref=f144e663]:
+                                  - alert
+                                  - article "Comment by Rad4Cap , in reply to bfdd \"EU remains so far ahead of this compared to the USA\" Indeed, the EU is VERY \"far ahead\" of the USA in VIOLATING the individual's rights to his OWN life and his OWN effort." [ref=f144e664]:
+                                    - list [ref=f144e666]:
+                                      - listitem [ref=f144e667]:
+                                        - link "−" [ref=f144e668] [cursor=pointer]:
+                                          - /url: "#"
+                                      - listitem [ref=f144e669]:
+                                        - button "Post menu" [ref=f144e671] [cursor=pointer]
+                                    - button "Avatar for Rad4Cap, profile card button" [ref=f144e674] [cursor=pointer]:
+                                      - img "Avatar for Rad4Cap" [ref=f144e675]
+                                    - generic [ref=f144e676]:
+                                      - generic [ref=f144e677]:
+                                        - generic [ref=f144e678]:
+                                          - link "View profile for Rad4Cap" [ref=f144e681] [cursor=pointer]:
+                                            - /url: https://disqus.com/by/rad4cap/
+                                            - text: Rad4Cap
+                                          - link "in reply to bfdd" [ref=f144e683] [cursor=pointer]:
+                                            - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6919950683
+                                            - generic "in reply to" [ref=f144e684]: ">"
+                                            - text: bfdd
+                                        - link "a month ago" [ref=f144e686] [cursor=pointer]:
+                                          - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6922066487
+                                      - generic [ref=f144e689]:
+                                        - generic [ref=f144e691]:
+                                          - paragraph [ref=f144e692]: "\"EU remains so far ahead of this compared to the USA\""
+                                          - paragraph [ref=f144e693]: Indeed, the EU is VERY "far ahead" of the USA in VIOLATING the individual's rights to his OWN life and his OWN effort.
+                                        - generic:
+                                          - list
+                                      - list [ref=f144e695]:
+                                        - listitem [ref=f144e696]:
+                                          - generic [ref=f144e697]:
+                                            - button "Vote up, 1 votes" [ref=f144e698] [cursor=pointer]:
+                                              - text: "1"
+                                              - generic [ref=f144e700]: Press the down arrow key to see users who liked this
+                                            - button "Vote down, 0 votes" [ref=f144e701] [cursor=pointer]:
+                                              - text: "0"
+                                              - generic [ref=f144e703]: Press the down arrow key to see users who disliked this
+                                        - listitem [ref=f144e704]:
+                                          - link "Reply" [ref=f144e705] [cursor=pointer]:
+                                            - /url: "#"
+                                        - listitem [ref=f144e706]:
+                                          - link "Share ›" [ref=f144e707] [cursor=pointer]:
+                                            - /url: "#"
+                                            - text: ⥅
+                                        - listitem: ✏
+                                  - generic:
+                                    - list
+                                - listitem [ref=f144e709]:
+                                  - alert
+                                  - article "Comment by apsco radiales , in reply to bfdd With the AI around, who needs architects or engineers?! Really, think about it. All you need is a General Contractor to build the damn thing." [ref=f144e710]:
+                                    - list [ref=f144e712]:
+                                      - listitem [ref=f144e713]:
+                                        - link "−" [ref=f144e714] [cursor=pointer]:
+                                          - /url: "#"
+                                      - listitem [ref=f144e715]:
+                                        - button "Post menu" [ref=f144e717] [cursor=pointer]
+                                    - button "Avatar for apsco radiales, profile card button" [ref=f144e720] [cursor=pointer]:
+                                      - img "Avatar for apsco radiales" [ref=f144e721]
+                                    - generic [ref=f144e722]:
+                                      - generic [ref=f144e723]:
+                                        - generic [ref=f144e724]:
+                                          - generic [ref=f144e725]:
+                                            - link "View profile for apsco radiales" [ref=f144e727] [cursor=pointer]:
+                                              - /url: https://disqus.com/by/apscoradiales/
+                                              - text: apsco radiales
+                                            - generic "Follow" [ref=f144e729] [cursor=pointer]
+                                          - link "in reply to bfdd" [ref=f144e731] [cursor=pointer]:
+                                            - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6919950683
+                                            - generic "in reply to" [ref=f144e732]: ">"
+                                            - text: bfdd
+                                        - generic [ref=f144e733]:
+                                          - link "a month ago" [ref=f144e734] [cursor=pointer]:
+                                            - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920014432
+                                          - generic [ref=f144e735]: edited
+                                      - generic [ref=f144e738]:
+                                        - paragraph [ref=f144e741]: With the AI around, who needs architects or engineers?! Really, think about it. All you need is a General Contractor to build the damn thing.
+                                        - generic:
+                                          - list
+                                      - list [ref=f144e743]:
+                                        - listitem [ref=f144e744]:
+                                          - generic [ref=f144e745]:
+                                            - button "Vote up, 0 votes" [ref=f144e746] [cursor=pointer]:
+                                              - text: "0"
+                                              - generic [ref=f144e748]: Press the down arrow key to see users who liked this
+                                            - button "Vote down, 2 votes" [ref=f144e749] [cursor=pointer]:
+                                              - text: "2"
+                                              - generic [ref=f144e751]: Press the down arrow key to see users who disliked this
+                                        - listitem [ref=f144e752]:
+                                          - link "Reply" [ref=f144e753] [cursor=pointer]:
+                                            - /url: "#"
+                                        - listitem [ref=f144e754]:
+                                          - link "Share ›" [ref=f144e755] [cursor=pointer]:
+                                            - /url: "#"
+                                            - text: ⥅
+                                        - listitem: ✏
+                                  - list [ref=f144e758]:
+                                    - listitem [ref=f144e759]:
+                                      - alert
+                                      - article "Comment by Architect incognito , in reply to apsco radiales With the AI and robots around, who needs general contractors or engineers?! All you need is an architect to think up the damn thing." [ref=f144e760]:
+                                        - list [ref=f144e762]:
+                                          - listitem [ref=f144e763]:
+                                            - link "−" [ref=f144e764] [cursor=pointer]:
+                                              - /url: "#"
+                                          - listitem [ref=f144e765]:
+                                            - button "Post menu" [ref=f144e767] [cursor=pointer]
+                                        - button "Avatar for Architect incognito, profile card button" [ref=f144e770] [cursor=pointer]:
+                                          - img "Avatar for Architect incognito" [ref=f144e771]
+                                        - generic [ref=f144e772]:
+                                          - generic [ref=f144e773]:
+                                            - generic [ref=f144e774]:
+                                              - link "View profile for Architect incognito" [ref=f144e777] [cursor=pointer]:
+                                                - /url: https://disqus.com/by/architectincognito/
+                                                - text: Architect incognito
+                                              - link "in reply to apsco radiales" [ref=f144e779] [cursor=pointer]:
+                                                - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920014432
+                                                - generic "in reply to" [ref=f144e780]: ">"
+                                                - text: apsco radiales
+                                            - generic [ref=f144e781]:
+                                              - link "a month ago" [ref=f144e782] [cursor=pointer]:
+                                                - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920723441
+                                              - generic [ref=f144e783]: edited
+                                          - generic [ref=f144e786]:
+                                            - paragraph [ref=f144e789]: With the AI and robots around, who needs general contractors or engineers?! All you need is an architect to think up the damn thing.
+                                            - generic:
+                                              - list
+                                          - list [ref=f144e791]:
+                                            - listitem [ref=f144e792]:
+                                              - generic [ref=f144e793]:
+                                                - button "Vote up, 0 votes" [ref=f144e794] [cursor=pointer]:
+                                                  - text: "0"
+                                                  - generic [ref=f144e796]: Press the down arrow key to see users who liked this
+                                                - button "Vote down, 0 votes" [ref=f144e797] [cursor=pointer]:
+                                                  - text: "0"
+                                                  - generic [ref=f144e799]: Press the down arrow key to see users who disliked this
+                                            - listitem [ref=f144e800]:
+                                              - link "Reply" [ref=f144e801] [cursor=pointer]:
+                                                - /url: "#"
+                                            - listitem [ref=f144e802]:
+                                              - link "Share ›" [ref=f144e803] [cursor=pointer]:
+                                                - /url: "#"
+                                                - text: ⥅
+                                            - listitem: ✏
+                                      - generic:
+                                        - list
+                            - listitem [ref=f144e805]:
+                              - alert
+                              - article "Comment by chuck , outlaw artistic machine renderings of Mordor?" [ref=f144e806]:
+                                - list [ref=f144e808]:
+                                  - listitem [ref=f144e809]:
+                                    - link "−" [ref=f144e810] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e811]:
+                                    - button "Post menu" [ref=f144e813] [cursor=pointer]
+                                - button "Avatar for chuck, profile card button" [ref=f144e816] [cursor=pointer]:
+                                  - img "Avatar for chuck" [ref=f144e817]
+                                - generic [ref=f144e818]:
+                                  - generic [ref=f144e819]:
+                                    - generic [ref=f144e821]:
+                                      - link "View profile for chuck" [ref=f144e823] [cursor=pointer]:
+                                        - /url: https://disqus.com/by/disqus_NjQ9MfyiBd/
+                                        - text: chuck
+                                      - generic "Follow" [ref=f144e825] [cursor=pointer]
+                                    - link "a month ago" [ref=f144e827] [cursor=pointer]:
+                                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6919919195
+                                  - generic [ref=f144e830]:
+                                    - paragraph [ref=f144e833]: outlaw artistic machine renderings of Mordor?
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e835]:
+                                    - listitem [ref=f144e836]:
+                                      - generic [ref=f144e837]:
+                                        - button "Vote up, 1 votes" [ref=f144e838] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e840]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 1 votes" [ref=f144e841] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e843]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e844]:
+                                      - link "Reply" [ref=f144e845] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e846]:
+                                      - link "Share ›" [ref=f144e847] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - generic:
+                                - list
+                            - listitem [ref=f144e849]:
+                              - alert
+                              - article "Comment by Floooo , Sometimes I truly love the EU..." [ref=f144e850]:
+                                - list [ref=f144e852]:
+                                  - listitem [ref=f144e853]:
+                                    - link "−" [ref=f144e854] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e855]:
+                                    - button "Post menu" [ref=f144e857] [cursor=pointer]
+                                - button "Avatar for Floooo, profile card button" [ref=f144e860] [cursor=pointer]:
+                                  - img "Avatar for Floooo" [ref=f144e861]
+                                - generic [ref=f144e862]:
+                                  - generic [ref=f144e863]:
+                                    - generic [ref=f144e865]:
+                                      - link "View profile for Floooo" [ref=f144e867] [cursor=pointer]:
+                                        - /url: https://disqus.com/by/disqus_eHfuySPgYw/
+                                        - text: Floooo
+                                      - generic "Follow" [ref=f144e869] [cursor=pointer]
+                                    - link "a month ago" [ref=f144e871] [cursor=pointer]:
+                                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6919898364
+                                  - generic [ref=f144e874]:
+                                    - paragraph [ref=f144e877]: Sometimes I truly love the EU...
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e879]:
+                                    - listitem [ref=f144e880]:
+                                      - generic [ref=f144e881]:
+                                        - button "Vote up, 3 votes" [ref=f144e882] [cursor=pointer]:
+                                          - text: "3"
+                                          - generic [ref=f144e884]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 1 votes" [ref=f144e885] [cursor=pointer]:
+                                          - text: "1"
+                                          - generic [ref=f144e887]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e888]:
+                                      - link "Reply" [ref=f144e889] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e890]:
+                                      - link "Share ›" [ref=f144e891] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - list [ref=f144e894]:
+                                - listitem [ref=f144e895]:
+                                  - alert
+                                  - article "Comment by apsco radiales , in reply to Floooo Haha!" [ref=f144e896]:
+                                    - list [ref=f144e898]:
+                                      - listitem [ref=f144e899]:
+                                        - link "−" [ref=f144e900] [cursor=pointer]:
+                                          - /url: "#"
+                                      - listitem [ref=f144e901]:
+                                        - button "Post menu" [ref=f144e903] [cursor=pointer]
+                                    - button "Avatar for apsco radiales, profile card button" [ref=f144e906] [cursor=pointer]:
+                                      - img "Avatar for apsco radiales" [ref=f144e907]
+                                    - generic [ref=f144e908]:
+                                      - generic [ref=f144e909]:
+                                        - generic [ref=f144e910]:
+                                          - generic [ref=f144e911]:
+                                            - link "View profile for apsco radiales" [ref=f144e913] [cursor=pointer]:
+                                              - /url: https://disqus.com/by/apscoradiales/
+                                              - text: apsco radiales
+                                            - generic "Follow" [ref=f144e915] [cursor=pointer]
+                                          - link "in reply to Floooo" [ref=f144e917] [cursor=pointer]:
+                                            - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6919898364
+                                            - generic "in reply to" [ref=f144e918]: ">"
+                                            - text: Floooo
+                                        - link "a month ago" [ref=f144e920] [cursor=pointer]:
+                                          - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920013497
+                                      - generic [ref=f144e923]:
+                                        - paragraph [ref=f144e926]: Haha!
+                                        - generic:
+                                          - list
+                                      - list [ref=f144e928]:
+                                        - listitem [ref=f144e929]:
+                                          - generic [ref=f144e930]:
+                                            - button "Vote up, 0 votes" [ref=f144e931] [cursor=pointer]:
+                                              - text: "0"
+                                              - generic [ref=f144e933]: Press the down arrow key to see users who liked this
+                                            - button "Vote down, 1 votes" [ref=f144e934] [cursor=pointer]:
+                                              - text: "1"
+                                              - generic [ref=f144e936]: Press the down arrow key to see users who disliked this
+                                        - listitem [ref=f144e937]:
+                                          - link "Reply" [ref=f144e938] [cursor=pointer]:
+                                            - /url: "#"
+                                        - listitem [ref=f144e939]:
+                                          - link "Share ›" [ref=f144e940] [cursor=pointer]:
+                                            - /url: "#"
+                                            - text: ⥅
+                                        - listitem: ✏
+                                  - generic:
+                                    - list
+                            - listitem [ref=f144e942]:
+                              - alert
+                              - article "Comment by apsco radiales , Good! Everything generated by AI should be identified as such." [ref=f144e943]:
+                                - list [ref=f144e945]:
+                                  - listitem [ref=f144e946]:
+                                    - link "−" [ref=f144e947] [cursor=pointer]:
+                                      - /url: "#"
+                                  - listitem [ref=f144e948]:
+                                    - button "Post menu" [ref=f144e950] [cursor=pointer]
+                                - button "Avatar for apsco radiales, profile card button" [ref=f144e953] [cursor=pointer]:
+                                  - img "Avatar for apsco radiales" [ref=f144e954]
+                                - generic [ref=f144e955]:
+                                  - generic [ref=f144e956]:
+                                    - generic [ref=f144e958]:
+                                      - link "View profile for apsco radiales" [ref=f144e960] [cursor=pointer]:
+                                        - /url: https://disqus.com/by/apscoradiales/
+                                        - text: apsco radiales
+                                      - generic "Follow" [ref=f144e962] [cursor=pointer]
+                                    - link "a month ago" [ref=f144e964] [cursor=pointer]:
+                                      - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6919878196
+                                  - generic [ref=f144e967]:
+                                    - paragraph [ref=f144e970]: Good!Everything generated by AI should be identified as such.
+                                    - generic:
+                                      - list
+                                  - list [ref=f144e972]:
+                                    - listitem [ref=f144e973]:
+                                      - generic [ref=f144e974]:
+                                        - button "Vote up, 7 votes" [ref=f144e975] [cursor=pointer]:
+                                          - text: "7"
+                                          - generic [ref=f144e977]: Press the down arrow key to see users who liked this
+                                        - button "Vote down, 2 votes" [ref=f144e978] [cursor=pointer]:
+                                          - text: "2"
+                                          - generic [ref=f144e980]: Press the down arrow key to see users who disliked this
+                                    - listitem [ref=f144e981]:
+                                      - link "Reply" [ref=f144e982] [cursor=pointer]:
+                                        - /url: "#"
+                                    - listitem [ref=f144e983]:
+                                      - link "Share ›" [ref=f144e984] [cursor=pointer]:
+                                        - /url: "#"
+                                        - text: ⥅
+                                    - listitem: ✏
+                              - list [ref=f144e987]:
+                                - listitem [ref=f144e988]:
+                                  - alert
+                                  - article "Comment by Stan , in reply to apsco radiales good everything made with photoshop should be identified as such, everything generated with autodesk revit should be identified as such everything generated with acrobat should be identified as such, everything being generated by a human typing on a computer should be identified as such AI is a tool, it always has been, just a really magnitude better than what we had for decades, i;agine what will come in 10 years, those stickers will worth nothing anymore" [ref=f144e989]:
+                                    - list [ref=f144e991]:
+                                      - listitem [ref=f144e992]:
+                                        - link "−" [ref=f144e993] [cursor=pointer]:
+                                          - /url: "#"
+                                      - listitem [ref=f144e994]:
+                                        - button "Post menu" [ref=f144e996] [cursor=pointer]
+                                    - button "Avatar for Stan, profile card button" [ref=f144e999] [cursor=pointer]:
+                                      - img "Avatar for Stan" [ref=f144e1000]
+                                    - generic [ref=f144e1001]:
+                                      - generic [ref=f144e1002]:
+                                        - generic [ref=f144e1003]:
+                                          - generic [ref=f144e1004]:
+                                            - link "View profile for Stan" [ref=f144e1006] [cursor=pointer]:
+                                              - /url: https://disqus.com/by/disqus_RVqRV3dBG5/
+                                              - text: Stan
+                                            - generic "Follow" [ref=f144e1008] [cursor=pointer]
+                                          - link "in reply to apsco radiales" [ref=f144e1010] [cursor=pointer]:
+                                            - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6919878196
+                                            - generic "in reply to" [ref=f144e1011]: ">"
+                                            - text: apsco radiales
+                                        - link "a month ago" [ref=f144e1013] [cursor=pointer]:
+                                          - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920389069
+                                      - generic [ref=f144e1016]:
+                                        - generic [ref=f144e1018]:
+                                          - paragraph [ref=f144e1019]: good everything made with photoshop should be identified as such,everything generated with autodesk revit should be identified as sucheverything generated with acrobat should be identified as such,everything being generated by a human typing on a computer should be identified as such
+                                          - paragraph [ref=f144e1020]: AI is a tool, it always has been, just a really magnitude better than what we had for decades, i;agine what will come in 10 years, those stickers will worth nothing anymore
+                                        - generic:
+                                          - list
+                                      - list [ref=f144e1022]:
+                                        - listitem [ref=f144e1023]:
+                                          - generic [ref=f144e1024]:
+                                            - button "Vote up, 3 votes" [ref=f144e1025] [cursor=pointer]:
+                                              - text: "3"
+                                              - generic [ref=f144e1027]: Press the down arrow key to see users who liked this
+                                            - button "Vote down, 1 votes" [ref=f144e1028] [cursor=pointer]:
+                                              - text: "1"
+                                              - generic [ref=f144e1030]: Press the down arrow key to see users who disliked this
+                                        - listitem [ref=f144e1031]:
+                                          - link "Reply" [ref=f144e1032] [cursor=pointer]:
+                                            - /url: "#"
+                                        - listitem [ref=f144e1033]:
+                                          - link "Share ›" [ref=f144e1034] [cursor=pointer]:
+                                            - /url: "#"
+                                            - text: ⥅
+                                        - listitem: ✏
+                                  - list [ref=f144e1037]:
+                                    - listitem [ref=f144e1038]:
+                                      - alert
+                                      - article [ref=f144e1039]:
+                                        - list [ref=f144e1041]:
+                                          - listitem [ref=f144e1042]:
+                                            - link "−" [ref=f144e1043] [cursor=pointer]:
+                                              - /url: "#"
+                                          - listitem [ref=f144e1044]:
+                                            - button "Post menu" [ref=f144e1046] [cursor=pointer]
+                                        - button "Avatar for Architect incognito, profile card button" [ref=f144e1049] [cursor=pointer]:
+                                          - img "Avatar for Architect incognito" [ref=f144e1050]
+                                        - generic [ref=f144e1051]:
+                                          - generic [ref=f144e1052]:
+                                            - generic [ref=f144e1053]:
+                                              - link "View profile for Architect incognito" [ref=f144e1056] [cursor=pointer]:
+                                                - /url: https://disqus.com/by/architectincognito/
+                                                - text: Architect incognito
+                                              - link "in reply to Stan" [ref=f144e1058] [cursor=pointer]:
+                                                - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920389069
+                                                - generic "in reply to" [ref=f144e1059]: ">"
+                                                - text: Stan
+                                            - link "a month ago" [ref=f144e1061] [cursor=pointer]:
+                                              - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920642572
+                                          - generic [ref=f144e1064]:
+                                            - paragraph [ref=f144e1067]: The AI act is not about pestering content producers, but about preserving a shared truth as a basis for public opinion and democratic decision making. Like you said, AI is an order of magnitude better than the tools previously available, so the conditions under which the output of those tools is disseminated should also be protected an order of magnitude better. This is a stopgap law to at least have a legal framework by which the development you describe can be controlled when necessary. Traditional media are subjected to journalistic codes and practices in most democracies that puts some restraints on them from misrepresenting facts and doctoring images to create falsehoods. They are imperfect, but they exist. On social media there are no such governing institutions (the platforms have made sure of that). This law at least provides some measure of protection to the general public.
+                                            - generic:
+                                              - list
+                                          - list [ref=f144e1069]:
+                                            - listitem [ref=f144e1070]:
+                                              - generic [ref=f144e1071]:
+                                                - button "Vote up, 0 votes" [ref=f144e1072] [cursor=pointer]:
+                                                  - text: "0"
+                                                  - generic [ref=f144e1074]: Press the down arrow key to see users who liked this
+                                                - button "Vote down, 1 votes" [ref=f144e1075] [cursor=pointer]:
+                                                  - text: "1"
+                                                  - generic [ref=f144e1077]: Press the down arrow key to see users who disliked this
+                                            - listitem [ref=f144e1078]:
+                                              - link "Reply" [ref=f144e1079] [cursor=pointer]:
+                                                - /url: "#"
+                                            - listitem [ref=f144e1080]:
+                                              - link "Share ›" [ref=f144e1081] [cursor=pointer]:
+                                                - /url: "#"
+                                                - text: ⥅
+                                            - listitem: ✏
+                                      - list [ref=f144e1084]:
+                                        - listitem [ref=f144e1085]:
+                                          - alert
+                                          - article "Comment by Rad4Cap , in reply to Architect incognito \"The AI act is not about pestering content producers\" Indeed. It is about treating the individual as the PROPERTY of the Collective, to be disposed of as IT sees fit, to satisfy ITS desires. \"Pestering content producers\" is simply ONE of the MANY viIe consequences of that EVlL philosophy." [ref=f144e1086]:
+                                            - list [ref=f144e1088]:
+                                              - listitem [ref=f144e1089]:
+                                                - link "−" [ref=f144e1090] [cursor=pointer]:
+                                                  - /url: "#"
+                                              - listitem [ref=f144e1091]:
+                                                - button "Post menu" [ref=f144e1093] [cursor=pointer]
+                                            - button "Avatar for Rad4Cap, profile card button" [ref=f144e1096] [cursor=pointer]:
+                                              - img "Avatar for Rad4Cap" [ref=f144e1097]
+                                            - generic [ref=f144e1098]:
+                                              - generic [ref=f144e1099]:
+                                                - generic [ref=f144e1100]:
+                                                  - link "View profile for Rad4Cap" [ref=f144e1103] [cursor=pointer]:
+                                                    - /url: https://disqus.com/by/rad4cap/
+                                                    - text: Rad4Cap
+                                                  - link "in reply to Architect incognito" [ref=f144e1105] [cursor=pointer]:
+                                                    - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6920642572
+                                                    - generic "in reply to" [ref=f144e1106]: ">"
+                                                    - text: Architect incognito
+                                                - generic [ref=f144e1107]:
+                                                  - link "a month ago" [ref=f144e1108] [cursor=pointer]:
+                                                    - /url: https://www.dezeen.com/2026/08/10/ai-architectural-renderings-eu-ai-act/#comment-6922066921
+                                                  - generic [ref=f144e1109]: edited
+                                              - generic [ref=f144e1112]:
+                                                - generic [ref=f144e1114]:
+                                                  - paragraph [ref=f144e1115]: "\"The AI act is not about pestering content producers\""
+                                                  - paragraph [ref=f144e1116]: Indeed. It is about treating the individual as the PROPERTY of the Collective, to be disposed of as IT sees fit, to satisfy ITS desires. "Pestering content producers" is simply ONE of the MANY viIe consequences of that EVlL philosophy.
+                                                - generic:
+                                                  - list
+                                              - list [ref=f144e1118]:
+                                                - listitem [ref=f144e1119]:
+                                                  - generic [ref=f144e1120]:
+                                                    - button "Vote up, 2 votes" [ref=f144e1121] [cursor=pointer]:
+                                                      - text: "2"
+                                                      - generic [ref=f144e1123]: Press the down arrow key to see users who liked this
+                                                    - button "Vote down, 0 votes" [ref=f144e1124] [cursor=pointer]:
+                                                      - text: "0"
+                                                      - generic [ref=f144e1126]: Press the down arrow key to see users who disliked this
+                                                - listitem [ref=f144e1127]:
+                                                  - link "Reply" [ref=f144e1128] [cursor=pointer]:
+                                                    - /url: "#"
+                                                - listitem [ref=f144e1129]:
+                                                  - link "Share ›" [ref=f144e1130] [cursor=pointer]:
+                                                    - /url: "#"
+                                                    - text: ⥅
+                                                - listitem: ✏
+                                          - generic:
+                                            - list
+                        - contentinfo [ref=f144e1132]:
+                          - generic [ref=f144e1134]:
+                            - list [ref=f144e1135]:
+                              - listitem [ref=f144e1136]:
+                                - link "Subscribe" [ref=f144e1138] [cursor=pointer]:
+                                  - /url: "#"
+                              - listitem [ref=f144e1142]:
+                                - link "Privacy" [ref=f144e1143] [cursor=pointer]:
+                                  - /url: https://disqus.com/privacy-policy
+                              - listitem [ref=f144e1147]:
+                                - link "Do Not Sell My Data" [ref=f144e1148] [cursor=pointer]:
+                                  - /url: https://disqus.com/data-sharing-settings/
+                            - link "Powered by Disqus" [ref=f144e1153] [cursor=pointer]:
+                              - /url: https://disqus.com
+                      - generic:
+                        - listbox
+          - complementary "sidebar" [ref=f140e379]:
+            - iframe [ref=f140e382]:
+              - generic [ref=f156e1]:
+                - link [ref=f156e2] [cursor=pointer]:
+                  - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsur46_te_yCriKYCezERH1LE8SsnnJehrtCQc_g4yD9hE8ioON91e8CH7p27twfLwcR1VAJBmJVTsfd63b0KxkzTtd5eTNK6BtfBh0PV2OhdiiQVoFUsY7qM0w9YzW_3NfeO_OnZ17w-9dTmQfi_P1QiGJdlksbR8TnFW0UtwHrSvAvJriaaC4T0Q5aofFjntcQRZ0_ilRQlf3daGBs_vmdJYLecMxDJBqqXF3FsKPvTJy6e66_U80tkVJklx1XGA07Rpdb5RRX0kz5wODd92BY0EUd9DD10vW6QUNW1noj64KQXDXcVpgQKq_XtuBAEI9XdOMu9ZagktzPXKthACpk1jkMYIu55hGi7rxbd7nGfXelMP3eWyXpaORzhNVx3Tk6L9r0Kv4x1M2GjYWcnwYAJB9AQU0K_7RMCA&sai=AMfl-YQ4eXookqmMoKUk9Jw8-cPRcc7AzduCXDFIwDrLk2LsXvvGdFr5wRUF-Ny5H9zlh7OCkx489ACYgmebZzno3EnNqbBsNInDijtU_LNJlkyQaox4kryddYwDNhfYNxVsNAO-78gPVRlG73E8W5uwwJUrtApI1oo5etxaVF_2g_y-int5WjCeavD-BKwIBBebo_6lOBqR-JOlUD5YdChT-Ee0mzEtlgJqK1Z3QtXF8pTARtnMXNLk1cCb9SPtjw2zA8PaA4JiIP5ISkLYyJ4tCWm8K5_n5eIp9Zo5dHtfgmtd1dhIRGfLMkkt4e6oKDXJrLzddc_P2ziPPe0DaHohN9I1mnqwTj4MwjTUs6phYOHAA3pnd4VdJfRtfWjRGz-TVWnE4ZUmb4mDulaQBhNWC-ii&sig=Cg0ArKJSzKWNRiGc4_A3&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.dezeen.com/awards/
+                - generic [ref=f156e3] [cursor=pointer]
+                - button [ref=f156e8] [cursor=pointer]
+            - generic [ref=f140e383]:
+              - heading [level=2] [ref=f140e384]:
+                - link "Top architecture stories" [ref=f140e385] [cursor=pointer]:
+                  - /url: https://www.dezeen.com/architecture/
+              - generic [ref=f140e386]:
+                - generic [ref=f140e387]:
+                  - heading [level=2] [ref=f140e388]:
+                    - link "Most popular" [ref=f140e389] [cursor=pointer]:
+                      - /url: "#"
+                  - heading [level=2] [ref=f140e390]:
+                    - link "Most recent" [ref=f140e391] [cursor=pointer]:
+                      - /url: "#"
+                - list [ref=f140e393]:
+                  - listitem [ref=f140e394]:
+                    - generic [ref=f140e395]: "1"
+                    - link "Not A Hotel reveals design for giant Poké Ball guest room in Japan" [ref=f140e396] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/15/poke-ball-themed-hotel-not-a-hotel/
+                  - listitem [ref=f140e397]:
+                    - generic [ref=f140e398]: "2"
+                    - link "Construction of \"Arc de Trump\" set to begin in next two weeks" [ref=f140e399] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/
+                  - listitem [ref=f140e400]:
+                    - generic [ref=f140e401]: "3"
+                    - link "Colar angles home and studio to face surrounding hills in Mexico" [ref=f140e402] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/14/colar-casa-amona-mexico/
+                  - listitem [ref=f140e403]:
+                    - generic [ref=f140e404]: "4"
+                    - link "Gonzalo Bardach balances \"thick walls and filtering planes\" at Casa JR in Argentina" [ref=f140e405] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/14/gonzalo-bardach-casa-jr-argentina/
+                  - listitem [ref=f140e406]:
+                    - generic [ref=f140e407]: "5"
+                    - link "Richard and Su Roger's seminal house in London \"gifted to the nation\"" [ref=f140e408] [cursor=pointer]:
+                      - /url: https://www.dezeen.com/2026/09/09/22-parkside-richard-su-rogers-national-trust/
+                  - listitem [ref=f140e409]:
+                    - img "Not A Hotel reveals design for giant Poké Ball guest room in Japan" [ref=f140e410]
+                  - listitem [ref=f140e411]:
+                    - img "Construction of" [ref=f140e412]
+                  - listitem [ref=f140e413]:
+                    - img "Colar angles home and studio to face surrounding hills in Mexico" [ref=f140e414]
+                  - listitem [ref=f140e415]:
+                    - img "Gonzalo Bardach balances" [ref=f140e416]
+                  - listitem [ref=f140e417]:
+                    - img "Richard and Su Roger's seminal house in London" [ref=f140e418]
+            - article [ref=f140e419]:
+              - link [ref=f140e420] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/08/18/thompson-center-google-jahn-chicago-new-facade/?li_source=LI&li_medium=rhs_block_1
+                - heading "Photos reveal new facade of Google's Thompson Center" [level=3] [ref=f140e421]
+                - figure [ref=f140e422]:
+                  - img "Goggle's overhaul of Chicago's Thompson Center" [ref=f140e423]
+            - article [ref=f140e424]:
+              - link [ref=f140e425] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/08/15/cabin-sande-spruce-trees-norway-atlanic-ocean-helen-hard-architects/?li_source=LI&li_medium=rhs_block_1
+                - heading "Helen & Hard uses uprooted spruce trees to shape Cabin Sande on Norway's Atlantic coast" [level=3] [ref=f140e426]
+                - figure [ref=f140e427]:
+                  - img "Timber dining space overlooking the rocky coastline through a wide panoramic window" [ref=f140e428]
+            - article [ref=f140e429]:
+              - link [ref=f140e430] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/08/09/lithium-crystal-sauna-bigert-bergstrom/?li_source=LI&li_medium=rhs_block_1
+                - heading "Crystal-shaped sauna rises from former industrial site in Sweden" [level=3] [ref=f140e431]
+                - figure [ref=f140e432]:
+                  - img "Crystal Sauna by Bigert & Bergstrom" [ref=f140e433]
+            - article [ref=f140e434]:
+              - link [ref=f140e435] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/08/10/satyress-centaur-robot-threehalves/?li_source=LI&li_medium=rhs_block_1
+                - heading "Centaur robot designed to give workers \"superpowers\"" [level=3] [ref=f140e436]
+                - figure [ref=f140e437]
+            - generic [ref=f140e438]:
+              - heading "Subscribe" [level=2] [ref=f140e439]
+              - generic [ref=f140e442]:
+                - generic [ref=f140e443]:
+                  - img "Subscribe"
+                  - paragraph [ref=f140e444]:
+                    - generic [ref=f140e445]: Subscribe to
+                    - generic [ref=f140e446]: our newsletters
+                - generic [ref=f140e447]:
+                  - generic [ref=f140e448]: Your email address
+                  - textbox "Your email address" [ref=f140e449]:
+                    - /placeholder: Email
+                  - button "Next" [ref=f140e450] [cursor=pointer]
+            - article [ref=f140e451]:
+              - link [ref=f140e452] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/08/19/aia-announces-longest-ongoing-slump-abi/?li_source=LI&li_medium=rhs_block_2
+                - heading "AIA announces longest \"ongoing slump\" for architecture revenues" [level=3] [ref=f140e453]
+                - figure [ref=f140e454]:
+                  - img "New York City skyline" [ref=f140e455]
+            - article [ref=f140e456]:
+              - link [ref=f140e457] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/08/25/studio-massimo-office-by-nature-netherlands/?li_source=LI&li_medium=rhs_block_2
+                - heading "Grass-topped Dutch office \"adds habitat rather than taking it\"" [level=3] [ref=f140e458]
+                - figure [ref=f140e459]:
+                  - img "Office by Nature by Studio Massimo" [ref=f140e460]
+            - generic [ref=f140e462]:
+              - generic [ref=f140e463]:
+                - heading [level=2] [ref=f140e464]:
+                  - link "Popular jobs" [ref=f140e465] [cursor=pointer]:
+                    - /url: "#"
+                - heading [level=2] [ref=f140e466]:
+                  - link "Featured jobs" [ref=f140e467] [cursor=pointer]:
+                    - /url: "#"
+              - list [ref=f140e469]:
+                - listitem [ref=f140e470]:
+                  - generic [ref=f140e471]: "1"
+                  - link "BIM manager at Stanton Williams" [ref=f140e472] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/job/stanton-williams-bim-manager-stanton-williams-1118283/
+                - listitem [ref=f140e473]:
+                  - generic [ref=f140e474]: "2"
+                  - link "Assistant architect, architect or senior architect at Venturi Architects" [ref=f140e475] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/job/venturi-architects-architect-1119863/
+                - listitem [ref=f140e476]:
+                  - generic [ref=f140e477]: "3"
+                  - link "Middleweight interior designer at Lumsden Design" [ref=f140e478] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/job/lumsden-design-middleweight-interior-designer-1119986/
+                - listitem [ref=f140e479]:
+                  - generic [ref=f140e480]: "4"
+                  - link "Part 3 architect at Divercity Architects" [ref=f140e481] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/job/divercity-architects-part-3-architect-533066/
+                - listitem [ref=f140e482]:
+                  - generic [ref=f140e483]: "5"
+                  - link "Part 2 architectural assistant or newly qualified Part 3 architect at Johanna Molineus Architects" [ref=f140e484] [cursor=pointer]:
+                    - /url: https://www.dezeenjobs.com/job/johanna-molineus-architects-part-2-architectural-assistant-or-newly-qualified-part-3-architect-1119718/
+                - listitem [ref=f140e485]:
+                  - img "BIM manager at Stanton Williams" [ref=f140e486]
+                - listitem [ref=f140e487]:
+                  - img "Assistant architect, architect or senior architect at Venturi Architects" [ref=f140e488]
+                - listitem [ref=f140e489]:
+                  - img "Middleweight interior designer at Lumsden Design" [ref=f140e490]
+                - listitem [ref=f140e491]:
+                  - img "Part 3 architect at Divercity Architects" [ref=f140e492]
+                - listitem [ref=f140e493]:
+                  - img "Part 2 architectural assistant or newly qualified Part 3 architect at Johanna Molineus Architects" [ref=f140e494]
+            - article [ref=f140e495]:
+              - link [ref=f140e496] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/07/24/light-phone-clamshell-flip-model/?li_source=LI&li_medium=rhs_block_3
+                - heading "Light Phone goes clamshell with \"timeless\" Flip model" [level=3] [ref=f140e497]
+                - figure [ref=f140e498]:
+                  - img "Light Flip phone" [ref=f140e499]
+            - article [ref=f140e500]:
+              - link [ref=f140e501] [cursor=pointer]:
+                - /url: https://www.dezeen.com/2026/08/21/iterare-arquitectos-casa-nido/?li_source=LI&li_medium=rhs_block_3
+                - heading "Iterare Arquitectos inserts white home into old Spanish building" [level=3] [ref=f140e502]
+                - figure [ref=f140e503]:
+                  - img "Casa Nido by Iterare Arquitectos" [ref=f140e504]
+            - article [ref=f140e505]:
+              - link [ref=f140e506] [cursor=pointer]:
+                - /url: https://www.dezeen.com/eventsguide/
+                - heading "Dezeen Events Guide" [level=3] [ref=f140e507]
+                - figure [ref=f140e508]:
+                  - img "Photo of person walking through an installation" [ref=f140e509]
+            - article [ref=f140e510]:
+              - link [ref=f140e511] [cursor=pointer]:
+                - /url: https://www.dezeenjobs.com
+                - heading "Dezeen Jobs" [level=3] [ref=f140e512]
+                - figure [ref=f140e513]
+        - complementary "Highlights Carousel Bottom" [ref=f140e516]:
+          - complementary [ref=f140e517]:
+            - button "Show previous highlights" [ref=f140e518] [cursor=pointer]
+            - button "Show next highlights" [ref=f140e521] [cursor=pointer]
+            - heading [level=2] [ref=f140e524]:
+              - link "Highlights" [ref=f140e525] [cursor=pointer]:
+                - /url: https://www.dezeen.com/highlights/
+            - list [ref=f140e526]:
+              - generic [ref=f140e528]:
+                - listitem [aria-hidden] [ref=f140e529]:
+                  - link [ref=f140e530] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/
+                    - figure [ref=f140e531]
+                    - generic [aria-hidden] [ref=f140e532]:
+                      - paragraph [ref=f140e534]
+                      - paragraph [ref=f140e536]
+                  - generic [ref=f140e537]:
+                    - group [ref=f140e538]:
+                      - link [ref=f140e539] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/news/
+                        - text: News
+                    - group [ref=f140e540]:
+                      - link [ref=f140e541] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/
+                        - text: Arc de Trump construction
+                - listitem [aria-hidden] [ref=f140e542]:
+                  - link [ref=f140e543] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates/
+                    - figure [ref=f140e544]
+                    - generic [aria-hidden] [ref=f140e546]:
+                      - paragraph [ref=f140e548]
+                      - paragraph [ref=f140e550]
+                  - generic [ref=f140e551]:
+                    - group [ref=f140e552]:
+                      - link [ref=f140e553] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/housing/
+                        - text: Housing
+                    - group [ref=f140e554]:
+                      - link [ref=f140e555] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates/
+                        - text: Stone exoskeleton high-rise
+                - listitem [aria-hidden] [ref=f140e556]:
+                  - link [ref=f140e557] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/
+                    - figure [ref=f140e558]
+                    - generic [aria-hidden] [ref=f140e560]:
+                      - paragraph [ref=f140e562]
+                      - paragraph [ref=f140e564]
+                  - generic [ref=f140e565]:
+                    - group [ref=f140e566]:
+                      - link [ref=f140e567] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/vets/
+                        - text: Vets
+                    - group [ref=f140e568]:
+                      - link [ref=f140e569] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/
+                        - text: Brutalist animal clinic
+                - listitem [aria-hidden] [ref=f140e570]:
+                  - link [ref=f140e571] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/
+                    - figure [ref=f140e572]
+                    - generic [aria-hidden] [ref=f140e574]:
+                      - paragraph [ref=f140e576]
+                      - paragraph [ref=f140e578]
+                  - generic [ref=f140e579]:
+                    - group [ref=f140e580]:
+                      - link [ref=f140e581] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/ai/
+                        - text: Artificial intelligence (AI)
+                    - group [ref=f140e582]:
+                      - link [ref=f140e583] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/
+                        - text: Anti-AI designs
+                - listitem [ref=f140e584]:
+                  - link "Read more about World Trade Center buildings" [ref=f140e585] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/
+                    - figure [ref=f140e586]:
+                      - img "Perelman" [ref=f140e587]
+                    - generic [aria-hidden] [ref=f140e588]:
+                      - paragraph [ref=f140e590]
+                      - paragraph [ref=f140e592]
+                  - generic [ref=f140e593]:
+                    - link "Read more about World Trade Center buildings":
+                      - /url: https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/
+                    - group "main category" [ref=f140e594]:
+                      - link "Read more about World Trade Center buildings":
+                        - /url: https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/
+                      - link "World Trade Center" [ref=f140e595] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/world-trade-center/
+                    - group "carousel title" [ref=f140e596]:
+                      - link "World Trade Center buildings" [ref=f140e597] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/
+                - listitem [ref=f140e598]:
+                  - link "Read more about Read Dezeen Dispatch online!" [ref=f140e599] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+                    - figure [ref=f140e600]:
+                      - img "London Design Festival Dezeen Dispatch" [ref=f140e601]
+                    - generic [aria-hidden] [ref=f140e602]:
+                      - paragraph [ref=f140e604]
+                      - paragraph [ref=f140e606]
+                  - generic [ref=f140e607]:
+                    - link "Read more about Read Dezeen Dispatch online!":
+                      - /url: https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+                    - group "main category" [ref=f140e608]:
+                      - link "Read more about Read Dezeen Dispatch online!":
+                        - /url: https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+                      - link "London Design Festival" [ref=f140e609] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/london-design-festival/
+                    - group "carousel title" [ref=f140e610]:
+                      - link "Read Dezeen Dispatch online!" [ref=f140e611] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+                - listitem [ref=f140e612]:
+                  - link "Read more about Grand Palais flower sculpture" [ref=f140e613] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/11/le-grand-bouquet-uchronia-grand-palais-paris-design-week/
+                    - figure [ref=f140e614]:
+                      - img "Le Grand Bouquet installation by Unchronia at the Grand Palais for Paris Design Week" [ref=f140e615]
+                    - generic [aria-hidden] [ref=f140e616]:
+                      - paragraph [ref=f140e618]
+                      - paragraph [ref=f140e620]
+                  - generic [ref=f140e621]:
+                    - link "Read more about Grand Palais flower sculpture":
+                      - /url: https://www.dezeen.com/2026/09/11/le-grand-bouquet-uchronia-grand-palais-paris-design-week/
+                    - group "main category" [ref=f140e622]:
+                      - link "Read more about Grand Palais flower sculpture":
+                        - /url: https://www.dezeen.com/2026/09/11/le-grand-bouquet-uchronia-grand-palais-paris-design-week/
+                      - link "Paris Design Week" [ref=f140e623] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/paris-design-week/
+                    - group "carousel title" [ref=f140e624]:
+                      - link "Grand Palais flower sculpture" [ref=f140e625] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/11/le-grand-bouquet-uchronia-grand-palais-paris-design-week/
+                - listitem [ref=f140e626]:
+                  - link "Read more about Twin Towers drone recreation" [ref=f140e627] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/
+                    - figure [ref=f140e628]:
+                      - img "Drift drones Twin Towers commemoration" [ref=f140e629]
+                    - generic [aria-hidden] [ref=f140e630]:
+                      - paragraph [ref=f140e632]
+                      - paragraph [ref=f140e634]
+                  - generic [ref=f140e635]:
+                    - link "Read more about Twin Towers drone recreation":
+                      - /url: https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/
+                    - group "main category" [ref=f140e636]:
+                      - link "Read more about Twin Towers drone recreation":
+                        - /url: https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/
+                      - link "Drones" [ref=f140e637] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/drones/
+                    - group "carousel title" [ref=f140e638]:
+                      - link "Twin Towers drone recreation" [ref=f140e639] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/
+                - listitem [aria-hidden] [ref=f140e640]:
+                  - link [ref=f140e641] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/10/oatelier-husarik-hut-timber-home-slovakia/
+                    - figure [ref=f140e642]
+                    - generic [aria-hidden] [ref=f140e644]:
+                      - paragraph [ref=f140e646]
+                      - paragraph [ref=f140e648]
+                  - generic [ref=f140e649]:
+                    - group [ref=f140e650]:
+                      - link [ref=f140e651] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/houses/
+                        - text: Houses
+                    - group [ref=f140e652]:
+                      - link [ref=f140e653] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/10/oatelier-husarik-hut-timber-home-slovakia/
+                        - text: Slovakian timber home
+                - listitem [aria-hidden] [ref=f140e654]:
+                  - link [ref=f140e655] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/10/six-rising-talents-london-design-scene/
+                    - figure [ref=f140e656]
+                    - generic [aria-hidden] [ref=f140e658]:
+                      - paragraph [ref=f140e660]
+                      - paragraph [ref=f140e662]
+                  - generic [ref=f140e663]:
+                    - group [ref=f140e664]:
+                      - link [ref=f140e665] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/london-design-festival/
+                        - text: London Design Festival
+                    - group [ref=f140e666]:
+                      - link [ref=f140e667] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/10/six-rising-talents-london-design-scene/
+                        - text: London emerging designers
+                - listitem [aria-hidden] [ref=f140e668]:
+                  - link [ref=f140e669] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/09/apple-releases-its-first-folding-smartphone-the-size-of-a-passport/
+                    - figure [ref=f140e670]
+                    - generic [aria-hidden] [ref=f140e672]:
+                      - paragraph [ref=f140e674]
+                      - paragraph [ref=f140e676]
+                  - generic [ref=f140e677]:
+                    - group [ref=f140e678]:
+                      - link [ref=f140e679] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/apple/
+                        - text: Apple
+                    - group [ref=f140e680]:
+                      - link [ref=f140e681] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/09/apple-releases-its-first-folding-smartphone-the-size-of-a-passport/
+                        - text: Folding iPhone
+                - listitem [aria-hidden] [ref=f140e682]:
+                  - link [ref=f140e683] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/09/upcoming-nfl-stadiums-american-football/
+                    - figure [ref=f140e684]
+                    - generic [aria-hidden] [ref=f140e686]:
+                      - paragraph [ref=f140e688]
+                      - paragraph [ref=f140e690]
+                  - generic [ref=f140e691]:
+                    - group [ref=f140e692]:
+                      - link [ref=f140e693] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/american-football/
+                        - text: American football
+                    - group [ref=f140e694]:
+                      - link [ref=f140e695] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/09/upcoming-nfl-stadiums-american-football/
+                        - text: Upcoming NFL stadiums
+                - listitem [aria-hidden] [ref=f140e696]:
+                  - link [ref=f140e697] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/09/studio-ko-centre-contemporary-arts-tashkent/
+                    - figure [ref=f140e698]
+                    - generic [aria-hidden] [ref=f140e700]:
+                      - paragraph [ref=f140e702]
+                      - paragraph [ref=f140e704]
+                  - generic [ref=f140e705]:
+                    - group [ref=f140e706]:
+                      - link [ref=f140e707] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/adaptive-reuse/
+                        - text: Adaptive reuse
+                    - group [ref=f140e708]:
+                      - link [ref=f140e709] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/09/studio-ko-centre-contemporary-arts-tashkent/
+                        - text: Tashkent art centre
+                - listitem [aria-hidden] [ref=f140e710]:
+                  - link [ref=f140e711] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/08/daniel-libeskind-2026-praemium-imperiale-architecture-news/
+                    - figure [ref=f140e712]
+                    - generic [aria-hidden] [ref=f140e714]:
+                      - paragraph [ref=f140e716]
+                      - paragraph [ref=f140e718]
+                  - generic [ref=f140e719]:
+                    - group [ref=f140e720]:
+                      - link [ref=f140e721] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/news/
+                        - text: News
+                    - group [ref=f140e722]:
+                      - link [ref=f140e723] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/08/daniel-libeskind-2026-praemium-imperiale-architecture-news/
+                        - text: Libeskind wins Praemium Imperiale
+                - listitem [aria-hidden] [ref=f140e724]:
+                  - link [ref=f140e725] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/08/bugaboo-biomaterial-pram-aalto-university-finland/
+                    - figure [ref=f140e726]
+                    - generic [aria-hidden] [ref=f140e728]:
+                      - paragraph [ref=f140e730]
+                      - paragraph [ref=f140e732]
+                  - generic [ref=f140e733]:
+                    - group [ref=f140e734]:
+                      - link [ref=f140e735] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/design/
+                        - text: Design
+                    - group [ref=f140e736]:
+                      - link [ref=f140e737] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/08/bugaboo-biomaterial-pram-aalto-university-finland/
+                        - text: Orange-peel pram
+                - listitem [aria-hidden] [ref=f140e738]:
+                  - link [ref=f140e739] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/
+                    - figure [ref=f140e740]
+                    - generic [aria-hidden] [ref=f140e741]:
+                      - paragraph [ref=f140e743]
+                      - paragraph [ref=f140e745]
+                  - generic [ref=f140e746]:
+                    - group [ref=f140e747]:
+                      - link [ref=f140e748] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/news/
+                        - text: News
+                    - group [ref=f140e749]:
+                      - link [ref=f140e750] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/
+                        - text: Arc de Trump construction
+                - listitem [aria-hidden] [ref=f140e751]:
+                  - link [ref=f140e752] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates/
+                    - figure [ref=f140e753]
+                    - generic [aria-hidden] [ref=f140e755]:
+                      - paragraph [ref=f140e757]
+                      - paragraph [ref=f140e759]
+                  - generic [ref=f140e760]:
+                    - group [ref=f140e761]:
+                      - link [ref=f140e762] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/housing/
+                        - text: Housing
+                    - group [ref=f140e763]:
+                      - link [ref=f140e764] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates/
+                        - text: Stone exoskeleton high-rise
+                - listitem [aria-hidden] [ref=f140e765]:
+                  - link [ref=f140e766] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/
+                    - figure [ref=f140e767]
+                    - generic [aria-hidden] [ref=f140e769]:
+                      - paragraph [ref=f140e771]
+                      - paragraph [ref=f140e773]
+                  - generic [ref=f140e774]:
+                    - group [ref=f140e775]:
+                      - link [ref=f140e776] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/vets/
+                        - text: Vets
+                    - group [ref=f140e777]:
+                      - link [ref=f140e778] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/
+                        - text: Brutalist animal clinic
+                - listitem [aria-hidden] [ref=f140e779]:
+                  - link [ref=f140e780] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/
+                    - figure [ref=f140e781]
+                    - generic [aria-hidden] [ref=f140e783]:
+                      - paragraph [ref=f140e785]
+                      - paragraph [ref=f140e787]
+                  - generic [ref=f140e788]:
+                    - group [ref=f140e789]:
+                      - link [ref=f140e790] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/ai/
+                        - text: Artificial intelligence (AI)
+                    - group [ref=f140e791]:
+                      - link [ref=f140e792] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/
+                        - text: Anti-AI designs
+                - listitem [aria-hidden] [ref=f140e793]:
+                  - link [ref=f140e794] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/
+                    - figure [ref=f140e795]
+                    - generic [aria-hidden] [ref=f140e797]:
+                      - paragraph [ref=f140e799]
+                      - paragraph [ref=f140e801]
+                  - generic [ref=f140e802]:
+                    - group [ref=f140e803]:
+                      - link [ref=f140e804] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/world-trade-center/
+                        - text: World Trade Center
+                    - group [ref=f140e805]:
+                      - link [ref=f140e806] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/11/world-trade-center-buildings-25-years/
+                        - text: World Trade Center buildings
+                - listitem [aria-hidden] [ref=f140e807]:
+                  - link [ref=f140e808] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+                    - figure [ref=f140e809]
+                    - generic [aria-hidden] [ref=f140e811]:
+                      - paragraph [ref=f140e813]
+                      - paragraph [ref=f140e815]
+                  - generic [ref=f140e816]:
+                    - group [ref=f140e817]:
+                      - link [ref=f140e818] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/london-design-festival/
+                        - text: London Design Festival
+                    - group [ref=f140e819]:
+                      - link [ref=f140e820] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/11/dezeen-dispatch-ldf-2026/
+                        - text: Read Dezeen Dispatch online!
+                - listitem [aria-hidden] [ref=f140e821]:
+                  - link [ref=f140e822] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/11/le-grand-bouquet-uchronia-grand-palais-paris-design-week/
+                    - figure [ref=f140e823]
+                    - generic [aria-hidden] [ref=f140e825]:
+                      - paragraph [ref=f140e827]
+                      - paragraph [ref=f140e829]
+                  - generic [ref=f140e830]:
+                    - group [ref=f140e831]:
+                      - link [ref=f140e832] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/paris-design-week/
+                        - text: Paris Design Week
+                    - group [ref=f140e833]:
+                      - link [ref=f140e834] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/11/le-grand-bouquet-uchronia-grand-palais-paris-design-week/
+                        - text: Grand Palais flower sculpture
+                - listitem [aria-hidden] [ref=f140e835]:
+                  - link [ref=f140e836] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/
+                    - figure [ref=f140e837]
+                    - generic [aria-hidden] [ref=f140e839]:
+                      - paragraph [ref=f140e841]
+                      - paragraph [ref=f140e843]
+                  - generic [ref=f140e844]:
+                    - group [ref=f140e845]:
+                      - link [ref=f140e846] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/drones/
+                        - text: Drones
+                    - group [ref=f140e847]:
+                      - link [ref=f140e848] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/
+                        - text: Twin Towers drone recreation
+                - listitem [aria-hidden] [ref=f140e849]:
+                  - link [ref=f140e850] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/10/oatelier-husarik-hut-timber-home-slovakia/
+                    - figure [ref=f140e851]
+                    - generic [aria-hidden] [ref=f140e853]:
+                      - paragraph [ref=f140e855]
+                      - paragraph [ref=f140e857]
+                  - generic [ref=f140e858]:
+                    - group [ref=f140e859]:
+                      - link [ref=f140e860] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/houses/
+                        - text: Houses
+                    - group [ref=f140e861]:
+                      - link [ref=f140e862] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/10/oatelier-husarik-hut-timber-home-slovakia/
+                        - text: Slovakian timber home
+                - listitem [aria-hidden] [ref=f140e863]:
+                  - link [ref=f140e864] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/10/six-rising-talents-london-design-scene/
+                    - figure [ref=f140e865]
+                    - generic [aria-hidden] [ref=f140e867]:
+                      - paragraph [ref=f140e869]
+                      - paragraph [ref=f140e871]
+                  - generic [ref=f140e872]:
+                    - group [ref=f140e873]:
+                      - link [ref=f140e874] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/london-design-festival/
+                        - text: London Design Festival
+                    - group [ref=f140e875]:
+                      - link [ref=f140e876] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/10/six-rising-talents-london-design-scene/
+                        - text: London emerging designers
+                - listitem [aria-hidden] [ref=f140e877]:
+                  - link [ref=f140e878] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/09/apple-releases-its-first-folding-smartphone-the-size-of-a-passport/
+                    - figure [ref=f140e879]
+                    - generic [aria-hidden] [ref=f140e881]:
+                      - paragraph [ref=f140e883]
+                      - paragraph [ref=f140e885]
+                  - generic [ref=f140e886]:
+                    - group [ref=f140e887]:
+                      - link [ref=f140e888] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/apple/
+                        - text: Apple
+                    - group [ref=f140e889]:
+                      - link [ref=f140e890] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/09/apple-releases-its-first-folding-smartphone-the-size-of-a-passport/
+                        - text: Folding iPhone
+                - listitem [aria-hidden] [ref=f140e891]:
+                  - link [ref=f140e892] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/09/upcoming-nfl-stadiums-american-football/
+                    - figure [ref=f140e893]
+                    - generic [aria-hidden] [ref=f140e895]:
+                      - paragraph [ref=f140e897]
+                      - paragraph [ref=f140e899]
+                  - generic [ref=f140e900]:
+                    - group [ref=f140e901]:
+                      - link [ref=f140e902] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/american-football/
+                        - text: American football
+                    - group [ref=f140e903]:
+                      - link [ref=f140e904] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/09/upcoming-nfl-stadiums-american-football/
+                        - text: Upcoming NFL stadiums
+                - listitem [aria-hidden] [ref=f140e905]:
+                  - link [ref=f140e906] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/09/studio-ko-centre-contemporary-arts-tashkent/
+                    - figure [ref=f140e907]
+                    - generic [aria-hidden] [ref=f140e909]:
+                      - paragraph [ref=f140e911]
+                      - paragraph [ref=f140e913]
+                  - generic [ref=f140e914]:
+                    - group [ref=f140e915]:
+                      - link [ref=f140e916] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/adaptive-reuse/
+                        - text: Adaptive reuse
+                    - group [ref=f140e917]:
+                      - link [ref=f140e918] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/09/studio-ko-centre-contemporary-arts-tashkent/
+                        - text: Tashkent art centre
+                - listitem [aria-hidden] [ref=f140e919]:
+                  - link [ref=f140e920] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/08/daniel-libeskind-2026-praemium-imperiale-architecture-news/
+                    - figure [ref=f140e921]
+                    - generic [aria-hidden] [ref=f140e923]:
+                      - paragraph [ref=f140e925]
+                      - paragraph [ref=f140e927]
+                  - generic [ref=f140e928]:
+                    - group [ref=f140e929]:
+                      - link [ref=f140e930] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/news/
+                        - text: News
+                    - group [ref=f140e931]:
+                      - link [ref=f140e932] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/08/daniel-libeskind-2026-praemium-imperiale-architecture-news/
+                        - text: Libeskind wins Praemium Imperiale
+                - listitem [aria-hidden] [ref=f140e933]:
+                  - link [ref=f140e934] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/08/bugaboo-biomaterial-pram-aalto-university-finland/
+                    - figure [ref=f140e935]
+                    - generic [aria-hidden] [ref=f140e937]:
+                      - paragraph [ref=f140e939]
+                      - paragraph [ref=f140e941]
+                  - generic [ref=f140e942]:
+                    - group [ref=f140e943]:
+                      - link [ref=f140e944] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/design/
+                        - text: Design
+                    - group [ref=f140e945]:
+                      - link [ref=f140e946] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/08/bugaboo-biomaterial-pram-aalto-university-finland/
+                        - text: Orange-peel pram
+                - listitem [aria-hidden] [ref=f140e947]:
+                  - link [ref=f140e948] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/
+                    - figure [ref=f140e949]
+                    - generic [aria-hidden] [ref=f140e950]:
+                      - paragraph [ref=f140e952]
+                      - paragraph [ref=f140e954]
+                  - generic [ref=f140e955]:
+                    - group [ref=f140e956]:
+                      - link [ref=f140e957] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/news/
+                        - text: News
+                    - group [ref=f140e958]:
+                      - link [ref=f140e959] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/07/arc-de-trump-construction-start/
+                        - text: Arc de Trump construction
+                - listitem [aria-hidden] [ref=f140e960]:
+                  - link [ref=f140e961] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates/
+                    - figure [ref=f140e962]
+                    - generic [aria-hidden] [ref=f140e964]:
+                      - paragraph [ref=f140e966]
+                      - paragraph [ref=f140e968]
+                  - generic [ref=f140e969]:
+                    - group [ref=f140e970]:
+                      - link [ref=f140e971] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/housing/
+                        - text: Housing
+                    - group [ref=f140e972]:
+                      - link [ref=f140e973] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates/
+                        - text: Stone exoskeleton high-rise
+                - listitem [aria-hidden] [ref=f140e974]:
+                  - link [ref=f140e975] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/
+                    - figure [ref=f140e976]
+                    - generic [aria-hidden] [ref=f140e978]:
+                      - paragraph [ref=f140e980]
+                      - paragraph [ref=f140e982]
+                  - generic [ref=f140e983]:
+                    - group [ref=f140e984]:
+                      - link [ref=f140e985] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/vets/
+                        - text: Vets
+                    - group [ref=f140e986]:
+                      - link [ref=f140e987] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/
+                        - text: Brutalist animal clinic
+                - listitem [aria-hidden] [ref=f140e988]:
+                  - link [ref=f140e989] [cursor=pointer]:
+                    - /url: https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/
+                    - figure [ref=f140e990]
+                    - generic [aria-hidden] [ref=f140e992]:
+                      - paragraph [ref=f140e994]
+                      - paragraph [ref=f140e996]
+                  - generic [ref=f140e997]:
+                    - group [ref=f140e998]:
+                      - link [ref=f140e999] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/tag/ai/
+                        - text: Artificial intelligence (AI)
+                    - group [ref=f140e1000]:
+                      - link [ref=f140e1001] [cursor=pointer]:
+                        - /url: https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/
+                        - text: Anti-AI designs
+    - contentinfo [ref=f140e1002]:
+      - navigation [ref=f140e1003]:
+        - list [ref=f140e1004]:
+          - listitem [ref=f140e1005]:
+            - link "Newsletters" [ref=f140e1006] [cursor=pointer]:
+              - /url: https://www.dezeen.com/newsletters/
+          - listitem [ref=f140e1007]:
+            - link "Comments" [ref=f140e1008] [cursor=pointer]:
+              - /url: https://www.dezeen.com/comments/
+          - listitem [ref=f140e1009]:
+            - link "Submit a story" [ref=f140e1010] [cursor=pointer]:
+              - /url: https://10.10.116.48/submit-a-story/
+          - listitem [ref=f140e1011]:
+            - link "Advertise" [ref=f140e1012] [cursor=pointer]:
+              - /url: /advertise
+          - listitem [ref=f140e1013]:
+            - link "Privacy notice" [ref=f140e1014] [cursor=pointer]:
+              - /url: https://10.10.116.48/privacy-notice/
+          - listitem [ref=f140e1015]:
+            - link "Contact" [ref=f140e1016] [cursor=pointer]:
+              - /url: https://10.10.116.48/contact/
+        - list [ref=f140e1017]:
+          - listitem [ref=f140e1018]:
+            - link "Series" [ref=f140e1019] [cursor=pointer]:
+              - /url: https://www.dezeen.com/editorial-series/
+          - listitem [ref=f140e1020]:
+            - link "Interviews" [ref=f140e1021] [cursor=pointer]:
+              - /url: https://www.dezeen.com/interviews/
+          - listitem [ref=f140e1022]:
+            - link "Opinion" [ref=f140e1023] [cursor=pointer]:
+              - /url: https://10.10.116.48/opinion/
+          - listitem [ref=f140e1024]:
+            - link "Talks" [ref=f140e1025] [cursor=pointer]:
+              - /url: https://10.10.116.48/talks/
+          - listitem [ref=f140e1026]:
+            - link "Videos" [ref=f140e1027] [cursor=pointer]:
+              - /url: https://10.10.116.48/videos/
+        - list [ref=f140e1028]:
+          - listitem [ref=f140e1029]:
+            - link "Architecture" [ref=f140e1030] [cursor=pointer]:
+              - /url: https://10.10.116.48/architecture/
+          - listitem [ref=f140e1031]:
+            - link "Interiors" [ref=f140e1032] [cursor=pointer]:
+              - /url: https://10.10.116.48/interiors/
+          - listitem [ref=f140e1033]:
+            - link "Design" [ref=f140e1034] [cursor=pointer]:
+              - /url: https://10.10.116.48/design/
+          - listitem [ref=f140e1035]:
+            - link "Technology" [ref=f140e1036] [cursor=pointer]:
+              - /url: https://www.dezeen.com/technology/
+        - list [ref=f140e1037]:
+          - listitem [ref=f140e1038]:
+            - link "Magazine" [ref=f140e1039] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f140e1040]:
+            - link "Awards" [ref=f140e1041] [cursor=pointer]:
+              - /url: /awards
+          - listitem [ref=f140e1042]:
+            - link "Jobs" [ref=f140e1043] [cursor=pointer]:
+              - /url: http://dezeenjobs.com/
+          - listitem [ref=f140e1044]:
+            - link "Events Guide" [ref=f140e1045] [cursor=pointer]:
+              - /url: /eventsguide
+          - listitem [ref=f140e1046]:
+            - link "Showroom" [ref=f140e1047] [cursor=pointer]:
+              - /url: https://www.dezeen.com/showroom/
+          - listitem [ref=f140e1048]:
+            - link "School Shows" [ref=f140e1049] [cursor=pointer]:
+              - /url: https://www.dezeen.com/schoolshows
+          - listitem [ref=f140e1050]:
+            - link "Courses" [ref=f140e1051] [cursor=pointer]:
+              - /url: https://www.dezeen.com/courses/
+    - complementary "Newsletter signup"

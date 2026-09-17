@@ -1,0 +1,265 @@
+- generic [active] [ref=f8e1]:
+  - banner [ref=f8e2]:
+    - button "Skip to content" [ref=f8e3] [cursor=pointer]
+    - button "Accessibility Feedback" [ref=f8e6] [cursor=pointer]
+    - generic [ref=f8e9]:
+      - link [ref=f8e10] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=f8e11]
+      - search [ref=f8e12]:
+        - button "Search" [ref=f8e15] [cursor=pointer]
+        - searchbox "Enter your search here – Search suggestions will show as you type" [ref=f8e16]: reddit architects AI render floor plan inaccurate
+        - generic [ref=f8e17] [cursor=pointer]
+        - button "Search using an image" [ref=f8e22] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=f8e24]:
+      - button "Microsoft Rewards" [ref=f8e25] [cursor=pointer]
+      - link "Sign in" [ref=f8e26] [cursor=pointer]:
+        - /url: javascript:void(0)
+    - navigation "Search Filter" [ref=f8e28]:
+      - list [ref=f8e29]:
+        - listitem [ref=f8e30]:
+          - link "All" [ref=f8e31] [cursor=pointer]:
+            - /url: /?scope=web&FORM=HDRSC1
+        - listitem [ref=f8e32]:
+          - link "Search" [ref=f8e33] [cursor=pointer]:
+            - /url: /copilotsearch?q=reddit+architects+AI+render+floor+plan+inaccurate&FORM=CSSCOP
+        - listitem [ref=f8e36]:
+          - link "Images" [ref=f8e37] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=b3bde83cc1bf15d1e2ab167fd3aeec3ab344b99e55cb063f78a9412bd5fc075bJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1L2ltYWdlcy9zZWFyY2g_cT1yZWRkaXQrYXJjaGl0ZWN0cytBSStyZW5kZXIrZmxvb3IrcGxhbitpbmFjY3VyYXRlJkZPUk09SERSU0Mz&ntb=1
+        - listitem [ref=f8e38]:
+          - link "Videos" [ref=f8e39] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=03d592f0f441b975831707b95bc9a10002cf3fffad40d5a9e25751b2eb82929bJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1L3ZpZGVvcy9zZWFyY2g_cT1yZWRkaXQrYXJjaGl0ZWN0cytBSStyZW5kZXIrZmxvb3IrcGxhbitpbmFjY3VyYXRlJkZPUk09SERSU0M0&ntb=1
+        - listitem [ref=f8e40]:
+          - link "Maps" [ref=f8e41] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=e3487e92a3caccb11b79107001838979aeb2c89cc085c314f99c1167285a3c37JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1L21hcHM_cT1yZWRkaXQrYXJjaGl0ZWN0cytBSStyZW5kZXIrZmxvb3IrcGxhbitpbmFjY3VyYXRlJkZPUk09SERSU0M2&ntb=1
+        - listitem [ref=f8e42]:
+          - link "News" [ref=f8e43] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=2275ae05caa09d7aca9ca48194fb501d692189a960a8853b48b724285728ce5fJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1L25ld3Mvc2VhcmNoP3E9cmVkZGl0K2FyY2hpdGVjdHMrQUkrcmVuZGVyK2Zsb29yK3BsYW4raW5hY2N1cmF0ZSZGT1JNPUhEUlNDNw&ntb=1
+        - listitem [ref=f8e44]:
+          - link "Copilot" [ref=f8e45] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=36a508012746ed062eea5f4a89e8094816f26436feeeaf1f1aee50e3cb48dc21JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1L2NoYXQ_cHJvbXB0PXJlZGRpdCthcmNoaXRlY3RzK0FJK3JlbmRlcitmbG9vcitwbGFuK2luYWNjdXJhdGUmc2VuZHF1ZXJ5PTEmRk9STT1TQ0NPRFg&ntb=1
+        - listitem [ref=f8e46]:
+          - button [ref=f8e47] [cursor=pointer]
+  - generic [ref=f8e51]:
+    - main "Search Results" [ref=f8e52]:
+      - generic [ref=f8e54]:
+        - generic [aria-hidden] [ref=f8e55]:
+          - generic [ref=f8e56] [cursor=pointer]
+          - generic [ref=f8e59] [cursor=pointer]
+          - generic [ref=f8e62] [cursor=pointer]
+        - text: About 5,070 results
+      - list [ref=f8e65]:
+        - listitem [ref=f8e66]:
+          - generic [ref=f8e67]:
+            - link "Explore this image" [ref=f8e70] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=7ZfL9jH5&id=DA9FE57C72E404EC8ADAF35BF303BE7612A2A511&thid=OIP.7ZfL9jH5ZwC3wuLo-DRFEQHaFJ&mediaurl=https://preview.redd.it/whats-your-opinion-on-ai-rendering-tools-for-architects-v0-e8283934vkpc1.gif?width=1080&crop=smart&format=png8&s=d30430d3328057a4bb092677f9e3bb69626ca85f&q=reddit+architects+AI+render+floor+plan+inaccurate&ck=AC814E01E21546075448A008A8FA70F8&idpp=rc&expw=1080&exph=750&form=rc2idp
+            - generic [ref=f8e72]:
+              - link "Reddit" [ref=f8e74] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=de04200ae33c1c51558b733864b74b2f6ce60c5ef04ad60ed8b38fcb2ca73911JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0FyY2hpdGVjdHMvY29tbWVudHMvMWJqc2p5eS93aGF0c195b3VyX29waW5pb25fb25fYWlfcmVuZGVyaW5nX3Rvb2xzX2Zvci8&ntb=1
+                - generic [ref=f8e79]:
+                  - generic [ref=f8e80]: Reddit
+                  - generic [ref=f8e81]: https://www.reddit.com › ... › whats_your_opinion_on_ai_r…
+              - heading [level=2] [ref=f8e84]:
+                - link "What's Your Opinion on AI Rendering Tools for …" [ref=f8e85] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=de04200ae33c1c51558b733864b74b2f6ce60c5ef04ad60ed8b38fcb2ca73911JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0FyY2hpdGVjdHMvY29tbWVudHMvMWJqc2p5eS93aGF0c195b3VyX29waW5pb25fb25fYWlfcmVuZGVyaW5nX3Rvb2xzX2Zvci8&ntb=1
+              - paragraph [ref=f8e86]: I've used Sketchup Diffusion for fun and it has at times informed some aspects of schematic design. For …
+        - listitem [ref=f8e88]:
+          - link "Reddit" [ref=f8e90] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=64dfd8765fe1afb35a3f680c789dbe4749a61f65e9f9ae780cff1f746c1119bdJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0FyY2hpdGVjdHMvY29tbWVudHMvMWNyeWY1by9hbnlvbmVfdXNpbmdfYWlfdG9vbHNfZWZmZWN0aXZlbHlfeWV0Lw&ntb=1
+            - generic [ref=f8e95]:
+              - generic [ref=f8e96]: Reddit
+              - generic [ref=f8e97]: https://www.reddit.com › Architects › comments › anyone_using_ai...
+          - heading [level=2] [ref=f8e100]:
+            - 'link "Anyone using AI tools effectively yet? : r/Architects - Reddit" [ref=f8e101] [cursor=pointer]':
+              - /url: https://www.bing.com/ck/a?!&&p=64dfd8765fe1afb35a3f680c789dbe4749a61f65e9f9ae780cff1f746c1119bdJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0FyY2hpdGVjdHMvY29tbWVudHMvMWNyeWY1by9hbnlvbmVfdXNpbmdfYWlfdG9vbHNfZWZmZWN0aXZlbHlfeWV0Lw&ntb=1
+          - generic [ref=f8e102]:
+            - paragraph [ref=f8e103]: What in rendering and productivity does AI do better for you? This is what I'm primarily interested in but I've struggled to see how to …
+            - generic [ref=f8e105]:
+              - list [ref=f8e106]:
+                - listitem [ref=f8e107]:
+                  - generic [ref=f8e108]: "Reviews: 42"
+              - list
+            - generic "Specific site informartion" [ref=f8e109]:
+              - generic [ref=f8e110]:
+                - text: "Missing:"
+                - list [ref=f8e111]:
+                  - listitem [ref=f8e112]: floor plan
+              - generic [ref=f8e113]:
+                - text: "| Must include:"
+                - list [ref=f8e114]:
+                  - listitem [ref=f8e115]:
+                    - link "floor plan" [ref=f8e116] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=933ff1c0b58b61eb6919ce02eb4d1ddd2d89034fdf253a9ae73c8b00aa6229caJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1L3NlYXJjaD9xPXJlZGRpdCthcmNoaXRlY3RzK0FJK3JlbmRlcislMjJmbG9vcitwbGFuJTIyK2luYWNjdXJhdGUmRk9STT1NVUlOUkU&ntb=1
+        - listitem [ref=f8e117]:
+          - link "archigenai.com" [ref=f8e119] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=4f8f0462c5dddece5329ab8865d31eeaff0a405d265ba66b73fa905357ea703bJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly9hcmNoaWdlbmFpLmNvbS93aHktYWktcmVuZGVycy1sb29rLWZha2UtcGh5c2ljYWwtdGVsbHMtYXJjaGl0ZWN0cy0yMDI2Lmh0bWw&ntb=1
+            - generic [ref=f8e124]:
+              - generic [ref=f8e125]: archigenai.com
+              - generic [ref=f8e126]: https://archigenai.com
+          - heading [level=2] [ref=f8e129]:
+            - 'link "Why Your AI Render Looks Fake: Five Physical Tells and How to Fix …" [ref=f8e130] [cursor=pointer]':
+              - /url: https://www.bing.com/ck/a?!&&p=4f8f0462c5dddece5329ab8865d31eeaff0a405d265ba66b73fa905357ea703bJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly9hcmNoaWdlbmFpLmNvbS93aHktYWktcmVuZGVycy1sb29rLWZha2UtcGh5c2ljYWwtdGVsbHMtYXJjaGl0ZWN0cy0yMDI2Lmh0bWw&ntb=1
+          - generic [ref=f8e131]:
+            - paragraph [ref=f8e132]: 6 Jul 2026 · The architect who can catch a floating shadow in half a second will still be useful when today's render tool is three …
+            - generic "Specific site informartion" [ref=f8e133]:
+              - generic [ref=f8e134]:
+                - text: "Missing:"
+                - list [ref=f8e135]:
+                  - listitem [ref=f8e136]: floor plan
+              - generic [ref=f8e137]:
+                - text: "| Must include:"
+                - list [ref=f8e138]:
+                  - listitem [ref=f8e139]:
+                    - link "floor plan" [ref=f8e140] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=933ff1c0b58b61eb6919ce02eb4d1ddd2d89034fdf253a9ae73c8b00aa6229caJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1L3NlYXJjaD9xPXJlZGRpdCthcmNoaXRlY3RzK0FJK3JlbmRlcislMjJmbG9vcitwbGFuJTIyK2luYWNjdXJhdGUmRk9STT1NVUlOUkU&ntb=1
+        - listitem [ref=f8e141]:
+          - link "airenderlab.in" [ref=f8e143] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=4aff73c109053369c9cf2b6cab8d53e84f73d19895519eccfbdb8b5c8f254d05JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly93d3cuYWlyZW5kZXJsYWIuaW4vdG9wLTctYWktcmVuZGVyaW5nLW1pc3Rha2VzLWFyY2hpdGVjdHMtc2hvdWxkLWF2b2lkLWluLTIwMjY&ntb=1
+            - generic [ref=f8e148]:
+              - generic [ref=f8e149]: airenderlab.in
+              - generic [ref=f8e150]: https://www.airenderlab.in
+          - heading [level=2] [ref=f8e153]:
+            - link "Top 7 AI Rendering Mistakes Architects Should Avoid in 2026" [ref=f8e154] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=4aff73c109053369c9cf2b6cab8d53e84f73d19895519eccfbdb8b5c8f254d05JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly93d3cuYWlyZW5kZXJsYWIuaW4vdG9wLTctYWktcmVuZGVyaW5nLW1pc3Rha2VzLWFyY2hpdGVjdHMtc2hvdWxkLWF2b2lkLWluLTIwMjY&ntb=1
+          - paragraph [ref=f8e156]: Artificial Intelligence is transforming architectural visualization, making it possible to create stunning renders in seconds. However, …
+        - listitem [ref=f8e157]:
+          - generic [ref=f8e158]:
+            - link "Explore this image" [ref=f8e161] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=YdvVf3eQ&id=DC7D8C3ED58D673EC0749E3451D7D7361BEB8E1E&thid=OIP.YdvVf3eQKrSyceclP0K2EAHaFk&mediaurl=https://illustrarch.com/wp-content/uploads/2025/05/AI_Missteps_in_Architectural_Design-7-1024x771.jpg&q=reddit+architects+AI+render+floor+plan+inaccurate&ck=2FB3E035DEE356CA76EAF21F4CB69726&idpp=rc&expw=1024&exph=771&form=rc2idp
+            - generic [ref=f8e163]:
+              - link "illustrarch.com" [ref=f8e165] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=5e87fc0d82094d6cffcd0c5288f7966b80c058f1a4d4f81f4a1c31f75b1c0a29JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly9pbGx1c3RyYXJjaC5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvNDc4NDktYWktbWlzc3RlcHMtaW4tYXJjaGl0ZWN0dXJhbC1kZXNpZ24uaHRtbA&ntb=1
+                - generic [ref=f8e170]:
+                  - generic [ref=f8e171]: illustrarch.com
+                  - generic [ref=f8e172]: https://illustrarch.com › artificial-intelligence
+              - heading [level=2] [ref=f8e175]:
+                - 'link "Top AI Missteps in Architectural Design: Learning from …" [ref=f8e176] [cursor=pointer]':
+                  - /url: https://www.bing.com/ck/a?!&&p=5e87fc0d82094d6cffcd0c5288f7966b80c058f1a4d4f81f4a1c31f75b1c0a29JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly9pbGx1c3RyYXJjaC5jb20vYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvNDc4NDktYWktbWlzc3RlcHMtaW4tYXJjaGl0ZWN0dXJhbC1kZXNpZ24uaHRtbA&ntb=1
+              - paragraph [ref=f8e177]: 27 May 2025 · Explore the intricate relationship between AI and architectural design in this insightful …
+              - generic "Specific site informartion" [ref=f8e178]:
+                - generic [ref=f8e179]:
+                  - text: "Missing:"
+                  - list [ref=f8e180]:
+                    - listitem [ref=f8e181]: floor plan
+                - generic [ref=f8e182]:
+                  - text: "| Must include:"
+                  - list [ref=f8e183]:
+                    - listitem [ref=f8e184]:
+                      - link "floor plan" [ref=f8e185] [cursor=pointer]:
+                        - /url: https://www.bing.com/ck/a?!&&p=933ff1c0b58b61eb6919ce02eb4d1ddd2d89034fdf253a9ae73c8b00aa6229caJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1L3NlYXJjaD9xPXJlZGRpdCthcmNoaXRlY3RzK0FJK3JlbmRlcislMjJmbG9vcitwbGFuJTIyK2luYWNjdXJhdGUmRk9STT1NVUlOUkU&ntb=1
+        - listitem [ref=f8e187]:
+          - link "ritn3d.com" [ref=f8e189] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=6d111ebfd6621b66552be5fcdae398afdf27f22b7336f16aec6c69ad387ada36JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly93d3cucml0bjNkLmNvbS9ibG9nL3Bob3RvLXJlYWxpc3RpYy1saXN0aW5nLXJlbmRlcnMtM2QtY29udmVyc2lvbi8&ntb=1
+            - generic [ref=f8e194]:
+              - generic [ref=f8e195]: ritn3d.com
+              - generic [ref=f8e196]: https://www.ritn3d.com › blog
+          - heading [level=2] [ref=f8e199]:
+            - link "Why AI Floor Plan Converters Fail on Real Estate Listing Renders …" [ref=f8e200] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=6d111ebfd6621b66552be5fcdae398afdf27f22b7336f16aec6c69ad387ada36JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly93d3cucml0bjNkLmNvbS9ibG9nL3Bob3RvLXJlYWxpc3RpYy1saXN0aW5nLXJlbmRlcnMtM2QtY29udmVyc2lvbi8&ntb=1
+          - paragraph [ref=f8e202]: 3 Jul 2026 · Photo-realistic real estate floor plan renders — the wood-textured, colored-fill kind — break every AI floor plan converter …
+        - listitem [ref=f8e203]:
+          - generic [ref=f8e204]:
+            - link "Explore this image" [ref=f8e207] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=bPgc1aqa&id=422821214E5D0549A40F84C73B9FCA478CCC7702&thid=OIP.bPgc1aqaGT8r0qmvvan_hAHaHa&mediaurl=https://blog.architizer.com/wp-content/uploads/ChatGPT-Image-Apr-23-2025-10_00_56-PM.png&q=reddit+architects+AI+render+floor+plan+inaccurate&ck=960C90EB8414066840C6BBD4BC4AA2A8&idpp=rc&expw=1024&exph=1024&form=rc2idp
+            - generic [ref=f8e209]:
+              - link "Architizer" [ref=f8e211] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=49b995edfc4505f32591a2ca9f6583985a707a2ebb315977ace7a38551ea397dJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly9hcmNoaXRpemVyLmNvbS9ibG9nL3ByYWN0aWNlL3Rvb2xzL3RlY2gtZm9yLWFyY2hpdGVjdHMtaG93LXRvLWNyZWF0ZS1hLXN0dW5uaW5nLXJlbmRlcmluZy1mcm9tLWEtc2ltcGxlLWZsb29ycGxhbi11c2luZy1haS8&ntb=1
+                - generic [ref=f8e216]:
+                  - generic [ref=f8e217]: Architizer
+                  - generic [ref=f8e218]: https://architizer.com › blog › practice › tools › tech-for-arch…
+              - heading [level=2] [ref=f8e221]:
+                - 'link "Tech for Architects: How to Create a Stunning …" [ref=f8e222] [cursor=pointer]':
+                  - /url: https://www.bing.com/ck/a?!&&p=49b995edfc4505f32591a2ca9f6583985a707a2ebb315977ace7a38551ea397dJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly9hcmNoaXRpemVyLmNvbS9ibG9nL3ByYWN0aWNlL3Rvb2xzL3RlY2gtZm9yLWFyY2hpdGVjdHMtaG93LXRvLWNyZWF0ZS1hLXN0dW5uaW5nLXJlbmRlcmluZy1mcm9tLWEtc2ltcGxlLWZsb29ycGxhbi11c2luZy1haS8&ntb=1
+              - paragraph [ref=f8e223]: Users quickly found that the process was hit or miss, with the chatbot frustratingly making errors. Keir …
+        - listitem [ref=f8e225]:
+          - generic [ref=f8e226]:
+            - link "Explore this image" [ref=f8e229] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=qXW1xYTB&id=1D50B232C8673A6992C2B37509FE8231129EA3D4&thid=OIP.qXW1xYTBy37TXCv4gNF9PQHaEJ&mediaurl=https://static.wixstatic.com/media/61d133_9b12663947344bc988fa659b21496286~mv2.webp/v1/fill/w_1000,h_560,al_c/61d133_9b12663947344bc988fa659b21496286~mv2.webp&q=reddit+architects+AI+render+floor+plan+inaccurate&ck=C4A2D978ADBEBA030958CCC45890B3E2&idpp=rc&expw=1000&exph=560&form=rc2idp
+            - generic [ref=f8e231]:
+              - link "archivinci.com" [ref=f8e233] [cursor=pointer]:
+                - /url: https://www.bing.com/ck/a?!&&p=663e6a7fe9b2cde5fd5e9811588be8ebff2e0aa9ac6ea86397112ffeb3fb49f6JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly93d3cuYXJjaGl2aW5jaS5jb20vYmxvZ3MvcmVuZGVyaW5nLWlzc3Vlcy1hcmNoaXRlY3RzLWZhY2U&ntb=1
+                - generic [ref=f8e238]:
+                  - generic [ref=f8e239]: archivinci.com
+                  - generic [ref=f8e240]: https://www.archivinci.com › blogs › rendering-issues-archi…
+              - heading [level=2] [ref=f8e243]:
+                - link "Rendering Issues Architects Face and How AI Can …" [ref=f8e244] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=663e6a7fe9b2cde5fd5e9811588be8ebff2e0aa9ac6ea86397112ffeb3fb49f6JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly93d3cuYXJjaGl2aW5jaS5jb20vYmxvZ3MvcmVuZGVyaW5nLWlzc3Vlcy1hcmNoaXRlY3RzLWZhY2U&ntb=1
+              - paragraph [ref=f8e245]: 29 Oct 2025 · Find out how architects use AI to solve rendering problems, improve accuracy, cut costs, …
+        - listitem [ref=f8e247]:
+          - link "Medium" [ref=f8e249] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=ab18de20722a4861dd5a08366fbc0e3271d5b84888e56c6cdea6889dbfc2539fJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly9tZWRpdW0uY29tL0Bob21lcGxhbnIvd2h5LWdlbmVyYXRpbmctYXJjaGl0ZWN0dXJlLWRlc2lnbnMtd2l0aC1haS1jYW5ub3QtYmUtZnVsbHktcmVsaWFibGUtODU0Zjk4ZTVjOWI1&ntb=1
+            - generic [ref=f8e254]:
+              - generic [ref=f8e255]: Medium
+              - generic [ref=f8e256]: https://medium.com › @homeplanr › why-generating-architecture-designs-wi…
+          - heading [level=2] [ref=f8e259]:
+            - link "Why Generating Architecture Designs With AI Cannot Be Fully" [ref=f8e260] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=ab18de20722a4861dd5a08366fbc0e3271d5b84888e56c6cdea6889dbfc2539fJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly9tZWRpdW0uY29tL0Bob21lcGxhbnIvd2h5LWdlbmVyYXRpbmctYXJjaGl0ZWN0dXJlLWRlc2lnbnMtd2l0aC1haS1jYW5ub3QtYmUtZnVsbHktcmVsaWFibGUtODU0Zjk4ZTVjOWI1&ntb=1
+          - generic [ref=f8e261]:
+            - paragraph [ref=f8e262]: Generating architecture designs with AI can be incredibly helpful, but it’s not fully reliable for a few solid reasons. Here’s a breakdown …
+            - generic "Specific site informartion" [ref=f8e263]:
+              - generic [ref=f8e264]:
+                - text: "Missing:"
+                - list [ref=f8e265]:
+                  - listitem [ref=f8e266]: floor plan
+              - generic [ref=f8e267]:
+                - text: "| Must include:"
+                - list [ref=f8e268]:
+                  - listitem [ref=f8e269]:
+                    - link "floor plan" [ref=f8e270] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=933ff1c0b58b61eb6919ce02eb4d1ddd2d89034fdf253a9ae73c8b00aa6229caJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1L3NlYXJjaD9xPXJlZGRpdCthcmNoaXRlY3RzK0FJK3JlbmRlcislMjJmbG9vcitwbGFuJTIyK2luYWNjdXJhdGUmRk9STT1NVUlOUkU&ntb=1
+        - listitem [ref=f8e271]:
+          - link "archigenai.com" [ref=f8e273] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=2070609233fb3c9efb6716d1f79de730fc0ba06e03469ffc315afb0761d632d9JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly9hcmNoaWdlbmFpLmNvbS9jb21meXVpLWZsb29yLXBsYW4tdG8tM2QtcmVuZGVyLWFyY2hpdGVjdHMtMjAyNi5odG1s&ntb=1
+            - generic [ref=f8e278]:
+              - generic [ref=f8e279]: archigenai.com
+              - generic [ref=f8e280]: https://archigenai.com
+          - heading [level=2] [ref=f8e283]:
+            - link "ComfyUI in 2026 — turning a flat floor plan into a render" [ref=f8e284] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=2070609233fb3c9efb6716d1f79de730fc0ba06e03469ffc315afb0761d632d9JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cHM6Ly9hcmNoaWdlbmFpLmNvbS9jb21meXVpLWZsb29yLXBsYW4tdG8tM2QtcmVuZGVyLWFyY2hpdGVjdHMtMjAyNi5odG1s&ntb=1
+          - paragraph [ref=f8e286]: 28 May 2026 · There is a tutorial that keeps recirculating in the architecture corners of YouTube and Reddit this year, and the title is …
+        - listitem [ref=f8e287]:
+          - generic [ref=f8e289]:
+            - heading "People also ask" [level=2] [ref=f8e290]
+            - list [ref=f8e294]:
+              - listitem [ref=f8e295]:
+                - heading [level=3] [ref=f8e296]:
+                  - button "Can AI help architects move from a floorplan to a rendering?" [ref=f8e297] [cursor=pointer]
+              - listitem [ref=f8e299]:
+                - heading [level=3] [ref=f8e300]:
+                  - button "What are the AI rendering tools?" [ref=f8e301] [cursor=pointer]
+              - listitem [ref=f8e303]:
+                - heading [level=3] [ref=f8e304]:
+                  - button "Why do architects hate AI?" [ref=f8e305] [cursor=pointer]
+              - listitem [ref=f8e307]:
+                - heading [level=3] [ref=f8e308]:
+                  - button "Is Ai becoming more useful for architects?" [ref=f8e309] [cursor=pointer]
+        - listitem [ref=f8e312]:
+          - link "Some results have been removed" [ref=f8e314] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=20789143b7677afd9db95a8422dece46a8daffd7c562b668c3141222ce95d6dfJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9NjE3MzUw&ntb=1
+        - listitem [ref=f8e315]:
+          - navigation "More results for reddit architects AI render floor plan inaccurate":
+            - list:
+              - listitem [ref=f8e316]:
+                - generic "Page 1" [ref=f8e317]: "1"
+              - listitem [ref=f8e318]:
+                - link "Page 2" [ref=f8e319] [cursor=pointer]:
+                  - /url: /search?q=reddit+architects+AI+render+floor+plan+inaccurate&FPIG=19A3950AC44E44BC9B13BBED135F0885&first=11&FORM=PERE
+                  - text: "2"
+              - listitem [ref=f8e320]:
+                - link "Page 3" [ref=f8e321] [cursor=pointer]:
+                  - /url: /search?q=reddit+architects+AI+render+floor+plan+inaccurate&FPIG=19A3950AC44E44BC9B13BBED135F0885&first=21&FORM=PERE1
+                  - text: "3"
+              - listitem [ref=f8e322]:
+                - link "Next page" [ref=f8e323] [cursor=pointer]:
+                  - /url: /search?q=reddit+architects+AI+render+floor+plan+inaccurate&FPIG=19A3950AC44E44BC9B13BBED135F0885&first=11&FORM=PORE
+    - complementary "Additional Results" [ref=f8e324]:
+      - list
+  - contentinfo [ref=f8e325]:
+    - generic [ref=f8e326]:
+      - list:
+        - listitem [ref=f8e327]:
+          - link "Privacy" [ref=f8e328] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=9b8dec30088e146430182730fb720f8e86b15cf760115bbdfbde8b30a73afe6cJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSWQ9NTIxODM5&ntb=1
+        - listitem [ref=f8e329]:
+          - link "Terms" [ref=f8e330] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=da00c695c458774d231d57e5a5389e6a4969be2c5bf3898c182db51e94d117ceJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=00c8e7bb-4823-6764-075b-f06d49d96647&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9MjQ2MzM4&ntb=1

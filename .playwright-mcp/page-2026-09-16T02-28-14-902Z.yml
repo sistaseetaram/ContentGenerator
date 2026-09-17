@@ -1,0 +1,330 @@
+- generic [ref=f438e2]:
+  - banner [ref=f438e4]:
+    - generic [ref=f438e6]:
+      - generic [ref=f438e7]:
+        - button "Guide" [ref=f438e9] [cursor=pointer]
+        - generic [ref=f438e11]:
+          - link "YouTube Home" [ref=f438e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f438e16]: IN
+        - button "Skip navigation" [ref=f438e20] [cursor=pointer]
+      - generic [ref=f438e24]:
+        - search [ref=f438e25]:
+          - generic [ref=f438e27]:
+            - combobox "Search" [expanded] [ref=f438e30]
+            - button "Search" [ref=f438e31] [cursor=pointer]
+        - generic [ref=f438e34]:
+          - button "Search with your voice" [ref=f438e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f438e45]
+  - main [ref=f438e47]:
+    - generic [ref=f438e54]:
+      - generic [ref=f438e70]:
+        - heading "Nate Herk | AI Automation, verified" [level=1] [ref=f438e72]:
+          - generic [ref=f438e73]: Nate Herk | AI Automation
+        - generic [ref=f438e77]:
+          - group [ref=f438e78]:
+            - generic [ref=f438e79]: "@nateherk"
+          - generic [aria-hidden] [ref=f438e80]: •
+          - group [ref=f438e81]:
+            - generic "1.01 million subscribers" [ref=f438e82]: 1.01m subscribers
+            - generic [aria-hidden] [ref=f438e83]: •
+            - generic [ref=f438e84]: 511 videos
+        - generic [ref=f438e86] [cursor=pointer]:
+          - generic [ref=f438e87]: Nate Herk is an AI educator, entrepreneur, and creator who helps people use AI to work smarter, build better businesses, and unlock new opportunities.
+          - button "Description. Nate Herk is an AI educator, entrepreneur, and creator who h…tap for more." [ref=f438e88]:
+            - generic [ref=f438e89]: ...more
+        - generic [ref=f438e90]:
+          - link [ref=f438e93] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRUNPdVpQbHZTYnBsT3czYXpiQ2RQOXxBTl9pYzRkMXIwMzhXWVMwYTl5bzh2bTc0TUt2QTloZldNeUozZ0RQU2VMaHBVUjJ6dHRPbnZmWnRWRXVjdHhIY2o4YWRkSlZ5VmZ5aC03alV0N3NhaExkMEkxbUxpaHFjQjBV&q=https%3A%2F%2Fwww.skool.com%2Fai-automation-society%2Fabout
+          - button "and 5 more links" [ref=f438e98] [cursor=pointer]
+        - button "Subscribe" [ref=f438e102] [cursor=pointer]
+      - tablist [ref=f438e109]:
+        - tablist [ref=f438e113]:
+          - tab "Home" [selected] [ref=f438e114] [cursor=pointer]
+          - tab "Videos" [ref=f438e116] [cursor=pointer]
+          - tab "Shorts" [ref=f438e118] [cursor=pointer]
+          - tab "Podcasts" [ref=f438e120] [cursor=pointer]
+          - tab "Playlists" [ref=f438e122] [cursor=pointer]
+          - tab "Posts" [ref=f438e124] [cursor=pointer]
+          - button "Search" [ref=f438e129] [cursor=pointer]
+    - generic [ref=f438e135]:
+      - generic [ref=f438e142]:
+        - generic [ref=f438e143]:
+          - heading "Build & Sell with Claude Code (10+ Hour Course) 10 hours" [level=3] [ref=f438e144]:
+            - link "Build & Sell with Claude Code (10+ Hour Course)" [ref=f438e145] [cursor=pointer]:
+              - /url: /watch?v=mpALXah_PBg
+          - generic [ref=f438e148]:
+            - generic [ref=f438e149]: 1,035,350 views
+            - generic [ref=f438e150]: •6 months ago
+        - generic [ref=f438e151]:
+          - generic [ref=f438e153]:
+            - text: "My FREE AI OS Course:"
+            - link "https://www.skool.com/ai-automation-s..." [ref=f438e154] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRS1rb3VwbWtyaU1oWnNsWEN4eTA2OHxBTl9pYzRjQVdQeExuVWxTWkVCa1lYNEFSY1MwWEYySk5LaEFXRjZxM21iQjNBRmRqLTExc2sxQ0RuOE1CcENJUWI2d0Y1V2dYZnJoQXQ5c3FYVkFIdS1oNno1UmdEb2R2ZzYt&q=https%3A%2F%2Fwww.skool.com%2Fai-automation-society%2Fabout%3Fel%3D10-hour-course%26hcategory%3Dyoutube-videos%26utm_campaign%3Dfree-group
+            - text: "Full courses + unlimited support:"
+            - link "https://www.skool.com/ai-automation-s..." [ref=f438e155] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR2xrLTBzb0xYTVVNazFUNG5iejNoanxBTl9pYzRmODNvS3ZZYzBkdWhHV0JPcnBFbS04V0toVVRKeVlJeGphLVpmQWoyS3JnM1JSQkZudnhPSjlTenV6bEpmSk1LRWpzR05rRTk4X2hjdEljQ0pZdUU2bUpldjBJUFFZ&q=https%3A%2F%2Fwww.skool.com%2Fai-automation-society-plus%2Fabout%3Fel%3D10-hour-course%26hcategory%3Dyoutube-videos%26utm_campaign%3Dais-plus
+            - text: "Apply for my YT podcast:"
+            - link "https://podcast.nateherk.com/apply" [ref=f438e156] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRldqZDRacF96TXYyOVhDWUdYTGlGUnxBTl9pYzRmb3R1bm9JaDdiMC05YUNjRkpheWNJaURUZWZTWTJDUXFyWE53ZGhWc0hhUHo5TDRzZjJ3VGtUZzBCTW55eVJiNWRTUVRCWnBPa3AwNGE5eFcwbmRzcHZndlRSb1JT&q=https%3A%2F%2Fpodcast.nateherk.com%2Fapply
+            - text: "Work with me:"
+            - link "https://uppitai.com/" [ref=f438e157] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRWlMTV9xODE0UTB2REpVQndoQldzZnxBTl9pYzRlY3pWWkVWZWIxMkFpRmp3c2ZCaHRDVmIwNnVseTk4dklZVW1CRWdCN0t0VTVFeDUzd25yYWEzdWpfX2hwS0FscmhIRGRqbEFfZHZNaWt1YkUzcGFTb0hnTmY3VHhk&q=https%3A%2F%2Fuppitai.com%2F
+            - text: "My Tools💻 FREE MONTH voice to text:"
+            - link "https://get.glaido.com/nate" [ref=f438e158] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR3ljSlBPWEZiZ0l5NXA3eUJ4a29ianxBTl9pYzRlV3RvdlBXZmZESUdJeFVNVGNLTDBYQnEzcWRiY0tjZWpRZXp4OFZsWjZkNjN5OU91OU9Vd1ZMdzdiWDR5a2F4Y2dqSEJ5U2J4ZEZ1UUFOZkdncFhFUmpzdHdjblZh&q=https%3A%2F%2Fget.glaido.com%2Fnate
+            - text: "Code NATEHERK for 10% off VPS (annual plan):"
+            - link "https://www.hostinger.com/vps/claude-..." [ref=f438e159] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRjZRaHM4Q3Q3WUxsOVBXV1FsQXdvZ3xBTl9pYzRmTDFNOWVxZmNjM2hVN1VmNXRPYVMzakNYRU9wczhfMlVPYUJkVjBheklmeTJyNnJhVWhsNWlOM1BKSkhFd1U0bTlSSHRWdFFvRW50YjN1NWZUc3diWWMyRjZMemRu&q=https%3A%2F%2Fwww.hostinger.com%2Fvps%2Fclaude-code-hosting
+            - text: "This is the complete Claude Code course. Trust me, save this for later. I start from zero and walk you through everything: setup, building workflows, deploying websites, creating agent teams, browser automation, finding clients, pricing your work, and way more. To make it even better, we don’t ever write a single line of code. By the end, you'll know how to use Claude Code at a professional level and how to actually turn those skills into income. Whether you've never opened a terminal or you're looking to go deeper, this course covers it all in one place. Sponsorship Inquiries: 📧 nate@smoothmedia.co Connect with me:"
+            - link "https://www.linkedin.com/in/nateherke..." [ref=f438e160] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR1dseTlIVlVBVEdSczNjQkJ5eVNZMXxBTl9pYzRkcEhYZ2hKRlFQZEV1aDZjMXZRWEJJZFVBbkh4X3ZWTVhNZFVMczR3azY1TWF1NGhfdUMtWWxoeVpSb0ZSTEdsNDBsWlluZHJ0d25fME5YWlhyS2RfcDIyTUZXOW0w&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnateherkelman%2F
+            - link "https://x.com/nateherk" [ref=f438e161] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRXhNdEFLcFBUbmx4QmF3RUhjYWMtQ3xBTl9pYzRmVDN1VDg0bjJha3dQNW5SYkpZTzhIdDh6bUFQalhuRVN4SnFiSVpkOVRuSHNIWWxWM1lrbjdITFZLQ3lDQnBEZGY5UTRZaTgwN2RUemtiUEF1Z2UwcHBaS0dhcUFs&q=https%3A%2F%2Fx.com%2Fnateherk
+            - link "https://www.instagram.com/nateherk/" [ref=f438e162] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSFpJaGJhejV3bHhyUnNsU0FTLS0wb3xBTl9pYzRjdVJmMTZ0bWF1UlF3WlMwc0U3ZGR1bElKeEtoTVNHVlI5T3Z2eHJ0YVp5SG9DbGxHUmNHRDFIdUlTV04tQmFPdWs0NkIzcmNjWWdHbTZyRTR0VGlMVWJ0d0F6RURS&q=https%3A%2F%2Fwww.instagram.com%2Fnateherk%2F
+            - text: TIMESTAMPS 00:00 Course Outline 01:14 Why Learn This 26:08 Getting Set Up 41:25 Operations 50:53 Tokens and Context Windows 55:10 Claude.md 58:57 Building Your First Workflow 1:25:05 Building Second Workflow 1:50:43 Deploying Automations 3:05:46 Project Architecture & Commands 3:17:39 RAG 3:32:59 Turning n8n Workflow into App 4:12:42 Website Building Hacks 4:40:07 3D Animated Websites 5:00:02 APIs and MCPs 5:28:16 Google CLI 5:39:42 Building Your Own Executive Assistant 6:08:03 Skills 6:51:30 Sub-agents 7:11:20 Agent Teams 7:27:30 Browser Automation 7:42:30 Permissions & Context Management 7:50:09 GitHub & Worktrees 7:56:45 Fun Hacks 8:25:06 The Selling AI Mindset 8:39:41 Finding Clients 8:54:01 First Client in 7 Days 9:14:56 Pricing AI Workflows 9:35:36 Delivering AI Projects 9:58:55 Thank You! Join AIS FREE
+          - button [ref=f438e163] [cursor=pointer]:
+            - link "Read more" [ref=f438e165]:
+              - /url: /watch?v=mpALXah_PBg
+      - generic [ref=f438e169]:
+        - generic [ref=f438e170]:
+          - heading [level=2] [ref=f438e172]:
+            - link "AI Masterclasses" [ref=f438e175] [cursor=pointer]:
+              - /url: /playlist?list=PLvQWpZ46MVviAkCmpNKxTpiQbjfDOgR9g
+            - link "Play all" [ref=f438e180] [cursor=pointer]:
+              - /url: /watch?v=4hKJ9X6rGFo&list=PLvQWpZ46MVviAkCmpNKxTpiQbjfDOgR9g&pp=0gcJCboEgXWwhyeT
+          - generic [ref=f438e184]: All of my masterclass videos - complete guides
+        - generic [ref=f438e186]:
+          - generic [ref=f438e189]:
+            - generic [ref=f438e191] [cursor=pointer]:
+              - link [aria-hidden] [ref=f438e192]:
+                - /url: /watch?v=4hKJ9X6rGFo
+                - img [ref=f438e198]:
+                  - generic [ref=f438e199]: 1:45:42
+              - generic [ref=f438e201]:
+                - generic [ref=f438e202]:
+                  - heading "Build & Sell Grok Bots (2 Hour Course)" [level=3] [ref=f438e203]:
+                    - link "Build & Sell Grok Bots (2 Hour Course) 1 hour, 45 minutes" [ref=f438e204]:
+                      - /url: /watch?v=4hKJ9X6rGFo
+                      - text: Build & Sell Grok Bots (2 Hour Course)
+                  - generic [ref=f438e206]:
+                    - group [ref=f438e207]:
+                      - link [ref=f438e210]:
+                        - /url: /@nateherk
+                    - group [ref=f438e214]:
+                      - generic [ref=f438e215]: 207k views
+                      - generic [aria-hidden] [ref=f438e216]: •
+                      - generic "2 weeks ago" [ref=f438e217]
+                - button "More actions" [ref=f438e220]
+            - generic [ref=f438e225] [cursor=pointer]:
+              - link [aria-hidden] [ref=f438e226]:
+                - /url: /watch?v=IVx8OSMbTss
+                - img [ref=f438e232]:
+                  - generic [ref=f438e233]: 2:22:52
+              - generic [ref=f438e235]:
+                - generic [ref=f438e236]:
+                  - heading "Build & Sell AI SaaS Products (2 HOUR COURSE)" [level=3] [ref=f438e237]:
+                    - link "Build & Sell AI SaaS Products (2 HOUR COURSE) 2 hours, 22 minutes" [ref=f438e238]:
+                      - /url: /watch?v=IVx8OSMbTss
+                      - text: Build & Sell AI SaaS Products (2 HOUR COURSE)
+                  - generic [ref=f438e240]:
+                    - group [ref=f438e241]:
+                      - link [ref=f438e244]:
+                        - /url: /@nateherk
+                    - group [ref=f438e248]:
+                      - generic [ref=f438e249]: 80k views
+                      - generic [aria-hidden] [ref=f438e250]: •
+                      - generic "1 month ago" [ref=f438e251]
+                - button "More actions" [ref=f438e254]
+            - generic [ref=f438e259] [cursor=pointer]:
+              - link [aria-hidden] [ref=f438e260]:
+                - /url: /watch?v=7WZ6XldxX0U
+                - img [ref=f438e266]:
+                  - generic [ref=f438e267]: 15:44
+              - generic [ref=f438e269]:
+                - generic [ref=f438e270]:
+                  - heading "5000 Hours of Building AI in Just 17 Minutes" [level=3] [ref=f438e271]:
+                    - link "5000 Hours of Building AI in Just 17 Minutes 15 minutes" [ref=f438e272]:
+                      - /url: /watch?v=7WZ6XldxX0U
+                      - text: 5000 Hours of Building AI in Just 17 Minutes
+                  - generic [ref=f438e274]:
+                    - group [ref=f438e275]:
+                      - link [ref=f438e278]:
+                        - /url: /@nateherk
+                    - group [ref=f438e282]:
+                      - generic [ref=f438e283]: 79k views
+                      - generic [aria-hidden] [ref=f438e284]: •
+                      - generic "1 month ago" [ref=f438e285]
+                - button "More actions" [ref=f438e288]
+            - generic [ref=f438e293] [cursor=pointer]:
+              - link [aria-hidden] [ref=f438e294]:
+                - /url: /watch?v=Ek1NBfnnTH0
+                - img [ref=f438e300]:
+                  - generic [ref=f438e301]: 25:04
+              - generic [ref=f438e303]:
+                - generic [ref=f438e304]:
+                  - heading "Steal My Exact AI OS Setup (5 simple tips)" [level=3] [ref=f438e305]:
+                    - link "Steal My Exact AI OS Setup (5 simple tips) 25 minutes" [ref=f438e306]:
+                      - /url: /watch?v=Ek1NBfnnTH0
+                      - text: Steal My Exact AI OS Setup (5 simple tips)
+                  - generic [ref=f438e308]:
+                    - group [ref=f438e309]:
+                      - link [ref=f438e312]:
+                        - /url: /@nateherk
+                    - group [ref=f438e316]:
+                      - generic [ref=f438e317]: 51k views
+                      - generic [aria-hidden] [ref=f438e318]: •
+                      - generic "1 month ago" [ref=f438e319]
+                - button "More actions" [ref=f438e322]
+            - generic [ref=f438e327] [cursor=pointer]:
+              - link [aria-hidden] [ref=f438e328]:
+                - /url: /watch?v=jdbOVepEtUE
+                - img [ref=f438e334]:
+                  - generic [ref=f438e335]: 5:59:00
+              - generic [ref=f438e337]:
+                - generic [ref=f438e338]:
+                  - heading "Claude Code for Non-Coders (6 Hour Course)" [level=3] [ref=f438e339]:
+                    - link "Claude Code for Non-Coders (6 Hour Course) 5 hours, 59 minutes" [ref=f438e340]:
+                      - /url: /watch?v=jdbOVepEtUE
+                      - text: Claude Code for Non-Coders (6 Hour Course)
+                  - generic [ref=f438e342]:
+                    - group [ref=f438e343]:
+                      - link [ref=f438e346]:
+                        - /url: /@nateherk
+                    - group [ref=f438e350]:
+                      - generic [ref=f438e351]: 231k views
+                      - generic [aria-hidden] [ref=f438e352]: •
+                      - generic "2 months ago" [ref=f438e353]
+                - button "More actions" [ref=f438e356]
+            - generic [ref=f438e361] [cursor=pointer]:
+              - link [aria-hidden] [ref=f438e362]:
+                - /url: /watch?v=iTY8Q449YNQ
+                - img [ref=f438e368]:
+                  - generic [ref=f438e369]: 28:13
+              - generic [ref=f438e371]:
+                - generic [ref=f438e372]:
+                  - heading "I asked Claude Code to make me as much money as possible" [level=3] [ref=f438e373]:
+                    - link "I asked Claude Code to make me as much money as possible 28 minutes" [ref=f438e374]:
+                      - /url: /watch?v=iTY8Q449YNQ
+                      - text: I asked Claude Code to make me as much money as possible
+                  - generic [ref=f438e376]:
+                    - group [ref=f438e377]:
+                      - link [ref=f438e380]:
+                        - /url: /@nateherk
+                    - group [ref=f438e384]:
+                      - generic [ref=f438e385]: 209k views
+                      - generic [aria-hidden] [ref=f438e386]: •
+                      - generic "2 months ago" [ref=f438e387]
+                - button "More actions" [ref=f438e390]
+          - button "Next" [ref=f438e396] [cursor=pointer]
+      - generic [ref=f438e403]:
+        - generic [ref=f438e404]:
+          - heading [level=2] [ref=f438e406]:
+            - link "Monetizing AI Automation" [ref=f438e409] [cursor=pointer]:
+              - /url: /playlist?list=PLvQWpZ46MVvjM2vX-pkeBxLUMgd8T9bRZ
+            - link "Play all" [ref=f438e414] [cursor=pointer]:
+              - /url: /watch?v=DoHPZf7jEQ4&list=PLvQWpZ46MVvjM2vX-pkeBxLUMgd8T9bRZ
+          - generic [ref=f438e418]: My thoughts as an entrepreneur, sharing how I've been able to monetize AI automation knowledge
+        - generic [ref=f438e423]:
+          - generic [ref=f438e425] [cursor=pointer]:
+            - link [aria-hidden] [ref=f438e426]:
+              - /url: /watch?v=DoHPZf7jEQ4
+              - img [ref=f438e432]:
+                - generic [ref=f438e433]: 28:35
+            - generic [ref=f438e435]:
+              - generic [ref=f438e436]:
+                - heading "The 3-Step System Behind My $20K/Month AI Agency Retainers" [level=3] [ref=f438e437]:
+                  - link "The 3-Step System Behind My $20K/Month AI Agency Retainers 28 minutes" [ref=f438e438]:
+                    - /url: /watch?v=DoHPZf7jEQ4
+                    - text: The 3-Step System Behind My $20K/Month AI Agency Retainers
+                - generic [ref=f438e440]:
+                  - group [ref=f438e441]:
+                    - link [ref=f438e444]:
+                      - /url: /@nateherk
+                  - group [ref=f438e448]:
+                    - generic [ref=f438e449]: 27k views
+                    - generic [aria-hidden] [ref=f438e450]: •
+                    - generic "3 weeks ago" [ref=f438e451]
+              - button "More actions" [ref=f438e454]
+          - generic [ref=f438e459] [cursor=pointer]:
+            - link [aria-hidden] [ref=f438e460]:
+              - /url: /watch?v=tgjYMym_0-c
+              - img [ref=f438e466]:
+                - generic [ref=f438e467]: 10:46
+            - generic [ref=f438e469]:
+              - generic [ref=f438e470]:
+                - heading "Sell These 5 Most In Demand AI Automations in 2026" [level=3] [ref=f438e471]:
+                  - link "Sell These 5 Most In Demand AI Automations in 2026 10 minutes, 46 seconds" [ref=f438e472]:
+                    - /url: /watch?v=tgjYMym_0-c
+                    - text: Sell These 5 Most In Demand AI Automations in 2026
+                - generic [ref=f438e474]:
+                  - group [ref=f438e475]:
+                    - link [ref=f438e478]:
+                      - /url: /@nateherk
+                  - group [ref=f438e482]:
+                    - generic [ref=f438e483]: 35k views
+                    - generic [aria-hidden] [ref=f438e484]: •
+                    - generic "3 weeks ago" [ref=f438e485]
+              - button "More actions" [ref=f438e488]
+          - generic [ref=f438e493] [cursor=pointer]:
+            - link [aria-hidden] [ref=f438e494]:
+              - /url: /watch?v=LVAHYV4Xrto
+              - img [ref=f438e500]:
+                - generic [ref=f438e501]: 24:52
+            - generic [ref=f438e503]:
+              - generic [ref=f438e504]:
+                - heading "How to Build a One Person AI Business (Using Claude Code)" [level=3] [ref=f438e505]:
+                  - link "How to Build a One Person AI Business (Using Claude Code) 24 minutes" [ref=f438e506]:
+                    - /url: /watch?v=LVAHYV4Xrto
+                    - text: How to Build a One Person AI Business (Using Claude Code)
+                - generic [ref=f438e508]:
+                  - group [ref=f438e509]:
+                    - link [ref=f438e512]:
+                      - /url: /@nateherk
+                  - group [ref=f438e516]:
+                    - generic [ref=f438e517]: 106k views
+                    - generic [aria-hidden] [ref=f438e518]: •
+                    - generic "1 month ago" [ref=f438e519]
+              - button "More actions" [ref=f438e522]
+          - generic [ref=f438e527] [cursor=pointer]:
+            - link [aria-hidden] [ref=f438e528]:
+              - /url: /watch?v=IVx8OSMbTss&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f438e534]:
+                - generic [ref=f438e535]: 2:22:52
+            - generic [ref=f438e537]:
+              - generic [ref=f438e538]:
+                - heading "Build & Sell AI SaaS Products (2 HOUR COURSE)" [level=3] [ref=f438e539]:
+                  - link "Build & Sell AI SaaS Products (2 HOUR COURSE) 2 hours, 22 minutes" [ref=f438e540]:
+                    - /url: /watch?v=IVx8OSMbTss&pp=0gcJCSQMAYcqIYzv
+                    - text: Build & Sell AI SaaS Products (2 HOUR COURSE)
+                - generic [ref=f438e542]:
+                  - group [ref=f438e543]:
+                    - link [ref=f438e546]:
+                      - /url: /@nateherk
+                  - group [ref=f438e550]:
+                    - generic [ref=f438e551]: 80k views
+                    - generic [aria-hidden] [ref=f438e552]: •
+                    - generic "1 month ago" [ref=f438e553]
+              - button "More actions" [ref=f438e556]
+          - generic [ref=f438e561] [cursor=pointer]:
+            - link [aria-hidden] [ref=f438e562]:
+              - /url: /watch?v=Lg5TYWPSg6M
+              - img [ref=f438e568]:
+                - generic [ref=f438e569]: 21:20
+            - generic [ref=f438e571]:
+              - generic [ref=f438e572]:
+                - heading "18 Months of Pricing AI Automations in 21 Mins" [level=3] [ref=f438e573]:
+                  - link "18 Months of Pricing AI Automations in 21 Mins 21 minutes" [ref=f438e574]:
+                    - /url: /watch?v=Lg5TYWPSg6M
+                    - text: 18 Months of Pricing AI Automations in 21 Mins
+                - generic [ref=f438e576]:
+                  - group [ref=f438e577]:
+                    - link [ref=f438e580]:
+                      - /url: /@nateherk
+                  - group [ref=f438e584]:
+                    - generic [ref=f438e585]: 28k views
+                    - generic [aria-hidden] [ref=f438e586]: •
+                    - generic "1 month ago" [ref=f438e587]
+              - button "More actions" [ref=f438e590]

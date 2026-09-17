@@ -1,0 +1,396 @@
+- generic [ref=f195e1]:
+  - generic [ref=f195e2]:
+    - banner [ref=f195e4]:
+      - generic [ref=f195e6]:
+        - generic [ref=f195e7]:
+          - button "Guide" [active] [ref=f195e9] [cursor=pointer]
+          - generic [ref=f195e13]:
+            - link "YouTube Home" [ref=f195e14] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f195e18]: IN
+          - button "Skip navigation" [ref=f195e22] [cursor=pointer]
+        - generic [ref=f195e26]:
+          - search [ref=f195e27]:
+            - generic [ref=f195e29]:
+              - generic [ref=f195e30]:
+                - combobox "Search" [expanded] [ref=f195e32]: AI for architects how I actually use it
+                - button "Clear search query" [ref=f195e34] [cursor=pointer]
+              - button "Search" [ref=f195e41] [cursor=pointer]
+          - generic [ref=f195e46]:
+            - button "Search with your voice" [ref=f195e48] [cursor=pointer]
+            - tooltip "tooltip"
+        - generic [ref=f195e53]:
+          - button "Settings" [ref=f195e58] [cursor=pointer]
+          - link "Sign in" [ref=f195e62] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DAI%252Bfor%252Barchitects%252Bhow%252BI%252Bactually%252Buse%252Bit&hl=en-GB&ec=65620
+    - navigation [ref=f195e66]
+    - main [ref=f195e68]:
+      - generic [ref=f195e69]:
+        - generic [ref=f195e71]:
+          - tablist [ref=f195e76]:
+            - tab "All" [selected] [ref=f195e80] [cursor=pointer]
+            - tab "Shorts" [ref=f195e86] [cursor=pointer]
+            - tab "Unwatched" [ref=f195e92] [cursor=pointer]
+            - tab "Watched" [ref=f195e98] [cursor=pointer]
+            - tab "Videos" [ref=f195e104] [cursor=pointer]
+            - tab "Recently uploaded" [ref=f195e110] [cursor=pointer]
+            - tab "Live" [ref=f195e116] [cursor=pointer]
+          - generic [ref=f195e120]:
+            - button "Search filters" [ref=f195e122] [cursor=pointer]:
+              - generic: Filters
+            - tooltip "tooltip"
+        - generic [ref=f195e129]:
+          - generic [ref=f195e131]:
+            - generic [ref=f195e140] [cursor=pointer]:
+              - link [aria-hidden] [ref=f195e141]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C3Y3-rvupat-zB8aoz7sPuISe8AHNu_3JiQGv6IrxmBZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABoLuEliqpAoXbRHiKW7M-qAMEyAMKqgS6Ak_QOe-2Bmso-uYPzG5B0oS8aiuXYA6bLwQxwOPk9vAzkgccA4TWWsLOx9hNhrUe2oh-knIQ0Xm-Lb_LpnIAYmYYKOO4Zq4HaMFYAM1wEqZG9uP4LQwnbjdIpzQIQDsMN9WlXFQvypcU2KvXyPZ7NL0YsT1KoLA3tBpyM9LkDTUQmaRsCPh_xdvayvay4iZuBRv8EZekgnAI8QM83GRx-3tiUFhmVetYeDxU2cFq4ffu510OWowHLG5apiDiaQWtxZC40KQCzxjPqqFX3nNxkNbwQL7n2JjYbFPdBKv0Y-r9Hz3Q5xi5bjM8HNpL8KyEsJpgn-TJZiwZYcBFnYYnkzv2p_M_qMZaAo0ru_Wf32F1l4t1Hnq-SxFXb2FEuWa14-VCK1GO3DQq9ARu2szqOuhsg6FmSnnQuTqviAWzqrv8WZIFCAgTeJ6HuqYFoAahAYAHoPPU9QSQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3ZOY1JUWExtckdFqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRY2LDW5IPylgNgAZoJGmh0dHBzOi8vY291cnNpdi5pby9keW5hbWljsQnpCOmiblbBt8gJF8gJjwHICcIBmAsBugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgm6AwJzadALEqIMJCoGCgTw37ECYhUKE2NvbS5jb3Vyc2l2LmNvdXJzaXZ4AIgBANIMAhAB2gwlCgoQwLSknvPMzZguEgIBAxoNGLOqu_xZII3N-dnnBUABSgIQH5oNARKqDQJJTsgNAdIN9gFodHRwczovL2NvdXJzaXYuaW8vZHluYW1pYz9wcmNfaWQ9MTEwNCZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1fY2FtcGFpZ249MjQxNTE3NzQ1MTUmdXRtX2FkZ3JvdXBpZD0xOTk2MzYxODI2NjkmdXRtX2FkPTgyMzcxMDc0NjMzNCZ1dG1fdHlwZT1kZW1nZW4mdXRtX2FjYz0xMzA4MTQzMjkxJnV0bV9hbGVuPTEmZ3RnX2VuYWJsZWQ9dHJ1ZSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQxNTE3NzQ1MTW4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXvOZZ2GwvZEG6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI38LW5IPylgMVRtRzAR04ggceEAEYASAAEgLXhfD_BwE&num=1&cid=CAASwwHkaJaRZVkIhUPNACe9tkJgzF32QNTYGjZMqgwlsB5dT0pS8zSEeUGK7RXytmbELHgs25octnXNABY9kbvpilPITZaiSxDP-cotFygiW8DplqsKAOeAUmX8mV6oHYM_GeJfwmFD01j_zcNTEzFV4cRC-6jJI6OLhk8E9jemfbcxkB64RyrAR6Dz2TPB48env82XU0O-UxMQKx8XsRT0dxQKn6KbaFUCrjnmAB_Jvl4eBgMlO9aE5AyG4Qr55UfDRBbDv5c&ad_cpn=%5BCPN%5D&sig=AOD64_1ubdC8ytVEfeJkRVdzjVkeEP_6iQ&ctype=110&video_id=vNcRTXLmrGE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - button [aria-hidden] [ref=f195e147]
+              - generic [ref=f195e151]:
+                - generic [ref=f195e152]:
+                  - generic [ref=f195e153]:
+                    - link "AI skills that help you work smarter, not harder" [ref=f195e156]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C3Y3-rvupat-zB8aoz7sPuISe8AHNu_3JiQGv6IrxmBZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABoLuEliqpAoXbRHiKW7M-qAMEyAMKqgS6Ak_QOe-2Bmso-uYPzG5B0oS8aiuXYA6bLwQxwOPk9vAzkgccA4TWWsLOx9hNhrUe2oh-knIQ0Xm-Lb_LpnIAYmYYKOO4Zq4HaMFYAM1wEqZG9uP4LQwnbjdIpzQIQDsMN9WlXFQvypcU2KvXyPZ7NL0YsT1KoLA3tBpyM9LkDTUQmaRsCPh_xdvayvay4iZuBRv8EZekgnAI8QM83GRx-3tiUFhmVetYeDxU2cFq4ffu510OWowHLG5apiDiaQWtxZC40KQCzxjPqqFX3nNxkNbwQL7n2JjYbFPdBKv0Y-r9Hz3Q5xi5bjM8HNpL8KyEsJpgn-TJZiwZYcBFnYYnkzv2p_M_qMZaAo0ru_Wf32F1l4t1Hnq-SxFXb2FEuWa14-VCK1GO3DQq9ARu2szqOuhsg6FmSnnQuTqviAWzqrv8WZIFCAgTeJ6HuqYFoAahAYAHoPPU9QSQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3ZOY1JUWExtckdFqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRY2LDW5IPylgNgAZoJGmh0dHBzOi8vY291cnNpdi5pby9keW5hbWljsQnpCOmiblbBt8gJF8gJjwHICcIBmAsBugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgm6AwJzadALEqIMJCoGCgTw37ECYhUKE2NvbS5jb3Vyc2l2LmNvdXJzaXZ4AIgBANIMAhAB2gwlCgoQwLSknvPMzZguEgIBAxoNGLOqu_xZII3N-dnnBUABSgIQH5oNARKqDQJJTsgNAdIN9gFodHRwczovL2NvdXJzaXYuaW8vZHluYW1pYz9wcmNfaWQ9MTEwNCZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1fY2FtcGFpZ249MjQxNTE3NzQ1MTUmdXRtX2FkZ3JvdXBpZD0xOTk2MzYxODI2NjkmdXRtX2FkPTgyMzcxMDc0NjMzNCZ1dG1fdHlwZT1kZW1nZW4mdXRtX2FjYz0xMzA4MTQzMjkxJnV0bV9hbGVuPTEmZ3RnX2VuYWJsZWQ9dHJ1ZSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQxNTE3NzQ1MTW4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXvOZZ2GwvZEG6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI38LW5IPylgMVRtRzAR04ggceEAEYASAAEgLXhfD_BwE&num=1&cid=CAASwwHkaJaRZVkIhUPNACe9tkJgzF32QNTYGjZMqgwlsB5dT0pS8zSEeUGK7RXytmbELHgs25octnXNABY9kbvpilPITZaiSxDP-cotFygiW8DplqsKAOeAUmX8mV6oHYM_GeJfwmFD01j_zcNTEzFV4cRC-6jJI6OLhk8E9jemfbcxkB64RyrAR6Dz2TPB48env82XU0O-UxMQKx8XsRT0dxQKn6KbaFUCrjnmAB_Jvl4eBgMlO9aE5AyG4Qr55UfDRBbDv5c&ad_cpn=%5BCPN%5D&sig=AOD64_1ubdC8ytVEfeJkRVdzjVkeEP_6iQ&ctype=110&video_id=vNcRTXLmrGE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - link "Work smarter with AI. Save time, grow your career, unlock potential." [ref=f195e159]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C3Y3-rvupat-zB8aoz7sPuISe8AHNu_3JiQGv6IrxmBZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABoLuEliqpAoXbRHiKW7M-qAMEyAMKqgS6Ak_QOe-2Bmso-uYPzG5B0oS8aiuXYA6bLwQxwOPk9vAzkgccA4TWWsLOx9hNhrUe2oh-knIQ0Xm-Lb_LpnIAYmYYKOO4Zq4HaMFYAM1wEqZG9uP4LQwnbjdIpzQIQDsMN9WlXFQvypcU2KvXyPZ7NL0YsT1KoLA3tBpyM9LkDTUQmaRsCPh_xdvayvay4iZuBRv8EZekgnAI8QM83GRx-3tiUFhmVetYeDxU2cFq4ffu510OWowHLG5apiDiaQWtxZC40KQCzxjPqqFX3nNxkNbwQL7n2JjYbFPdBKv0Y-r9Hz3Q5xi5bjM8HNpL8KyEsJpgn-TJZiwZYcBFnYYnkzv2p_M_qMZaAo0ru_Wf32F1l4t1Hnq-SxFXb2FEuWa14-VCK1GO3DQq9ARu2szqOuhsg6FmSnnQuTqviAWzqrv8WZIFCAgTeJ6HuqYFoAahAYAHoPPU9QSQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3ZOY1JUWExtckdFqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRY2LDW5IPylgNgAZoJGmh0dHBzOi8vY291cnNpdi5pby9keW5hbWljsQnpCOmiblbBt8gJF8gJjwHICcIBmAsBugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgm6AwJzadALEqIMJCoGCgTw37ECYhUKE2NvbS5jb3Vyc2l2LmNvdXJzaXZ4AIgBANIMAhAB2gwlCgoQwLSknvPMzZguEgIBAxoNGLOqu_xZII3N-dnnBUABSgIQH5oNARKqDQJJTsgNAdIN9gFodHRwczovL2NvdXJzaXYuaW8vZHluYW1pYz9wcmNfaWQ9MTEwNCZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1fY2FtcGFpZ249MjQxNTE3NzQ1MTUmdXRtX2FkZ3JvdXBpZD0xOTk2MzYxODI2NjkmdXRtX2FkPTgyMzcxMDc0NjMzNCZ1dG1fdHlwZT1kZW1nZW4mdXRtX2FjYz0xMzA4MTQzMjkxJnV0bV9hbGVuPTEmZ3RnX2VuYWJsZWQ9dHJ1ZSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQxNTE3NzQ1MTW4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXvOZZ2GwvZEG6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI38LW5IPylgMVRtRzAR04ggceEAEYASAAEgLXhfD_BwE&num=1&cid=CAASwwHkaJaRZVkIhUPNACe9tkJgzF32QNTYGjZMqgwlsB5dT0pS8zSEeUGK7RXytmbELHgs25octnXNABY9kbvpilPITZaiSxDP-cotFygiW8DplqsKAOeAUmX8mV6oHYM_GeJfwmFD01j_zcNTEzFV4cRC-6jJI6OLhk8E9jemfbcxkB64RyrAR6Dz2TPB48env82XU0O-UxMQKx8XsRT0dxQKn6KbaFUCrjnmAB_Jvl4eBgMlO9aE5AyG4Qr55UfDRBbDv5c&ad_cpn=%5BCPN%5D&sig=AOD64_1ubdC8ytVEfeJkRVdzjVkeEP_6iQ&ctype=110&video_id=vNcRTXLmrGE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=f195e160]:
+                      - button "Coursiv" [ref=f195e164]
+                      - generic [ref=f195e168]:
+                        - generic [ref=f195e169]: Sponsored
+                        - text: ·
+                      - generic [ref=f195e170]: Coursiv
+                  - button "My Ad Centre" [ref=f195e174]
+                - generic [ref=f195e180]:
+                  - link "Watch" [ref=f195e183]:
+                    - /url: /watch?v=vNcRTXLmrGE
+                  - link "Learn more" [ref=f195e189]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C3Y3-rvupat-zB8aoz7sPuISe8AHNu_3JiQGv6IrxmBZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABoLuEliqpAoXbRHiKW7M-qAMEyAMKqgS6Ak_QOe-2Bmso-uYPzG5B0oS8aiuXYA6bLwQxwOPk9vAzkgccA4TWWsLOx9hNhrUe2oh-knIQ0Xm-Lb_LpnIAYmYYKOO4Zq4HaMFYAM1wEqZG9uP4LQwnbjdIpzQIQDsMN9WlXFQvypcU2KvXyPZ7NL0YsT1KoLA3tBpyM9LkDTUQmaRsCPh_xdvayvay4iZuBRv8EZekgnAI8QM83GRx-3tiUFhmVetYeDxU2cFq4ffu510OWowHLG5apiDiaQWtxZC40KQCzxjPqqFX3nNxkNbwQL7n2JjYbFPdBKv0Y-r9Hz3Q5xi5bjM8HNpL8KyEsJpgn-TJZiwZYcBFnYYnkzv2p_M_qMZaAo0ru_Wf32F1l4t1Hnq-SxFXb2FEuWa14-VCK1GO3DQq9ARu2szqOuhsg6FmSnnQuTqviAWzqrv8WZIFCAgTeJ6HuqYFoAahAYAHoPPU9QSQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3ZOY1JUWExtckdFqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRY2LDW5IPylgNgAZoJGmh0dHBzOi8vY291cnNpdi5pby9keW5hbWljsQnpCOmiblbBt8gJF8gJjwHICcIBmAsBugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgm6AwJzadALEqIMJCoGCgTw37ECYhUKE2NvbS5jb3Vyc2l2LmNvdXJzaXZ4AIgBANIMAhAB2gwlCgoQwLSknvPMzZguEgIBAxoNGLOqu_xZII3N-dnnBUABSgIQH5oNARKqDQJJTsgNAdIN9gFodHRwczovL2NvdXJzaXYuaW8vZHluYW1pYz9wcmNfaWQ9MTEwNCZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1fY2FtcGFpZ249MjQxNTE3NzQ1MTUmdXRtX2FkZ3JvdXBpZD0xOTk2MzYxODI2NjkmdXRtX2FkPTgyMzcxMDc0NjMzNCZ1dG1fdHlwZT1kZW1nZW4mdXRtX2FjYz0xMzA4MTQzMjkxJnV0bV9hbGVuPTEmZ3RnX2VuYWJsZWQ9dHJ1ZSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQxNTE3NzQ1MTW4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXvOZZ2GwvZEG6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI38LW5IPylgMVRtRzAR04ggceEAEYASAAEgLXhfD_BwE&num=1&cid=CAASwwHkaJaRZVkIhUPNACe9tkJgzF32QNTYGjZMqgwlsB5dT0pS8zSEeUGK7RXytmbELHgs25octnXNABY9kbvpilPITZaiSxDP-cotFygiW8DplqsKAOeAUmX8mV6oHYM_GeJfwmFD01j_zcNTEzFV4cRC-6jJI6OLhk8E9jemfbcxkB64RyrAR6Dz2TPB48env82XU0O-UxMQKx8XsRT0dxQKn6KbaFUCrjnmAB_Jvl4eBgMlO9aE5AyG4Qr55UfDRBbDv5c&ad_cpn=%5BCPN%5D&sig=AOD64_1ubdC8ytVEfeJkRVdzjVkeEP_6iQ&ctype=110&video_id=vNcRTXLmrGE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+            - generic [ref=f195e194]:
+              - link [aria-hidden] [ref=f195e196] [cursor=pointer]:
+                - /url: /watch?v=ojcWIL1pgz4&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl0
+              - generic [ref=f195e198] [cursor=pointer]:
+                - generic [ref=f195e199]:
+                  - heading [level=3] [ref=f195e201]:
+                    - link "AI for Architects - How I Actually Use It (2026) 13 minutes, 5 seconds" [ref=f195e202]:
+                      - /url: /watch?v=ojcWIL1pgz4&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl0
+                      - text: AI for Architects - How I Actually Use It (2026)
+                  - generic [ref=f195e205]:
+                    - generic [ref=f195e206]: 6.6k views
+                    - generic [ref=f195e207]: •3 days ago
+                - generic [ref=f195e208]:
+                  - link "Go to channel Architect Russell" [ref=f195e209]:
+                    - /url: /@ArchitectRussell
+                  - link "Architect Russell" [ref=f195e215]:
+                    - /url: /@ArchitectRussell
+                - generic [ref=f195e216]:
+                  - generic [ref=f195e217]: AI for Architects — How I Actually Use It (2026) AI is changing architecture fast — but how useful is it on real projects? In this video ...
+                  - tooltip "tooltip"
+                - generic [ref=f195e219]:
+                  - img "New" [ref=f195e222]
+                  - img "4K" [ref=f195e226]
+            - generic [ref=f195e229]:
+              - link [aria-hidden] [ref=f195e231] [cursor=pointer]:
+                - /url: /watch?v=lEfSoR5JCaQ&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl00gcJCSQMAYcqIYzv
+              - generic [ref=f195e233] [cursor=pointer]:
+                - generic [ref=f195e234]:
+                  - heading [level=3] [ref=f195e236]:
+                    - link "3 AI workflows I actually use as an Architect 14 minutes, 49 seconds" [ref=f195e237]:
+                      - /url: /watch?v=lEfSoR5JCaQ&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl00gcJCSQMAYcqIYzv
+                      - text: 3 AI workflows I actually use as an Architect
+                  - generic [ref=f195e240]:
+                    - generic [ref=f195e241]: 91k views
+                    - generic [ref=f195e242]: •12 days ago
+                - generic [ref=f195e243]:
+                  - link "Go to channel Show It Better" [ref=f195e244]:
+                    - /url: /@ShowItBetter
+                  - generic [ref=f195e246]:
+                    - link "Show It Better" [ref=f195e250]:
+                      - /url: /@ShowItBetter
+                    - img "Verified" [ref=f195e255]
+                - generic [ref=f195e257]:
+                  - text: "Sign up for Magnific here: https://referral.magnific.com/showitbetter Download the Magnific Desktop App here: ..."
+                  - tooltip "tooltip"
+                - img "4K" [ref=f195e262]
+                - generic [ref=f195e266]:
+                  - generic [ref=f195e267]:
+                    - generic [ref=f195e270]: 5 chapters
+                    - button "AI evaluation framework | Google Earth to drone shots | Day to night timelapse | Character-led tours | Final Animations that I loved but didn't make the cut" [ref=f195e272]
+                  - button "More" [ref=f195e277]
+          - generic [ref=f195e295] [cursor=pointer]:
+            - generic [ref=f195e296]:
+              - 'link "Master AI in Architecture: Complete training" [ref=f195e299]':
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwi0k-Tkg_KWAxWXDoMDHSsEGDEYACICCAEQABoCc2Y&co=1&ase=2&gclid=EAIaIQobChMItJPk5IPylgMVlw6DAx0rBBgxEAEYASAAEgLhU_D_BwE&num=1&cid=CAAS0wHkaEfF-mtPEP8UY-1Sxk-HKNouy1eGm31-8KtPs6Fzgs_vHmS3-zgLHOpl32rVT_ELxQ6bWi2lZtqnPhRr0Yb_lHMv5G78ZeVfeqz_6N_xzG_Ke_h11dPipL4qbu8TZoqkmbQu2v80eLRyqxSKFaKBUggqsx9T8tf6rFERt9mFf_trvIaoSrsYNZe3Ja2v1ys6O02PfeJuUSVEqA_nDWinPYO2QBw93qaOAvG_EWLgGekn_ILx8pdwrRUW_vN3HzJ-UlB_nCM5jyXeGMfij_Vnfdzk&cce=2&category=acrcp_v1_32&sig=AOD64_2_gPPzRI0pTSb38gnjsQY_rvPEPw&adurl=https://www.udemy.com/course/ai-mastery-series-i-architecture/%3Futm_campaign%3DSearch_DSA_Beta_Prof_la.EN_cc.India%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DIndia%26utm_audience%3Dmx%26utm_tactic%3Dnb%26utm_term%3D_._ag_160270535665_._ad_696202838340_._kw_%26utm_content%3Ds%26funnel%3D%26test%3D%26gad_source%3D2%26gad_campaignid%3D21178559974&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+              - link "Shop thousands of high-quality on-demand online courses. 30-day satisfaction guarantee. Learn online at your own pace. Start today..." [ref=f195e302]:
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwi0k-Tkg_KWAxWXDoMDHSsEGDEYACICCAEQABoCc2Y&co=1&ase=2&gclid=EAIaIQobChMItJPk5IPylgMVlw6DAx0rBBgxEAEYASAAEgLhU_D_BwE&num=1&cid=CAAS0wHkaEfF-mtPEP8UY-1Sxk-HKNouy1eGm31-8KtPs6Fzgs_vHmS3-zgLHOpl32rVT_ELxQ6bWi2lZtqnPhRr0Yb_lHMv5G78ZeVfeqz_6N_xzG_Ke_h11dPipL4qbu8TZoqkmbQu2v80eLRyqxSKFaKBUggqsx9T8tf6rFERt9mFf_trvIaoSrsYNZe3Ja2v1ys6O02PfeJuUSVEqA_nDWinPYO2QBw93qaOAvG_EWLgGekn_ILx8pdwrRUW_vN3HzJ-UlB_nCM5jyXeGMfij_Vnfdzk&cce=2&category=acrcp_v1_32&sig=AOD64_2_gPPzRI0pTSb38gnjsQY_rvPEPw&adurl=https://www.udemy.com/course/ai-mastery-series-i-architecture/%3Futm_campaign%3DSearch_DSA_Beta_Prof_la.EN_cc.India%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DIndia%26utm_audience%3Dmx%26utm_tactic%3Dnb%26utm_term%3D_._ag_160270535665_._ad_696202838340_._kw_%26utm_content%3Ds%26funnel%3D%26test%3D%26gad_source%3D2%26gad_campaignid%3D21178559974&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+              - generic [ref=f195e303]:
+                - generic [ref=f195e305]:
+                  - generic [ref=f195e306]: Sponsored
+                  - text: ·
+                - generic [ref=f195e307]: https://www.udemy.com/
+            - button "My Ad Centre" [ref=f195e311]
+          - generic [ref=f195e316]:
+            - generic [ref=f195e317]:
+              - heading "Shorts" [level=2] [ref=f195e325]
+              - generic [ref=f195e327]:
+                - generic [ref=f195e330]:
+                  - link [aria-hidden] [ref=f195e331] [cursor=pointer]:
+                    - /url: /shorts/SLEhXODrW64
+                  - generic [ref=f195e335] [cursor=pointer]:
+                    - 'link "Nano Banana for ARCHITECTS is INSANE 🤯🔥 #architecture" [ref=f195e336]':
+                      - /url: /shorts/SLEhXODrW64
+                    - generic [ref=f195e337]: 274k views
+                  - button "More actions" [ref=f195e339] [cursor=pointer]
+                - generic [ref=f195e345]:
+                  - link [aria-hidden] [ref=f195e346] [cursor=pointer]:
+                    - /url: /shorts/RxOHDiZ9Q6w
+                  - generic [ref=f195e350] [cursor=pointer]:
+                    - 'link "Edit Architectural Videos with AI Instantly 🤯 #architecture" [ref=f195e351]':
+                      - /url: /shorts/RxOHDiZ9Q6w
+                    - generic [ref=f195e352]: 215k views
+                  - button "More actions" [ref=f195e354] [cursor=pointer]
+                - generic [ref=f195e360]:
+                  - link [aria-hidden] [ref=f195e361] [cursor=pointer]:
+                    - /url: /shorts/HrUXjbfMlj0
+                  - generic [ref=f195e365] [cursor=pointer]:
+                    - link "Design process using Apple’s AI + Morpholio Trace App on iPad pro | iPad for Architects & Designers" [ref=f195e366]:
+                      - /url: /shorts/HrUXjbfMlj0
+                    - generic [ref=f195e367]: 536k views
+                  - button "More actions" [ref=f195e369] [cursor=pointer]
+                - generic [ref=f195e375]:
+                  - link [aria-hidden] [ref=f195e376] [cursor=pointer]:
+                    - /url: /shorts/GePtGBgEu3c
+                    - img [ref=f195e381]:
+                      - generic [ref=f195e382]: New
+                  - generic [ref=f195e383] [cursor=pointer]:
+                    - link "Floor Plan to Photoreal 3D in One Chat Window - Rendair AI" [ref=f195e384]:
+                      - /url: /shorts/GePtGBgEu3c
+                    - generic [ref=f195e385]: 154 views
+                  - button "More actions" [ref=f195e387] [cursor=pointer]
+                - generic [ref=f195e393]:
+                  - link [aria-hidden] [ref=f195e394] [cursor=pointer]:
+                    - /url: /shorts/28O_aHo8qiU
+                  - generic [ref=f195e398] [cursor=pointer]:
+                    - 'link "AI for Architects: Instantly Generate Building Layouts with Zenerate 🧠🏗️" [ref=f195e399]':
+                      - /url: /shorts/28O_aHo8qiU
+                    - generic [ref=f195e400]: 41k views
+                  - button "More actions" [ref=f195e402] [cursor=pointer]
+            - generic [ref=f195e407]:
+              - link [aria-hidden] [ref=f195e409] [cursor=pointer]:
+                - /url: /watch?v=uXpa89qFj0c&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl0
+              - generic [ref=f195e411] [cursor=pointer]:
+                - generic [ref=f195e412]:
+                  - heading [level=3] [ref=f195e414]:
+                    - link "3 AI Tools Architects Should be Using by Now 12 minutes, 26 seconds" [ref=f195e415]:
+                      - /url: /watch?v=uXpa89qFj0c&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl0
+                      - text: 3 AI Tools Architects Should be Using by Now
+                  - generic [ref=f195e418]:
+                    - generic [ref=f195e419]: 416k views
+                    - generic [ref=f195e420]: •9 months ago
+                - generic [ref=f195e421]:
+                  - link "Go to channel Show It Better" [ref=f195e422]:
+                    - /url: /@ShowItBetter
+                  - generic [ref=f195e423]:
+                    - link "Show It Better" [ref=f195e427]:
+                      - /url: /@ShowItBetter
+                    - img "Verified" [ref=f195e432]
+                - generic [ref=f195e434]:
+                  - text: "Create a free Rayon Design account here: https://rayon.design/r/showitbetter_ai_video Operative Design Book: ..."
+                  - tooltip "tooltip"
+                - generic [ref=f195e436]:
+                  - img "4K" [ref=f195e439]
+                  - img "Closed captions" [ref=f195e443]:
+                    - generic [ref=f195e444]: Subtitles
+                - generic [ref=f195e447]:
+                  - generic [ref=f195e448]:
+                    - generic [ref=f195e451]: 3 chapters
+                    - button "First Tool | Second Tool | Third Tool" [ref=f195e453]
+                  - button "More" [ref=f195e458]
+          - generic [ref=f195e468]:
+            - generic [ref=f195e469]: Best AI Tools for Architects 2026
+            - generic [ref=f195e476]:
+              - generic [ref=f195e477] [cursor=pointer]:
+                - generic [ref=f195e478]:
+                  - link "Best AI for Architects 2026 - Compare AI tools for architects in 2026 across concept design, rendering, floor plans, BIM, site analysis, project management, pricing, and limits" [ref=f195e481]:
+                    - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwi0k-Tkg_KWAxWXDoMDHSsEGDEYACICCAEQAhoCc2Y&co=1&ase=2&gclid=EAIaIQobChMItJPk5IPylgMVlw6DAx0rBBgxEAEYAiAAEgLKo_D_BwE&num=2&cid=CAAS0wHkaEfF-mtPEP8UY-1Sxk-HKNouy1eGm31-8KtPs6Fzgs_vHmS3-zgLHOpl32rVT_ELxQ6bWi2lZtqnPhRr0Yb_lHMv5G78ZeVfeqz_6N_xzG_Ke_h11dPipL4qbu8TZoqkmbQu2v80eLRyqxSKFaKBUggqsx9T8tf6rFERt9mFf_trvIaoSrsYNZe3Ja2v1ys6O02PfeJuUSVEqA_nDWinPYO2QBw93qaOAvG_EWLgGekn_ILx8pdwrRUW_vN3HzJ-UlB_nCM5jyXeGMfij_Vnfdzk&cce=2&category=acrcp_v1_32&sig=AOD64_00YUYoyCpnw60h-SECsAO6tsnQMQ&adurl=https://coursiv.io/blog/best-ai-tools-for-architects-2026%3Fprc_id%3D1104%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D24172585374%26utm_adgroupid%3D%26utm_ad%3D%26utm_type%3Dpmax%26utm_acc%3D1308143291%26utm_alen%3D1%26gtg_enabled%3Dtrue%26gad_source%3D2%26gad_campaignid%3D24183336160&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+                  - generic [ref=f195e482]:
+                    - generic [ref=f195e484]:
+                      - generic [ref=f195e485]: Sponsored
+                      - text: ·
+                    - generic [ref=f195e486]: https://www.coursiv.io/
+                - button "My Ad Centre" [ref=f195e490]
+              - generic [ref=f195e494]:
+                - link "Take a 1-minute quiz" [ref=f195e495]
+                - link "Start Now" [ref=f195e497]
+                - link "All Posts" [ref=f195e499]
+          - generic [ref=f195e502]:
+            - generic [ref=f195e504]:
+              - link [aria-hidden] [ref=f195e506] [cursor=pointer]:
+                - /url: /watch?v=9kU6FT7ldZs&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl0
+              - generic [ref=f195e508] [cursor=pointer]:
+                - generic [ref=f195e509]:
+                  - heading [level=3] [ref=f195e511]:
+                    - link "I Finally Found an AI CAD Tool Architects Can Actually Use | Synaps Tutorial 12 minutes, 25 seconds" [ref=f195e512]:
+                      - /url: /watch?v=9kU6FT7ldZs&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl0
+                      - text: I Finally Found an AI CAD Tool Architects Can Actually Use | Synaps Tutorial
+                  - generic [ref=f195e515]:
+                    - generic [ref=f195e516]: 22k views
+                    - generic [ref=f195e517]: •1 day ago
+                - generic [ref=f195e518]:
+                  - link "Go to channel Salmaan Mohamed" [ref=f195e519]:
+                    - /url: /@salmaanarchitect
+                  - link "Salmaan Mohamed" [ref=f195e524]:
+                    - /url: /@salmaanarchitect
+                - generic [ref=f195e525]:
+                  - text: "Try Synaps for free: https://synaps.app/ What if your CAD software could think with you, not just draw for you? We've tested ..."
+                  - tooltip "tooltip"
+                - generic [ref=f195e527]:
+                  - img "New" [ref=f195e530]
+                  - img "4K" [ref=f195e534]
+                - generic [ref=f195e538]:
+                  - generic [ref=f195e539]:
+                    - generic [ref=f195e540]: Summary
+                    - button "Salmaan Mohamed demonstrates how to integrate AI-powered drafting, floor plan generation, and visualization within a single CAD platform. This tutorial covers tracing hand-sketched layouts, utilizing AI for spatial planning within specific boundaries, and refining architectural designs through automated rendering and customizable interior styling tools." [ref=f195e543]
+                    - text: ·
+                  - button "More" [ref=f195e548]
+            - generic [ref=f195e553]:
+              - link [aria-hidden] [ref=f195e555] [cursor=pointer]:
+                - /url: /watch?v=yBr0hP5B25M&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl0
+              - generic [ref=f195e557] [cursor=pointer]:
+                - generic [ref=f195e558]:
+                  - heading [level=3] [ref=f195e560]:
+                    - link "🏗️ TOP 5 Best AI Tools for Architects in 2026 | Artificial Intelligence for Architecture Design 5 minutes, 11 seconds" [ref=f195e561]:
+                      - /url: /watch?v=yBr0hP5B25M&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl0
+                      - text: 🏗️ TOP 5 Best AI Tools for Architects in 2026 | Artificial Intelligence for Architecture Design
+                  - generic [ref=f195e564]:
+                    - generic [ref=f195e565]: 4.1k views
+                    - generic [ref=f195e566]: •8 months ago
+                - generic [ref=f195e567]:
+                  - link "Go to channel All Rankings by Gabi" [ref=f195e568]:
+                    - /url: /@allrankings-english
+                  - link "All Rankings by Gabi" [ref=f195e573]:
+                    - /url: /@allrankings-english
+                - generic [ref=f195e574]:
+                  - generic [ref=f195e575]: Looking to design smarter, faster, and more efficiently? In this video, we explore the 5 best AI tools for architects that support ...
+                  - tooltip "tooltip"
+            - generic [ref=f195e576]:
+              - heading "Shorts" [level=2] [ref=f195e584]
+              - generic [ref=f195e585]:
+                - generic [ref=f195e586]:
+                  - generic [ref=f195e589]:
+                    - link [aria-hidden] [ref=f195e590] [cursor=pointer]:
+                      - /url: /shorts/xcjGqgOlO0M
+                      - img [ref=f195e595]:
+                        - generic [ref=f195e596]: New
+                    - generic [ref=f195e597] [cursor=pointer]:
+                      - 'link "Watch This Unfinished House Become Reality With AI 🏗️🤯 #aiarchitecture #archomeai" [ref=f195e598]':
+                        - /url: /shorts/xcjGqgOlO0M
+                      - generic [ref=f195e599]: 1.3k views
+                    - button "More actions" [ref=f195e601] [cursor=pointer]
+                  - generic [ref=f195e607]:
+                    - link [aria-hidden] [ref=f195e608] [cursor=pointer]:
+                      - /url: /shorts/D9cgULAMF4o
+                    - generic [ref=f195e612] [cursor=pointer]:
+                      - 'link "How to Design Your Dream Home Using AI #ai" [ref=f195e613]':
+                        - /url: /shorts/D9cgULAMF4o
+                      - generic [ref=f195e614]: 1.2m views
+                    - button "More actions" [ref=f195e616] [cursor=pointer]
+                  - generic [ref=f195e622]:
+                    - link [aria-hidden] [ref=f195e623] [cursor=pointer]:
+                      - /url: /shorts/9DAUAb6__64
+                    - generic [ref=f195e627] [cursor=pointer]:
+                      - link "AI for Architect | Architectural Visualization | Modern Hill House Design by CGSCAPE" [ref=f195e628]:
+                        - /url: /shorts/9DAUAb6__64
+                      - generic [ref=f195e629]: 164k views
+                    - button "More actions" [ref=f195e631] [cursor=pointer]
+                  - generic [ref=f195e637]:
+                    - link [aria-hidden] [ref=f195e638] [cursor=pointer]:
+                      - /url: /shorts/886RjW5_bPQ
+                    - generic [ref=f195e642] [cursor=pointer]:
+                      - link "AI for architectural rendering | architecture render | interior render | AI for architects | best AI" [ref=f195e643]:
+                        - /url: /shorts/886RjW5_bPQ
+                      - generic [ref=f195e644]: 161k views
+                    - button "More actions" [ref=f195e646] [cursor=pointer]
+                  - generic [ref=f195e652]:
+                    - link [aria-hidden] [ref=f195e653] [cursor=pointer]:
+                      - /url: /shorts/7GuVHEjDXq4
+                    - generic [ref=f195e657] [cursor=pointer]:
+                      - 'link "ChatGPT Secrets For ARCHITECTS 🤩 🔥 OpenAI #architecture" [ref=f195e658]':
+                        - /url: /shorts/7GuVHEjDXq4
+                      - generic [ref=f195e659]: 71k views
+                    - button "More actions" [ref=f195e661] [cursor=pointer]
+                - generic [ref=f195e665]:
+                  - generic [ref=f195e668]:
+                    - link [aria-hidden] [ref=f195e669] [cursor=pointer]:
+                      - /url: /shorts/OtYG-mUiq4g
+                    - generic [ref=f195e673] [cursor=pointer]:
+                      - 'link "How to Use Midjourney as an Architect #shorts #design #architecture #ai" [ref=f195e674]':
+                        - /url: /shorts/OtYG-mUiq4g
+                      - generic [ref=f195e675]: 32k views
+                    - button "More actions" [ref=f195e677] [cursor=pointer]
+                  - generic [ref=f195e683]:
+                    - link [aria-hidden] [ref=f195e684] [cursor=pointer]:
+                      - /url: /shorts/mIeBtt3e98o
+                      - img [ref=f195e689]:
+                        - generic [ref=f195e690]: New
+                    - generic [ref=f195e691] [cursor=pointer]:
+                      - 'link "Can AI design a luxury Dubai villa? #AI #Architecture #Dubai" [ref=f195e692]':
+                        - /url: /shorts/mIeBtt3e98o
+                      - generic [ref=f195e693]: 77 views
+                    - button "More actions" [ref=f195e695] [cursor=pointer]
+                  - generic [ref=f195e701]:
+                    - link [aria-hidden] [ref=f195e702] [cursor=pointer]:
+                      - /url: /shorts/wVYNHTjw-_A
+                    - generic [ref=f195e706] [cursor=pointer]:
+                      - 'link "I transform my architecture design using @Kling_aiwhat do you think?🤔 #ai #nanobanana #architecture" [ref=f195e707]':
+                        - /url: /shorts/wVYNHTjw-_A
+                      - generic [ref=f195e708]: 12k views
+                    - button "More actions" [ref=f195e710] [cursor=pointer]
+                  - generic [ref=f195e716]:
+                    - link [aria-hidden] [ref=f195e717] [cursor=pointer]:
+                      - /url: /shorts/uTVz1KZ-tYw
+                      - img [ref=f195e722]:
+                        - generic [ref=f195e723]: New
+                    - generic [ref=f195e724] [cursor=pointer]:
+                      - link "Best AI Workspace for Architects!" [ref=f195e725]:
+                        - /url: /shorts/uTVz1KZ-tYw
+                      - generic [ref=f195e726]: 134 views
+                    - button "More actions" [ref=f195e728] [cursor=pointer]
+                  - generic [ref=f195e734]:
+                    - link [aria-hidden] [ref=f195e735] [cursor=pointer]:
+                      - /url: /shorts/kJYvwAolLoM
+                      - img [ref=f195e740]:
+                        - generic [ref=f195e741]: New
+                    - generic [ref=f195e742] [cursor=pointer]:
+                      - link "Is 3D Modeling Finally Automatic?" [ref=f195e743]:
+                        - /url: /shorts/kJYvwAolLoM
+                      - generic [ref=f195e744]: 247 views
+                    - button "More actions" [ref=f195e746] [cursor=pointer]
+              - button "Show more" [ref=f195e753] [cursor=pointer]
+            - generic [ref=f195e758]:
+              - link [aria-hidden] [ref=f195e760] [cursor=pointer]:
+                - /url: /watch?v=YXHkjqoGmHg&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl0
+              - generic [ref=f195e762] [cursor=pointer]:
+                - generic [ref=f195e763]:
+                  - heading [level=3] [ref=f195e765]:
+                    - link "Claude AI for Architects | 6 Ways to Use It in Your Design Practice 9 minutes, 39 seconds" [ref=f195e766]:
+                      - /url: /watch?v=YXHkjqoGmHg&pp=ygUnQUkgZm9yIGFyY2hpdGVjdHMgaG93IEkgYWN0dWFsbHkgdXNlIGl0
+                      - text: Claude AI for Architects | 6 Ways to Use It in Your Design Practice
+                  - generic [ref=f195e769]:
+                    - generic [ref=f195e770]: 103k views
+                    - generic [ref=f195e771]: •4 months ago
+                - generic [ref=f195e772]:
+                  - link "Go to channel Salmaan Mohamed" [ref=f195e773]:
+                    - /url: /@salmaanarchitect
+                  - link "Salmaan Mohamed" [ref=f195e778]:
+                    - /url: /@salmaanarchitect
+                - generic [ref=f195e779]:
+                  - generic [ref=f195e780]: "AI Visualization Mastery Course: 1̶50̶$̶ 109$ https://salmaanmohamed.gumroad.com/l/aivisualization EXCLUSIVE Realistic ..."
+                  - tooltip "tooltip"
+                - generic [ref=f195e783]:
+                  - generic [ref=f195e784]:
+                    - generic [ref=f195e787]: 8 chapters
+                    - button "Introduction | What is Claude? | Research & Precedent Study | Brief Writing & Communication | Concept Development & Site Analysis | Architectural Writing & Content | Technical & Regulatory Research | Learning & Teaching" [ref=f195e789]
+                  - button "More" [ref=f195e794]
+  - generic [ref=f195e823]:
+    - link:
+      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C3Y3-rvupat-zB8aoz7sPuISe8AHNu_3JiQGv6IrxmBZkEAEgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABoLuEliqpAoXbRHiKW7M-qAMEyAMKqgS6Ak_QOe-2Bmso-uYPzG5B0oS8aiuXYA6bLwQxwOPk9vAzkgccA4TWWsLOx9hNhrUe2oh-knIQ0Xm-Lb_LpnIAYmYYKOO4Zq4HaMFYAM1wEqZG9uP4LQwnbjdIpzQIQDsMN9WlXFQvypcU2KvXyPZ7NL0YsT1KoLA3tBpyM9LkDTUQmaRsCPh_xdvayvay4iZuBRv8EZekgnAI8QM83GRx-3tiUFhmVetYeDxU2cFq4ffu510OWowHLG5apiDiaQWtxZC40KQCzxjPqqFX3nNxkNbwQL7n2JjYbFPdBKv0Y-r9Hz3Q5xi5bjM8HNpL8KyEsJpgn-TJZiwZYcBFnYYnkzv2p_M_qMZaAo0ru_Wf32F1l4t1Hnq-SxFXb2FEuWa14-VCK1GO3DQq9ARu2szqOuhsg6FmSnnQuTqviAWzqrv8WZIFCAgTeJ6HuqYFoAahAYAHoPPU9QSQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3ZOY1JUWExtckdFqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRY2LDW5IPylgNgAZoJGmh0dHBzOi8vY291cnNpdi5pby9keW5hbWljsQnpCOmiblbBt8gJF8gJjwHICcIBmAsBugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgm6AwJzadALEqIMJCoGCgTw37ECYhUKE2NvbS5jb3Vyc2l2LmNvdXJzaXZ4AIgBANIMAhAB2gwlCgoQwLSknvPMzZguEgIBAxoNGLOqu_xZII3N-dnnBUABSgIQH5oNARKqDQJJTsgNAdIN9gFodHRwczovL2NvdXJzaXYuaW8vZHluYW1pYz9wcmNfaWQ9MTEwNCZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1fY2FtcGFpZ249MjQxNTE3NzQ1MTUmdXRtX2FkZ3JvdXBpZD0xOTk2MzYxODI2NjkmdXRtX2FkPTgyMzcxMDc0NjMzNCZ1dG1fdHlwZT1kZW1nZW4mdXRtX2FjYz0xMzA4MTQzMjkxJnV0bV9hbGVuPTEmZ3RnX2VuYWJsZWQ9dHJ1ZSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQxNTE3NzQ1MTW4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXvOZZ2GwvZEG6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI38LW5IPylgMVRtRzAR04ggceEAEYASAAEgLXhfD_BwE&num=1&cid=CAASwwHkaJaRZVkIhUPNACe9tkJgzF32QNTYGjZMqgwlsB5dT0pS8zSEeUGK7RXytmbELHgs25octnXNABY9kbvpilPITZaiSxDP-cotFygiW8DplqsKAOeAUmX8mV6oHYM_GeJfwmFD01j_zcNTEzFV4cRC-6jJI6OLhk8E9jemfbcxkB64RyrAR6Dz2TPB48env82XU0O-UxMQKx8XsRT0dxQKn6KbaFUCrjnmAB_Jvl4eBgMlO9aE5AyG4Qr55UfDRBbDv5c&ad_cpn=%5BCPN%5D&sig=AOD64_1ubdC8ytVEfeJkRVdzjVkeEP_6iQ&ctype=110&video_id=vNcRTXLmrGE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+      - generic [ref=f195e824] [cursor=pointer]

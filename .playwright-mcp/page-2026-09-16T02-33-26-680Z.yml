@@ -1,0 +1,221 @@
+- generic [ref=f490e1]:
+  - generic [ref=f490e2]:
+    - banner [ref=f490e4]:
+      - generic [ref=f490e6]:
+        - generic [ref=f490e7]:
+          - button "Guide" [active] [ref=f490e9] [cursor=pointer]
+          - generic [ref=f490e11]:
+            - link "YouTube Home" [ref=f490e12] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f490e16]: IN
+          - button "Skip navigation" [ref=f490e20] [cursor=pointer]
+        - generic [ref=f490e24]:
+          - search [ref=f490e25]:
+            - generic [ref=f490e27]:
+              - generic [ref=f490e28]:
+                - combobox "Search" [expanded] [ref=f490e30]: Nick Saraev
+                - button "Clear search query" [ref=f490e32] [cursor=pointer]
+              - button "Search" [ref=f490e37] [cursor=pointer]
+          - generic [ref=f490e40]:
+            - button "Search with your voice" [ref=f490e42] [cursor=pointer]
+            - tooltip "tooltip"
+        - generic [ref=f490e47]:
+          - button "Settings" [ref=f490e52] [cursor=pointer]
+          - link "Sign in" [ref=f490e56] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253DNick%252BSaraev&hl=en-GB&ec=65620
+    - navigation [ref=f490e60]
+    - main [ref=f490e62]:
+      - generic [ref=f490e63]:
+        - generic [ref=f490e65]:
+          - tablist [ref=f490e70]:
+            - tab "All" [selected] [ref=f490e74] [cursor=pointer]
+            - tab "Shorts" [ref=f490e80] [cursor=pointer]
+            - tab "Unwatched" [ref=f490e86] [cursor=pointer]
+            - tab "Watched" [ref=f490e92] [cursor=pointer]
+            - tab "Videos" [ref=f490e98] [cursor=pointer]
+            - tab "Recently uploaded" [ref=f490e104] [cursor=pointer]
+            - tab "Live" [ref=f490e110] [cursor=pointer]
+          - generic [ref=f490e114]:
+            - button "Search filters" [ref=f490e116] [cursor=pointer]:
+              - generic: Filters
+            - tooltip "tooltip"
+        - generic [ref=f490e125]:
+          - generic [ref=f490e134] [cursor=pointer]:
+            - link [aria-hidden] [ref=f490e135]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiLKk9P-pavSDBMOE88EPqdnssAevxvTUiQHWwtS9_RWwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGk7o2vKKgDBMgDCqoElgJP0P6OK2NS4qvU1b62Q_gqiImsdUxQBaTs-ERkJBFtU04TVsz4FGUX5qgGm2cTh5UhNOqzOszYW5IJX4f-729eoaJyMokL03Pmiy2ijqBSENL4pe7W-vr8SYunYpHt5aGNeR2wmjWiNAqSldYEIzlxdxSXOsmDGOn9_c9M3qX0AmvoK02EFDIRA0_YmBTYxOdKLwe67S727wxh-UDkILC-Lmodj_4Vd2bsQMiWJxtQt8gOPglEsnYFXLvciLMECV73RoszCUbIKRfnapE4n6oAPQtdebIiyRjYHTufZKG9zMznQ2rKGVtb6jU1RCQfgWPgAWiXZpnjVRNPnthSHZECX4cjW9Mj0tPQPcos8cK6pcEnIjLyIYgF--Krs1mSBQgIE3jE1JOjHaAGoQGAB4uGyIMdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtDNUo2dHJqdFZEa6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWIC-p-6H8pYDYAGaCSpodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZ2VtaW5pLWVudGVycHJpc2WxCdiMDKG7hESuyAkXyAmPAcgJwgG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBboDBXZpc2lu0AsS4AsBogxJKgYKBPDfsQJiEgoQY29tLmdvb2dsZS5WZXNwYWomCiRjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5jbG91ZGNvbnNvbGV4AIgBANIMAhAB2gwlCgoQoLe3i-_Tk_xFEgIBAxoNGPviq7NZIMCItOb2BUABSgIQH5oNARKqDQJJTsgNAdINpAVodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDkwOTU3NDgxMzUmZHNfYV9jaWQ9Nzg1ODM1MDY2MCZkc19hX2NhaWQ9MjM5OTg0Mjc1MTUmZHNfYV9hZ2lkPTIwMzY4ODgzODIwOCZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPTgxNTkxOTkxMDUxNiZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9JiZkc191cmxfdj0yJmRzX2Rlc3RfdXJsPWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS9jbGsvNjQ1NDgzOTg2OzQ1MjA5MTM5NjtiO2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtkY190cmFuc3BhcmVudD0xOz9odHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZ2VtaW5pLWVudGVycHJpc2U_Lz91dG1fc291cmNlPURHRU4mdXRtX21lZGl1bT1WaWRlbyZ1dG1fY2FtcGFpZ249MTcxMzcwNC1HZW1pbmlfRW50ZXJwcmlzZS1EUi1BUEFDLUlOLWVuLURHZW4tUHJvc3BlY3RpbmctVmlkZW8tU01CLUdFbnRlcnByaXNlLWNyZWF0ZV9hZ2VudHMmdXRtX2NvbnRlbnQ9Yy0yMDM2ODg4MzgyMDgtLS05MzAwODQ4LTIzOTk4NDI3NTE1JnV0bV90ZXJtPSZnY2xzcmM9YXcuZHMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTk4NDI3NTE1uBP___________8BiBQIsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYASAAEgIlFfD_BwE&num=1&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&ad_cpn=%5BCPN%5D&sig=AOD64_1sfut3Z34tz0I4bQYsyh13XlFiOA&ctype=110&video_id=C5J6trjtVDk&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - button [aria-hidden] [ref=f490e141]
+            - generic [ref=f490e145]:
+              - generic [ref=f490e146]:
+                - generic [ref=f490e147]:
+                  - link "Automate workflows tailored to your business needs with the Gemini Enterprise app" [ref=f490e150]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiLKk9P-pavSDBMOE88EPqdnssAevxvTUiQHWwtS9_RWwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGk7o2vKKgDBMgDCqoElgJP0P6OK2NS4qvU1b62Q_gqiImsdUxQBaTs-ERkJBFtU04TVsz4FGUX5qgGm2cTh5UhNOqzOszYW5IJX4f-729eoaJyMokL03Pmiy2ijqBSENL4pe7W-vr8SYunYpHt5aGNeR2wmjWiNAqSldYEIzlxdxSXOsmDGOn9_c9M3qX0AmvoK02EFDIRA0_YmBTYxOdKLwe67S727wxh-UDkILC-Lmodj_4Vd2bsQMiWJxtQt8gOPglEsnYFXLvciLMECV73RoszCUbIKRfnapE4n6oAPQtdebIiyRjYHTufZKG9zMznQ2rKGVtb6jU1RCQfgWPgAWiXZpnjVRNPnthSHZECX4cjW9Mj0tPQPcos8cK6pcEnIjLyIYgF--Krs1mSBQgIE3jE1JOjHaAGoQGAB4uGyIMdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtDNUo2dHJqdFZEa6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWIC-p-6H8pYDYAGaCSpodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZ2VtaW5pLWVudGVycHJpc2WxCdiMDKG7hESuyAkXyAmPAcgJwgG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBboDBXZpc2lu0AsS4AsBogxJKgYKBPDfsQJiEgoQY29tLmdvb2dsZS5WZXNwYWomCiRjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5jbG91ZGNvbnNvbGV4AIgBANIMAhAB2gwlCgoQoLe3i-_Tk_xFEgIBAxoNGPviq7NZIMCItOb2BUABSgIQH5oNARKqDQJJTsgNAdINpAVodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDkwOTU3NDgxMzUmZHNfYV9jaWQ9Nzg1ODM1MDY2MCZkc19hX2NhaWQ9MjM5OTg0Mjc1MTUmZHNfYV9hZ2lkPTIwMzY4ODgzODIwOCZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPTgxNTkxOTkxMDUxNiZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9JiZkc191cmxfdj0yJmRzX2Rlc3RfdXJsPWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS9jbGsvNjQ1NDgzOTg2OzQ1MjA5MTM5NjtiO2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtkY190cmFuc3BhcmVudD0xOz9odHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZ2VtaW5pLWVudGVycHJpc2U_Lz91dG1fc291cmNlPURHRU4mdXRtX21lZGl1bT1WaWRlbyZ1dG1fY2FtcGFpZ249MTcxMzcwNC1HZW1pbmlfRW50ZXJwcmlzZS1EUi1BUEFDLUlOLWVuLURHZW4tUHJvc3BlY3RpbmctVmlkZW8tU01CLUdFbnRlcnByaXNlLWNyZWF0ZV9hZ2VudHMmdXRtX2NvbnRlbnQ9Yy0yMDM2ODg4MzgyMDgtLS05MzAwODQ4LTIzOTk4NDI3NTE1JnV0bV90ZXJtPSZnY2xzcmM9YXcuZHMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTk4NDI3NTE1uBP___________8BiBQIsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYASAAEgIlFfD_BwE&num=1&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&ad_cpn=%5BCPN%5D&sig=AOD64_1sfut3Z34tz0I4bQYsyh13XlFiOA&ctype=110&video_id=C5J6trjtVDk&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - link "Keep your custom agents running even when you're offline with the Gemini Enterprise app." [ref=f490e153]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiLKk9P-pavSDBMOE88EPqdnssAevxvTUiQHWwtS9_RWwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGk7o2vKKgDBMgDCqoElgJP0P6OK2NS4qvU1b62Q_gqiImsdUxQBaTs-ERkJBFtU04TVsz4FGUX5qgGm2cTh5UhNOqzOszYW5IJX4f-729eoaJyMokL03Pmiy2ijqBSENL4pe7W-vr8SYunYpHt5aGNeR2wmjWiNAqSldYEIzlxdxSXOsmDGOn9_c9M3qX0AmvoK02EFDIRA0_YmBTYxOdKLwe67S727wxh-UDkILC-Lmodj_4Vd2bsQMiWJxtQt8gOPglEsnYFXLvciLMECV73RoszCUbIKRfnapE4n6oAPQtdebIiyRjYHTufZKG9zMznQ2rKGVtb6jU1RCQfgWPgAWiXZpnjVRNPnthSHZECX4cjW9Mj0tPQPcos8cK6pcEnIjLyIYgF--Krs1mSBQgIE3jE1JOjHaAGoQGAB4uGyIMdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtDNUo2dHJqdFZEa6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWIC-p-6H8pYDYAGaCSpodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZ2VtaW5pLWVudGVycHJpc2WxCdiMDKG7hESuyAkXyAmPAcgJwgG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBboDBXZpc2lu0AsS4AsBogxJKgYKBPDfsQJiEgoQY29tLmdvb2dsZS5WZXNwYWomCiRjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5jbG91ZGNvbnNvbGV4AIgBANIMAhAB2gwlCgoQoLe3i-_Tk_xFEgIBAxoNGPviq7NZIMCItOb2BUABSgIQH5oNARKqDQJJTsgNAdINpAVodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDkwOTU3NDgxMzUmZHNfYV9jaWQ9Nzg1ODM1MDY2MCZkc19hX2NhaWQ9MjM5OTg0Mjc1MTUmZHNfYV9hZ2lkPTIwMzY4ODgzODIwOCZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPTgxNTkxOTkxMDUxNiZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9JiZkc191cmxfdj0yJmRzX2Rlc3RfdXJsPWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS9jbGsvNjQ1NDgzOTg2OzQ1MjA5MTM5NjtiO2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtkY190cmFuc3BhcmVudD0xOz9odHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZ2VtaW5pLWVudGVycHJpc2U_Lz91dG1fc291cmNlPURHRU4mdXRtX21lZGl1bT1WaWRlbyZ1dG1fY2FtcGFpZ249MTcxMzcwNC1HZW1pbmlfRW50ZXJwcmlzZS1EUi1BUEFDLUlOLWVuLURHZW4tUHJvc3BlY3RpbmctVmlkZW8tU01CLUdFbnRlcnByaXNlLWNyZWF0ZV9hZ2VudHMmdXRtX2NvbnRlbnQ9Yy0yMDM2ODg4MzgyMDgtLS05MzAwODQ4LTIzOTk4NDI3NTE1JnV0bV90ZXJtPSZnY2xzcmM9YXcuZHMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTk4NDI3NTE1uBP___________8BiBQIsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYASAAEgIlFfD_BwE&num=1&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&ad_cpn=%5BCPN%5D&sig=AOD64_1sfut3Z34tz0I4bQYsyh13XlFiOA&ctype=110&video_id=C5J6trjtVDk&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - generic [ref=f490e154]:
+                    - button "Google Cloud" [ref=f490e158]
+                    - generic [ref=f490e162]:
+                      - generic [ref=f490e163]: Sponsored
+                      - text: ·
+                    - generic [ref=f490e164]: Google Cloud
+                - button "My Ad Centre" [ref=f490e168]
+              - generic [ref=f490e174]:
+                - link "Watch" [ref=f490e177]:
+                  - /url: /watch?v=C5J6trjtVDk
+                - link "Sign up" [ref=f490e183]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiLKk9P-pavSDBMOE88EPqdnssAevxvTUiQHWwtS9_RWwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGk7o2vKKgDBMgDCqoElgJP0P6OK2NS4qvU1b62Q_gqiImsdUxQBaTs-ERkJBFtU04TVsz4FGUX5qgGm2cTh5UhNOqzOszYW5IJX4f-729eoaJyMokL03Pmiy2ijqBSENL4pe7W-vr8SYunYpHt5aGNeR2wmjWiNAqSldYEIzlxdxSXOsmDGOn9_c9M3qX0AmvoK02EFDIRA0_YmBTYxOdKLwe67S727wxh-UDkILC-Lmodj_4Vd2bsQMiWJxtQt8gOPglEsnYFXLvciLMECV73RoszCUbIKRfnapE4n6oAPQtdebIiyRjYHTufZKG9zMznQ2rKGVtb6jU1RCQfgWPgAWiXZpnjVRNPnthSHZECX4cjW9Mj0tPQPcos8cK6pcEnIjLyIYgF--Krs1mSBQgIE3jE1JOjHaAGoQGAB4uGyIMdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtDNUo2dHJqdFZEa6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWIC-p-6H8pYDYAGaCSpodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZ2VtaW5pLWVudGVycHJpc2WxCdiMDKG7hESuyAkXyAmPAcgJwgG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBboDBXZpc2lu0AsS4AsBogxJKgYKBPDfsQJiEgoQY29tLmdvb2dsZS5WZXNwYWomCiRjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5jbG91ZGNvbnNvbGV4AIgBANIMAhAB2gwlCgoQoLe3i-_Tk_xFEgIBAxoNGPviq7NZIMCItOb2BUABSgIQH5oNARKqDQJJTsgNAdINpAVodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDkwOTU3NDgxMzUmZHNfYV9jaWQ9Nzg1ODM1MDY2MCZkc19hX2NhaWQ9MjM5OTg0Mjc1MTUmZHNfYV9hZ2lkPTIwMzY4ODgzODIwOCZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPTgxNTkxOTkxMDUxNiZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9JiZkc191cmxfdj0yJmRzX2Rlc3RfdXJsPWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS9jbGsvNjQ1NDgzOTg2OzQ1MjA5MTM5NjtiO2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtkY190cmFuc3BhcmVudD0xOz9odHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZ2VtaW5pLWVudGVycHJpc2U_Lz91dG1fc291cmNlPURHRU4mdXRtX21lZGl1bT1WaWRlbyZ1dG1fY2FtcGFpZ249MTcxMzcwNC1HZW1pbmlfRW50ZXJwcmlzZS1EUi1BUEFDLUlOLWVuLURHZW4tUHJvc3BlY3RpbmctVmlkZW8tU01CLUdFbnRlcnByaXNlLWNyZWF0ZV9hZ2VudHMmdXRtX2NvbnRlbnQ9Yy0yMDM2ODg4MzgyMDgtLS05MzAwODQ4LTIzOTk4NDI3NTE1JnV0bV90ZXJtPSZnY2xzcmM9YXcuZHMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTk4NDI3NTE1uBP___________8BiBQIsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYASAAEgIlFfD_BwE&num=1&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&ad_cpn=%5BCPN%5D&sig=AOD64_1sfut3Z34tz0I4bQYsyh13XlFiOA&ctype=110&video_id=C5J6trjtVDk&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+          - generic [ref=f490e188]:
+            - link [ref=f490e190] [cursor=pointer]:
+              - /url: /@nicksaraev
+            - generic [ref=f490e193]:
+              - link "Nick Saraev @nicksaraev•521k subscribers Hi I'm Nick. I've helped millions of people learn cutting-edge technology like Claude Code, Codex, N8N, & Antigravity." [ref=f490e194] [cursor=pointer]:
+                - /url: /@nicksaraev
+                - generic [ref=f490e195]:
+                  - generic [ref=f490e196]: Nick Saraev
+                  - generic [ref=f490e200]: "@nicksaraev•521k subscribers"
+                  - generic [ref=f490e201]: Hi I'm Nick. I've helped millions of people learn cutting-edge technology like Claude Code, Codex, N8N, & Antigravity.
+              - link "Subscribe" [ref=f490e206] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fresults%253Fsearch_query%253DNick%252BSaraev%26continue_action%3DQUZZTVljR0xManVuNU83UjMta1JJd1BWSk4waHxBTl9pYzRkalVZMVVHYkpha0Fzd2doWkJnbmoxRDV5MU0ydFBwUDV5MFN6a0FRVWJWbktvLTQzdVdIM19hNS1QZnBrOWRadkdxcEMwb1l2U3pnc05SY2tTMnp5d1hPcFNuTXBLZkkzdkRlVkFzZENMLUsxUFJYblg0c1VTSzlpTFc0eDBaQUxWZHZBdXNVaGRRaUw0MDJCQkFLQk1jX1hZVHFzSzh5OGRCOEg5Z0dJU2E3cnBGdFM4X1gw&hl=en-GB
+          - generic [ref=f490e211]:
+            - heading "Latest from Nick Saraev" [level=2] [ref=f490e214]
+            - generic [ref=f490e218]:
+              - generic [ref=f490e219]:
+                - generic [ref=f490e221]:
+                  - link [aria-hidden] [ref=f490e223] [cursor=pointer]:
+                    - /url: /watch?v=IJS08TVGut0&pp=ygULTmljayBTYXJhZXbSBwkJJAwBhyohjO8%3D
+                    - img [ref=f490e228]:
+                      - generic [ref=f490e229]: 9:41
+                    - generic: Now playing
+                  - generic [ref=f490e230] [cursor=pointer]:
+                    - generic [ref=f490e231]:
+                      - heading [level=3] [ref=f490e233]:
+                        - link "FASTEST Way To Use AI Agents Like Codex Completely Free 9 minutes, 41 seconds" [ref=f490e234]:
+                          - /url: /watch?v=IJS08TVGut0&pp=ygULTmljayBTYXJhZXbSBwkJJAwBhyohjO8%3D
+                          - text: FASTEST Way To Use AI Agents Like Codex Completely Free
+                      - generic [ref=f490e237]:
+                        - generic [ref=f490e238]: 1k views
+                        - generic [ref=f490e239]: •2 hours ago
+                    - generic [ref=f490e240]:
+                      - link "Go to channel Nick Saraev" [ref=f490e241]:
+                        - /url: /@nicksaraev
+                      - link "Nick Saraev" [ref=f490e247]:
+                        - /url: /@nicksaraev
+                    - generic [ref=f490e248]:
+                      - text: "Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about FreeBuff link here: https://freebuff.com ..."
+                      - tooltip "tooltip"
+                    - img "New" [ref=f490e253]
+                    - generic [ref=f490e257]:
+                      - generic [ref=f490e258]:
+                        - generic [ref=f490e261]: 9 chapters
+                        - button "Introduction to free ad-funded agent | Available free models & daily limits | Downloading and signing up, no credit card | Understanding daily credits and pricing | Making a simple one-page website | Making a stick figure walking game | Missions, agents, phone mirroring & ads | Checking our one-page site and walking game | Why free agents are important" [ref=f490e263]
+                      - button "More" [ref=f490e268]
+                - generic [ref=f490e273]:
+                  - link [aria-hidden] [ref=f490e275] [cursor=pointer]:
+                    - /url: /watch?v=GmCbzlb091A&pp=ygULTmljayBTYXJhZXY%3D
+                  - generic [ref=f490e277] [cursor=pointer]:
+                    - generic [ref=f490e278]:
+                      - heading [level=3] [ref=f490e280]:
+                        - link "I Trained A Fruit Fly Brain To Reply To My Emails (Real) 12 minutes, 40 seconds" [ref=f490e281]:
+                          - /url: /watch?v=GmCbzlb091A&pp=ygULTmljayBTYXJhZXY%3D
+                          - text: I Trained A Fruit Fly Brain To Reply To My Emails (Real)
+                      - generic [ref=f490e284]:
+                        - generic [ref=f490e285]: 47k views
+                        - generic [ref=f490e286]: •2 days ago
+                    - generic [ref=f490e287]:
+                      - link "Go to channel Nick Saraev" [ref=f490e288]:
+                        - /url: /@nicksaraev
+                      - link "Nick Saraev" [ref=f490e294]:
+                        - /url: /@nicksaraev
+                    - generic [ref=f490e295]:
+                      - text: "Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about Get all course resources 100% free: ..."
+                      - tooltip "tooltip"
+                    - img "New" [ref=f490e300]
+              - button "+8 more" [ref=f490e303] [cursor=pointer]
+          - generic [ref=f490e316] [cursor=pointer]:
+            - generic [ref=f490e317]:
+              - link "Become an ML Engineer in 9 Months" [ref=f490e320]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CAiHm9P-pavSDBMOE88EPqdnssAfk1qidiQHyhrLc3BWwkB8QAiAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGUt_DLPakCYnYhmQJhRj6oAwTIAwqqBJoCT9D-jitjUuKr1NW-tkP4KoiJrHVMUAWk7PhEZCQRbVNOE1bM-BRlF-aoBptnE4eVITTqszrM2FuSCV-H_u9vXqGicjKJC9Nz5ostoo6gUhDS-KXu1vr6_EmLp2KR7eWhjXkdsJo1ojQKkpXWBCM5cXcUlzrJgxjp_f3PTN6l9AJr6CtNhBQyEQNP2JgU2MTnSi8Huu0u9u8MYflA5CCwvi5qHY_-FXdm7EDIlicbULfIDj4JRLJ2BVy73IizBAle90aLMwlGyCkX52qROJ-qAD0LXXmyIslIF9z5kKRrIY7Cz7-XLNslTYGG9YEu4kKXqkNqt_Rvd4Ns9Enwsc-f6_RyMHMWJugnb-d5vghBRpr7hvruRMeCAGzhiAXDu7G1WJIFCAgTeKqFyK4YoAZugAeU78CrGJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFiAvqfuh_KWA2ABmgk5aHR0cHM6Ly93d3cuYm9zc2NvZGVyYWNhZGVteS5jb20vZ2VuYWktbWwtZW5naW5lZXItY291cnNlsQlFJoLIRRAz0sgJAMgJigKYCwG6Cz0IAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDBXZpc2lu0AsSogwIKgYKBPDfsQLSDAIQAdoMJQoKENCmjrfbvcOyZxICAQMaDRjDu7G1WCDw88CG7AVAAUoCEB-aDQESqg0CSU7IDQHSDYECaHR0cHM6Ly93d3cuYm9zc2NvZGVyYWNhZGVteS5jb20vZ2VuYWktbWwtZW5naW5lZXItY291cnNlP3V0bV9jYW1wYWlnbj1HQWRzLUdlbkFJJk1MLU1PRlUtREdlbi1HZW5BSUVuZ2luZWVyLVAtOEFwcmlsMjYmdXRtX21lZGl1bT1EaXNwbGF5JnV0bV9zb3VyY2U9R29vZ2xlLUFkcyZSZWY9R29vZ2xlQWRzLUdlbkFJTUwtTU9GVS1ER2VuLUdlbkFJRW5naW5lZXItUC04QXByaWwyNiZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3MzQyNzk2MTm4E____________wGIFAOwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXUySw2IeAIeq6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYAiAAEgKdfvD_BwE&num=2&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&sig=AOD64_29MTxz-8j6P9bFexd90uDvgYDX5w&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Learn ML, DL, LLMs, RAG & Agentic AI With a Structured Roadmap" [ref=f490e323]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CAiHm9P-pavSDBMOE88EPqdnssAfk1qidiQHyhrLc3BWwkB8QAiAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGUt_DLPakCYnYhmQJhRj6oAwTIAwqqBJoCT9D-jitjUuKr1NW-tkP4KoiJrHVMUAWk7PhEZCQRbVNOE1bM-BRlF-aoBptnE4eVITTqszrM2FuSCV-H_u9vXqGicjKJC9Nz5ostoo6gUhDS-KXu1vr6_EmLp2KR7eWhjXkdsJo1ojQKkpXWBCM5cXcUlzrJgxjp_f3PTN6l9AJr6CtNhBQyEQNP2JgU2MTnSi8Huu0u9u8MYflA5CCwvi5qHY_-FXdm7EDIlicbULfIDj4JRLJ2BVy73IizBAle90aLMwlGyCkX52qROJ-qAD0LXXmyIslIF9z5kKRrIY7Cz7-XLNslTYGG9YEu4kKXqkNqt_Rvd4Ns9Enwsc-f6_RyMHMWJugnb-d5vghBRpr7hvruRMeCAGzhiAXDu7G1WJIFCAgTeKqFyK4YoAZugAeU78CrGJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFiAvqfuh_KWA2ABmgk5aHR0cHM6Ly93d3cuYm9zc2NvZGVyYWNhZGVteS5jb20vZ2VuYWktbWwtZW5naW5lZXItY291cnNlsQlFJoLIRRAz0sgJAMgJigKYCwG6Cz0IAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDBXZpc2lu0AsSogwIKgYKBPDfsQLSDAIQAdoMJQoKENCmjrfbvcOyZxICAQMaDRjDu7G1WCDw88CG7AVAAUoCEB-aDQESqg0CSU7IDQHSDYECaHR0cHM6Ly93d3cuYm9zc2NvZGVyYWNhZGVteS5jb20vZ2VuYWktbWwtZW5naW5lZXItY291cnNlP3V0bV9jYW1wYWlnbj1HQWRzLUdlbkFJJk1MLU1PRlUtREdlbi1HZW5BSUVuZ2luZWVyLVAtOEFwcmlsMjYmdXRtX21lZGl1bT1EaXNwbGF5JnV0bV9zb3VyY2U9R29vZ2xlLUFkcyZSZWY9R29vZ2xlQWRzLUdlbkFJTUwtTU9GVS1ER2VuLUdlbkFJRW5naW5lZXItUC04QXByaWwyNiZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3MzQyNzk2MTm4E____________wGIFAOwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXUySw2IeAIeq6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYAiAAEgKdfvD_BwE&num=2&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&sig=AOD64_29MTxz-8j6P9bFexd90uDvgYDX5w&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=f490e324]:
+                - generic [ref=f490e326]:
+                  - generic [ref=f490e327]: Sponsored
+                  - text: ·
+                - generic [ref=f490e328]: Bosscoder Academy
+            - button "My Ad Centre" [ref=f490e332]
+          - generic [ref=f490e337]:
+            - link [aria-hidden] [ref=f490e339] [cursor=pointer]:
+              - /url: /watch?v=yulWjh3rq28&pp=ygULTmljayBTYXJhZXY%3D
+            - generic [ref=f490e341] [cursor=pointer]:
+              - generic [ref=f490e342]:
+                - heading [level=3] [ref=f490e344]:
+                  - link "CLAUDE CODE MARKETING FULL COURSE (6 HOURS) 6 hours, 2 minutes" [ref=f490e345]:
+                    - /url: /watch?v=yulWjh3rq28&pp=ygULTmljayBTYXJhZXY%3D
+                    - text: CLAUDE CODE MARKETING FULL COURSE (6 HOURS)
+                - generic [ref=f490e348]:
+                  - generic [ref=f490e349]: 130k views
+                  - generic [ref=f490e350]: •1 month ago
+              - generic [ref=f490e351]:
+                - link "Go to channel Nick Saraev" [ref=f490e352]:
+                  - /url: /@nicksaraev
+                - link "Nick Saraev" [ref=f490e357]:
+                  - /url: /@nicksaraev
+              - generic [ref=f490e358]:
+                - text: "Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about Get all course resources 100% free: ..."
+                - tooltip "tooltip"
+              - generic [ref=f490e361]:
+                - generic [ref=f490e362]:
+                  - generic [ref=f490e365]: 17 chapters
+                  - 'button "Welcome + what you''ll build | Download, install and set up Claude Code | Full interface tour | The five marketing functions framework | Prompts vs skills vs loops vs cloud routines | Top of funnel: automating ad creative | Building the ad creative skill | AI video creative | Turning builds into repeatable skills | Personalized copy: newsletters | Personalized copy: cold email + fuzzy variables | Speed to lead: email, SMS and voice | Data collection, tracking and dashboards | Bottom of funnel: automated follow-ups | Recap of the five functions | Maintenance and advanced tips | When not to automate + wrap-up" [ref=f490e367]'
+                - button "More" [ref=f490e372]
+          - generic [ref=f490e377]:
+            - link [aria-hidden] [ref=f490e379] [cursor=pointer]:
+              - /url: /watch?v=QLLuZbuTIRc&pp=ygULTmljayBTYXJhZXY%3D
+            - generic [ref=f490e381] [cursor=pointer]:
+              - generic [ref=f490e382]:
+                - heading [level=3] [ref=f490e384]:
+                  - 'link "How to Think Clearly In The Era Of AI: Full Course (5 Hours) 5 hours, 2 minutes" [ref=f490e385]':
+                    - /url: /watch?v=QLLuZbuTIRc&pp=ygULTmljayBTYXJhZXY%3D
+                    - text: "How to Think Clearly In The Era Of AI: Full Course (5 Hours)"
+                - generic [ref=f490e388]:
+                  - generic [ref=f490e389]: 176k views
+                  - generic [ref=f490e390]: •13 days ago
+              - generic [ref=f490e391]:
+                - link "Go to channel Nick Saraev" [ref=f490e392]:
+                  - /url: /@nicksaraev
+                - link "Nick Saraev" [ref=f490e397]:
+                  - /url: /@nicksaraev
+              - generic [ref=f490e398]:
+                - text: "Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about Get the Thinking Clearly doc 100% ..."
+                - tooltip "tooltip"
+              - generic [ref=f490e401]:
+                - generic [ref=f490e402]:
+                  - generic [ref=f490e405]: 57 chapters
+                  - button [ref=f490e407]
+                - button "More" [ref=f490e412]
+          - generic [ref=f490e424] [cursor=pointer]:
+            - link [aria-hidden] [ref=f490e425]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CR0t_9P-pavSDBMOE88EPqdnssAeTqZmYiQG3jffNwhVkEAMgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABiMvZnimpAo-8V-Bq_4M-qAMEqgSxAk_Q_o4rY1Liq9TVvrZD-CqIiax1TFAFpOz4RGQkEW1TThNWzPgUZRfmqAabZxOHlSE06rM6zNhbkglfh_7vb16honIyiQvTc-aLLaKOoFIQ0vil7tb6-vxJi6dike3loY15HbCaNaI0CpKV1gQjOXF3FJc6yYMY6f39z0zepfQCa-grTYQUMhEDT9iYFNjE50ovB7rtLvbvDGH5QOQgsL4uah2P_hV3ZuxAyJYnG1C3yA4-CUSydgVcu9yIswQJXvdGizMJRsgpF-dqkTifqgA9C115siLJUtBlO55soS-cf-ObXnPCb87vuBLqIlKAvpW7I21mZ9SCXdqU64j0P-_1cYdk09ZMmLnbYbFTXFya8XLzwlwTB89KWmbTyug7uhFCPibhr2kirCy8hdtnPj3eiAWmoc2_WJIFDAgSMIDatdL709XoKJIFCAgTeKaQ_6YEoAZVgAeIg6r-A5AHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHlQioB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC0tORlduN3BOYlFBqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYgL6n7ofylgNgAZoJFWh0dHBzOi8vd3d3Lm1lc2h5LmFpL7EJBG41vYATvAzICRfICY8ByAmQAcgJwgGYCwG6Cz0IAxAFGBYgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBroDBXZpc2lu0AsSogwIKgYKBPDfsQLSDAIQAdoMJgoLEPCBhLD4_aqYswESAgEDGg0YpqHNv1ggzIL9sNgFQAFKAhAfmg0BEqoNAklOyA0B0g2PAWh0dHBzOi8vd3d3Lm1lc2h5LmFpLz91dG1fY29udGVudD02NzAwODgyOTgxJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249MjM3NTU2OTE4ODUmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNzU1NzA2NTM0sA6luJ37GLgT____________AYgUA7AUA8AVgYCAQNAVAdgVAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRcirVFzAgSPWboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYAyAAEgL8QPD_BwE&num=3&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&ad_cpn=%5BCPN%5D&sig=AOD64_0-v7KlVDEKTJt7V8LgmyLPG_VX-w&ctype=110&video_id=KNFWn7pNbQA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+              - button [aria-hidden] [ref=f490e431]
+            - generic [ref=f490e435]:
+              - generic [ref=f490e436]:
+                - generic [ref=f490e437]:
+                  - link "Meshy 7 is our Image-to-3D model, built for alignment with your reference image." [ref=f490e440]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CR0t_9P-pavSDBMOE88EPqdnssAeTqZmYiQG3jffNwhVkEAMgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABiMvZnimpAo-8V-Bq_4M-qAMEqgSxAk_Q_o4rY1Liq9TVvrZD-CqIiax1TFAFpOz4RGQkEW1TThNWzPgUZRfmqAabZxOHlSE06rM6zNhbkglfh_7vb16honIyiQvTc-aLLaKOoFIQ0vil7tb6-vxJi6dike3loY15HbCaNaI0CpKV1gQjOXF3FJc6yYMY6f39z0zepfQCa-grTYQUMhEDT9iYFNjE50ovB7rtLvbvDGH5QOQgsL4uah2P_hV3ZuxAyJYnG1C3yA4-CUSydgVcu9yIswQJXvdGizMJRsgpF-dqkTifqgA9C115siLJUtBlO55soS-cf-ObXnPCb87vuBLqIlKAvpW7I21mZ9SCXdqU64j0P-_1cYdk09ZMmLnbYbFTXFya8XLzwlwTB89KWmbTyug7uhFCPibhr2kirCy8hdtnPj3eiAWmoc2_WJIFDAgSMIDatdL709XoKJIFCAgTeKaQ_6YEoAZVgAeIg6r-A5AHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHlQioB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC0tORlduN3BOYlFBqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYgL6n7ofylgNgAZoJFWh0dHBzOi8vd3d3Lm1lc2h5LmFpL7EJBG41vYATvAzICRfICY8ByAmQAcgJwgGYCwG6Cz0IAxAFGBYgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBroDBXZpc2lu0AsSogwIKgYKBPDfsQLSDAIQAdoMJgoLEPCBhLD4_aqYswESAgEDGg0YpqHNv1ggzIL9sNgFQAFKAhAfmg0BEqoNAklOyA0B0g2PAWh0dHBzOi8vd3d3Lm1lc2h5LmFpLz91dG1fY29udGVudD02NzAwODgyOTgxJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249MjM3NTU2OTE4ODUmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNzU1NzA2NTM0sA6luJ37GLgT____________AYgUA7AUA8AVgYCAQNAVAdgVAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRcirVFzAgSPWboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYAyAAEgL8QPD_BwE&num=3&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&ad_cpn=%5BCPN%5D&sig=AOD64_0-v7KlVDEKTJt7V8LgmyLPG_VX-w&ctype=110&video_id=KNFWn7pNbQA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+                  - 'link "Limited Time: 50% off. Meshy 7 is live. Start your first generation." [ref=f490e443]':
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CR0t_9P-pavSDBMOE88EPqdnssAeTqZmYiQG3jffNwhVkEAMgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABiMvZnimpAo-8V-Bq_4M-qAMEqgSxAk_Q_o4rY1Liq9TVvrZD-CqIiax1TFAFpOz4RGQkEW1TThNWzPgUZRfmqAabZxOHlSE06rM6zNhbkglfh_7vb16honIyiQvTc-aLLaKOoFIQ0vil7tb6-vxJi6dike3loY15HbCaNaI0CpKV1gQjOXF3FJc6yYMY6f39z0zepfQCa-grTYQUMhEDT9iYFNjE50ovB7rtLvbvDGH5QOQgsL4uah2P_hV3ZuxAyJYnG1C3yA4-CUSydgVcu9yIswQJXvdGizMJRsgpF-dqkTifqgA9C115siLJUtBlO55soS-cf-ObXnPCb87vuBLqIlKAvpW7I21mZ9SCXdqU64j0P-_1cYdk09ZMmLnbYbFTXFya8XLzwlwTB89KWmbTyug7uhFCPibhr2kirCy8hdtnPj3eiAWmoc2_WJIFDAgSMIDatdL709XoKJIFCAgTeKaQ_6YEoAZVgAeIg6r-A5AHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHlQioB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC0tORlduN3BOYlFBqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYgL6n7ofylgNgAZoJFWh0dHBzOi8vd3d3Lm1lc2h5LmFpL7EJBG41vYATvAzICRfICY8ByAmQAcgJwgGYCwG6Cz0IAxAFGBYgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBroDBXZpc2lu0AsSogwIKgYKBPDfsQLSDAIQAdoMJgoLEPCBhLD4_aqYswESAgEDGg0YpqHNv1ggzIL9sNgFQAFKAhAfmg0BEqoNAklOyA0B0g2PAWh0dHBzOi8vd3d3Lm1lc2h5LmFpLz91dG1fY29udGVudD02NzAwODgyOTgxJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249MjM3NTU2OTE4ODUmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNzU1NzA2NTM0sA6luJ37GLgT____________AYgUA7AUA8AVgYCAQNAVAdgVAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRcirVFzAgSPWboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYAyAAEgL8QPD_BwE&num=3&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&ad_cpn=%5BCPN%5D&sig=AOD64_0-v7KlVDEKTJt7V8LgmyLPG_VX-w&ctype=110&video_id=KNFWn7pNbQA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+                  - generic [ref=f490e444]:
+                    - button [ref=f490e448]
+                    - generic [ref=f490e452]:
+                      - generic [ref=f490e453]: Sponsored
+                      - text: ·
+                    - generic [ref=f490e454]: Meshy.AI
+                - button "My Ad Centre" [ref=f490e458]
+              - generic [ref=f490e464]:
+                - link "Watch" [ref=f490e467]:
+                  - /url: /watch?v=KNFWn7pNbQA
+                - link "Subscribe" [ref=f490e473]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CR0t_9P-pavSDBMOE88EPqdnssAeTqZmYiQG3jffNwhVkEAMgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABiMvZnimpAo-8V-Bq_4M-qAMEqgSxAk_Q_o4rY1Liq9TVvrZD-CqIiax1TFAFpOz4RGQkEW1TThNWzPgUZRfmqAabZxOHlSE06rM6zNhbkglfh_7vb16honIyiQvTc-aLLaKOoFIQ0vil7tb6-vxJi6dike3loY15HbCaNaI0CpKV1gQjOXF3FJc6yYMY6f39z0zepfQCa-grTYQUMhEDT9iYFNjE50ovB7rtLvbvDGH5QOQgsL4uah2P_hV3ZuxAyJYnG1C3yA4-CUSydgVcu9yIswQJXvdGizMJRsgpF-dqkTifqgA9C115siLJUtBlO55soS-cf-ObXnPCb87vuBLqIlKAvpW7I21mZ9SCXdqU64j0P-_1cYdk09ZMmLnbYbFTXFya8XLzwlwTB89KWmbTyug7uhFCPibhr2kirCy8hdtnPj3eiAWmoc2_WJIFDAgSMIDatdL709XoKJIFCAgTeKaQ_6YEoAZVgAeIg6r-A5AHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHlQioB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC0tORlduN3BOYlFBqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYgL6n7ofylgNgAZoJFWh0dHBzOi8vd3d3Lm1lc2h5LmFpL7EJBG41vYATvAzICRfICY8ByAmQAcgJwgGYCwG6Cz0IAxAFGBYgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBroDBXZpc2lu0AsSogwIKgYKBPDfsQLSDAIQAdoMJgoLEPCBhLD4_aqYswESAgEDGg0YpqHNv1ggzIL9sNgFQAFKAhAfmg0BEqoNAklOyA0B0g2PAWh0dHBzOi8vd3d3Lm1lc2h5LmFpLz91dG1fY29udGVudD02NzAwODgyOTgxJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cG1heCZ1dG1fY2FtcGFpZ249MjM3NTU2OTE4ODUmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNzU1NzA2NTM0sA6luJ37GLgT____________AYgUA7AUA8AVgYCAQNAVAdgVAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRcirVFzAgSPWboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYAyAAEgL8QPD_BwE&num=3&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&ad_cpn=%5BCPN%5D&sig=AOD64_0-v7KlVDEKTJt7V8LgmyLPG_VX-w&ctype=110&video_id=KNFWn7pNbQA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D
+  - generic [ref=f490e502]:
+    - link:
+      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CiLKk9P-pavSDBMOE88EPqdnssAevxvTUiQHWwtS9_RWwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGk7o2vKKgDBMgDCqoElgJP0P6OK2NS4qvU1b62Q_gqiImsdUxQBaTs-ERkJBFtU04TVsz4FGUX5qgGm2cTh5UhNOqzOszYW5IJX4f-729eoaJyMokL03Pmiy2ijqBSENL4pe7W-vr8SYunYpHt5aGNeR2wmjWiNAqSldYEIzlxdxSXOsmDGOn9_c9M3qX0AmvoK02EFDIRA0_YmBTYxOdKLwe67S727wxh-UDkILC-Lmodj_4Vd2bsQMiWJxtQt8gOPglEsnYFXLvciLMECV73RoszCUbIKRfnapE4n6oAPQtdebIiyRjYHTufZKG9zMznQ2rKGVtb6jU1RCQfgWPgAWiXZpnjVRNPnthSHZECX4cjW9Mj0tPQPcos8cK6pcEnIjLyIYgF--Krs1mSBQgIE3jE1JOjHaAGoQGAB4uGyIMdkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtDNUo2dHJqdFZEa6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWIC-p-6H8pYDYAGaCSpodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZ2VtaW5pLWVudGVycHJpc2WxCdiMDKG7hESuyAkXyAmPAcgJwgG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBBoACAYgCBboDBXZpc2lu0AsS4AsBogxJKgYKBPDfsQJiEgoQY29tLmdvb2dsZS5WZXNwYWomCiRjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5jbG91ZGNvbnNvbGV4AIgBANIMAhAB2gwlCgoQoLe3i-_Tk_xFEgIBAxoNGPviq7NZIMCItOb2BUABSgIQH5oNARKqDQJJTsgNAdINpAVodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9zZWFyY2hhZHMvbGluay9jbGljaz9saWQ9NTg3MDAwMDkwOTU3NDgxMzUmZHNfYV9jaWQ9Nzg1ODM1MDY2MCZkc19hX2NhaWQ9MjM5OTg0Mjc1MTUmZHNfYV9hZ2lkPTIwMzY4ODgzODIwOCZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPTgxNTkxOTkxMDUxNiZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9JiZkc191cmxfdj0yJmRzX2Rlc3RfdXJsPWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS9jbGsvNjQ1NDgzOTg2OzQ1MjA5MTM5NjtiO2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtkY190cmFuc3BhcmVudD0xOz9odHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZ2VtaW5pLWVudGVycHJpc2U_Lz91dG1fc291cmNlPURHRU4mdXRtX21lZGl1bT1WaWRlbyZ1dG1fY2FtcGFpZ249MTcxMzcwNC1HZW1pbmlfRW50ZXJwcmlzZS1EUi1BUEFDLUlOLWVuLURHZW4tUHJvc3BlY3RpbmctVmlkZW8tU01CLUdFbnRlcnByaXNlLWNyZWF0ZV9hZ2VudHMmdXRtX2NvbnRlbnQ9Yy0yMDM2ODg4MzgyMDgtLS05MzAwODQ4LTIzOTk4NDI3NTE1JnV0bV90ZXJtPSZnY2xzcmM9YXcuZHMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzOTk4NDI3NTE1uBP___________8BiBQIsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI9M2n7ofylgMVQ8I8Ah2pLBt2EAEYASAAEgIlFfD_BwE&num=1&cid=CAASwwHkaADeuM7paINKjVPWe2YfTHlizA1KcV1lJEOQuH4Eoox3fS7BMDPughQm7L2IjG6Ecp54TEoPegwzwbxmBkm1arxLajIAw80H9iBRYGxNiqsmRkFVtuQPiaUatBVBpULU_uILLHGfH-r6F8Jq-tiIC0Wr_Tgs3uatHQ-nYeYt_BKI16QLB9PItLbegEYgoMdb-PQ77bwNxLCqL_EaahfaF0oyaGsw_qVGAklQzyTREHv2HahtK3_BPS2HUxlPNvisEHw&ad_cpn=%5BCPN%5D&sig=AOD64_1sfut3Z34tz0I4bQYsyh13XlFiOA&ctype=110&video_id=C5J6trjtVDk&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+      - generic [ref=f490e503] [cursor=pointer]

@@ -1,0 +1,434 @@
+- generic [active] [ref=f190e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f190e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f190e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IN
+  - generic [ref=f190e8]:
+    - search [ref=f190e9]:
+      - generic [ref=f190e11]:
+        - link "Go to Google Home" [ref=f190e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4QPHoECAYQBA
+        - generic [ref=f190e21]:
+          - generic [ref=f190e22]:
+            - combobox "Search" [ref=f190e25]: architectural rendering cost per image India INR small studio architectural rendering cost per image India INR small studio
+            - generic [ref=f190e26]:
+              - button "Clear" [ref=f190e28] [cursor=pointer]
+              - generic [ref=f190e33]:
+                - button "Search by voice" [ref=f190e34] [cursor=pointer]
+                - button "Search by image" [ref=f190e37] [cursor=pointer]
+          - button "Search" [ref=f190e40] [cursor=pointer]
+    - generic [ref=f190e45]:
+      - button "Settings" [ref=f190e47] [cursor=pointer]
+      - button "Share" [ref=f190e52] [cursor=pointer]
+      - generic [ref=f190e58]:
+        - button "Google apps" [ref=f190e60] [cursor=pointer]
+        - link "Sign in" [ref=f190e65] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Darchitectural%2Brendering%2Bcost%2Bper%2Bimage%2BIndia%2BINR%2Bsmall%2Bstudio&ec=futura_srp_og_si_72236_p
+  - generic [ref=f190e68]:
+    - navigation [ref=f190e74]:
+      - generic [ref=f190e80]:
+        - list [ref=f190e81]:
+          - listitem [ref=f190e82]:
+            - link "AI Mode" [ref=f190e85] [cursor=pointer]:
+              - /url: /search?q=architectural+rendering+cost+per+image+India+INR+small+studio&sca_esv=0fcbbd60dc8ae695&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jmSm18uaHUIcIw77cYBDAp2nk5Z4kkuDAeSHopy1VQT0Z9CUUJTpQm4pVtocSysak9MEKi66jejsnTD2v3aphJK05v5S76poOJpmfkkIG5Gj66JY_q1NvOaHHwZbpFPZvIe_QJqbJ9oy01_W7Ky17bMnXjFWw&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q2J8OegQIFBAD
+          - listitem [ref=f190e89]:
+            - link "All" [disabled] [ref=f190e90]
+          - listitem [ref=f190e93]:
+            - link "Shopping" [ref=f190e94] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jmSm18uaHUIcIw77cYBDAp2nk5Z4kkuDAeSHopy1VQT0Z9CUUJTpQm4pVtocSysak9MEKi66jejsnTD2v3aphJK05v5S76poOJpmfkkIG5Gj66JY_q1NvOaHHwZbpFPZvIe_QJqbJ9oy01_W7Ky17bMnXjFWw&q=architectural+rendering+cost+per+image+India+INR+small+studio&ved=1t:220175&ictx=111
+          - listitem [ref=f190e97]:
+            - link "Images" [ref=f190e98] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jmSm18uaHUIcIw77cYBDAp2nk5Z4kkuDAeSHopy1VQT0Z9CUUJTpQm4pVtocSysak9MEKi66jejsnTD2v3aphJK05v5S76poOJpmfkkIG5Gj66JY_q1NvOaHHwZbpFPZvIe_QJqbJ9oy01_W7Ky17bMnXjFWw&q=architectural+rendering+cost+per+image+India+INR+small+studio&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4QtKgLegQIGRAB
+          - listitem [ref=f190e101]:
+            - link "Short videos" [ref=f190e102] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jmSm18uaHUIcIw77cYBDAp2nk5Z4kkuDAeSHopy1VQT0Z9CUUJTpQm4pVtocSysak9MEKi66jejsnTD2v3aphJK05v5S76poOJpmfkkIG5Gj66JY_q1NvOaHHwZbpFPZvIe_QJqbJ9oy01_W7Ky17bMnXjFWw&q=architectural+rendering+cost+per+image+India+INR+small+studio&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Qs6gLegQIFhAB
+          - listitem [ref=f190e105]:
+            - link "Forums" [ref=f190e106] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jmSm18uaHUIcIw77cYBDAp2nk5Z4kkuDAeSHopy1VQT0Z9CUUJTpQm4pVtocSysak9MEKi66jejsnTD2v3aphJK05v5S76poOJpmfkkIG5Gj66JY_q1NvOaHHwZbpFPZvIe_QJqbJ9oy01_W7Ky17bMnXjFWw&q=architectural+rendering+cost+per+image+India+INR+small+studio&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Qs6gLegQIGBAB
+          - listitem [ref=f190e109]:
+            - link "Videos" [ref=f190e110] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&udm=7&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jmSm18uaHUIcIw77cYBDAp2nk5Z4kkuDAeSHopy1VQT0Z9CUUJTpQm4pVtocSysak9MEKi66jejsnTD2v3aphJK05v5S76poOJpmfkkIG5Gj66JY_q1NvOaHHwZbpFPZvIe_QJqbJ9oy01_W7Ky17bMnXjFWw&q=architectural+rendering+cost+per+image+India+INR+small+studio&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4QtKgLegQIFxAB
+          - listitem [ref=f190e113]:
+            - button [ref=f190e114] [cursor=pointer]:
+              - generic "More filters" [ref=f190e115]: More
+        - button "Tools" [ref=f190e122] [cursor=pointer]
+    - heading "Search Results" [level=1] [ref=f190e129]
+    - generic [ref=f190e134]:
+      - generic [ref=f190e135]:
+        - heading [level=2] [ref=f190e140]:
+          - text: Including results for
+          - link "architectural rendering cost per image India IN small studio" [ref=f190e141] [cursor=pointer]:
+            - /url: /search?sca_esv=0fcbbd60dc8ae695&q=architectural+rendering+cost+per+image+India+IN+small+studio&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q7xYoAHoECBAQAQ
+            - text: architectural rendering cost per image India
+            - generic [ref=f190e142]: IN
+            - text: small studio
+          - generic [ref=f190e143]:
+            - text: Search only for
+            - link "architectural rendering cost per image India INR small studio" [ref=f190e144] [cursor=pointer]:
+              - /url: /search?sca_esv=0fcbbd60dc8ae695&q=architectural+rendering+cost+per+image+India+INR+small+studio&nirf=architectural+rendering+cost+per+image+India+IN+small+studio&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q8BYoAXoECBAQAg
+        - generic [ref=f190e162]:
+          - generic [ref=f190e164]:
+            - heading "AI Overview" [level=2] [ref=f190e168]
+            - button "Listen" [ref=f190e172]:
+              - generic [ref=f190e176] [cursor=pointer]
+          - generic [ref=f190e183]:
+            - generic [ref=f190e202]:
+              - generic [ref=f190e205]:
+                - generic [ref=f190e206]:
+                  - text: Architectural rendering costs in India from a small studio typically range from
+                  - mark [ref=f190e207]:
+                    - strong [ref=f190e208]: ₹3,000 to ₹15,000 per image
+                  - text: ", depending on whether it is an interior or exterior view and the level of photorealism required."
+                  - button "Related results" [disabled] [ref=f190e211]
+                - heading "Cost Breakdown Per Image" [level=3] [ref=f190e216]
+                - list [ref=f190e217]:
+                  - listitem [ref=f190e219]:
+                    - generic [ref=f190e220]:
+                      - strong [ref=f190e221]: "Basic Interior / Room View:"
+                      - text: ₹2,000 to ₹5,000 per image for standard residential spaces.
+                  - listitem [ref=f190e223]:
+                    - generic [ref=f190e224]:
+                      - strong [ref=f190e225]: "Professional Interior Visualization:"
+                      - text: ₹4,000 to ₹10,000 per image with detailed lighting and furniture placement.
+                  - listitem [ref=f190e227]:
+                    - generic [ref=f190e228]:
+                      - strong [ref=f190e229]: "Standard Exterior Residential:"
+                      - text: ₹4,100 to ₹12,000 per image showing facade and basic surroundings.
+                  - listitem [ref=f190e231]:
+                    - generic [ref=f190e232]:
+                      - strong [ref=f190e233]: "High-End Photorealistic / Commercial Renders:"
+                      - text: ₹12,000 to ₹35,000+ per image for complex commercial buildings or township views.
+                    - generic [ref=f190e235]:
+                      - link "Chasing Illusions Studio (+3) - Related results" [ref=f190e236] [cursor=pointer]:
+                        - /url: /goto?url=CAESeAHrOzAVtsbjr91NP49ah7ai_NSqG62vvYe4jtFeaH6YBXV7af00io0n-kLp-FPLa9kXTAVb6OmfGr0dfV6vFfQBObSX7GDFXuFLShMfCLO8HeqlsIvH-cC6zCp69qSaM8hplg7v6jBMtoVcpkd1La6MJLnQtPcLcQ
+                      - button "Chasing Illusions Studio (+3) - Related results" [disabled] [ref=f190e237]:
+                        - generic [ref=f190e239]:
+                          - generic [ref=f190e240]: Chasing Illusions Studio
+                          - generic [ref=f190e241]: "+3"
+                - generic [ref=f190e247]:
+                  - text: You can review standard pricing structures and
+                  - link "3D Architectural Rendering Cost in India" [ref=f190e249] [cursor=pointer]:
+                    - /url: /goto?url=CAESmAEB6zswFdFbAZZY0SMgtkOSx3msv3HbUr2MWBONXQkXhWa7FpYoOd7eIZ2YyoS_nPum7H4OfnQ1AJHbHy5ER29_BRa-EHLK6FtBLVgzQo2p57wR0uM-eYPBDR-aSCcIAiq7-epSmfaKy1q857LxVIfMNQRMszn6bEEg4EYga8h5bnIWvL8g-PPMtS4gqZ6SJMo-_ydRQFacug
+                  - text: for further market comparisons.
+                  - generic [ref=f190e251]:
+                    - link "Peninsular Art Works - Related results" [ref=f190e252] [cursor=pointer]:
+                      - /url: /goto?url=CAESmAEB6zswFdFbAZZY0SMgtkOSx3msv3HbUr2MWBONXQkXhWa7FpYoOd7eIZ2YyoS_nPum7H4OfnQ1AJHbHy5ER29_BRa-EHLK6FtBLVgzQo2p57wR0uM-eYPBDR-aSCcIAiq7-epSmfaKy1q857LxVIfMNQRMszn6bEEg4EYga8h5bnIWvL8g-PPMtS4gqZ6SJMo-_ydRQFacug
+                    - button "Peninsular Art Works - Related results" [disabled] [ref=f190e253]:
+                      - generic [ref=f190e254]: Peninsular Art Works
+                - generic [ref=f190e262]:
+                  - generic [ref=f190e263]: "If you'd like, let me know:"
+                  - list [ref=f190e264]:
+                    - listitem [ref=f190e265]:
+                      - generic [ref=f190e266]:
+                        - text: Is the project an
+                        - strong [ref=f190e267]: interior or exterior
+                        - text: space?
+                    - listitem [ref=f190e268]:
+                      - generic [ref=f190e269]:
+                        - text: What is the
+                        - strong [ref=f190e270]: complexity or scale
+                        - text: of the design?
+                    - listitem [ref=f190e271]:
+                      - generic [ref=f190e272]:
+                        - text: How many
+                        - strong [ref=f190e273]: views/images
+                        - text: do you need?
+                  - generic [ref=f190e274]: I can give you a more targeted estimate for your project.
+              - generic [ref=f190e279]:
+                - list [ref=f190e281]:
+                  - listitem [ref=f190e282]:
+                    - generic [ref=f190e283]:
+                      - link "How Much Does 3D Interior Rendering Cost in India?. Opens in new tab." [ref=f190e284] [cursor=pointer]:
+                        - /url: /goto?url=CAESiAEB6zswFcdZrhqA4Ltk7MeTAehhJihn4_4q4NlVudrKCGhlz0G6MIcl9juRpsca0cpZZnRvaIMqqvXSx5pogbI7P_nRpgd39c9qxQVPB9gaki0KXF5azasTm-bJ84Q_Sit_QzWFEdtgviUx7TTqwoo_KmJUlvDXdeweLmUqr9gZ1wtqmNCgwFD0
+                      - generic [ref=f190e285]:
+                        - generic [ref=f190e286]:
+                          - generic [ref=f190e289]: Studio 44 Visualization
+                          - button "About this result" [ref=f190e295] [cursor=pointer]
+                        - generic [ref=f190e301]:
+                          - generic [ref=f190e302]: How Much Does 3D Interior Rendering Cost in India?
+                          - generic [ref=f190e303]: If you are an interior designer or architect looking to outsource 3D rendering in India, one of the first questions you will proba...
+                  - listitem [ref=f190e307]:
+                    - generic [ref=f190e308]:
+                      - 'link "3D Architectural Rendering Cost in India: 2026 Pricing Guide. Opens in new tab." [ref=f190e309] [cursor=pointer]':
+                        - /url: /goto?url=CAESmAEB6zswFdFbAZZY0SMgtkOSx3msv3HbUr2MWBONXQkXhWa7FpYoOd7eIZ2YyoS_nPum7H4OfnQ1AJHbHy5ER29_BRa-EHLK6FtBLVgzQo2p57wR0uM-eYPBDR-aSCcIAiq7-epSmfaKy1q857LxVIfMNQRMszn6bEEg4EYga8h5bnIWvL8g-PPMtS4gqZ6SJMo-_ydRQFacug
+                      - generic [ref=f190e310]:
+                        - generic [ref=f190e311]:
+                          - generic [ref=f190e314]: Peninsular Art Works
+                          - button "About this result" [ref=f190e320] [cursor=pointer]
+                        - generic [ref=f190e326]:
+                          - generic [ref=f190e327]: "3D Architectural Rendering Cost in India: 2026 Pricing Guide"
+                          - generic [ref=f190e328]: "26 Feb 2026 — 3D Modeling Rates in India · Competitive ecosystem of the studio. · Good quality Balanced pricing. · Average cost: ₹12,000 – ₹80,0..."
+                - button "Show all related results" [ref=f190e332] [cursor=pointer]:
+                  - generic [ref=f190e333]: Show all
+            - generic [ref=f190e338]:
+              - button "Share" [ref=f190e345]
+              - generic [ref=f190e354]:
+                - button "Good response" [ref=f190e359] [cursor=pointer]:
+                  - img "Good response" [ref=f190e362]
+                - button "Bad response" [ref=f190e368] [cursor=pointer]:
+                  - img "Bad response" [ref=f190e371]
+              - button "More" [ref=f190e382] [cursor=pointer]
+      - main [ref=f190e391]:
+        - generic [ref=f190e395]:
+          - generic [ref=f190e398]:
+            - heading "Web results" [level=2] [ref=f190e399]
+            - generic [ref=f190e400]:
+              - generic [ref=f190e403]:
+                - 'link "3D Architectural Rendering Cost in India: 2026 Pricing Guide Peninsular Art Works https://peninsularartworks.com › blogs › 3d-architectur..." [ref=f190e405] [cursor=pointer]':
+                  - /url: /goto?url=CAESmAEB6zswFTj5N4NV-Xw9Cr0BPC5ZfU_L2i5NdCbz9bVitqIZqqHKFKRYrlsWNKs-zZS1ACyXF0dlJRv_www4HPt2mAAhAL-f7E0-dNu0C6VBZNwaDWN16ibaXrgy_htyjGsc0AJSxALJ9j9XjYieIkFioacVI8B-pDpOjKriMfJ2nx3N6RxMQGRVms3uFMNy1azDZ0OsoW9h3Q
+                  - 'heading "3D Architectural Rendering Cost in India: 2026 Pricing Guide" [level=3] [ref=f190e406]'
+                  - generic [ref=f190e412]:
+                    - generic [ref=f190e413]: Peninsular Art Works
+                    - generic [ref=f190e415]: https://peninsularartworks.com › blogs › 3d-architectur...
+                - button "About this result" [ref=f190e421] [cursor=pointer]
+              - generic [ref=f190e427]:
+                - generic [ref=f190e428]: 26 Feb 2026 —
+                - generic [ref=f190e429]:
+                  - emphasis [ref=f190e430]: "Average Cost in India: ₹1,25,000 – ₹9,50,000"
+                  - text: "+. Basic Architectural Modeling Average Cost: ₹5 – ₹15 per sq ft. Average Cost: ₹2,000 – ₹15,000 ..."
+              - generic [ref=f190e431]: "Missing: INR ‎small"
+          - generic [ref=f190e437]:
+            - heading "People also ask" [level=2] [ref=f190e439]
+            - generic [ref=f190e440]:
+              - button "How much do architects charge for renderings?" [ref=f190e446] [cursor=pointer]
+              - button "How much to charge for rendering?" [ref=f190e460] [cursor=pointer]
+              - button "How much to charge for 3D modeling in India?" [ref=f190e474] [cursor=pointer]
+              - button "How much does a 3D visualizer cost?" [ref=f190e488] [cursor=pointer]
+          - generic [ref=f190e498]:
+            - heading "Web results" [level=2] [ref=f190e499]
+            - generic [ref=f190e500]:
+              - generic [ref=f190e503]:
+                - link "3D Rendering Cost in India 2026 Chasing Illusions Studio https://www.chasingillusions.com › Blog" [ref=f190e505] [cursor=pointer]:
+                  - /url: /goto?url=CAESeAHrOzAVmeKSinDpqP0VvwK18FAKPv3iJqHcFIRR5HiYks-PIs7Y0RmSgD6AUmFCBu5DKz8isMQLvlUYZNANUIZc1XzOqS6a91mLRzDvcstTdLDKehwjR3VYpoHzk6xEZ9RHrSDpjpmXNfEeNlokLCLLuVkq2HElaA
+                  - heading "3D Rendering Cost in India 2026" [level=3] [ref=f190e506]
+                  - generic [ref=f190e512]:
+                    - generic [ref=f190e513]: Chasing Illusions Studio
+                    - generic [ref=f190e515]: https://www.chasingillusions.com › Blog
+                - button "About this result" [ref=f190e521] [cursor=pointer]
+              - generic [ref=f190e527]:
+                - generic [ref=f190e528]: 18 Jul 2026 —
+                - generic [ref=f190e529]:
+                  - text: Architectural exteriors typically run
+                  - emphasis [ref=f190e530]: ₹15,000–₹60,000 per image
+                  - text: ", product renders ₹2,000–₹15,000 per SKU, and walkthrough animation ₹80,000–₹4, ..."
+              - generic [ref=f190e532]:
+                - text: "Missing: INR ‎| Show results with:"
+                - link "INR" [ref=f190e533] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=architectural+rendering+cost+per+image+India+%22INR%22+small+studio&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q5t4CegQIRxAB
+          - generic [ref=f190e537]:
+            - generic [ref=f190e540]:
+              - link "How Much Does 3D Interior Rendering Cost in India? Studio 44 Visualization https://www.studio44v.com › blog › how-much-does-3..." [ref=f190e542] [cursor=pointer]:
+                - /url: /goto?url=CAESiAEB6zswFQZ-WIvNxaLSluorfbbGiuVK6Hleqel7adqEzYRICM2Ex4c7YYEZFsCkwqKe4OJnQNcGzzUr-bORkIHj2PTF7v2UXvAbB_NnGRW-PR9eIIqi9S8ph_1NAJc-nAVZo0pl65MEPhruf7bLpS802R2_s3yEcgCfJH1Un5QqzbMngaDFidl2
+                - heading "How Much Does 3D Interior Rendering Cost in India?" [level=3] [ref=f190e543]
+                - generic [ref=f190e549]:
+                  - generic [ref=f190e550]: Studio 44 Visualization
+                  - generic [ref=f190e552]: https://www.studio44v.com › blog › how-much-does-3...
+              - button "About this result" [ref=f190e558] [cursor=pointer]
+            - generic [ref=f190e565]:
+              - text: As a broad estimate, professional interior rendering in India can range from
+              - emphasis [ref=f190e566]: around ₹3,000 to ₹15,000+ per room
+              - text: ", depending on the project and level of service."
+            - generic [ref=f190e568]:
+              - text: "Missing: INR ‎| Show results with:"
+              - link "INR" [ref=f190e569] [cursor=pointer]:
+                - /url: /search?sca_esv=0fcbbd60dc8ae695&q=architectural+rendering+cost+per+image+India+%22INR%22+small+studio&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q5t4CegQISBAB
+          - generic [ref=f190e573]:
+            - generic [ref=f190e576]:
+              - link "Architectural 3D Rendering Price in India Viz Kingdom https://vizkingdom.com › blog › architectural-3d-renderi..." [ref=f190e578] [cursor=pointer]:
+                - /url: /goto?url=CAESfgHrOzAVrQ709P1Ep9RXmQIhHlM3USxWYK6AqyMrYjr5QJu-byEjAQEAD39KaJwucMp-WHrrtSm3MUbLmHjqV3nnFVWrAhnkpWOVXVCO6RnY3JKITLyhUroufFsy8Gi0gnyLv8LfTji_R_IGNpoqe1_juMG0wCdwac7TNKC56w
+                - heading "Architectural 3D Rendering Price in India" [level=3] [ref=f190e579]
+                - generic [ref=f190e585]:
+                  - generic [ref=f190e586]: Viz Kingdom
+                  - generic [ref=f190e588]: https://vizkingdom.com › blog › architectural-3d-renderi...
+              - button "About this result" [ref=f190e594] [cursor=pointer]
+            - generic [ref=f190e600]:
+              - generic [ref=f190e601]: 5 Dec 2020 —
+              - generic [ref=f190e602]:
+                - text: Small to medium-sized projects typically range between $
+                - emphasis [ref=f190e603]: 700 and $1,500 per image
+                - text: . Large or complex projects can cost anywhere from $1,500 to $ ...
+            - img "Rated 4.7 out of 5, (25) user reviews" [ref=f190e608]: 4.7(25)
+          - generic [ref=f190e615]:
+            - generic [ref=f190e618]:
+              - link "How Much Does 3D Interior Rendering Cost in India? 3dstudioworks.in https://3dstudioworks.in › Blog" [ref=f190e620] [cursor=pointer]:
+                - /url: /goto?url=CAESdgHrOzAVEaQQ7dGyHYNqeyRL7cnbYR-3dJJXMm9BGhIQmHEnF4dap_9rUA2Fe9tclGUgih-JZlo_ivV--wG5pOuWaaqgDQmPE1ytYegQO2na9urrhgbrVUs48IQmOlmOOUeQC4w75_5cHRzNeHNnihPHHvAqQ4Q
+                - heading "How Much Does 3D Interior Rendering Cost in India?" [level=3] [ref=f190e621]
+                - generic [ref=f190e627]:
+                  - generic [ref=f190e628]: 3dstudioworks.in
+                  - generic [ref=f190e630]: https://3dstudioworks.in › Blog
+              - button "About this result" [ref=f190e636] [cursor=pointer]
+            - generic [ref=f190e642]:
+              - generic [ref=f190e643]: 1 day ago —
+              - generic [ref=f190e644]:
+                - text: The cost of 3D interior rendering in India typically ranges from
+                - emphasis [ref=f190e645]: ₹3,000 to ₹15,000 per view
+                - text: ", depending heavily on the complexity of the design, ..."
+            - generic [ref=f190e646]: "Missing: INR ‎small"
+          - generic [ref=f190e651]:
+            - generic [ref=f190e654]:
+              - link "ARCHITECTURAL 3D RENDERING PRICE IN INDIA LinkedIn · Kaushik Vadher 10+ reactions · 5 years ago" [ref=f190e656] [cursor=pointer]:
+                - /url: /goto?url=CAESjAEB6zswFT1pfB-W6aC6X54R8o7JPVEMS2mKYD_-wjiIC6pSqFbrkaWoOeOqd3AtC22-2okSZLPRcyP9gEOtMe5u_NzrQdMPXEsKNSOsw8yPinSMBbgsrnliTVPP0HsuZUIWA_h8wfsCPQxYrtJ0DZe87Arqaup6O3bOZE57XbA8FTdEoJbYMDFiYYc6oA
+                - heading "ARCHITECTURAL 3D RENDERING PRICE IN INDIA" [level=3] [ref=f190e657]
+                - generic [ref=f190e663]:
+                  - generic [ref=f190e664]: LinkedIn · Kaushik Vadher
+                  - generic [ref=f190e666]: 10+ reactions · 5 years ago
+              - button "About this result" [ref=f190e672] [cursor=pointer]
+            - generic [ref=f190e678]:
+              - generic [ref=f190e679]:
+                - text: The
+                - emphasis [ref=f190e680]: pricing of an architectural
+                - text: 3D still
+                - emphasis [ref=f190e681]: rendering
+                - text: quoted
+                - emphasis [ref=f190e682]: by
+                - text: 3D artists and
+                - emphasis [ref=f190e683]: Studio
+                - text: in
+                - emphasis [ref=f190e684]: India
+                - text: ", could range from anywhere between US$50 to US$5000 ..."
+              - link "Read more" [ref=f190e685] [cursor=pointer]:
+                - /url: /goto?url=CAES6AEB6zswFVzppEJ7b2zgU_6p0Bq2sW3XcTmZw525KkmbPu3dVoXnH_q2pZqGUzn1lLSIJ8oR1dCKD-TwqXxhvRth264q0X0qBz2uAvoenPgqtJSKPFLzLsju17Muo_aLyiQOWKVAqPkno-d3wHUn6xFp8Lz-omaAGVIWXCbzGbswyzXk6rmWNHTr4KpqunvhcS4OFTmhwnyWQfkhhq0owhe4UUxWiLyeFgL2B25zpWCzcHDcLq-UBT34pG882aA_ZRvwZpQRSZjZXv41GGoe49lxPjACFLhuzqgiOSm_1inwnT338I7W_ImZ
+            - generic [ref=f190e687]:
+              - text: "Missing: INR ‎| Show results with:"
+              - link "INR" [ref=f190e688] [cursor=pointer]:
+                - /url: /search?sca_esv=0fcbbd60dc8ae695&q=architectural+rendering+cost+per+image+India+%22INR%22+small+studio&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q5t4CegQITRAB
+          - generic [ref=f190e692]:
+            - generic [ref=f190e695]:
+              - link "How much does it cost to create a 3D plan? Reddit · r/interiordesignsindia 20+ comments · 6 months ago" [ref=f190e697] [cursor=pointer]:
+                - /url: /goto?url=CAESoQEB6zswFe-73a_LJ0V76Dj0c53Ngy2gT-47m-2P6UUEHgNjyMfv5EMlyKzgHqYjhRw3Dy3z55nZM3ptVqwHqWEn0tYj8xd_QJgHgO5cctRr_1P8c7qxzgKJwKL5FB-ealmgKdXgAjP0BlaUfzguxsvMH9Js0VgNzTGrS4mUj3feJwHUJY6La2Ju5SePj68wWwTgmz8I2B_7JJUkvqDv_crU7w
+                - heading "How much does it cost to create a 3D plan?" [level=3] [ref=f190e698]
+                - generic [ref=f190e704]:
+                  - generic [ref=f190e705]: Reddit · r/interiordesignsindia
+                  - generic [ref=f190e707]: 20+ comments · 6 months ago
+              - button "About this result" [ref=f190e713] [cursor=pointer]
+            - generic [ref=f190e718]: Need to understanding the costing. We are working on interiors of our 3 bhk apartment with an area of 1250 sq feet in Mumbai. Our interior designer quoted ...
+            - generic [ref=f190e724]:
+              - link "20 answers" [ref=f190e725] [cursor=pointer]:
+                - /url: /goto?url=CAESqQEB6zswFSFpKrz_hCm4eCJ3AaPB4KaO-pqDJ0iZ5ZR9nhH7CEz0HkF4JYK8j0BekNvtaNyPSK6W7-hPTMMOOg2nr8sHpauz5RrsFOWaL88DoMfMPyWA5Z-asfYbi71sHdbtvi7yUllnMBSlSRb_oLBX_5Ur4WjRzCbTCdvuMsNKO8_qTMURezxoELNNd08Tpr0mHcFqphnGKGeY6rfFHvxwFdYMMbK2ms0K
+              - generic [ref=f190e726]: ·
+              - generic [ref=f190e727]: "Top answer:"
+              - generic [ref=f190e728]: Depends upon number of views you’re getting. But 70k is not a lot. I think this looks like ...
+          - generic [ref=f190e732]:
+            - generic [ref=f190e735]:
+              - link "3D Architectural Visualization and Rendering Cost in India? Renderby https://renderby.com › 3d-rendering-pricing-guide-in-i..." [ref=f190e737] [cursor=pointer]:
+                - /url: /goto?url=CAEScQHrOzAVvvgBbvEcD4dtkYmeu6zCR2Sv9zxEfOVeKAbRM-KaSVGHhcR9ImzSmm7Cs-loA_rMvUXEDxmZ1RWQtyYO-oY7WhctuWfxUn2qU2qA48vytb11xBpuk-_m7bdFTTON0EF-2Y3EPQ03XWn09s6A
+                - heading "3D Architectural Visualization and Rendering Cost in India?" [level=3] [ref=f190e738]
+                - generic [ref=f190e744]:
+                  - generic [ref=f190e745]: Renderby
+                  - generic [ref=f190e747]: https://renderby.com › 3d-rendering-pricing-guide-in-i...
+              - button "About this result" [ref=f190e753] [cursor=pointer]
+            - generic [ref=f190e760]:
+              - text: "Typical Costs:"
+              - emphasis [ref=f190e761]: From $300 for a simple render to $3,000 for complex projects
+              - text: ". Typical Costs: From $700 for a straightforward render up to $10,000 for detailed ..."
+            - generic [ref=f190e763]:
+              - text: "Missing: INR ‎| Show results with:"
+              - link "INR" [ref=f190e764] [cursor=pointer]:
+                - /url: /search?sca_esv=0fcbbd60dc8ae695&q=architectural+rendering+cost+per+image+India+%22INR%22+small+studio&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q5t4CegQIRBAB
+          - generic [ref=f190e768]:
+            - generic [ref=f190e771]:
+              - link "What is the actual cost of architectural rendering (3D views)? Quora 40+ answers · 11 years ago" [ref=f190e773] [cursor=pointer]:
+                - /url: /goto?url=CAESiQEB6zswFbe7fCwqw6_13NOrB9KfvFFkv1yCLObwa2N-dg0GtMKbQ1st_dja7k_P3jsVQEiC0sMJ6flbUtRxjxAbSUgFjrjnljWhL4vBqT6gMNHvXCH-jgybHrz-whv8qLk4ikdjyilEWtPJ0FXtVBxrxc1y9oQbGOza8qvgu5cMH4rTZHH4AKZ9gw
+                - heading "What is the actual cost of architectural rendering (3D views)?" [level=3] [ref=f190e774]
+                - generic [ref=f190e780]:
+                  - generic [ref=f190e781]: Quora
+                  - generic [ref=f190e783]: 40+ answers · 11 years ago
+              - button "About this result" [ref=f190e789] [cursor=pointer]
+            - generic [ref=f190e794]: What is the actual cost of architectural rendering (3D views)?
+            - generic [ref=f190e800]:
+              - link "40 answers" [ref=f190e801] [cursor=pointer]:
+                - /url: /goto?url=CAESmgEB6zswFSkgSfTMj8ATVCttMRCJ4rTb-NW7raDYjzcVGxCLdEres3BCsfAYAGh8S2fLDeSKyUnHXhQNH51uNiKjxYQ3SRRzHXumnDLDEsL4acIuTp-WjSCnjpMcPq7-CXQLqnRGNAU2kPl2ckJ7I17DkXnU537l3gjg3aTOcITqFiTtjRqVTShIeumIkmOPQ8GoAqanfBP_s9hA
+              - generic [ref=f190e802]: ·
+              - generic [ref=f190e803]: "Top answer:"
+              - generic [ref=f190e804]: When I prepare visualizations I typically charge $3k-$5k per shot. But it varies based on scope ...
+            - generic [ref=f190e807]:
+              - generic [ref=f190e808]:
+                - link [ref=f190e811] [cursor=pointer]:
+                  - /url: /goto?url=CAESfQHrOzAVeToPMaoUxNT_r_K25M-4y2_do8yEPhlyVrQsnVlCnsXzhE3h2lgB3Nw2l-g-Ych-1KRhk12RwY2ikRXJdWxFTOnpSFqQalGlMzk9LIFhWcrOdE4NPG7lFHl9c0ND-n6Kis1UgpyY710jc5AYZpnU6RVoUKYiWoaW
+                  - generic [ref=f190e812]:
+                    - text: How much should
+                    - emphasis [ref=f190e813]: an architectural rendering cost
+                    - text: ...
+                - generic [ref=f190e814]: 42 answers
+                - generic [ref=f190e816]: 6 Apr 2014
+              - generic [ref=f190e818]:
+                - link [ref=f190e821] [cursor=pointer]:
+                  - /url: /goto?url=CAESdgHrOzAVL2QKfPZ6pXVg4shgsBa6mvr7ZCVAR9RYeYo14zr7GtRvNPdwOvZ6HJtuxC7t2ZaeNLucDQUAzaIOFi07IWASZuDAenRdeKDehLLdPXrg7ss5P1OaOaxrk9jJ7jE5h989DotpaAC8Wnycl62LYrrtxPY
+                  - generic [ref=f190e822]:
+                    - text: How much does 3D
+                    - emphasis [ref=f190e823]: rendering cost
+                    - text: in
+                    - emphasis [ref=f190e824]: India
+                    - text: "? - Quora"
+                - generic [ref=f190e825]: 32 answers
+                - generic [ref=f190e827]: 14 Dec 2020
+              - link "More results from www.quora.com" [ref=f190e832] [cursor=pointer]:
+                - /url: /search?q=architectural+rendering+cost+per+image+India+INR+small+studio+site:www.quora.com&sca_esv=0fcbbd60dc8ae695&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4QrQIoAnoECDYQAw
+        - generic [ref=f190e834]:
+          - generic [ref=f190e839]:
+            - heading "People also search for" [level=2] [ref=f190e841]
+            - generic [ref=f190e843]:
+              - generic [ref=f190e844]:
+                - link "3D rendering price in India" [ref=f190e848] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=3D+rendering+price+in+India&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q1QJ6BAgpEAE
+                - link "3D rendering services in India" [ref=f190e862] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=3D+rendering+services+in+India&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q1QJ6BAgzEAE
+                - link "Interior 3D design cost per square foot" [ref=f190e876] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Interior+3D+design+cost+per+square+foot&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q1QJ6BAguEAE
+              - generic [ref=f190e887]:
+                - link "3D rendering cost" [ref=f190e891] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=3D+rendering+cost&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q1QJ6BAgrEAE
+                - link "Omega render price" [ref=f190e905] [cursor=pointer]:
+                  - /url: /search?sca_esv=0fcbbd60dc8ae695&q=Omega+render+price&sa=X&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q1QJ6BAgqEAE
+          - generic [ref=f190e916]:
+            - heading "Notices about Filtered Results" [level=2] [ref=f190e917]
+            - generic [ref=f190e920]:
+              - text: In response to a legal request submitted to Google, we have removed 2 result(s) from this page. If you wish, you may
+              - link "read more about the request" [ref=f190e921] [cursor=pointer]:
+                - /url: /goto?url=CAESYgHrOzAVBqpWutLZlwVSlCPObqoRwjLnW8zmtMRnvWXuKi69lLha3L9Cz2ehzj2dgWS6wHOZVITsxhsMdKq-idOL00BzUgOmJYZbWDGRawMojXenHtvlieDX9lCCDu9RdY-C
+              - text: at LumenDatabase.org.
+          - navigation [ref=f190e922]:
+            - heading "Page navigation" [level=1] [ref=f190e923]
+            - text: "1"
+            - link "Page 2" [ref=f190e926] [cursor=pointer]:
+              - /url: /search?q=architectural+rendering+cost+per+image+India+INR+small+studio&sca_esv=0fcbbd60dc8ae695&ei=lvupaqCpMsaYhvcPuZfC8QY&start=10&sa=N&sstk=AS6-VmKbOpox0cEBpANwFNT_0-jGAAvGaCc5enqEnXu4xgtVAIW0KCDCJhZXDVuzHLrIleLXwozs72gqUtqdGNPkc2-EQNLvitvhzQ&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q8tMDegQIPBAG
+              - text: "2"
+            - link "Page 3" [ref=f190e928] [cursor=pointer]:
+              - /url: /search?q=architectural+rendering+cost+per+image+India+INR+small+studio&sca_esv=0fcbbd60dc8ae695&ei=lvupaqCpMsaYhvcPuZfC8QY&start=20&sa=N&sstk=AS6-VmKbOpox0cEBpANwFNT_0-jGAAvGaCc5enqEnXu4xgtVAIW0KCDCJhZXDVuzHLrIleLXwozs72gqUtqdGNPkc2-EQNLvitvhzQ&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q8tMDegQIPBAI
+              - text: "3"
+            - link "Page 4" [ref=f190e930] [cursor=pointer]:
+              - /url: /search?q=architectural+rendering+cost+per+image+India+INR+small+studio&sca_esv=0fcbbd60dc8ae695&ei=lvupaqCpMsaYhvcPuZfC8QY&start=30&sa=N&sstk=AS6-VmKbOpox0cEBpANwFNT_0-jGAAvGaCc5enqEnXu4xgtVAIW0KCDCJhZXDVuzHLrIleLXwozs72gqUtqdGNPkc2-EQNLvitvhzQ&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q8tMDegQIPBAK
+              - text: "4"
+            - link "Page 5" [ref=f190e932] [cursor=pointer]:
+              - /url: /search?q=architectural+rendering+cost+per+image+India+INR+small+studio&sca_esv=0fcbbd60dc8ae695&ei=lvupaqCpMsaYhvcPuZfC8QY&start=40&sa=N&sstk=AS6-VmKbOpox0cEBpANwFNT_0-jGAAvGaCc5enqEnXu4xgtVAIW0KCDCJhZXDVuzHLrIleLXwozs72gqUtqdGNPkc2-EQNLvitvhzQ&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q8tMDegQIPBAM
+              - text: "5"
+            - link "Page 6" [ref=f190e934] [cursor=pointer]:
+              - /url: /search?q=architectural+rendering+cost+per+image+India+INR+small+studio&sca_esv=0fcbbd60dc8ae695&ei=lvupaqCpMsaYhvcPuZfC8QY&start=50&sa=N&sstk=AS6-VmKbOpox0cEBpANwFNT_0-jGAAvGaCc5enqEnXu4xgtVAIW0KCDCJhZXDVuzHLrIleLXwozs72gqUtqdGNPkc2-EQNLvitvhzQ&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q8tMDegQIPBAO
+              - text: "6"
+            - heading [level=2] [ref=f190e936]:
+              - link "Next" [ref=f190e937] [cursor=pointer]:
+                - /url: /search?q=architectural+rendering+cost+per+image+India+INR+small+studio&sca_esv=0fcbbd60dc8ae695&ei=lvupaqCpMsaYhvcPuZfC8QY&start=10&sa=N&sstk=AS6-VmKbOpox0cEBpANwFNT_0-jGAAvGaCc5enqEnXu4xgtVAIW0KCDCJhZXDVuzHLrIleLXwozs72gqUtqdGNPkc2-EQNLvitvhzQ&ved=2ahUKEwigzMjZg_KWAxVGjOEIHbmLMG4Q8NMDegQIPBAQ
+        - navigation
+    - contentinfo [ref=f190e940]:
+      - heading "Footer links" [level=1] [ref=f190e941]
+      - generic [ref=f190e945]:
+        - generic [ref=f190e947]:
+          - text: India
+          - generic [ref=f190e949]:
+            - button "Vijayawada, Andhra Pradesh - Based on your past activity" [ref=f190e951] [cursor=pointer]:
+              - generic [ref=f190e952]: Vijayawada, Andhra Pradesh
+              - generic [ref=f190e954]:
+                - text: "-"
+                - generic [ref=f190e955]: Based on your past activity
+            - text: "-"
+            - button "Update location" [ref=f190e957] [cursor=pointer]
+        - generic [ref=f190e960]:
+          - link "Help" [ref=f190e961] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+          - link "Send feedback" [ref=f190e962] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f190e963] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+          - link "Terms" [ref=f190e964] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IN&fg=1

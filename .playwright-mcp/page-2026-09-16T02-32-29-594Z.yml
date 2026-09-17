@@ -1,0 +1,471 @@
+- generic [ref=f478e2]:
+  - banner [ref=f478e4]:
+    - generic [ref=f478e6]:
+      - generic [ref=f478e7]:
+        - button "Guide" [ref=f478e9] [cursor=pointer]
+        - generic [ref=f478e13]:
+          - link "YouTube Home" [ref=f478e14] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f478e20]: IN
+        - button "Skip navigation" [ref=f478e24] [cursor=pointer]
+      - generic [ref=f478e28]:
+        - search [ref=f478e29]:
+          - generic [ref=f478e31]:
+            - combobox "Search" [expanded] [ref=f478e34]
+            - button "Search" [ref=f478e35] [cursor=pointer]
+        - generic [ref=f478e40]:
+          - button "Search with your voice" [ref=f478e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f478e47]:
+        - button "Settings" [ref=f478e52] [cursor=pointer]
+        - link "Sign in" [ref=f478e58] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DBDFNdx0vRqo&hl=en-GB&ec=65620
+  - main [ref=f478e63]:
+    - generic [ref=f478e64]:
+      - generic [ref=f478e66]:
+        - generic [ref=f478e69]:
+          - generic [aria-hidden] [ref=f478e72] [cursor=pointer]
+          - complementary [ref=f478e73]:
+            - generic "YouTube Video Player" [active] [ref=f478e76]:
+              - button "Show cards" [ref=f478e79] [cursor=pointer]
+              - generic: So the other day
+              - generic [ref=f478e88]:
+                - generic [ref=f478e89] [cursor=pointer]:
+                  - slider "Seek slider" [ref=f478e90]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - slider "Click or scroll the panel for precise seeking."
+                - generic [ref=f478e122]:
+                  - generic [ref=f478e123]:
+                    - button "Pause (k)" [ref=f478e124] [cursor=pointer]
+                    - generic [ref=f478e125]:
+                      - button "Unmute (m)" [ref=f478e127] [cursor=pointer]
+                      - slider "Volume":
+                        - generic [ref=f478e128] [cursor=pointer]
+                    - button "0 Minutes 1 Seconds of 14 Minutes 48 Seconds" [ref=f478e131] [cursor=pointer]: 0:01 / 14:48
+                    - button "Intro" [ref=f478e133] [cursor=pointer]
+                  - generic [ref=f478e136]:
+                    - generic [ref=f478e137]:
+                      - button "Auto-play is on" [ref=f478e138] [cursor=pointer]
+                      - button "Subtitles/closed captions unavailable" [pressed] [ref=f478e141] [cursor=pointer]
+                      - button "Settings" [ref=f478e143] [cursor=pointer]
+                    - generic [ref=f478e144]:
+                      - button "Cinema mode (t)" [ref=f478e145] [cursor=pointer]
+                      - button "Full screen (f)" [ref=f478e146] [cursor=pointer]
+        - generic [ref=f478e148]:
+          - generic [ref=f478e150]:
+            - heading "New ChatGPT features for Architects & Interior Designers 🤯 Insanely good? Or bad 🤔" [level=1] [ref=f478e153]
+            - generic [ref=f478e154]:
+              - generic [ref=f478e155]:
+                - generic [ref=f478e156]:
+                  - link [ref=f478e157] [cursor=pointer]:
+                    - /url: /@ArchiHacks
+                    - img "Archi Hacks" [ref=f478e159]
+                  - generic [ref=f478e160]:
+                    - generic "Archi Hacks" [ref=f478e164]:
+                      - link "Archi Hacks" [ref=f478e165] [cursor=pointer]:
+                        - /url: /@ArchiHacks
+                    - generic "102 thousand subscribers" [ref=f478e166]: 102k subscribers
+                - button "Subscribe to Archi Hacks." [ref=f478e178] [cursor=pointer]:
+                  - generic: Subscribe
+              - generic [ref=f478e185]:
+                - generic [ref=f478e186]:
+                  - generic [ref=f478e190]:
+                    - button "like this video along with 6,202 other people" [ref=f478e194] [cursor=pointer]:
+                      - generic: 6.2k
+                    - button "Dislike this video" [ref=f478e201] [cursor=pointer]
+                  - button "Share" [ref=f478e207] [cursor=pointer]
+                - button "Save to playlist" [ref=f478e214] [cursor=pointer]:
+                  - generic: Save
+                - button "More actions" [ref=f478e219] [cursor=pointer]
+            - generic [ref=f478e225] [cursor=pointer]:
+              - generic [ref=f478e226]:
+                - generic [ref=f478e228]:
+                  - text: 449k views 1 year ago
+                  - link "#vray" [ref=f478e229]:
+                    - /url: /hashtag/vray
+                  - link "#ai" [ref=f478e230]:
+                    - /url: /hashtag/ai
+                  - link "#portfolio" [ref=f478e231]:
+                    - /url: /hashtag/portfolio
+                - tooltip "tooltip"
+              - generic [ref=f478e232]:
+                - generic [ref=f478e233]:
+                  - generic [ref=f478e234]: "If you are in the architecture or interior design field, you have to try these ChatGPT features!! Credits:"
+                  - generic: …
+                - button "...more" [ref=f478e237]
+          - text: •
+      - generic [ref=f478e244]:
+        - generic [ref=f478e246] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e247]:
+            - /url: /watch?v=PEEBZwGetyc
+            - img [ref=f478e253]:
+              - generic [ref=f478e254]: 16:23
+          - generic [ref=f478e256]:
+            - generic [ref=f478e257]:
+              - 'heading "GPT-6 Astra + Blender: Lock the Camera Before You Pay for the Video" [level=3] [ref=f478e258]':
+                - 'link "GPT-6 Astra + Blender: Lock the Camera Before You Pay for the Video 16 minutes" [ref=f478e259]':
+                  - /url: /watch?v=PEEBZwGetyc
+                  - text: "GPT-6 Astra + Blender: Lock the Camera Before You Pay for the Video"
+              - generic [ref=f478e261]:
+                - group [ref=f478e262]:
+                  - generic [ref=f478e263]: Sanji Nai-Chien
+                - group [ref=f478e264]:
+                  - generic "64 thousand views" [ref=f478e268]: 64k
+                  - generic "3 days ago" [ref=f478e269]
+                - group [ref=f478e270]:
+                  - generic [ref=f478e271]: New
+            - button "More actions" [ref=f478e277]
+        - generic [ref=f478e282] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e283]:
+            - /url: /watch?v=msFxQ7OYPj8
+            - img [ref=f478e289]:
+              - generic [ref=f478e290]: 13:17
+          - generic [ref=f478e292]:
+            - generic [ref=f478e293]:
+              - heading "How I'd Learn AI From Scratch in 2026 (skip the useless 80%)" [level=3] [ref=f478e294]:
+                - link "How I'd Learn AI From Scratch in 2026 (skip the useless 80%) 13 minutes, 17 seconds" [ref=f478e295]:
+                  - /url: /watch?v=msFxQ7OYPj8
+                  - text: How I'd Learn AI From Scratch in 2026 (skip the useless 80%)
+              - generic [ref=f478e297]:
+                - group [ref=f478e298]:
+                  - generic [ref=f478e299]: Jeff Su
+                - group [ref=f478e305]:
+                  - generic "360 thousand views" [ref=f478e309]: 360k
+                  - generic "3 months ago" [ref=f478e310]: 3 mo ago
+            - button "More actions" [ref=f478e313]
+        - generic [ref=f478e318] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e319]:
+            - /url: /watch?v=YXHkjqoGmHg&pp=ugUEEgJlbg%3D%3D
+            - img [ref=f478e325]:
+              - generic [ref=f478e326]: 9:39
+          - generic [ref=f478e328]:
+            - generic [ref=f478e329]:
+              - heading "Claude AI for Architects | 6 Ways to Use It in Your Design Practice" [level=3] [ref=f478e330]:
+                - link "Claude AI for Architects | 6 Ways to Use It in Your Design Practice 9 minutes, 39 seconds" [ref=f478e331]:
+                  - /url: /watch?v=YXHkjqoGmHg&pp=ugUEEgJlbg%3D%3D
+                  - text: Claude AI for Architects | 6 Ways to Use It in Your Design Practice
+              - generic [ref=f478e333]:
+                - group [ref=f478e334]:
+                  - generic [ref=f478e335]: Salmaan Mohamed
+                - group [ref=f478e336]:
+                  - generic "103 thousand views" [ref=f478e340]: 103k
+                  - generic "4 months ago" [ref=f478e341]: 4 mo ago
+            - button "More actions" [ref=f478e344]
+        - generic [ref=f478e349] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e350]:
+            - /url: /watch?v=GTdpZf6OslM&pp=ugUHEgVlbi1VUw%3D%3D
+            - img [ref=f478e356]:
+              - generic [ref=f478e357]: 9:42
+          - generic [ref=f478e359]:
+            - generic [ref=f478e360]:
+              - heading "AI Landscape Design Workflow | Nano Banana Pro Prompts Shared" [level=3] [ref=f478e361]:
+                - link "AI Landscape Design Workflow | Nano Banana Pro Prompts Shared 9 minutes, 42 seconds" [ref=f478e362]:
+                  - /url: /watch?v=GTdpZf6OslM&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: AI Landscape Design Workflow | Nano Banana Pro Prompts Shared
+              - generic [ref=f478e364]:
+                - group [ref=f478e365]:
+                  - generic [ref=f478e366]: LandSpace Architecture
+                - group [ref=f478e367]:
+                  - generic "115 thousand views" [ref=f478e371]: 115k
+                  - generic "8 months ago" [ref=f478e372]: 8 mo ago
+            - button "More actions" [ref=f478e375]
+        - generic [ref=f478e380] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e381]:
+            - /url: /watch?v=9me_UtB0vqE&pp=ugUHEgVlbi1VUw%3D%3D
+            - img [ref=f478e387]:
+              - generic [ref=f478e388]: 14:02
+          - generic [ref=f478e390]:
+            - generic [ref=f478e391]:
+              - heading "ChatGPT Photo Editing Complete Tutorial | Edit Photos with ChatGPT Images 2.5" [level=3] [ref=f478e392]:
+                - link "ChatGPT Photo Editing Complete Tutorial | Edit Photos with ChatGPT Images 2.5 14 minutes, 2 seconds" [ref=f478e393]:
+                  - /url: /watch?v=9me_UtB0vqE&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: ChatGPT Photo Editing Complete Tutorial | Edit Photos with ChatGPT Images 2.5
+              - generic [ref=f478e395]:
+                - group [ref=f478e396]:
+                  - generic [ref=f478e397]: Ramesh Fadatare - AI, Generative AI & AI Tools
+                - group [ref=f478e398]:
+                  - generic "979 views" [ref=f478e402]: "979"
+                  - generic "2 days ago" [ref=f478e403]
+                - group [ref=f478e404]:
+                  - generic [ref=f478e405]: New
+            - button "More actions" [ref=f478e411]
+        - generic [ref=f478e416] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e417]:
+            - /url: /watch?v=WNMzl1DJn2w&pp=ugUHEgVlbi1VUw%3D%3D
+            - img [ref=f478e423]:
+              - generic [ref=f478e424]: 17:42
+          - generic [ref=f478e426]:
+            - generic [ref=f478e427]:
+              - heading "NEW ChatGPT + ARCHITECTURE 🤯 Design Homes and Interiors like a PRO" [level=3] [ref=f478e428]:
+                - link "NEW ChatGPT + ARCHITECTURE 🤯 Design Homes and Interiors like a PRO 17 minutes" [ref=f478e429]:
+                  - /url: /watch?v=WNMzl1DJn2w&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: NEW ChatGPT + ARCHITECTURE 🤯 Design Homes and Interiors like a PRO
+              - generic [ref=f478e431]:
+                - group [ref=f478e432]:
+                  - generic [ref=f478e433]: El Tío Tech
+                - group [ref=f478e439]:
+                  - generic "101 thousand views" [ref=f478e443]: 101k
+                  - generic "3 weeks ago" [ref=f478e444]: 3 wk ago
+                - group [ref=f478e445]:
+                  - generic [ref=f478e446]: Auto-dubbed
+            - button "More actions" [ref=f478e455]
+        - generic [ref=f478e460] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e461]:
+            - /url: /watch?v=OoGW0Agv4kk&pp=ugUHEgVlbi1HQg%3D%3D
+            - img [ref=f478e467]:
+              - generic [ref=f478e468]: 11:43
+          - generic [ref=f478e470]:
+            - generic [ref=f478e471]:
+              - heading "This AI Tool should be banned - ArchViz on another level" [level=3] [ref=f478e472]:
+                - link "This AI Tool should be banned - ArchViz on another level 11 minutes, 43 seconds" [ref=f478e473]:
+                  - /url: /watch?v=OoGW0Agv4kk&pp=ugUHEgVlbi1HQg%3D%3D
+                  - text: This AI Tool should be banned - ArchViz on another level
+              - generic [ref=f478e475]:
+                - group [ref=f478e476]:
+                  - generic [ref=f478e477]: VizAcademy UK
+                - group [ref=f478e478]:
+                  - generic "71 thousand views" [ref=f478e482]: 71k
+                  - generic "7 months ago" [ref=f478e483]: 7 mo ago
+            - button "More actions" [ref=f478e486]
+        - generic [ref=f478e491] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e492]:
+            - /url: /watch?v=xF1ISlGB648
+            - img [ref=f478e498]:
+              - generic [ref=f478e499]: 4:30
+          - generic [ref=f478e501]:
+            - generic [ref=f478e502]:
+              - heading "5 AI Tools Every Interior Designer Should Be Using!" [level=3] [ref=f478e503]:
+                - link "5 AI Tools Every Interior Designer Should Be Using! 4 minutes, 30 seconds" [ref=f478e504]:
+                  - /url: /watch?v=xF1ISlGB648
+                  - text: 5 AI Tools Every Interior Designer Should Be Using!
+              - generic [ref=f478e506]:
+                - group [ref=f478e507]:
+                  - generic [ref=f478e508]: AIvolution for Interior Designers
+                - group [ref=f478e509]:
+                  - generic "39 thousand views" [ref=f478e513]: 39k
+                  - generic "1 year ago" [ref=f478e514]: 1 yr ago
+            - button "More actions" [ref=f478e517]
+        - generic [ref=f478e522] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e523]:
+            - /url: /watch?v=5Tgfpg-xP5g&pp=ugUHEgVlbi1VUw%3D%3D
+            - img [ref=f478e529]:
+              - generic [ref=f478e530]: 7:59
+          - generic [ref=f478e532]:
+            - generic [ref=f478e533]:
+              - 'heading "AI: Create a House Plan from a Sketch with AI" [level=3] [ref=f478e534]':
+                - 'link "AI: Create a House Plan from a Sketch with AI 7 minutes, 59 seconds" [ref=f478e535]':
+                  - /url: /watch?v=5Tgfpg-xP5g&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: "AI: Create a House Plan from a Sketch with AI"
+              - generic [ref=f478e537]:
+                - group [ref=f478e538]:
+                  - generic [ref=f478e539]: Firman Ir.
+                - group [ref=f478e540]:
+                  - generic "36 thousand views" [ref=f478e544]: 36k
+                  - generic "1 year ago" [ref=f478e545]: 1 yr ago
+                - group [ref=f478e546]:
+                  - generic [ref=f478e547]: Auto-dubbed
+            - button "More actions" [ref=f478e556]
+        - generic [ref=f478e561] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e562]:
+            - /url: /watch?v=uYy8iV-k0p8&pp=ugUEEgJlbg%3D%3D
+            - img [ref=f478e568]:
+              - generic [ref=f478e569]: 11:39
+          - generic [ref=f478e571]:
+            - generic [ref=f478e572]:
+              - heading "I Tested GPT Astra in Rhino & Grasshopper — This Is Crazy" [level=3] [ref=f478e573]:
+                - link "I Tested GPT Astra in Rhino & Grasshopper — This Is Crazy 11 minutes, 39 seconds" [ref=f478e574]:
+                  - /url: /watch?v=uYy8iV-k0p8&pp=ugUEEgJlbg%3D%3D
+                  - text: I Tested GPT Astra in Rhino & Grasshopper — This Is Crazy
+              - generic [ref=f478e576]:
+                - group [ref=f478e577]:
+                  - generic [ref=f478e578]: 3D Beast
+                - group [ref=f478e579]:
+                  - generic "100 thousand views" [ref=f478e583]: 100k
+                  - generic "4 days ago" [ref=f478e584]
+                - group [ref=f478e585]:
+                  - generic [ref=f478e586]: New
+            - button "More actions" [ref=f478e592]
+        - generic [ref=f478e597] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e598]:
+            - /url: /watch?v=tk4Ljz9p-UI&pp=ugUEEgJlbg%3D%3D
+            - img [ref=f478e604]:
+              - generic [ref=f478e605]: 6:16
+          - generic [ref=f478e607]:
+            - generic [ref=f478e608]:
+              - heading "Add THIS Before Every AI Prompt! (Gemini, ChatGPT, Claude)" [level=3] [ref=f478e609]:
+                - link "Add THIS Before Every AI Prompt! (Gemini, ChatGPT, Claude) 6 minutes, 16 seconds" [ref=f478e610]:
+                  - /url: /watch?v=tk4Ljz9p-UI&pp=ugUEEgJlbg%3D%3D
+                  - text: Add THIS Before Every AI Prompt! (Gemini, ChatGPT, Claude)
+              - generic [ref=f478e612]:
+                - group [ref=f478e613]:
+                  - generic [ref=f478e614]: Simpletivity
+                - group [ref=f478e620]:
+                  - generic "339 thousand views" [ref=f478e624]: 339k
+                  - generic "3 months ago" [ref=f478e625]: 3 mo ago
+            - button "More actions" [ref=f478e628]
+        - generic [ref=f478e633] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e634]:
+            - /url: /watch?v=wyyFYPj4ZSM&pp=ugUEEgJlbg%3D%3D
+            - img [ref=f478e640]:
+              - generic [ref=f478e641]: 4:57
+          - generic [ref=f478e643]:
+            - generic [ref=f478e644]:
+              - heading "How to Render Your SketchUp Models with ChatGPT" [level=3] [ref=f478e645]:
+                - link "How to Render Your SketchUp Models with ChatGPT 4 minutes, 57 seconds" [ref=f478e646]:
+                  - /url: /watch?v=wyyFYPj4ZSM&pp=ugUEEgJlbg%3D%3D
+                  - text: How to Render Your SketchUp Models with ChatGPT
+              - generic [ref=f478e648]:
+                - group [ref=f478e649]:
+                  - generic [ref=f478e650]: SketchUp School
+                - group [ref=f478e651]:
+                  - generic "30 thousand views" [ref=f478e655]: 30k
+                  - generic "10 months ago" [ref=f478e656]: 10 mo ago
+            - button "More actions" [ref=f478e659]
+        - generic [ref=f478e664] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e665]:
+            - /url: /watch?v=6IYOKjZCWlI&pp=ugUEEgJlbg%3D%3D
+            - img [ref=f478e671]:
+              - generic [ref=f478e672]: 6:47
+          - generic [ref=f478e674]:
+            - generic [ref=f478e675]:
+              - heading "5 INSANE Ways to Use Nano Banana for Architecture and Interior Design" [level=3] [ref=f478e676]:
+                - link "5 INSANE Ways to Use Nano Banana for Architecture and Interior Design 6 minutes, 47 seconds" [ref=f478e677]:
+                  - /url: /watch?v=6IYOKjZCWlI&pp=ugUEEgJlbg%3D%3D
+                  - text: 5 INSANE Ways to Use Nano Banana for Architecture and Interior Design
+              - generic [ref=f478e679]:
+                - group [ref=f478e680]:
+                  - generic [ref=f478e681]: Nuno Silva
+                - group [ref=f478e687]:
+                  - generic "246 thousand views" [ref=f478e691]: 246k
+                  - generic "10 months ago" [ref=f478e692]: 10 mo ago
+            - button "More actions" [ref=f478e695]
+        - generic [ref=f478e700] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e701]:
+            - /url: /watch?v=9t2fV52jMA8&pp=ugUEEgJlbg%3D%3D
+            - img [ref=f478e707]:
+              - generic [ref=f478e708]: 11:25
+          - generic [ref=f478e710]:
+            - generic [ref=f478e711]:
+              - heading "Running Minecraft Until It Beats Itself" [level=3] [ref=f478e712]:
+                - link "Running Minecraft Until It Beats Itself 11 minutes, 25 seconds" [ref=f478e713]:
+                  - /url: /watch?v=9t2fV52jMA8&pp=ugUEEgJlbg%3D%3D
+                  - text: Running Minecraft Until It Beats Itself
+              - generic [ref=f478e715]:
+                - group [ref=f478e716]:
+                  - generic [ref=f478e717]: RedLogic
+                - group [ref=f478e718]:
+                  - generic "5.1 million views" [ref=f478e722]: 5.1m
+                  - generic "9 days ago" [ref=f478e723]
+            - button "More actions" [ref=f478e726]
+        - generic [ref=f478e731] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e732]:
+            - /url: /watch?v=8Dmy7aNinV8&pp=ugUEEgJlbg%3D%3D
+            - img [ref=f478e738]:
+              - generic [ref=f478e739]: 10:45
+          - generic [ref=f478e741]:
+            - generic [ref=f478e742]:
+              - heading "5 AI Tools Every Architect Should Use" [level=3] [ref=f478e743]:
+                - link "5 AI Tools Every Architect Should Use 10 minutes, 45 seconds" [ref=f478e744]:
+                  - /url: /watch?v=8Dmy7aNinV8&pp=ugUEEgJlbg%3D%3D
+                  - text: 5 AI Tools Every Architect Should Use
+              - generic [ref=f478e746]:
+                - group [ref=f478e747]:
+                  - generic [ref=f478e748]: Thomas Creates
+                - group [ref=f478e749]:
+                  - generic "21 thousand views" [ref=f478e753]: 21k
+                  - generic "2 months ago" [ref=f478e754]: 2 mo ago
+            - button "More actions" [ref=f478e757]
+        - generic [ref=f478e762] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e763]:
+            - /url: /watch?v=53C0NrgeRz4&pp=ugUEEgJlbg%3D%3D
+            - img [ref=f478e769]:
+              - generic [ref=f478e770]: 10:47
+          - generic [ref=f478e772]:
+            - generic [ref=f478e773]:
+              - heading "I Found a Way to Control AI Renders Nobody Is Talking About | JSON Prompt for Architecture" [level=3] [ref=f478e774]:
+                - link "I Found a Way to Control AI Renders Nobody Is Talking About | JSON Prompt for Architecture 10 minutes, 47 seconds" [ref=f478e775]:
+                  - /url: /watch?v=53C0NrgeRz4&pp=ugUEEgJlbg%3D%3D
+                  - text: I Found a Way to Control AI Renders Nobody Is Talking About | JSON Prompt for Architecture
+              - generic [ref=f478e777]:
+                - group [ref=f478e778]:
+                  - generic [ref=f478e779]: Salmaan Mohamed
+                - group [ref=f478e780]:
+                  - generic "47 thousand views" [ref=f478e784]: 47k
+                  - generic "5 months ago" [ref=f478e785]: 5 mo ago
+            - button "More actions" [ref=f478e788]
+        - generic [ref=f478e793] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e794]:
+            - /url: /watch?v=la8Ml1fQfOg&pp=ugUHEgVlbi1VUw%3D%3D
+            - img [ref=f478e800]:
+              - generic [ref=f478e801]: 18:15
+          - generic [ref=f478e803]:
+            - generic [ref=f478e804]:
+              - heading "Architects Are Switching to Claude | Here's Why - FULL Guide" [level=3] [ref=f478e805]:
+                - link "Architects Are Switching to Claude | Here's Why - FULL Guide 18 minutes" [ref=f478e806]:
+                  - /url: /watch?v=la8Ml1fQfOg&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: Architects Are Switching to Claude | Here's Why - FULL Guide
+              - generic [ref=f478e808]:
+                - group [ref=f478e809]:
+                  - generic [ref=f478e810]: Urban Decoders
+                - group [ref=f478e811]:
+                  - generic "115 thousand views" [ref=f478e815]: 115k
+                  - generic "1 month ago" [ref=f478e816]: 1 mo ago
+            - button "More actions" [ref=f478e819]
+        - generic [ref=f478e824] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e825]:
+            - /url: /watch?v=QTzGFHtjOqk&pp=ugUEEgJlbg%3D%3D
+            - img [ref=f478e831]:
+              - generic [ref=f478e832]: 10:58
+          - generic [ref=f478e834]:
+            - generic [ref=f478e835]:
+              - heading "9 Tools to DOMINATE as an ARCHITECT in 2026" [level=3] [ref=f478e836]:
+                - link "9 Tools to DOMINATE as an ARCHITECT in 2026 10 minutes, 58 seconds" [ref=f478e837]:
+                  - /url: /watch?v=QTzGFHtjOqk&pp=ugUEEgJlbg%3D%3D
+                  - text: 9 Tools to DOMINATE as an ARCHITECT in 2026
+              - generic [ref=f478e839]:
+                - group [ref=f478e840]:
+                  - generic [ref=f478e841]: renderdrop
+                - group [ref=f478e842]:
+                  - generic "168 thousand views" [ref=f478e846]: 168k
+                  - generic "8 months ago" [ref=f478e847]: 8 mo ago
+            - button "More actions" [ref=f478e850]
+        - generic [ref=f478e855] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e856]:
+            - /url: /watch?v=z1jiNA03ntQ&pp=0gcJCSQMAYcqIYzv
+            - img [ref=f478e862]:
+              - generic [ref=f478e863]: 13:24
+          - generic [ref=f478e865]:
+            - generic [ref=f478e866]:
+              - heading "Turn Floor Plans Into 3D Homes Instantly | Nano Banana Tutorial" [level=3] [ref=f478e867]:
+                - link "Turn Floor Plans Into 3D Homes Instantly | Nano Banana Tutorial 13 minutes, 24 seconds" [ref=f478e868]:
+                  - /url: /watch?v=z1jiNA03ntQ&pp=0gcJCSQMAYcqIYzv
+                  - text: Turn Floor Plans Into 3D Homes Instantly | Nano Banana Tutorial
+              - generic [ref=f478e870]:
+                - group [ref=f478e871]:
+                  - generic [ref=f478e872]: TVBOX Academy
+                - group [ref=f478e873]:
+                  - generic "99 thousand views" [ref=f478e877]: 99k
+                  - generic "10 months ago" [ref=f478e878]: 10 mo ago
+            - button "More actions" [ref=f478e881]
+        - generic [ref=f478e886] [cursor=pointer]:
+          - link [aria-hidden] [ref=f478e887]:
+            - /url: /watch?v=wTmz-hTDy_o&pp=ugUHEgVlbi1VUw%3D%3D
+            - img [ref=f478e893]:
+              - generic [ref=f478e894]: 6:39
+          - generic [ref=f478e896]:
+            - generic [ref=f478e897]:
+              - 'heading "From Image to 3D: Creating Models with Gemini + Krea3D" [level=3] [ref=f478e898]':
+                - 'link "From Image to 3D: Creating Models with Gemini + Krea3D 6 minutes, 39 seconds" [ref=f478e899]':
+                  - /url: /watch?v=wTmz-hTDy_o&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: "From Image to 3D: Creating Models with Gemini + Krea3D"
+              - generic [ref=f478e901]:
+                - group [ref=f478e902]:
+                  - generic [ref=f478e903]: Izabele Colusso
+                - group [ref=f478e904]:
+                  - generic "10 thousand views" [ref=f478e908]: 10k
+                  - generic "11 months ago" [ref=f478e909]: 11 mo ago
+                - group [ref=f478e910]:
+                  - generic [ref=f478e911]: Auto-dubbed
+            - button "More actions" [ref=f478e920]

@@ -1,0 +1,277 @@
+- generic [ref=f426e2]:
+  - banner [ref=f426e4]:
+    - generic [ref=f426e6]:
+      - generic [ref=f426e7]:
+        - button "Guide" [ref=f426e9] [cursor=pointer]
+        - generic [ref=f426e11]:
+          - link "YouTube Home" [ref=f426e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f426e16]: IN
+        - button "Skip navigation" [ref=f426e20] [cursor=pointer]
+      - generic [ref=f426e24]:
+        - search [ref=f426e25]:
+          - generic [ref=f426e27]:
+            - combobox "Search" [expanded] [ref=f426e30]
+            - button "Search" [ref=f426e31] [cursor=pointer]
+        - generic [ref=f426e34]:
+          - button "Search with your voice" [ref=f426e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f426e45]
+  - main [ref=f426e47]:
+    - generic [ref=f426e54]:
+      - generic [ref=f426e70]:
+        - heading "Brick & Bolt" [level=1] [ref=f426e72]
+        - generic [ref=f426e73]:
+          - group [ref=f426e74]:
+            - generic [ref=f426e75]: "@BricknBolt_Construction"
+          - generic [aria-hidden] [ref=f426e76]: •
+          - group [ref=f426e77]:
+            - generic "13.3 thousand subscribers" [ref=f426e78]: 13.3k subscribers
+            - generic [aria-hidden] [ref=f426e79]: •
+            - generic [ref=f426e80]: 1k videos
+        - generic [ref=f426e82] [cursor=pointer]:
+          - generic [ref=f426e83]: Welcome to the official Brick & Bolt channel.
+          - button "Description. Welcome to the official Brick & Bolt channel.…tap for more." [ref=f426e84]:
+            - generic [ref=f426e85]: ...more
+        - generic [ref=f426e86]:
+          - link [ref=f426e89] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljR2tDWGRtRnZReWRScERtakdWYUlpbXxBTl9pYzRmMU5ldHpxbWxONlFBdEpwejFPczZUZmdOM3lfa2xxMXNONlBUeFc1UmJvcEZZQVg4TkEybHUtZjRMcnBBX09qYlFXQU1xOGt0cGFTUzJpUHZnZ3JMU3N5bkJnQ0Rk&q=https%3A%2F%2Fwww.bricknbolt.com%2Fcd%2Fbricknbolt%3Futm_source%3Dsocial%26utm_medium%3Dorganic%26utm_campaign%3DYouTube
+          - button "and 3 more links" [ref=f426e94] [cursor=pointer]
+        - button "Subscribe" [ref=f426e98] [cursor=pointer]
+      - tablist [ref=f426e105]:
+        - tablist [ref=f426e109]:
+          - tab "Home" [selected] [ref=f426e110] [cursor=pointer]
+          - tab "Videos" [ref=f426e112] [cursor=pointer]
+          - tab "Shorts" [ref=f426e114] [cursor=pointer]
+          - tab "Podcasts" [ref=f426e116] [cursor=pointer]
+          - tab "Playlists" [ref=f426e118] [cursor=pointer]
+          - tab "Posts" [ref=f426e120] [cursor=pointer]
+          - button "Search" [ref=f426e125] [cursor=pointer]
+    - generic [ref=f426e132]:
+      - generic [ref=f426e139]:
+        - generic [ref=f426e140]:
+          - heading "Building a Light-Filled 2 BHK Dream Chennai Home | Magdalene Thomas Shares Her Brick & Bolt Journey 8 minutes, 11 seconds" [level=3] [ref=f426e141]:
+            - link "Building a Light-Filled 2 BHK Dream Chennai Home | Magdalene Thomas Shares Her Brick & Bolt Journey" [ref=f426e142] [cursor=pointer]:
+              - /url: /watch?v=PiyA2kHwfd4
+          - generic [ref=f426e145]:
+            - generic [ref=f426e146]: 2,873 views
+            - generic [ref=f426e147]: •7 months ago
+        - generic [ref=f426e148]:
+          - generic [ref=f426e150]:
+            - text: Book a FREE Technical Consultation -
+            - link "https://www.bricknbolt.com/cd/bricknb..." [ref=f426e151] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRUlOaU5XWEw5OXExaUhDLUxaSjRhcnxBTl9pYzRjaGllZVlab0FRVXdvTWVpNl9BVjlaZEI3TkR1SFRiVGFBRGJKa2htTEFjWXRVZmN0Ml95UzFSZ3ZfMURoc1NPWkhJTmhleEpVc2dwQWEzalZ6QUkyQ3VPV1Y1LUc5&q=https%3A%2F%2Fwww.bricknbolt.com%2Fcd%2Fbricknbolt%3Futm_source%3Dsocial%26utm_medium%3Dorganic%26utm_campaign%3DYouTube
+            - text: "CRN268544 | Magdalene Thomas | Chennai | Plot Size: 1180 sq ft | 2 BHK Home For Magdalene Thomas and her family of four, building a home was not just about construction — it was about finding stability, belonging, and a place where memories could grow. After years of shifting between rented houses, the desire to create a permanent space where their children could feel rooted became the foundation of this journey. Safety, natural light, and openness were non-negotiable priorities, shaping every design decision along the way. From introducing a central courtyard and large bedroom windows to planning an open kitchen and private terrace spaces, the home was carefully designed to reflect the family’s lifestyle. Brick & Bolt’s design team worked closely to translate these ideas into a practical, well-optimised layout while guiding the family on material choices, finishes, and long-term durability. The customer app played a key role throughout the journey, offering real-time updates, snag tracking, milestone-based payments, and transparent progress visibility. Even when weather disruptions caused temporary delays, the project was brought back on schedule through additional resources and careful planning. With a single point of contact and consistent communication, the entire experience remained structured and reassuring. The final handover marked more than project completion — it was the realisation of a long-held dream, now turned into a home built for life."
+            - link "#brickandbolt" [ref=f426e152] [cursor=pointer]:
+              - /url: /hashtag/brickandbolt
+            - link "#customerstory" [ref=f426e153] [cursor=pointer]:
+              - /url: /hashtag/customerstory
+            - link "#hometestimonial" [ref=f426e154] [cursor=pointer]:
+              - /url: /hashtag/hometestimonial
+            - link "#dreamhome" [ref=f426e155] [cursor=pointer]:
+              - /url: /hashtag/dreamhome
+            - link "#chennaihomes" [ref=f426e156] [cursor=pointer]:
+              - /url: /hashtag/chennaihomes
+            - link "#2bhkhome" [ref=f426e157] [cursor=pointer]:
+              - /url: /hashtag/2bhkhome
+            - link "#customhome" [ref=f426e158] [cursor=pointer]:
+              - /url: /hashtag/customhome
+            - link "#homeconstruction" [ref=f426e159] [cursor=pointer]:
+              - /url: /hashtag/homeconstruction
+            - link "#courtyardhome" [ref=f426e160] [cursor=pointer]:
+              - /url: /hashtag/courtyardhome
+            - link "#naturallightdesign" [ref=f426e161] [cursor=pointer]:
+              - /url: /hashtag/naturallightdesign
+            - link "#modernhomedesign" [ref=f426e162] [cursor=pointer]:
+              - /url: /hashtag/modernhomedesign
+            - link "#residentialconstruction" [ref=f426e163] [cursor=pointer]:
+              - /url: /hashtag/residentialconstruction
+            - link "#trustedbuilders" [ref=f426e164] [cursor=pointer]:
+              - /url: /hashtag/trustedbuilders
+            - link "#homebuildingjourney" [ref=f426e165] [cursor=pointer]:
+              - /url: /hashtag/homebuildingjourney
+            - link "#qualityconstruction" [ref=f426e166] [cursor=pointer]:
+              - /url: /hashtag/qualityconstruction
+            - link "#clientexperience" [ref=f426e167] [cursor=pointer]:
+              - /url: /hashtag/clientexperience
+            - link "#builtwithcare" [ref=f426e168] [cursor=pointer]:
+              - /url: /hashtag/builtwithcare
+            - link "#familyhome" [ref=f426e169] [cursor=pointer]:
+              - /url: /hashtag/familyhome
+            - link "#indianhomes" [ref=f426e170] [cursor=pointer]:
+              - /url: /hashtag/indianhomes
+            - link "#homegoals" [ref=f426e171] [cursor=pointer]:
+              - /url: /hashtag/homegoals
+          - button [ref=f426e172] [cursor=pointer]:
+            - link "Read more" [ref=f426e174]:
+              - /url: /watch?v=PiyA2kHwfd4
+      - generic [ref=f426e177]:
+        - generic [ref=f426e178]:
+          - heading "Shorts" [level=2] [ref=f426e182]
+          - button "More actions" [ref=f426e188] [cursor=pointer]
+        - generic [ref=f426e191]:
+          - generic [ref=f426e194]:
+            - generic [ref=f426e196]:
+              - link [aria-hidden] [ref=f426e197] [cursor=pointer]:
+                - /url: /shorts/55XenD1GRok
+              - generic [ref=f426e201] [cursor=pointer]:
+                - link "Best Kitchen Layouts for a 30×40 Plot" [ref=f426e202]:
+                  - /url: /shorts/55XenD1GRok
+                - generic [ref=f426e203]: 62 views
+              - button "More actions" [ref=f426e205] [cursor=pointer]
+            - generic [ref=f426e210]:
+              - link [aria-hidden] [ref=f426e211] [cursor=pointer]:
+                - /url: /shorts/FAIkjuhp2b4
+              - generic [ref=f426e215] [cursor=pointer]:
+                - link "Floor Plan | G+2" [ref=f426e216]:
+                  - /url: /shorts/FAIkjuhp2b4
+                - generic [ref=f426e217]: 333 views
+              - button "More actions" [ref=f426e219] [cursor=pointer]
+            - generic [ref=f426e224]:
+              - link [aria-hidden] [ref=f426e225] [cursor=pointer]:
+                - /url: /shorts/03eefMIFG_0
+              - generic [ref=f426e229] [cursor=pointer]:
+                - 'link "Build. Lease. Earn: End-to-End Commercial Construction" [ref=f426e230]':
+                  - /url: /shorts/03eefMIFG_0
+                - generic [ref=f426e231]: 173 views
+              - button "More actions" [ref=f426e233] [cursor=pointer]
+            - generic [ref=f426e238]:
+              - link [aria-hidden] [ref=f426e239] [cursor=pointer]:
+                - /url: /shorts/JzSNwMsfv1E
+              - generic [ref=f426e243] [cursor=pointer]:
+                - link "Want Guaranteed High Rental Returns? Start Here!" [ref=f426e244]:
+                  - /url: /shorts/JzSNwMsfv1E
+                - generic [ref=f426e245]: 290 views
+              - button "More actions" [ref=f426e247] [cursor=pointer]
+            - generic [ref=f426e252]:
+              - link [aria-hidden] [ref=f426e253] [cursor=pointer]:
+                - /url: /shorts/JamhrBUiEu8
+              - generic [ref=f426e257] [cursor=pointer]:
+                - link "Floor Plan | G+1 | 30×40 Plot" [ref=f426e258]:
+                  - /url: /shorts/JamhrBUiEu8
+                - generic [ref=f426e259]: 623 views
+              - button "More actions" [ref=f426e261] [cursor=pointer]
+            - generic [ref=f426e266]:
+              - link [aria-hidden] [ref=f426e267] [cursor=pointer]:
+                - /url: /shorts/vriDWgesdIA
+              - generic [ref=f426e271] [cursor=pointer]:
+                - link "Unique Homes | Villa KD45 Residence" [ref=f426e272]:
+                  - /url: /shorts/vriDWgesdIA
+                - generic [ref=f426e273]: 623 views
+              - button "More actions" [ref=f426e275] [cursor=pointer]
+          - button "Next" [ref=f426e281] [cursor=pointer]
+      - generic [ref=f426e288]:
+        - heading [level=2] [ref=f426e291]:
+          - link "Brick & Bolt Customer Testimonials" [ref=f426e294] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f426e297]:
+          - generic [ref=f426e300]:
+            - generic [ref=f426e302] [cursor=pointer]:
+              - link [aria-hidden] [ref=f426e303]:
+                - /url: /watch?v=ttVSjdVcowk&list=PLCWxq1iloI9RRRb427RuQv52CCtthV3jU
+                - generic [ref=f426e305]: 33 videos
+              - generic [ref=f426e318]:
+                - heading "Happy Bengaluru Customers | Brick & Bolt Homes & Commercial Spaces" [level=3] [ref=f426e319]:
+                  - link "Happy Bengaluru Customers | Brick & Bolt Homes & Commercial Spaces" [ref=f426e320]:
+                    - /url: /watch?v=ttVSjdVcowk&list=PLCWxq1iloI9RRRb427RuQv52CCtthV3jU
+                - generic [ref=f426e322]:
+                  - group [ref=f426e323]:
+                    - link "Brick & Bolt" [ref=f426e326]:
+                      - /url: /@BricknBolt_Construction
+                    - generic [aria-hidden] [ref=f426e327]: •
+                    - link "Playlist" [ref=f426e330]:
+                      - /url: /@BricknBolt_Construction
+                  - group [ref=f426e331]:
+                    - link "View full playlist" [ref=f426e334]:
+                      - /url: /playlist?list=PLCWxq1iloI9RRRb427RuQv52CCtthV3jU
+            - generic [ref=f426e336] [cursor=pointer]:
+              - link [aria-hidden] [ref=f426e337]:
+                - /url: /watch?v=EAttybx-Nw8&list=PLCWxq1iloI9RCrSTtYct5qrlILspcdtSy&pp=0gcJCbwFa94AFGB0
+                - generic [ref=f426e339]: 21 videos
+              - generic [ref=f426e352]:
+                - heading "Happy Chennai Customers | Brick & Bolt Homes & Commercial Spaces" [level=3] [ref=f426e353]:
+                  - link "Happy Chennai Customers | Brick & Bolt Homes & Commercial Spaces" [ref=f426e354]:
+                    - /url: /watch?v=EAttybx-Nw8&list=PLCWxq1iloI9RCrSTtYct5qrlILspcdtSy&pp=0gcJCbwFa94AFGB0
+                - generic [ref=f426e356]:
+                  - group [ref=f426e357]:
+                    - link "Brick & Bolt" [ref=f426e360]:
+                      - /url: /@BricknBolt_Construction
+                    - generic [aria-hidden] [ref=f426e361]: •
+                    - link "Playlist" [ref=f426e364]:
+                      - /url: /@BricknBolt_Construction
+                  - group [ref=f426e365]:
+                    - link "View full playlist" [ref=f426e368]:
+                      - /url: /playlist?list=PLCWxq1iloI9RCrSTtYct5qrlILspcdtSy
+            - generic [ref=f426e370] [cursor=pointer]:
+              - link [aria-hidden] [ref=f426e371]:
+                - /url: /watch?v=FOMTr6JQTSY&list=PLCWxq1iloI9RiYZsTpMISP0NaHRjFScgd&pp=0gcJCbwFa94AFGB0
+                - generic [ref=f426e373]: 4 videos
+              - generic [ref=f426e386]:
+                - heading "Happy Hyderabad Customers | Brick & Bolt Homes & Commercial Spaces" [level=3] [ref=f426e387]:
+                  - link "Happy Hyderabad Customers | Brick & Bolt Homes & Commercial Spaces" [ref=f426e388]:
+                    - /url: /watch?v=FOMTr6JQTSY&list=PLCWxq1iloI9RiYZsTpMISP0NaHRjFScgd&pp=0gcJCbwFa94AFGB0
+                - generic [ref=f426e390]:
+                  - group [ref=f426e391]:
+                    - link "Brick & Bolt" [ref=f426e394]:
+                      - /url: /@BricknBolt_Construction
+                    - generic [aria-hidden] [ref=f426e395]: •
+                    - link "Playlist" [ref=f426e398]:
+                      - /url: /@BricknBolt_Construction
+                  - group [ref=f426e399]:
+                    - link "View full playlist" [ref=f426e402]:
+                      - /url: /playlist?list=PLCWxq1iloI9RiYZsTpMISP0NaHRjFScgd
+            - generic [ref=f426e404] [cursor=pointer]:
+              - link [aria-hidden] [ref=f426e405]:
+                - /url: /watch?v=FTs_M_X8E2U&list=PLCWxq1iloI9To2aM2dF03xxVoUnheKYVl
+                - generic [ref=f426e407]: 2 videos
+              - generic [ref=f426e420]:
+                - heading "Happy NCR Customers | Brick & Bolt Homes & Commercial Spaces" [level=3] [ref=f426e421]:
+                  - link "Happy NCR Customers | Brick & Bolt Homes & Commercial Spaces" [ref=f426e422]:
+                    - /url: /watch?v=FTs_M_X8E2U&list=PLCWxq1iloI9To2aM2dF03xxVoUnheKYVl
+                - generic [ref=f426e424]:
+                  - group [ref=f426e425]:
+                    - link "Brick & Bolt" [ref=f426e428]:
+                      - /url: /@BricknBolt_Construction
+                    - generic [aria-hidden] [ref=f426e429]: •
+                    - link "Playlist" [ref=f426e432]:
+                      - /url: /@BricknBolt_Construction
+                  - group [ref=f426e433]:
+                    - link "View full playlist" [ref=f426e436]:
+                      - /url: /playlist?list=PLCWxq1iloI9To2aM2dF03xxVoUnheKYVl
+            - generic [ref=f426e438] [cursor=pointer]:
+              - link [aria-hidden] [ref=f426e439]:
+                - /url: /watch?v=csygrCGmIIA&list=PLCWxq1iloI9QqcHv0VQmuFCYb9VItn6K_
+                - generic [ref=f426e441]: 3 videos
+              - generic [ref=f426e454]:
+                - heading "Happy Pune Customers | Brick & Bolt Homes & Commercial Spaces" [level=3] [ref=f426e455]:
+                  - link "Happy Pune Customers | Brick & Bolt Homes & Commercial Spaces" [ref=f426e456]:
+                    - /url: /watch?v=csygrCGmIIA&list=PLCWxq1iloI9QqcHv0VQmuFCYb9VItn6K_
+                - generic [ref=f426e458]:
+                  - group [ref=f426e459]:
+                    - link "Brick & Bolt" [ref=f426e462]:
+                      - /url: /@BricknBolt_Construction
+                    - generic [aria-hidden] [ref=f426e463]: •
+                    - link "Playlist" [ref=f426e466]:
+                      - /url: /@BricknBolt_Construction
+                  - group [ref=f426e467]:
+                    - link "View full playlist" [ref=f426e470]:
+                      - /url: /playlist?list=PLCWxq1iloI9QqcHv0VQmuFCYb9VItn6K_
+            - generic [ref=f426e472] [cursor=pointer]:
+              - link [aria-hidden] [ref=f426e473]:
+                - /url: /watch?v=AT0FYMG0CPU&list=PLCWxq1iloI9Sb4ew2jaRNqzRKumKwmK9a
+                - generic [ref=f426e475]: 3 videos
+              - generic [ref=f426e488]:
+                - heading "Happy Mysuru Customers | Brick & Bolt Homes & Commercial Spaces" [level=3] [ref=f426e489]:
+                  - link "Happy Mysuru Customers | Brick & Bolt Homes & Commercial Spaces" [ref=f426e490]:
+                    - /url: /watch?v=AT0FYMG0CPU&list=PLCWxq1iloI9Sb4ew2jaRNqzRKumKwmK9a
+                - generic [ref=f426e492]:
+                  - group [ref=f426e493]:
+                    - link "Brick & Bolt" [ref=f426e496]:
+                      - /url: /@BricknBolt_Construction
+                    - generic [aria-hidden] [ref=f426e497]: •
+                    - link "Playlist" [ref=f426e500]:
+                      - /url: /@BricknBolt_Construction
+                  - group [ref=f426e501]:
+                    - link "View full playlist" [ref=f426e504]:
+                      - /url: /playlist?list=PLCWxq1iloI9Sb4ew2jaRNqzRKumKwmK9a
+          - button "Next" [ref=f426e507] [cursor=pointer]

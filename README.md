@@ -4,9 +4,9 @@ Personal-brand content production system for Seetaram (building Setu — AI agen
 
 ## What this is
 
-WAT-framework Claude Code project that drafts, publishes, audits, and learns from content across LinkedIn, X, YouTube, Instagram. Powered by a multi-skill swarm under an Executive Agent (Phase 4).
+WAT-framework Claude Code project that drafts, publishes, audits, and learns from content across LinkedIn and YouTube (X and Instagram paused — see platform scope in `CLAUDE.md`). Powered by a multi-skill swarm under an Executive Agent (Phase 4, still gated — see the plan).
 
-See [the approved 30-day plan](/Users/sistaseetaram/.claude/plans/this-is-a-workflow-fluttering-hollerith.md) for full architecture, pillars, phases, and verification gates.
+See [the approved relaunch plan](/Users/sistaseetaram/.claude/plans/i-want-you-to-glistening-yao.md) for full architecture, pillars, phases, and verification gates.
 
 ## Quick start
 

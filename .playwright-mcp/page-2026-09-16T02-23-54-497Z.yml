@@ -1,0 +1,246 @@
+- generic [ref=f338e2]:
+  - banner [ref=f338e4]:
+    - generic [ref=f338e6]:
+      - generic [ref=f338e7]:
+        - button "Guide" [active] [ref=f338e9] [cursor=pointer]
+        - generic [ref=f338e11]:
+          - link "YouTube Home" [ref=f338e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f338e16]: IN
+        - button "Skip navigation" [ref=f338e20] [cursor=pointer]
+      - generic [ref=f338e24]:
+        - search [ref=f338e25]:
+          - generic [ref=f338e27]:
+            - generic [ref=f338e28]:
+              - combobox "Search" [expanded] [ref=f338e30]: 30x40 design workshop
+              - button "Clear search query" [ref=f338e32] [cursor=pointer]
+            - button "Search" [ref=f338e37] [cursor=pointer]
+        - generic [ref=f338e40]:
+          - button "Search with your voice" [ref=f338e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f338e47]:
+        - button "Settings" [ref=f338e52] [cursor=pointer]
+        - link "Sign in" [ref=f338e56] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fresults%253Fsearch_query%253D30x40%252Bdesign%252Bworkshop&hl=en-GB&ec=65620
+  - navigation [ref=f338e60]
+  - main [ref=f338e62]:
+    - generic [ref=f338e63]:
+      - generic [ref=f338e65]:
+        - tablist [ref=f338e70]:
+          - tab "All" [selected] [ref=f338e74] [cursor=pointer]
+          - tab "Shorts" [ref=f338e80] [cursor=pointer]
+          - tab "Unwatched" [ref=f338e86] [cursor=pointer]
+          - tab "Watched" [ref=f338e92] [cursor=pointer]
+          - tab "Videos" [ref=f338e98] [cursor=pointer]
+          - tab "Recently uploaded" [ref=f338e104] [cursor=pointer]
+          - tab "Live" [ref=f338e110] [cursor=pointer]
+        - generic [ref=f338e114]:
+          - button "Search filters" [ref=f338e116] [cursor=pointer]:
+            - generic: Filters
+          - tooltip "tooltip"
+      - generic [ref=f338e123]:
+        - generic [ref=f338e138] [cursor=pointer]:
+          - generic [ref=f338e139]:
+            - link "Blueprint Studio | Architecture Design Studio | Udemy" [ref=f338e142]:
+              - /url: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjFmZbehfKWAxV1mWYCHdHNFfgYACICCAEQABoCc20&co=1&ase=2&gclid=EAIaIQobChMIxZmW3oXylgMVdZlmAh3RzRX4EAAYASAAEgIkAfD_BwE&cid=CAAS0wHkaPA07KYRQefyk-w4bIScKp73W7zjVnIYgsHMFCnco2ok0qGpKEe0M7QJM4P0xaoIR4dfT31DwiTaS0WxTj4Q4Hu_KXhw-PbOqZTTeY6S0PEwlWBVhowcwISnq-PmlqPP8CNcMeatEJ8TTpjFmLpWgEoUIg1cRP8HWTRWUFZyiM2HeOECac21KTAuSdD_faU_zqXA3XQdvRMm1ijAhB4K0jDRmDJWg_ujUNF6tP0vEUnXhHgXPjGxCoKHpfsHgJBWNOFHEpZQVPmmPPvQ3Damminy&cce=2&category=acrcp_v1_32&sig=AOD64_1bIFAq63emx3qJVrfBoXxpyNa-6A&adurl=https://www.udemy.com/user/blueprint-studio/%3Futm_campaign%3DQA_PMax_RTG_India_March26%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DIndia%26utm_audience%3Dmx%26utm_tactic%3Dpmax%26utm_term%3D_._ag__._ad__._kw_%26utm_content%3Dx%26funnel%3DBOFU%26test%3D%26gad_source%3D2%26gad_campaignid%3D23670563000%26gclid%3DEAIaIQobChMIxZmW3oXylgMVdZlmAh3RzRX4EAAYASAAEgIkAfD_BwE&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+            - link "Blueprint Studio is a Udemy instructor with educational courses available for enrollment. Check out the latest courses taught by Blueprint Studio. Improve Your Skills. Learn ChatGPT. Expert Instuctors. Start Learning Today. Stay Updated with AI." [ref=f338e145]:
+              - /url: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjFmZbehfKWAxV1mWYCHdHNFfgYACICCAEQABoCc20&co=1&ase=2&gclid=EAIaIQobChMIxZmW3oXylgMVdZlmAh3RzRX4EAAYASAAEgIkAfD_BwE&cid=CAAS0wHkaPA07KYRQefyk-w4bIScKp73W7zjVnIYgsHMFCnco2ok0qGpKEe0M7QJM4P0xaoIR4dfT31DwiTaS0WxTj4Q4Hu_KXhw-PbOqZTTeY6S0PEwlWBVhowcwISnq-PmlqPP8CNcMeatEJ8TTpjFmLpWgEoUIg1cRP8HWTRWUFZyiM2HeOECac21KTAuSdD_faU_zqXA3XQdvRMm1ijAhB4K0jDRmDJWg_ujUNF6tP0vEUnXhHgXPjGxCoKHpfsHgJBWNOFHEpZQVPmmPPvQ3Damminy&cce=2&category=acrcp_v1_32&sig=AOD64_1bIFAq63emx3qJVrfBoXxpyNa-6A&adurl=https://www.udemy.com/user/blueprint-studio/%3Futm_campaign%3DQA_PMax_RTG_India_March26%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DIndia%26utm_audience%3Dmx%26utm_tactic%3Dpmax%26utm_term%3D_._ag__._ad__._kw_%26utm_content%3Dx%26funnel%3DBOFU%26test%3D%26gad_source%3D2%26gad_campaignid%3D23670563000%26gclid%3DEAIaIQobChMIxZmW3oXylgMVdZlmAh3RzRX4EAAYASAAEgIkAfD_BwE&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+            - generic [ref=f338e146]:
+              - generic [ref=f338e148]:
+                - generic [ref=f338e149]: Sponsored
+                - text: ·
+              - generic [ref=f338e150]: https://www.udemy.com/
+          - button "My Ad Centre" [ref=f338e154]
+        - generic [ref=f338e159]:
+          - generic [ref=f338e161]:
+            - link [ref=f338e163] [cursor=pointer]:
+              - /url: /@30by40
+            - generic [ref=f338e166]:
+              - link "30X40 Design Workshop Verified @30by40•1.19m subscribers I make videos about architecture, design simple modern homes + share the process behind the making of architecture." [ref=f338e167] [cursor=pointer]:
+                - /url: /@30by40
+                - generic [ref=f338e168]:
+                  - generic [ref=f338e169]:
+                    - generic [ref=f338e170]: 30X40 Design Workshop
+                    - img "Verified" [ref=f338e177]
+                  - generic [ref=f338e179]: "@30by40•1.19m subscribers"
+                  - generic [ref=f338e180]: I make videos about architecture, design simple modern homes + share the process behind the making of architecture.
+              - link "Subscribe" [ref=f338e185] [cursor=pointer]:
+                - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3D%252Fresults%253Fsearch_query%253D30x40%252Bdesign%252Bworkshop%26continue_action%3DQUZZTVljRTFxakx5WEo4Vjl3LXprY2g1Qnp1aXxBTl9pYzRjRDM3R2g5c2dyaDc2MG5tS2tBc2xNQ1Y2WUlRUjdYLXdESkIwY1djcER0cG0zT0puZHo2VGZVRTVLd1lZMnBQYVBLVzdnaG5ab2F4cGQ1dE9pZHFwMHRoTV80S180MVRkM3BWNVZxQzEtV3BZNks5QjA5VFhhSnp1SVhhTjhhYnE3bVRLaV9kc0hXUG5QSUg5SWg1UEZ3WU9CWnVUbjVOTWl3TzFUWnhsUlZiUS0tSWc4LURJ&hl=en-GB
+          - generic [ref=f338e190] [cursor=pointer]:
+            - link [aria-hidden] [ref=f338e191]:
+              - /url: /watch?v=t3oXU3VSZLg&list=PLuJj3iQpiK3vAQNYWfkpkp4qj5uwUOwJd
+              - generic [ref=f338e193]: 13 videos
+            - generic [ref=f338e206]:
+              - heading "Beginner Architecture Lessons" [level=3] [ref=f338e207]:
+                - link "Beginner Architecture Lessons" [ref=f338e208]:
+                  - /url: /watch?v=t3oXU3VSZLg&list=PLuJj3iQpiK3vAQNYWfkpkp4qj5uwUOwJd
+              - generic [ref=f338e210]:
+                - group [ref=f338e211]:
+                  - link [ref=f338e214]:
+                    - /url: /@30by40
+                  - generic [aria-hidden] [ref=f338e218]: •
+                  - link "Playlist" [ref=f338e221]:
+                    - /url: /@30by40
+                - group [ref=f338e222]
+                - group [ref=f338e223]:
+                  - link "5 Things Under $20 Every ARCHITECT Needs · 7:38" [ref=f338e225]:
+                    - /url: /watch?v=t3oXU3VSZLg&list=PLuJj3iQpiK3vAQNYWfkpkp4qj5uwUOwJd
+                - group [ref=f338e226]:
+                  - link "How to Write Like An Architect (+ Worksheet) · 10:35" [ref=f338e228]:
+                    - /url: /watch?v=eGUDQ1F5tco&list=PLuJj3iQpiK3vAQNYWfkpkp4qj5uwUOwJd
+                - group [ref=f338e229]
+                - group [ref=f338e230]:
+                  - link "View full playlist" [ref=f338e233]:
+                    - /url: /playlist?list=PLuJj3iQpiK3vAQNYWfkpkp4qj5uwUOwJd
+          - generic [ref=f338e246] [cursor=pointer]:
+            - generic [ref=f338e247]:
+              - link "#1 Data Engineer Course" [ref=f338e250]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C8Kwruf2papvsBduprtoPgKrVgAa-wta_iQGKsurpsxOwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGUt_DLPakCYnYhmQJhRj6oAwTIAwqqBKQCT9DvNaKTj0y5gy8XvUPORwro-90rLvJpwE1exjJLfFF97eyb5W5zln07qEwrdbWhoFuT-fTuGpumNnfPOxXt1BIN4D387fK3St9q8z8uCYLSrEDebdmhHt6QL1EY-i3F6RHm4_NvtIeHgTApheLTLtFFQ6oBTOYRgv3OZ6AwuwtQVsZhXeYlN7bPhnXJ42qhdIkWxBgiicXgTXczt-SookDDvuoJJ6ssamiAk5uqOsYYAScUtV2lruZLe58QU9ACPnHrbpRvI3bF4AiEaUylfF7gDjFWkThdsa2KTrxyZysD8vE9I0FVj_-R-R2VILiJDckB2_auOAjXP4U_cEbAYHuXtIm16WvIHbfgsU-BmlUa8qz1XxWAGbAeqImVqNLDfdhYJ4gFioGT6FGSBQgIE3iqhciuGKAGboAHlO_AqxiQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRY8J6G3oXylgNgAZoJO2h0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2FpLWRhdGEtZW5naW5lZXJpbmctY291cnNlsQn6cY3k9oz4VcgJAMgJigKYCwG6Cz0IAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDBXZpc2lu0AsSogwIKgYKBPDfsQLSDAIQAdoMJgoLEPCpy9ad0pWAqQESAgEDGg0YioGT6FEgqtKLjYQFQAFKAhAfmg0BEqoNAklOyA0B0g30AWh0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2FpLWRhdGEtZW5naW5lZXJpbmctY291cnNlP3V0bV9jYW1wYWlnbj1HQWRzLURFLURnZW4tVjItT2xkRFNNTC0yOU5vdjI0LUVtcGxveWVyJnV0bV9tZWRpdW09RGlzcGxheSZ1dG1fc291cmNlPUdvb2dsZS1BZHMmUmVmPUdvb2dsZUFkcy1ERS1EZ2VuLVYyLU9sZERTTUwtMjlOb3YyNC1FbXBsb3llciZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjE5NjE2ODcxNzi4E____________wGIFBSwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXUySw2IeAIeq6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI26yG3oXylgMV25RLBR0AVRVgEAEYASAAEgJBDfD_BwE&num=1&cid=CAASwwHkaOVRhjOsiwNbtR6fzEmQnX-3egD5zxbGawCtiZUrSMHWf09-pmZpQlLEWQNgu9FTXsac_oKeTTqzLLSLg-7fw_Xjx_DYZjc5PImBZuqx-WGU0MAcbcAM3JapMtgf9bhkn0-wVs1vV-CCT5fqCivxBdtnQ0zQ1XU3MiBmRVtSAdEcKTtGHRgOzWXlt_5PM8a994bTnpJVsAk5yDPx5jUN76SEYa8UGHCbqWA__jSGl4GgRlkXLIlZx0aCs7BZnJltIyk&sig=AOD64_2VtarbsNXmNvXOPNuQ-sFbXGapuw&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Learn in-demand data engineering skills and prepare for top product company roles" [ref=f338e253]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C8Kwruf2papvsBduprtoPgKrVgAa-wta_iQGKsurpsxOwkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGUt_DLPakCYnYhmQJhRj6oAwTIAwqqBKQCT9DvNaKTj0y5gy8XvUPORwro-90rLvJpwE1exjJLfFF97eyb5W5zln07qEwrdbWhoFuT-fTuGpumNnfPOxXt1BIN4D387fK3St9q8z8uCYLSrEDebdmhHt6QL1EY-i3F6RHm4_NvtIeHgTApheLTLtFFQ6oBTOYRgv3OZ6AwuwtQVsZhXeYlN7bPhnXJ42qhdIkWxBgiicXgTXczt-SookDDvuoJJ6ssamiAk5uqOsYYAScUtV2lruZLe58QU9ACPnHrbpRvI3bF4AiEaUylfF7gDjFWkThdsa2KTrxyZysD8vE9I0FVj_-R-R2VILiJDckB2_auOAjXP4U_cEbAYHuXtIm16WvIHbfgsU-BmlUa8qz1XxWAGbAeqImVqNLDfdhYJ4gFioGT6FGSBQgIE3iqhciuGKAGboAHlO_AqxiQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRY8J6G3oXylgNgAZoJO2h0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2FpLWRhdGEtZW5naW5lZXJpbmctY291cnNlsQn6cY3k9oz4VcgJAMgJigKYCwG6Cz0IAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDBXZpc2lu0AsSogwIKgYKBPDfsQLSDAIQAdoMJgoLEPCpy9ad0pWAqQESAgEDGg0YioGT6FEgqtKLjYQFQAFKAhAfmg0BEqoNAklOyA0B0g30AWh0dHBzOi8vd3d3LmJvc3Njb2RlcmFjYWRlbXkuY29tL2FpLWRhdGEtZW5naW5lZXJpbmctY291cnNlP3V0bV9jYW1wYWlnbj1HQWRzLURFLURnZW4tVjItT2xkRFNNTC0yOU5vdjI0LUVtcGxveWVyJnV0bV9tZWRpdW09RGlzcGxheSZ1dG1fc291cmNlPUdvb2dsZS1BZHMmUmVmPUdvb2dsZUFkcy1ERS1EZ2VuLVYyLU9sZERTTUwtMjlOb3YyNC1FbXBsb3llciZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjE5NjE2ODcxNzi4E____________wGIFBSwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXUySw2IeAIeq6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI26yG3oXylgMV25RLBR0AVRVgEAEYASAAEgJBDfD_BwE&num=1&cid=CAASwwHkaOVRhjOsiwNbtR6fzEmQnX-3egD5zxbGawCtiZUrSMHWf09-pmZpQlLEWQNgu9FTXsac_oKeTTqzLLSLg-7fw_Xjx_DYZjc5PImBZuqx-WGU0MAcbcAM3JapMtgf9bhkn0-wVs1vV-CCT5fqCivxBdtnQ0zQ1XU3MiBmRVtSAdEcKTtGHRgOzWXlt_5PM8a994bTnpJVsAk5yDPx5jUN76SEYa8UGHCbqWA__jSGl4GgRlkXLIlZx0aCs7BZnJltIyk&sig=AOD64_2VtarbsNXmNvXOPNuQ-sFbXGapuw&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=f338e254]:
+                - generic [ref=f338e256]:
+                  - generic [ref=f338e257]: Sponsored
+                  - text: ·
+                - generic [ref=f338e258]: Bosscoder Academy
+            - button "My Ad Centre" [ref=f338e262]
+          - generic [ref=f338e267]:
+            - link [aria-hidden] [ref=f338e269] [cursor=pointer]:
+              - /url: /watch?v=3fXf8xb5eyg&pp=ygUVMzB4NDAgZGVzaWduIHdvcmtzaG9w
+            - generic [ref=f338e271] [cursor=pointer]:
+              - generic [ref=f338e272]:
+                - heading [level=3] [ref=f338e274]:
+                  - 'link "Design Studio Tour : 30X40 Design Workshop 14 minutes, 50 seconds" [ref=f338e275]':
+                    - /url: /watch?v=3fXf8xb5eyg&pp=ygUVMzB4NDAgZGVzaWduIHdvcmtzaG9w
+                    - text: "Design Studio Tour : 30X40 Design Workshop"
+                - generic [ref=f338e278]:
+                  - generic [ref=f338e279]: 1m views
+                  - generic [ref=f338e280]: •8 years ago
+              - generic [ref=f338e281]:
+                - link "Go to channel 30X40 Design Workshop" [ref=f338e282]:
+                  - /url: /@30by40
+                - generic [ref=f338e283]:
+                  - link "30X40 Design Workshop" [ref=f338e287]:
+                    - /url: /@30by40
+                  - img "Verified" [ref=f338e292]
+              - generic [ref=f338e294]:
+                - generic [ref=f338e295]: "A guided tour of my design studio: 30X40 Design Workshop. The final installment in the studio series and a detailed look at all the ..."
+                - tooltip "tooltip"
+              - img "Closed captions" [ref=f338e300]:
+                - generic [ref=f338e301]: Subtitles
+          - generic [ref=f338e303] [cursor=pointer]:
+            - link [aria-hidden] [ref=f338e304]:
+              - /url: /watch?v=ly8orBNiNQM&list=PLuJj3iQpiK3skD6A0b9p_O53OPIAW_oM8&pp=0gcJCbwFa94AFGB0
+              - generic [ref=f338e306]: 9 videos
+            - generic [ref=f338e319]:
+              - heading "Architectural Design Process Steps" [level=3] [ref=f338e320]:
+                - link "Architectural Design Process Steps" [ref=f338e321]:
+                  - /url: /watch?v=ly8orBNiNQM&list=PLuJj3iQpiK3skD6A0b9p_O53OPIAW_oM8&pp=0gcJCbwFa94AFGB0
+              - generic [ref=f338e323]:
+                - group [ref=f338e324]:
+                  - link [ref=f338e327]:
+                    - /url: /@30by40
+                  - generic [aria-hidden] [ref=f338e331]: •
+                  - link "Playlist" [ref=f338e334]:
+                    - /url: /@30by40
+                - group [ref=f338e335]
+                - group [ref=f338e336]:
+                  - link "Architectural Design Process | Form, Orientation and Sunlight · 9:54" [ref=f338e338]:
+                    - /url: /watch?v=ly8orBNiNQM&list=PLuJj3iQpiK3skD6A0b9p_O53OPIAW_oM8
+                - group [ref=f338e339]:
+                  - 'link "Architecture Short Course: How to Develop a Design Concept · 19:24" [ref=f338e341]':
+                    - /url: /watch?v=k4dVgbuxBAw&list=PLuJj3iQpiK3skD6A0b9p_O53OPIAW_oM8
+                - group [ref=f338e342]
+                - group [ref=f338e343]:
+                  - link "View full playlist" [ref=f338e346]:
+                    - /url: /playlist?list=PLuJj3iQpiK3skD6A0b9p_O53OPIAW_oM8
+          - generic [ref=f338e359] [cursor=pointer]:
+            - generic [ref=f338e360]:
+              - link "Springs @ NeoPolis The Landmark" [ref=f338e363]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CeBUbuf2papvsBduprtoPgKrVgAad0PiNiQHh2LvP6BVkEAIgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB9N2ShimpAmJ2IZkCYUY-qAMEyAMKqgSzAk_Q7zWik49MuYMvF71DzkcK6PvdKy7yacBNXsYyS3xRfe3sm-Vuc5Z9O6hMK3W1oaBbk_n07hqbpjZ3zzsV7dQSDeA9_O3yt0rfavM_LgmC0qxA3m3ZoR7ekC9RGPotxekR5uPzb7SHh4EwKYXi0y7RRUOqAUzmEYL9zmegMLsLUFbGYV3mJTe2z4Z1yeNqoXSJFsQYIonF4E13M7fkqKJAw77qCSerLGpogJObqjrGGAEnFLVdpa7mS3ufEFPQAj5x626UbyN2xeAIhGlMpXxe4A4xVpE4XbGtik68cmcrA94r_OFPlUVVyLo2ad1eQEKjRXEjawYLw_1g73reUFlQWJ7jj1FQLnfBvhl9bfGmlcCEPE6rItAjNGx_QTH4NfQP3QQSp5GxlSB7jPdXHLldGjKIBdnSivlZkgUICBN4z-XvjASgBm6AB_SV4-UDkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPCeht6F8pYDYAGaCRhodHRwczovL2F2ZW51ZXJlYWx0eS5pbi-xCR-3NJMIcmdpyAkAyAmKApgLAboLPQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMFdmlzaW7QCxKiDAgqBgoE8N-xAtIMAhAB2gwlCgoQwNmHuL-g-8VmEgIBAxoNGNnSivlZILO5mYjyBUABSgIQH5oNARKqDQJJTsgNAdINrwFodHRwczovL2F2ZW51ZXJlYWx0eS5pbi8_dXRtX3NvdXJjZT1Hb29nbGUmdXRtX21lZGl1bT1WaWRlbyZ1dG1fY2FtcGFpZ249TmVvUG9saXNfRGdlbl9JbWFnZV9hZF8xODA4MjAyNiZ1dG1fdGVybT1vcGVucGxvdHNpbnZpamF5YXdhZGEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MTQ0Njg1NDAxuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF-oXBD_V4sWIuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI26yG3oXylgMV25RLBR0AVRVgEAEYAiAAEgJNdPD_BwE&num=2&cid=CAASwwHkaOVRhjOsiwNbtR6fzEmQnX-3egD5zxbGawCtiZUrSMHWf09-pmZpQlLEWQNgu9FTXsac_oKeTTqzLLSLg-7fw_Xjx_DYZjc5PImBZuqx-WGU0MAcbcAM3JapMtgf9bhkn0-wVs1vV-CCT5fqCivxBdtnQ0zQ1XU3MiBmRVtSAdEcKTtGHRgOzWXlt_5PM8a994bTnpJVsAk5yDPx5jUN76SEYa8UGHCbqWA__jSGl4GgRlkXLIlZx0aCs7BZnJltIyk&sig=AOD64_22QUpw40wHFIlwlT-9Na_T3kvbdg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - link "Your landmark address awaits in Edupugallu, Vijayawada. Explore now." [ref=f338e366]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CeBUbuf2papvsBduprtoPgKrVgAad0PiNiQHh2LvP6BVkEAIgAGDl-uODmA6CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB9N2ShimpAmJ2IZkCYUY-qAMEyAMKqgSzAk_Q7zWik49MuYMvF71DzkcK6PvdKy7yacBNXsYyS3xRfe3sm-Vuc5Z9O6hMK3W1oaBbk_n07hqbpjZ3zzsV7dQSDeA9_O3yt0rfavM_LgmC0qxA3m3ZoR7ekC9RGPotxekR5uPzb7SHh4EwKYXi0y7RRUOqAUzmEYL9zmegMLsLUFbGYV3mJTe2z4Z1yeNqoXSJFsQYIonF4E13M7fkqKJAw77qCSerLGpogJObqjrGGAEnFLVdpa7mS3ufEFPQAj5x626UbyN2xeAIhGlMpXxe4A4xVpE4XbGtik68cmcrA94r_OFPlUVVyLo2ad1eQEKjRXEjawYLw_1g73reUFlQWJ7jj1FQLnfBvhl9bfGmlcCEPE6rItAjNGx_QTH4NfQP3QQSp5GxlSB7jPdXHLldGjKIBdnSivlZkgUICBN4z-XvjASgBm6AB_SV4-UDkAcEqAfywLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBBI2aDSNVAUWPCeht6F8pYDYAGaCRhodHRwczovL2F2ZW51ZXJlYWx0eS5pbi-xCR-3NJMIcmdpyAkAyAmKApgLAboLPQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMFdmlzaW7QCxKiDAgqBgoE8N-xAtIMAhAB2gwlCgoQwNmHuL-g-8VmEgIBAxoNGNnSivlZILO5mYjyBUABSgIQH5oNARKqDQJJTsgNAdINrwFodHRwczovL2F2ZW51ZXJlYWx0eS5pbi8_dXRtX3NvdXJjZT1Hb29nbGUmdXRtX21lZGl1bT1WaWRlbyZ1dG1fY2FtcGFpZ249TmVvUG9saXNfRGdlbl9JbWFnZV9hZF8xODA4MjAyNiZ1dG1fdGVybT1vcGVucGxvdHNpbnZpamF5YXdhZGEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MTQ0Njg1NDAxuBP___________8BsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF-oXBD_V4sWIuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMI26yG3oXylgMV25RLBR0AVRVgEAEYAiAAEgJNdPD_BwE&num=2&cid=CAASwwHkaOVRhjOsiwNbtR6fzEmQnX-3egD5zxbGawCtiZUrSMHWf09-pmZpQlLEWQNgu9FTXsac_oKeTTqzLLSLg-7fw_Xjx_DYZjc5PImBZuqx-WGU0MAcbcAM3JapMtgf9bhkn0-wVs1vV-CCT5fqCivxBdtnQ0zQ1XU3MiBmRVtSAdEcKTtGHRgOzWXlt_5PM8a994bTnpJVsAk5yDPx5jUN76SEYa8UGHCbqWA__jSGl4GgRlkXLIlZx0aCs7BZnJltIyk&sig=AOD64_22QUpw40wHFIlwlT-9Na_T3kvbdg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+              - generic [ref=f338e367]:
+                - generic [ref=f338e369]:
+                  - generic [ref=f338e370]: Sponsored
+                  - text: ·
+                - generic [ref=f338e371]: Avenue Realty
+            - button "My Ad Centre" [ref=f338e375]
+          - generic [ref=f338e380] [cursor=pointer]:
+            - link [aria-hidden] [ref=f338e381]:
+              - /url: /watch?v=R7YxG4nsqeg&list=PLuJj3iQpiK3vOJaigWXfrS7zHfVDvvxGO&pp=0gcJCbwFa94AFGB0
+              - generic [ref=f338e383]: 6 videos
+            - generic [ref=f338e396]:
+              - heading "How to Design a Floor Plan" [level=3] [ref=f338e397]:
+                - link "How to Design a Floor Plan" [ref=f338e398]:
+                  - /url: /watch?v=R7YxG4nsqeg&list=PLuJj3iQpiK3vOJaigWXfrS7zHfVDvvxGO&pp=0gcJCbwFa94AFGB0
+              - generic [ref=f338e400]:
+                - group [ref=f338e401]:
+                  - link [ref=f338e404]:
+                    - /url: /@30by40
+                  - generic [aria-hidden] [ref=f338e408]: •
+                  - link "Playlist" [ref=f338e411]:
+                    - /url: /@30by40
+                - group [ref=f338e412]
+                - group [ref=f338e413]:
+                  - link "Floor Plan Design TUTORIAL · 8:37" [ref=f338e415]:
+                    - /url: /watch?v=R7YxG4nsqeg&list=PLuJj3iQpiK3vOJaigWXfrS7zHfVDvvxGO
+                - group [ref=f338e416]:
+                  - link "Architectural Drawing Tutorial | My process + settings · 12:59" [ref=f338e418]:
+                    - /url: /watch?v=HEo0NqYputQ&list=PLuJj3iQpiK3vOJaigWXfrS7zHfVDvvxGO
+                - group [ref=f338e419]
+                - group [ref=f338e420]:
+                  - link "View full playlist" [ref=f338e423]:
+                    - /url: /playlist?list=PLuJj3iQpiK3vOJaigWXfrS7zHfVDvvxGO
+          - generic [ref=f338e425] [cursor=pointer]:
+            - link [aria-hidden] [ref=f338e426]:
+              - /url: /watch?v=xsbFQR_k2eY&list=PLuJj3iQpiK3s3jKGoKyElZ1IFTfAxLj73
+              - generic [ref=f338e428]: 12 videos
+            - generic [ref=f338e441]:
+              - heading "CAD drawing" [level=3] [ref=f338e442]:
+                - link "CAD drawing" [ref=f338e443]:
+                  - /url: /watch?v=xsbFQR_k2eY&list=PLuJj3iQpiK3s3jKGoKyElZ1IFTfAxLj73
+              - generic [ref=f338e445]:
+                - group [ref=f338e446]:
+                  - link [ref=f338e449]:
+                    - /url: /@30by40
+                  - generic [aria-hidden] [ref=f338e453]: •
+                  - link "Playlist" [ref=f338e456]:
+                    - /url: /@30by40
+                - group [ref=f338e457]
+                - group [ref=f338e458]:
+                  - link "Improve Your CAD Drawings | START TO FINISH tutorial (+ template) · 9:06" [ref=f338e460]:
+                    - /url: /watch?v=xsbFQR_k2eY&list=PLuJj3iQpiK3s3jKGoKyElZ1IFTfAxLj73
+                - group [ref=f338e461]:
+                  - link "Architectural Drawing Tutorial | My process + settings · 12:59" [ref=f338e463]:
+                    - /url: /watch?v=HEo0NqYputQ&list=PLuJj3iQpiK3s3jKGoKyElZ1IFTfAxLj73
+                - group [ref=f338e464]
+                - group [ref=f338e465]:
+                  - link "View full playlist" [ref=f338e468]:
+                    - /url: /playlist?list=PLuJj3iQpiK3s3jKGoKyElZ1IFTfAxLj73
+          - generic [ref=f338e470] [cursor=pointer]:
+            - link [aria-hidden] [ref=f338e471]:
+              - /url: /watch?v=eDmqgrIq71I&list=PLuJj3iQpiK3uVbCnB4Cb-DYrS_AJrG9WY
+              - generic [ref=f338e473]: 14 videos
+            - generic [ref=f338e486]:
+              - heading "Designing A Small Studio" [level=3] [ref=f338e487]:
+                - link "Designing A Small Studio" [ref=f338e488]:
+                  - /url: /watch?v=eDmqgrIq71I&list=PLuJj3iQpiK3uVbCnB4Cb-DYrS_AJrG9WY
+              - generic [ref=f338e490]:
+                - group [ref=f338e491]:
+                  - link [ref=f338e494]:
+                    - /url: /@30by40
+                  - generic [aria-hidden] [ref=f338e498]: •
+                  - link "Playlist" [ref=f338e501]:
+                    - /url: /@30by40
+                - group [ref=f338e502]
+                - group [ref=f338e503]:
+                  - link "Designing a Small Studio - Part 1, The Concept & Inspiration · 4:05" [ref=f338e505]:
+                    - /url: /watch?v=eDmqgrIq71I&list=PLuJj3iQpiK3uVbCnB4Cb-DYrS_AJrG9WY
+                - group [ref=f338e506]:
+                  - link "Designing a Small Studio - Part 2, Site Diagrams and Building Sizing · 9:38" [ref=f338e508]:
+                    - /url: /watch?v=uHdjysuvKEg&list=PLuJj3iQpiK3uVbCnB4Cb-DYrS_AJrG9WY
+                - group [ref=f338e509]
+                - group [ref=f338e510]:
+                  - link "View full playlist" [ref=f338e513]:
+                    - /url: /playlist?list=PLuJj3iQpiK3uVbCnB4Cb-DYrS_AJrG9WY

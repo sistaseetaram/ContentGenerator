@@ -84,7 +84,15 @@ To pull them: read the journal.jsonl `result` entries the same way the prior ses
 2. **Extract `title-thumbnail` + `script-openings`** from the journal above → draft video #1's actual script and thumbnail.
 3. **Extract `outlier-hunt` + `keyword-research`** → sanity-check the title against real winnable keywords.
 4. Wire `~/.claude/skills/video-studio/SKILL.md` (global router) to the new student-kit skills — it currently only knows `video-use` + our `hyperframes`. Add a routing row for `edit-video`, `cut-silences`, `cut-mistakes`, `video-storytelling`, `hyperframes-video-beats`, `short-form-edit`, `style-library`.
-5. Decide how to bridge transcription: keep `video-use/helpers/transcribe_local.py` (mlx-whisper, free, offline, already proven) feeding into the kit's node-based cutters via `student-kit/scripts/video-use-to-hyperframes-transcript.mjs` (exists for exactly this).
+5. ~~Decide how to bridge transcription~~ **RESOLVED 2026-09-17 — the original claim here was wrong.**
+   `transcribe_local.py` emits `{"type":"word","text","start","end"}`, which is exactly what the kit's
+   `cut-silences.mjs` accepts (it filters `type === "word"` and reads `w.text`). Our transcriber feeds the
+   kit's node cutters **directly — no adapter needed**.
+   `student-kit/scripts/video-use-to-hyperframes-transcript.mjs` does something else entirely: it takes a
+   video-use **`edl.json`** (not a transcript), reads `<edl_dir>/transcripts/<source>.json` per source, and
+   writes `<edl_dir>/transcript.json` re-timed onto the **edited** timeline for HyperFrames' Gate 0
+   `validate-beat-sync.mjs`. It is a post-cut adapter, not a transcriber→cutter bridge. Both facts are now
+   documented in the `video-studio` router.
 6. Cherry-pick `tts.md` + the Visual Identity Gate block into our `hyperframes` skill.
 7. Re-auth-test the YouTube token before the first upload.
 8. Execute Phase 0 (plan Part 4) then Week 1.

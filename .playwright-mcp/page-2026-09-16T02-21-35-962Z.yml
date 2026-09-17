@@ -1,0 +1,966 @@
+- generic [ref=f291e2]:
+  - banner [ref=f291e4]:
+    - generic [ref=f291e6]:
+      - generic [ref=f291e7]:
+        - button "Guide" [ref=f291e9] [cursor=pointer]
+        - generic [ref=f291e13]:
+          - link "YouTube Home" [ref=f291e14] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f291e20]: IN
+        - button "Skip navigation" [ref=f291e24] [cursor=pointer]
+      - generic [ref=f291e28]:
+        - search [ref=f291e29]:
+          - generic [ref=f291e31]:
+            - combobox "Search" [expanded] [ref=f291e34]
+            - button "Search" [ref=f291e35] [cursor=pointer]
+        - generic [ref=f291e40]:
+          - button "Search with your voice" [ref=f291e42] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=f291e47]:
+        - button "Settings" [ref=f291e52] [cursor=pointer]
+        - link "Sign in" [ref=f291e58] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DKGXFkUlBHxw&hl=en-GB&ec=65620
+  - main [ref=f291e63]:
+    - generic [ref=f291e64]:
+      - generic [ref=f291e66]:
+        - generic [ref=f291e69]:
+          - generic [aria-hidden] [ref=f291e72] [cursor=pointer]
+          - complementary [ref=f291e73]:
+            - generic "YouTube Video Player" [active] [ref=f291e76]:
+              - generic [ref=f291e78]:
+                - generic:
+                  - generic [ref=f291e80] [cursor=pointer]:
+                    - generic [ref=f291e83]:
+                      - generic "Easily build no-code agents" [ref=f291e84]
+                      - generic "cloud.google.com" [ref=f291e85]
+                    - link "Sign up This link opens in new tab" [ref=f291e86]:
+                      - generic [ref=f291e87]: Sign up
+                  - generic [ref=f291e88]:
+                    - generic "Sponsored" [ref=f291e90]
+                    - button "My Ad Centre" [ref=f291e92] [cursor=pointer]
+                    - link "cloud.google.com This link opens in new tab" [ref=f291e94]:
+                      - generic [ref=f291e95] [cursor=pointer]: cloud.google.com
+              - generic [ref=f291e98]:
+                - generic [ref=f291e99]:
+                  - slider "Seek slider" [disabled] [ref=f291e100]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - slider "Click or scroll the panel for precise seeking." [disabled]
+                - generic [ref=f291e110]:
+                  - generic [ref=f291e111]:
+                    - button "Pause (k)" [ref=f291e112] [cursor=pointer]
+                    - generic [ref=f291e113]:
+                      - button "Unmute (m)" [ref=f291e115] [cursor=pointer]
+                      - slider "Volume":
+                        - generic [ref=f291e116] [cursor=pointer]
+                    - button "0 Minutes 2 Seconds of 0 Minutes 15 Seconds" [ref=f291e119] [cursor=pointer]: 0:02 / 0:15
+                  - generic [ref=f291e120]:
+                    - generic [ref=f291e121]:
+                      - button "Subtitles/closed captions unavailable" [ref=f291e122] [cursor=pointer]
+                      - button "Settings" [ref=f291e124] [cursor=pointer]
+                    - generic [ref=f291e125]:
+                      - button "Cinema mode (t)" [ref=f291e126] [cursor=pointer]
+                      - button "Full screen (f)" [ref=f291e127] [cursor=pointer]
+        - generic [ref=f291e128]:
+          - generic [ref=f291e129]:
+            - generic [ref=f291e131]:
+              - heading "I Built an AI System That Automates My Proposals (n8n + Gamma)" [level=1] [ref=f291e134]
+              - generic [ref=f291e135]:
+                - generic [ref=f291e136]:
+                  - generic [ref=f291e137]:
+                    - link [ref=f291e138] [cursor=pointer]:
+                      - /url: /@nateherk
+                      - img "Nate Herk | AI Automation" [ref=f291e140]
+                    - generic [ref=f291e141]:
+                      - generic [ref=f291e142]:
+                        - generic "Nate Herk | AI Automation" [ref=f291e145]:
+                          - link "Nate Herk | AI Automation" [ref=f291e146] [cursor=pointer]:
+                            - /url: /@nateherk
+                        - img "Verified" [ref=f291e151]
+                      - generic "1.01 million subscribers" [ref=f291e155]: 1.01m subscribers
+                  - button "Subscribe to Nate Herk | AI Automation." [ref=f291e161] [cursor=pointer]:
+                    - generic: Subscribe
+                - generic [ref=f291e168]:
+                  - generic [ref=f291e169]:
+                    - generic [ref=f291e179]:
+                      - button "like this video along with 927 other people" [ref=f291e183] [cursor=pointer]:
+                        - generic: "927"
+                      - button "Dislike this video" [ref=f291e190] [cursor=pointer]
+                    - button "Share" [ref=f291e196] [cursor=pointer]
+                  - button "Save to playlist" [ref=f291e203] [cursor=pointer]:
+                    - generic: Save
+                  - button "More actions" [ref=f291e208] [cursor=pointer]
+              - generic [ref=f291e214] [cursor=pointer]:
+                - generic [ref=f291e215]:
+                  - generic [ref=f291e216]: 63k views 7 months ago
+                  - tooltip "tooltip"
+                - generic [ref=f291e218]:
+                  - generic [ref=f291e219]:
+                    - generic [ref=f291e222]:
+                      - text: Get Started with Gamma API ➡️
+                      - link "https://gam.link/nateherk" [ref=f291e224]:
+                        - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRU93aGNmRnRpLWdEX1UtM1JvVGhUb3xBTl9pYzRlOFFoOFNMUGtrYnVQZnNlX3BpQWFmSWxzVzhuTUpNdTAwY2hETnpSREdrNTZhQUwyTDJWNVJhNGV1VGFlODZ2ajVSRVNhZ0lEQ2R3WU03RjdzS1pVZTJNWmpvSG1K&q=https%3A%2F%2Fgam.link%2Fnateherk&v=KGXFkUlBHxw
+                      - text: "My FREE AI OS Course:"
+                      - link "https://www.skool.com/ai-automation-s..." [ref=f291e226]:
+                        - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR0hrVDlkN3ZTQndtR1lqZS1zc1dRV3xBTl9pYzRkVEZxdFdIcVZWY0FxU1dlemJvZEhuZVlyS05yZGt2UUU5b1lNNWNjSTFRZTRTZkhMWDJ3OTlqa24tU1hmdlg2c2dCQjV2b05kUXdNVnZxYXBQLTdZdDFONEtvZkxh&q=https%3A%2F%2Fwww.skool.com%2Fai-automation-society%2Fabout%3Fel%3Di-built-an-ai-system-that-automates-my-proposals%26hcategory%3Dyoutube-videos%26utm_campaign%3Dfree-group&v=KGXFkUlBHxw
+                      - text: "Full courses + unlimited support:"
+                      - link "https://www.skool.com/ai-automation-s..." [ref=f291e228]:
+                        - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRVkzUEtpUjBRWVdTbWhKV295SHJRSHxBTl9pYzRlekZxUklfc29HdEpucWw4S0dfQmdHZHh6U0RkRGpyVkVtdDNHcjF3am4wdF9IWGxaNEN4VkVPVGVRWkpfemtUOEkyNUZ5YVk4STVKTG9RTDR6bHJmcFZ4SXVGSDJV&q=https%3A%2F%2Fwww.skool.com%2Fai-automation-society-plus%2Fabout%3Fel%3Di-built-an-ai-system-that-automates-my-proposals%26hcategory%3Dyoutube-videos%26utm_campaign%3Dais-plus&v=KGXFkUlBHxw
+                    - generic: …
+                  - button "...more" [ref=f291e229]
+            - text: •
+          - generic [ref=f291e232]:
+            - generic [ref=f291e234]:
+              - generic [ref=f291e235]:
+                - heading "34 Comments" [level=2] [ref=f291e237]
+                - generic [ref=f291e241]:
+                  - tooltip "tooltip"
+                  - group [ref=f291e243]:
+                    - button "Sort comments" [ref=f291e245] [cursor=pointer]:
+                      - generic [ref=f291e249]: Sort by
+              - generic [ref=f291e251]:
+                - img "Default profile photo" [ref=f291e253]
+                - textbox [ref=f291e255]
+            - generic [ref=f291e256]:
+              - generic [ref=f291e261]:
+                - button "@nateherk" [ref=f291e263] [cursor=pointer]
+                - generic [ref=f291e265]:
+                  - generic [ref=f291e266]:
+                    - generic [ref=f291e267]: Pinned by @nateherk
+                    - generic [ref=f291e274]:
+                      - heading [level=3]
+                      - link "@nateherk" [ref=f291e277] [cursor=pointer]:
+                        - /url: /@nateherk
+                        - generic "@nateherk" [ref=f291e281]
+                      - link "7 months ago (edited)" [ref=f291e286] [cursor=pointer]:
+                        - /url: /watch?v=KGXFkUlBHxw&lc=Ugyv0VZFBNx9uplwBXp4AaABAg
+                  - generic [ref=f291e287]:
+                    - generic [ref=f291e290]:
+                      - text: Get Started with Gamma API
+                      - link "https://gam.link/nateherk" [ref=f291e293] [cursor=pointer]:
+                        - /url: https://www.youtube.com/redirect?event=comments&redir_token=QUZZTVljR24wcUp4bWJWRVpPRm1FU3JaVUZWMHxBTl9pYzRjZ18zc0FubjdSNEliRVZzOUlMX1hBZzRhRlhReVlGUzZySEJENS1RZVhfOE1Uazg4NnRfMDg3QkN4N1ZGR0dnVkRKUVlFUnBFNjJGbTBTckdFaHNJWm91dDltVEdz&q=https%3A%2F%2Fgam.link%2Fnateherk
+                      - text: "Full courses + unlimited support:"
+                      - link "https://www.skool.com/ai-automation-society-plus/about?el=i-built-an-ai-system-that-automates-my-proposals&hcategory=youtube-videos&utm_campaign=ais-plus" [ref=f291e295] [cursor=pointer]:
+                        - /url: https://www.youtube.com/redirect?event=comments&redir_token=QUZZTVljSGtTbGdSY2Z5cjI2ODhnRW1rOG0tNXxBTl9pYzRkSkpsb05XVzEwdlVfNERkWEVuRmRrUTgwamc0N0VDVkF2VVRkTXBsU1V1eWs2bDdMSG5oc2pTU1UweUhaWC1DUm1UZXRmTG1VaHcxamFLYlV5dEhmV2VNc3Y3OGxr&q=https%3A%2F%2Fwww.skool.com%2Fai-automation-society-plus%2Fabout%3Fel%3Di-built-an-ai-system-that-automates-my-proposals%26hcategory%3Dyoutube-videos%26utm_campaign%3Dais-plus
+                      - text: "All my FREE resources:"
+                      - link "https://www.skool.com/ai-automation-society/about?el=i-built-an-ai-system-that-automates-my-proposals&hcategory=youtube-videos&utm_campaign=free-group" [ref=f291e297] [cursor=pointer]:
+                        - /url: https://www.youtube.com/redirect?event=comments&redir_token=QUZZTVljRS03cDNnQ2FGR2N2ZjBfc2d1aE5UTHxBTl9pYzRmMlhGN2ItelpsaWZ6NUhNTGMxNmVhWk1CRXBOOUxsTlZIVFFkaERjOUJWWTdFTm1RbmxwVWRCb3R4VzBkRzMzVGJjOFBKSEIwek1RMU1jS3BwSHNNM1I5bGFLTHRM&q=https%3A%2F%2Fwww.skool.com%2Fai-automation-society%2Fabout%3Fel%3Di-built-an-ai-system-that-automates-my-proposals%26hcategory%3Dyoutube-videos%26utm_campaign%3Dfree-group
+                    - button "Read more" [ref=f291e298] [cursor=pointer]
+                  - generic [ref=f291e300]:
+                    - generic [ref=f291e301]:
+                      - button "Like this comment along with 2 other people" [ref=f291e303] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e307]: "2"
+                    - generic [ref=f291e308]:
+                      - button "Dislike this comment" [ref=f291e310] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e316] [cursor=pointer]
+              - generic [ref=f291e324]:
+                - button "@OllieRudek" [ref=f291e326] [cursor=pointer]
+                - generic [ref=f291e328]:
+                  - generic [ref=f291e330]:
+                    - heading [level=3] [ref=f291e331]:
+                      - link "@OllieRudek" [ref=f291e332] [cursor=pointer]:
+                        - /url: /@OllieRudek
+                    - link "7 months ago" [ref=f291e334] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=Ugy0JqARfBNAjglSH1N4AaABAg
+                  - generic [ref=f291e335]: this is huge my clients will love this
+                  - generic [ref=f291e339]:
+                    - generic [ref=f291e340]:
+                      - button "Like this comment along with 2 other people" [ref=f291e342] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e346]: "2"
+                    - generic [ref=f291e347]:
+                      - button "Dislike this comment" [ref=f291e349] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e354]:
+                      - generic [ref=f291e355]:
+                        - button "Heart" [disabled]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e358] [cursor=pointer]
+              - generic [ref=f291e366]:
+                - button "@GbengaAduroja-y4t" [ref=f291e368] [cursor=pointer]
+                - generic [ref=f291e370]:
+                  - generic [ref=f291e372]:
+                    - heading [level=3] [ref=f291e373]:
+                      - link "@GbengaAduroja-y4t" [ref=f291e374] [cursor=pointer]:
+                        - /url: /@GbengaAduroja-y4t
+                    - link "7 months ago" [ref=f291e376] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=Ugwm_MCJS_wJlLVR_2l4AaABAg
+                  - generic [ref=f291e377]: This is a huge workflow. I'm blown away by this. Thank you once again, Nate!
+                  - generic [ref=f291e381]:
+                    - generic [ref=f291e382]:
+                      - button "Like this comment along with 1 other person" [ref=f291e384] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e388]: "1"
+                    - generic [ref=f291e389]:
+                      - button "Dislike this comment" [ref=f291e391] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e396]:
+                      - generic [ref=f291e397]:
+                        - button "Heart" [disabled]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e400] [cursor=pointer]
+              - generic [ref=f291e408]:
+                - button "@PodTalks_officiall" [ref=f291e410] [cursor=pointer]
+                - generic [ref=f291e412]:
+                  - generic [ref=f291e414]:
+                    - heading [level=3] [ref=f291e415]:
+                      - link "@PodTalks_officiall" [ref=f291e416] [cursor=pointer]:
+                        - /url: /@PodTalks_officiall
+                    - link "7 months ago" [ref=f291e418] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgxvFM405ChcpEKv5pp4AaABAg
+                  - generic [ref=f291e419]: Always providing value! Thanks for sharing this
+                  - generic [ref=f291e423]:
+                    - generic [ref=f291e424]:
+                      - button "Like this comment along with 0 other people" [ref=f291e426] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e430]:
+                      - button "Dislike this comment" [ref=f291e432] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e437]:
+                      - generic [ref=f291e438]:
+                        - button "Heart" [disabled]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e441] [cursor=pointer]
+              - generic [ref=f291e449]:
+                - button "@MohammadEmalFaizi" [ref=f291e451] [cursor=pointer]
+                - generic [ref=f291e453]:
+                  - generic [ref=f291e455]:
+                    - heading [level=3] [ref=f291e456]:
+                      - link "@MohammadEmalFaizi" [ref=f291e457] [cursor=pointer]:
+                        - /url: /@MohammadEmalFaizi
+                    - link "7 months ago" [ref=f291e459] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgxXC_KdC4oqGQrg-7t4AaABAg
+                  - generic [ref=f291e460]: Great one! Needed this, thanks for sharing this Nate bro!
+                  - generic [ref=f291e466]:
+                    - generic [ref=f291e467]:
+                      - button "Like this comment along with 0 other people" [ref=f291e469] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e473]:
+                      - button "Dislike this comment" [ref=f291e475] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e480]:
+                      - generic [ref=f291e481]:
+                        - button "Heart" [disabled]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e484] [cursor=pointer]
+              - generic [ref=f291e492]:
+                - button "@aigeneralist8" [ref=f291e494] [cursor=pointer]
+                - generic [ref=f291e496]:
+                  - generic [ref=f291e498]:
+                    - heading [level=3] [ref=f291e499]:
+                      - link "@aigeneralist8" [ref=f291e500] [cursor=pointer]:
+                        - /url: /@aigeneralist8
+                    - link "7 months ago" [ref=f291e502] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgylXZJ07zQZ8mbyrXN4AaABAg
+                  - generic [ref=f291e503]: Killer vid as always. Great integration!
+                  - generic [ref=f291e507]:
+                    - generic [ref=f291e508]:
+                      - button "Like this comment along with 1 other person" [ref=f291e510] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e514]: "1"
+                    - generic [ref=f291e515]:
+                      - button "Dislike this comment" [ref=f291e517] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e522]:
+                      - generic [ref=f291e523]:
+                        - button "Heart" [disabled]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e526] [cursor=pointer]
+              - generic [ref=f291e534]:
+                - button "@guillaume_dx" [ref=f291e536] [cursor=pointer]
+                - generic [ref=f291e538]:
+                  - generic [ref=f291e540]:
+                    - heading [level=3] [ref=f291e541]:
+                      - link "@guillaume_dx" [ref=f291e542] [cursor=pointer]:
+                        - /url: /@guillaume_dx
+                    - link "7 months ago" [ref=f291e544] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgwuLtdjCuaehEoEI-p4AaABAg&pp=0gcJCSIANpG00pGi
+                  - generic [ref=f291e545]: Great work as always ! Thanks !
+                  - generic [ref=f291e549]:
+                    - generic [ref=f291e550]:
+                      - button "Like this comment along with 0 other people" [ref=f291e552] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e556]:
+                      - button "Dislike this comment" [ref=f291e558] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e563]:
+                      - generic [ref=f291e564]:
+                        - button "Heart" [disabled]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e567] [cursor=pointer]
+              - generic [ref=f291e575]:
+                - button "@Basiliold" [ref=f291e577] [cursor=pointer]
+                - generic [ref=f291e579]:
+                  - generic [ref=f291e581]:
+                    - heading [level=3] [ref=f291e582]:
+                      - link "@Basiliold" [ref=f291e583] [cursor=pointer]:
+                        - /url: /@Basiliold
+                    - link "7 months ago" [ref=f291e585] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=Ugyv1JUlNVkOhwp8UwF4AaABAg
+                  - generic [ref=f291e586]: Another Amazing Resource !!!
+                  - generic [ref=f291e590]:
+                    - generic [ref=f291e591]:
+                      - button "Like this comment along with 0 other people" [ref=f291e593] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e597]:
+                      - button "Dislike this comment" [ref=f291e599] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e604]:
+                      - generic [ref=f291e605]:
+                        - button "Heart" [disabled]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e608] [cursor=pointer]
+              - generic [ref=f291e612]:
+                - generic [ref=f291e616]:
+                  - button "@mams4478" [ref=f291e618] [cursor=pointer]
+                  - generic [ref=f291e622]:
+                    - generic [ref=f291e624]:
+                      - heading [level=3] [ref=f291e625]:
+                        - link "@mams4478" [ref=f291e626] [cursor=pointer]:
+                          - /url: /@mams4478
+                      - link "7 months ago (edited)" [ref=f291e628] [cursor=pointer]:
+                        - /url: /watch?v=KGXFkUlBHxw&lc=UgzY6nN9aab6tIpVOm94AaABAg
+                    - generic [ref=f291e629]: thanks bro ! we need more videos with Claude Code !!!
+                    - generic [ref=f291e633]:
+                      - generic [ref=f291e634]:
+                        - button "Like this comment along with 1 other person" [ref=f291e636] [cursor=pointer]
+                        - tooltip "tooltip"
+                      - generic [ref=f291e640]: "1"
+                      - generic [ref=f291e641]:
+                        - button "Dislike this comment" [ref=f291e643] [cursor=pointer]
+                        - tooltip "tooltip"
+                      - generic [ref=f291e648]:
+                        - generic [ref=f291e649]:
+                          - button "Heart" [disabled]
+                        - tooltip "tooltip"
+                      - button "Reply" [ref=f291e652] [cursor=pointer]
+                - generic [ref=f291e664]:
+                  - generic [ref=f291e665] [cursor=pointer]
+                  - generic [ref=f291e667]: ·
+                  - button "1 reply" [ref=f291e670] [cursor=pointer]
+                - generic [ref=f291e674] [cursor=pointer]
+              - generic [ref=f291e679]:
+                - button "@EZAiAnalytics" [ref=f291e681] [cursor=pointer]
+                - generic [ref=f291e683]:
+                  - generic [ref=f291e685]:
+                    - heading [level=3] [ref=f291e686]:
+                      - link "@EZAiAnalytics" [ref=f291e687] [cursor=pointer]:
+                        - /url: /@EZAiAnalytics
+                    - link "7 months ago" [ref=f291e689] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgzM7R2Ni1qCCxnoSNt4AaABAg
+                  - generic [ref=f291e690]: Nice one
+                  - generic [ref=f291e696]:
+                    - generic [ref=f291e697]:
+                      - button "Like this comment along with 0 other people" [ref=f291e699] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e703]:
+                      - button "Dislike this comment" [ref=f291e705] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e710]:
+                      - generic [ref=f291e711]:
+                        - button "Heart" [disabled]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e714] [cursor=pointer]
+              - generic [ref=f291e722]:
+                - button "@zewdumamo4447" [ref=f291e724] [cursor=pointer]
+                - generic [ref=f291e726]:
+                  - generic [ref=f291e728]:
+                    - heading [level=3] [ref=f291e729]:
+                      - link "@zewdumamo4447" [ref=f291e730] [cursor=pointer]:
+                        - /url: /@zewdumamo4447
+                    - link "5 months ago" [ref=f291e732] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgwblOMXcbglmFArcsZ4AaABAg
+                  - generic [ref=f291e733]: Great thank you
+                  - generic [ref=f291e737]:
+                    - generic [ref=f291e738]:
+                      - button "Like this comment along with 0 other people" [ref=f291e740] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e744]:
+                      - button "Dislike this comment" [ref=f291e746] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e752] [cursor=pointer]
+              - generic [ref=f291e756]:
+                - generic [ref=f291e760]:
+                  - button "@KVKAutomates" [ref=f291e762] [cursor=pointer]
+                  - generic [ref=f291e766]:
+                    - generic [ref=f291e768]:
+                      - heading [level=3] [ref=f291e769]:
+                        - link "@KVKAutomates" [ref=f291e770] [cursor=pointer]:
+                          - /url: /@KVKAutomates
+                      - link "7 months ago" [ref=f291e772] [cursor=pointer]:
+                        - /url: /watch?v=KGXFkUlBHxw&lc=Ugx3YR3jK0lob4H2p7h4AaABAg
+                    - generic [ref=f291e773]: Great video nate. Can we get another claude code video soon, its genuinely insane what a anyone can do with it.
+                    - generic [ref=f291e777]:
+                      - generic [ref=f291e778]:
+                        - button "Like this comment along with 1 other person" [ref=f291e780] [cursor=pointer]
+                        - tooltip "tooltip"
+                      - generic [ref=f291e784]: "1"
+                      - generic [ref=f291e785]:
+                        - button "Dislike this comment" [ref=f291e787] [cursor=pointer]
+                        - tooltip "tooltip"
+                      - generic [ref=f291e792]:
+                        - generic [ref=f291e793]:
+                          - button "Heart" [disabled]
+                        - tooltip "tooltip"
+                      - button "Reply" [ref=f291e796] [cursor=pointer]
+                - generic [ref=f291e808]:
+                  - generic [ref=f291e809] [cursor=pointer]
+                  - generic [ref=f291e811]: ·
+                  - button "1 reply" [ref=f291e814] [cursor=pointer]
+                - generic [ref=f291e818] [cursor=pointer]
+              - generic [ref=f291e823]:
+                - button "@MrDrolic" [ref=f291e825] [cursor=pointer]
+                - generic [ref=f291e827]:
+                  - generic [ref=f291e829]:
+                    - heading [level=3] [ref=f291e830]:
+                      - link "@MrDrolic" [ref=f291e831] [cursor=pointer]:
+                        - /url: /@MrDrolic
+                    - link "7 months ago" [ref=f291e833] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgxIkUnKnSnKnyXREHl4AaABAg
+                  - generic [ref=f291e834]: Hi, I love your content! I wanted to ask if you could consider adding Slovak or Czech dubbing using the multi-language audio feature? It would be amazing for your fans here. Thank you!
+                  - generic [ref=f291e838]:
+                    - generic [ref=f291e839]:
+                      - button "Like this comment along with 0 other people" [ref=f291e841] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e845]:
+                      - button "Dislike this comment" [ref=f291e847] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e853] [cursor=pointer]
+              - generic [ref=f291e861]:
+                - button "@AIforGTM" [ref=f291e863] [cursor=pointer]
+                - generic [ref=f291e865]:
+                  - generic [ref=f291e867]:
+                    - heading [level=3] [ref=f291e868]:
+                      - link "@AIforGTM" [ref=f291e869] [cursor=pointer]:
+                        - /url: /@AIforGTM
+                    - link "7 months ago" [ref=f291e871] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=Ugw0UiIXlhttpu8dpFB4AaABAg
+                  - generic [ref=f291e872]: How does that work in Slack? If you're working on behalf of a bigger team, how can we get that communication routed to the right person? What kind of credentials would you need? How would that look different if you had a team you were working for instead of a simple individual?
+                  - generic [ref=f291e876]:
+                    - generic [ref=f291e877]:
+                      - button "Like this comment along with 0 other people" [ref=f291e879] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e883]:
+                      - button "Dislike this comment" [ref=f291e885] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e891] [cursor=pointer]
+              - generic [ref=f291e895]:
+                - generic [ref=f291e899]:
+                  - button "@AaronAltschuler1" [ref=f291e901] [cursor=pointer]
+                  - generic [ref=f291e905]:
+                    - generic [ref=f291e907]:
+                      - heading [level=3] [ref=f291e908]:
+                        - link "@AaronAltschuler1" [ref=f291e909] [cursor=pointer]:
+                          - /url: /@AaronAltschuler1
+                      - link "7 months ago (edited)" [ref=f291e911] [cursor=pointer]:
+                        - /url: /watch?v=KGXFkUlBHxw&lc=UgyKf84oaqJn09R4OiJ4AaABAg
+                    - generic [ref=f291e912]: Can you please make a video on the best automations and workflows to build in 2026 with n8n? Maybe make them into categories. For example, sales, general organization, content creation. A lot of people are clueless when it comes to an actual roadmap of what they should be building and for who. Thank you.
+                    - generic [ref=f291e916]:
+                      - generic [ref=f291e917]:
+                        - button "Like this comment along with 10 other people" [ref=f291e919] [cursor=pointer]
+                        - tooltip "tooltip"
+                      - generic [ref=f291e923]: "10"
+                      - generic [ref=f291e924]:
+                        - button "Dislike this comment" [ref=f291e926] [cursor=pointer]
+                        - tooltip "tooltip"
+                      - generic [ref=f291e931]:
+                        - generic [ref=f291e932]:
+                          - button "Heart" [disabled]
+                        - tooltip "tooltip"
+                      - button "Reply" [ref=f291e935] [cursor=pointer]
+                - button "2 replies" [ref=f291e950] [cursor=pointer]
+                - generic [ref=f291e954] [cursor=pointer]
+              - generic [ref=f291e959]:
+                - button "@mandem888" [ref=f291e961] [cursor=pointer]
+                - generic [ref=f291e963]:
+                  - generic [ref=f291e965]:
+                    - heading [level=3] [ref=f291e966]:
+                      - link "@mandem888" [ref=f291e967] [cursor=pointer]:
+                        - /url: /@mandem888
+                    - link "7 months ago" [ref=f291e969] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgxzaCtUR74SXimEihB4AaABAg
+                  - generic [ref=f291e970]: Does this work workflow work with canva api too? Let’s say you a format template on canva and it just updates those placeholders slots . I think a video on that exact workflow would be super helpful
+                  - generic [ref=f291e974]:
+                    - generic [ref=f291e975]:
+                      - button "Like this comment along with 0 other people" [ref=f291e977] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e981]:
+                      - button "Dislike this comment" [ref=f291e983] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e989] [cursor=pointer]
+              - generic [ref=f291e997]:
+                - button "@jd5787" [ref=f291e999] [cursor=pointer]
+                - generic [ref=f291e1001]:
+                  - generic [ref=f291e1003]:
+                    - heading [level=3] [ref=f291e1004]:
+                      - link "@jd5787" [ref=f291e1005] [cursor=pointer]:
+                        - /url: /@jd5787
+                    - link "7 months ago" [ref=f291e1007] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgxugV0LP_Ph9rxmbvV4AaABAg
+                  - generic [ref=f291e1008]: Interesting. Thanks for sharing. You think that Claude Code could generate a workflow like this one?
+                  - generic [ref=f291e1012]:
+                    - generic [ref=f291e1013]:
+                      - button "Like this comment along with 0 other people" [ref=f291e1015] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e1019]:
+                      - button "Dislike this comment" [ref=f291e1021] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e1026]:
+                      - generic [ref=f291e1027]:
+                        - button "Heart" [disabled]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e1030] [cursor=pointer]
+              - generic [ref=f291e1038]:
+                - button "@oMCMKo" [ref=f291e1040] [cursor=pointer]
+                - generic [ref=f291e1042]:
+                  - generic [ref=f291e1044]:
+                    - heading [level=3] [ref=f291e1045]:
+                      - link "@oMCMKo" [ref=f291e1046] [cursor=pointer]:
+                        - /url: /@oMCMKo
+                    - link "7 months ago" [ref=f291e1048] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=Ugy8-8h0HzzQN0r-D194AaABAg
+                  - generic [ref=f291e1049]:
+                    - generic [ref=f291e1050]: Been following a long for a long time, even posted a couples times in the free group but thought I would help with engagement here by asking about something that’s been holding me back. How do you handle integrations with their existing tech stack? I have replicated and modified most your automations, even found some other ones that landed me my first client. What’s holding me back from really pursuing this is the fear of the client having a CRM or a booking system, etc that I don’t know how to integrate with. Have you dealt with situations like this? Am I just looking for excuses to not dive in the rest the way?
+                    - button "Read more" [ref=f291e1052] [cursor=pointer]
+                  - generic [ref=f291e1054]:
+                    - generic [ref=f291e1055]:
+                      - button "Like this comment along with 1 other person" [ref=f291e1057] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e1061]: "1"
+                    - generic [ref=f291e1062]:
+                      - button "Dislike this comment" [ref=f291e1064] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e1070] [cursor=pointer]
+              - generic [ref=f291e1078]:
+                - button "@16Gym" [ref=f291e1080] [cursor=pointer]
+                - generic [ref=f291e1082]:
+                  - generic [ref=f291e1084]:
+                    - heading [level=3] [ref=f291e1085]:
+                      - link "@16Gym" [ref=f291e1086] [cursor=pointer]:
+                        - /url: /@16Gym
+                    - link "7 months ago" [ref=f291e1088] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgxeD8o6jopy0sfkQ-l4AaABAg
+                  - generic [ref=f291e1089]: how to handle context window errors? it often exists when we feed the agent some lengthy prompts Thanks!
+                  - generic [ref=f291e1093]:
+                    - generic [ref=f291e1094]:
+                      - button "Like this comment along with 0 other people" [ref=f291e1096] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e1100]:
+                      - button "Dislike this comment" [ref=f291e1102] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e1108] [cursor=pointer]
+              - generic [ref=f291e1116]:
+                - button "@MariaGloria-ki2lu" [ref=f291e1118] [cursor=pointer]
+                - generic [ref=f291e1120]:
+                  - generic [ref=f291e1122]:
+                    - heading [level=3] [ref=f291e1123]:
+                      - link "@MariaGloria-ki2lu" [ref=f291e1124] [cursor=pointer]:
+                        - /url: /@MariaGloria-ki2lu
+                    - link "7 months ago" [ref=f291e1126] [cursor=pointer]:
+                      - /url: /watch?v=KGXFkUlBHxw&lc=UgxLq8V6mOGOH7K6-Z14AaABAg
+                  - generic [ref=f291e1127]: I'm curious about something, do you talk about the solutions during your calls with the client? cause I'm wondering how the Gamma AI was able to get the proposed solutions.
+                  - generic [ref=f291e1131]:
+                    - generic [ref=f291e1132]:
+                      - button "Like this comment along with 0 other people" [ref=f291e1134] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - generic [ref=f291e1138]:
+                      - button "Dislike this comment" [ref=f291e1140] [cursor=pointer]
+                      - tooltip "tooltip"
+                    - button "Reply" [ref=f291e1146] [cursor=pointer]
+      - generic [ref=f291e1211]:
+        - generic [ref=f291e1220] [cursor=pointer]:
+          - generic "Sponsored – Easily build no-code agents cloud.google.com" [ref=f291e1222]:
+            - button "Google Cloud" [ref=f291e1226]
+            - generic [ref=f291e1229]:
+              - generic [ref=f291e1230]: Easily build no-code agents
+              - generic [ref=f291e1231]:
+                - generic [ref=f291e1233]:
+                  - generic [ref=f291e1234]: Sponsored
+                  - text: ·
+                - generic [ref=f291e1235]: cloud.google.com
+          - link "Sign up" [ref=f291e1238]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CgmDmKv2paqXjK5WsjMwPyr_R6QuvxvTUiQHWwtS9_RWxkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGk7o2vKKgDBMgDCqoElANP0DkztR22WsUCEj3PEHOTRK6EwbNYEe0TpdlbWgkmkWFrkMje6aBeiN6MpbcNDQQdZkgtBWHttDimeGHltDgY-8k7E1fIW1npahIOVjk86D4i7r2Pqy4CL2oBgBqY0g2jQFQXdmtLipxpDVEhq7TuegJZRJHvem0chFUrB9suduoLpdmRSv2w3mwK0_urRu6IFsRsWHAkojWe7yGNa3_j4mGvFbzWyq2nBaXZkctK_hJ2CCLUOnF-mA4nUt16_E3qOiYX4iPhsn5xW3CaTPH7NJJcUCegSzb0j4NNrQ1jz70e6f6VCYTQoMlwk3paxPiuWVvs_8TfG9CwZRQstIIwkaFp-PhD94mLF4Bfr0J3_WeazFw-IS4yCZMz__LsFor_OOtHpIzPgOkkbghhOhzY3KmzBgWhxTPKGKEmWHz8OwgFOO4dKpMJWvveBTzCTvwd17g-jW7snT0G7ES422ysYyB4lkjqKio5YAv33Mi6X415wFDXM-45KE6aVg9P0Xkr9TnnMf1C6s3z8Rjok94sbQWmcYgF--Krs1mgBqEBgAeLhsiDHZAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtDNUo2dHJqdFZEa6gIAdIILgiAQRABGF4yAoICOg-AY4DAgICAgICAAqqAgBBI2aDSNVAUWPiOlJqF8pYDYAHyCB9jYS15dC1ob3N0LXB1Yi03Mjc2NTUwOTg1NDkxMjcxmgkqaHR0cHM6Ly9jbG91ZC5nb29nbGUuY29tL2dlbWluaS1lbnRlcnByaXNlsQnYjAyhu4RErsgJGMgJjwHICcIBoQtitnpNGMnyJroLRQgBEAEYBCABKAEwEEABSAFgAGgAcAKIAQCYAQGiARIKABgAIABYAWAAcAGoAgHYAgKoAQHYAQaAAgGIAgW6AwV2aXNpbtALEuALAaIMSSoGCgTw37ECYhIKEGNvbS5nb29nbGUuVmVzcGFqJgokY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuY2xvdWRjb25zb2xleACIAQDSDAIQAdoMJgoLEKDdvvGp3OyHnwESAgEDGg0Y--Krs1kgwIi05vYFQAFKAhAfmg0BEqoNAklOyA0B0g2kBWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L3NlYXJjaGFkcy9saW5rL2NsaWNrP2xpZD01ODcwMDAwOTA5NTc0ODEzNSZkc19hX2NpZD03ODU4MzUwNjYwJmRzX2FfY2FpZD0yMzk5ODQyNzUxNSZkc19hX2FnaWQ9MjAzNjg4ODM4MjA4JmRzX2FfZmlpZD0mZHNfYV9saWQ9JmRzX2FfZXh0aWQ9JiZkc19lX2FkaWQ9ODE1OTE5OTEwNTE2JmRzX2VfbWF0Y2h0eXBlPSZkc19lX2RldmljZT1jJmRzX2VfbmV0d29yaz0mJmRzX3VybF92PTImZHNfZGVzdF91cmw9aHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL2Nsay82NDU0ODM5ODY7NDUyMDkxMzk2O2I7Z2Rwcj0ke0dEUFJ9O2dkcHJfY29uc2VudD0ke0dEUFJfQ09OU0VOVF83NTV9O2RjX3RyYW5zcGFyZW50PTE7P2h0dHBzOi8vY2xvdWQuZ29vZ2xlLmNvbS9nZW1pbmktZW50ZXJwcmlzZT8vP3V0bV9zb3VyY2U9REdFTiZ1dG1fbWVkaXVtPVZpZGVvJnV0bV9jYW1wYWlnbj0xNzEzNzA0LUdlbWluaV9FbnRlcnByaXNlLURSLUFQQUMtSU4tZW4tREdlbi1Qcm9zcGVjdGluZy1WaWRlby1TTUItR0VudGVycHJpc2UtY3JlYXRlX2FnZW50cyZ1dG1fY29udGVudD1jLTIwMzY4ODgzODIwOC0tLTkzMDA4NDgtMjM5OTg0Mjc1MTUmdXRtX3Rlcm09JmdjbHNyYz1hdy5kcyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM5OTg0Mjc1MTW4E____________wGIFAiwFAHAFcmAgEDQFQHYFQGQFgGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIpaCUmoXylgMVFRaDAx3KXzS9EAEYASAAEgIJCPD_BwE&num=1&cid=CAASwwHkaMAGLdvYZ-7El-HFfQIvWo7yghml_lpQAs7EHs1jDXoxdUjokou1Z91g8AzmPdjW9hpkbxRlq7mhmVw4XzJ9KOUTGIJFenFx_VFe5Vlp0MUJKLZufCQwoM000iC5FKKfB26-0F6KmMLPBgz6R-GTauIu5qJ90gJXS-NH5xGQq_Yriur1FHnxTFC0ACZTbvjDMPznFSWPnEOn5hB4eM4N2GQjf7jr4Ca4KVslD8Oh9AsDY4XzDQNC7R8mBTBKRDb73A8&ad_cpn=%5BAD_CPN%5D&sig=AOD64_197EwpWgCvv51wopzA47cJ0mBt_Q&label=video_click_to_advertiser_site&ctype=110&ms=%5BCLICK_MS%5D&adclksrc=%5BCLICK_SOURCE%5D
+          - button "My Ad Centre" [ref=f291e1244]
+        - generic [ref=f291e1251]:
+          - generic [ref=f291e1256]:
+            - generic [ref=f291e1257] [cursor=pointer]
+            - generic [ref=f291e1260]:
+              - generic [ref=f291e1261] [cursor=pointer]:
+                - generic [ref=f291e1262]:
+                  - link "Walk Your Way Slim" [ref=f291e1265]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CdKb7Kv2parm6LLuu88EPjPb6gAe3i-fSiQG0h8SF8hWxkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHss_LAAagDBMgDCqoE2QJP0PgWz4WwhigNJr-s0m1vflH-fXjnxzMr7aCBo8i14K2C426Ff2mR6phPn2K6VHUFxnKxdbiqASD8E7lndLRrUrNcw1cnDG_3mxlVH45KT3nYHpbttLtLaPdMyoi6jRq2TitGAX4l6NEWhP6-e3Lx0Eot5zDMqlGYV8zd09_zAgnfOth7Zy19pqLoWnB1JMNBk6G65Rgx-WxCzl5eVxO5crjQEu-CFaimznYTDZOE08jcooGQxxN-q8GrONZeeVHScbJYevRhy8SQBTnqscphoGD1yml36b3HvlCwyA2tbQI-zP5w3-wCzh4X0B5UHT2w8N_4VRcM9-1fZ_6GwmYhMvlrz2dTSMdX29x2oSgbLyaaATSzjIyt2jCXk1XGUkVeKOkfAsejQAID9_sIWvSmZvPssPQPONG7zG-Xsv1nFeTQMaD4MPk0lV-2ByBjE_JVG_3bfibmEZuIBaC_zpJakgUKCBNoAnjhl6-_AqAGboAH_MuNvwKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BjgMCAgICAgIACqoCAEEjZoNI1UBRY8OSUmoXylgNgAfIIH2NhLXl0LWhvc3QtcHViLTcyNzY1NTA5ODU0OTEyNzGaCT9odHRwczovL21hZG11c2NsZXMuY29tL2Z1bm5lbC90YWljaGktd2Fsa2luZy12NDg5LXVuc3gvc3RlcC1vbmWxCQ93cJLAK3ySyAkAyAmKApgLAaELYrZ6TRjJ8ia6C0EIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAga6AwV2aXNpbtALEqIMQyoGCgTw37ECYhkKF2NvbS5hbW9tZWRpYS5tdXNjbGVtYXRlahkKF2NvbS5hbW9tZWRpYS5tYWRtdXNjbGVzeACIAQDSDAIQAdoMJgoLEMCS9_y_ob_buAESAgEDGg0YoL_Oklogk87o3-oFQAFKAhAfmg0BEqoNAklOyA0B0g35Amh0dHBzOi8vbWFkbXVzY2xlcy5jb20vZnVubmVsL3RhaWNoaS13YWxraW5nLXY0ODktdW5zeC9zdGVwLW9uZT91dG1fc291cmNlPWdvb2dsZV9kaXNjb3ZlcnkmdXRtX21lZGl1bT0yMDA0NTM3OTM1NTUmdXRtX2NhbXBhaWduPTI0MTk4MjI1ODI0JnV0bV9jb250ZW50PTgyMjk3MjMwMjU4NSZ1dG1fdGVybT0mY2FtcF9uYW1lPSZhc249JnV0bV90YXJnZXQ9dihtYXJ0aWFsX2FydHMpX3RtMSh3YWxrKV90bTIodGFpY2hpKSZ1dG1fYWRuYW1lPUFBdGFpV2Fsa0lORHN0YXQxMTA4X3YxX2NBQV9kS0FfcGljX19NTV90bTEod2FsaylfdG0yKHRhaWNoaSlfbGVuX2FNc19nTV9fMTEtMDgtMjZfREcmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MTk4MjI1ODI0uBP___________8BsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF8rHvuyjcMnmuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIufeUmoXylgMVO9c8Ah0Mux5wEAEYASAAEgLMuPD_BwE&num=1&cid=CAASwwHkaNPOwgi-xeePhGy_I5wNZ4s7QwFQLkLbAkIQCZKjQWSlgENLlbTgm29XpSn5mMU6vXoQZQOhLzS7_rmby-KIwpmSFvRAPIvJ8_e6YRRxEzIgnxKgg7TwIyIsSNpertYTb3aDOlovllK9G8yfu1Vy6rKbsEVQKOY6poy6yJecEl-JugbA5mNBHE2uTT3pB9oUSBDNGZ8wJ61aDyF4ckqhxHQGsP4tcEFcyDzRSpxeCAOJNXO0E96UUlcptCmpnWxV4Hg&sig=AOD64_3NNExSjWgKkYe-IGOWafcxxTTlqw&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - link "Walk your way to a healthier, happier lifestyle and shade pounds. Let's get moving!" [ref=f291e1268]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CdKb7Kv2parm6LLuu88EPjPb6gAe3i-fSiQG0h8SF8hWxkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHss_LAAagDBMgDCqoE2QJP0PgWz4WwhigNJr-s0m1vflH-fXjnxzMr7aCBo8i14K2C426Ff2mR6phPn2K6VHUFxnKxdbiqASD8E7lndLRrUrNcw1cnDG_3mxlVH45KT3nYHpbttLtLaPdMyoi6jRq2TitGAX4l6NEWhP6-e3Lx0Eot5zDMqlGYV8zd09_zAgnfOth7Zy19pqLoWnB1JMNBk6G65Rgx-WxCzl5eVxO5crjQEu-CFaimznYTDZOE08jcooGQxxN-q8GrONZeeVHScbJYevRhy8SQBTnqscphoGD1yml36b3HvlCwyA2tbQI-zP5w3-wCzh4X0B5UHT2w8N_4VRcM9-1fZ_6GwmYhMvlrz2dTSMdX29x2oSgbLyaaATSzjIyt2jCXk1XGUkVeKOkfAsejQAID9_sIWvSmZvPssPQPONG7zG-Xsv1nFeTQMaD4MPk0lV-2ByBjE_JVG_3bfibmEZuIBaC_zpJakgUKCBNoAnjhl6-_AqAGboAH_MuNvwKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BjgMCAgICAgIACqoCAEEjZoNI1UBRY8OSUmoXylgNgAfIIH2NhLXl0LWhvc3QtcHViLTcyNzY1NTA5ODU0OTEyNzGaCT9odHRwczovL21hZG11c2NsZXMuY29tL2Z1bm5lbC90YWljaGktd2Fsa2luZy12NDg5LXVuc3gvc3RlcC1vbmWxCQ93cJLAK3ySyAkAyAmKApgLAaELYrZ6TRjJ8ia6C0EIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAga6AwV2aXNpbtALEqIMQyoGCgTw37ECYhkKF2NvbS5hbW9tZWRpYS5tdXNjbGVtYXRlahkKF2NvbS5hbW9tZWRpYS5tYWRtdXNjbGVzeACIAQDSDAIQAdoMJgoLEMCS9_y_ob_buAESAgEDGg0YoL_Oklogk87o3-oFQAFKAhAfmg0BEqoNAklOyA0B0g35Amh0dHBzOi8vbWFkbXVzY2xlcy5jb20vZnVubmVsL3RhaWNoaS13YWxraW5nLXY0ODktdW5zeC9zdGVwLW9uZT91dG1fc291cmNlPWdvb2dsZV9kaXNjb3ZlcnkmdXRtX21lZGl1bT0yMDA0NTM3OTM1NTUmdXRtX2NhbXBhaWduPTI0MTk4MjI1ODI0JnV0bV9jb250ZW50PTgyMjk3MjMwMjU4NSZ1dG1fdGVybT0mY2FtcF9uYW1lPSZhc249JnV0bV90YXJnZXQ9dihtYXJ0aWFsX2FydHMpX3RtMSh3YWxrKV90bTIodGFpY2hpKSZ1dG1fYWRuYW1lPUFBdGFpV2Fsa0lORHN0YXQxMTA4X3YxX2NBQV9kS0FfcGljX19NTV90bTEod2FsaylfdG0yKHRhaWNoaSlfbGVuX2FNc19nTV9fMTEtMDgtMjZfREcmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MTk4MjI1ODI0uBP___________8BsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF8rHvuyjcMnmuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIufeUmoXylgMVO9c8Ah0Mux5wEAEYASAAEgLMuPD_BwE&num=1&cid=CAASwwHkaNPOwgi-xeePhGy_I5wNZ4s7QwFQLkLbAkIQCZKjQWSlgENLlbTgm29XpSn5mMU6vXoQZQOhLzS7_rmby-KIwpmSFvRAPIvJ8_e6YRRxEzIgnxKgg7TwIyIsSNpertYTb3aDOlovllK9G8yfu1Vy6rKbsEVQKOY6poy6yJecEl-JugbA5mNBHE2uTT3pB9oUSBDNGZ8wJ61aDyF4ckqhxHQGsP4tcEFcyDzRSpxeCAOJNXO0E96UUlcptCmpnWxV4Hg&sig=AOD64_3NNExSjWgKkYe-IGOWafcxxTTlqw&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - generic [ref=f291e1269]:
+                    - generic [ref=f291e1271]:
+                      - generic [ref=f291e1272]: Sponsored
+                      - text: ·
+                    - generic [ref=f291e1273]: MadMuscles
+                - button "My Ad Centre" [ref=f291e1277]
+              - link "Visit site" [ref=f291e1282] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CdKb7Kv2parm6LLuu88EPjPb6gAe3i-fSiQG0h8SF8hWxkB8QASAAYOX644OYDoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHss_LAAagDBMgDCqoE2QJP0PgWz4WwhigNJr-s0m1vflH-fXjnxzMr7aCBo8i14K2C426Ff2mR6phPn2K6VHUFxnKxdbiqASD8E7lndLRrUrNcw1cnDG_3mxlVH45KT3nYHpbttLtLaPdMyoi6jRq2TitGAX4l6NEWhP6-e3Lx0Eot5zDMqlGYV8zd09_zAgnfOth7Zy19pqLoWnB1JMNBk6G65Rgx-WxCzl5eVxO5crjQEu-CFaimznYTDZOE08jcooGQxxN-q8GrONZeeVHScbJYevRhy8SQBTnqscphoGD1yml36b3HvlCwyA2tbQI-zP5w3-wCzh4X0B5UHT2w8N_4VRcM9-1fZ_6GwmYhMvlrz2dTSMdX29x2oSgbLyaaATSzjIyt2jCXk1XGUkVeKOkfAsejQAID9_sIWvSmZvPssPQPONG7zG-Xsv1nFeTQMaD4MPk0lV-2ByBjE_JVG_3bfibmEZuIBaC_zpJakgUKCBNoAnjhl6-_AqAGboAH_MuNvwKQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BjgMCAgICAgIACqoCAEEjZoNI1UBRY8OSUmoXylgNgAfIIH2NhLXl0LWhvc3QtcHViLTcyNzY1NTA5ODU0OTEyNzGaCT9odHRwczovL21hZG11c2NsZXMuY29tL2Z1bm5lbC90YWljaGktd2Fsa2luZy12NDg5LXVuc3gvc3RlcC1vbmWxCQ93cJLAK3ySyAkAyAmKApgLAaELYrZ6TRjJ8ia6C0EIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQwKAFgBcAGoAgHYAgKoAQHYAQGAAgGIAga6AwV2aXNpbtALEqIMQyoGCgTw37ECYhkKF2NvbS5hbW9tZWRpYS5tdXNjbGVtYXRlahkKF2NvbS5hbW9tZWRpYS5tYWRtdXNjbGVzeACIAQDSDAIQAdoMJgoLEMCS9_y_ob_buAESAgEDGg0YoL_Oklogk87o3-oFQAFKAhAfmg0BEqoNAklOyA0B0g35Amh0dHBzOi8vbWFkbXVzY2xlcy5jb20vZnVubmVsL3RhaWNoaS13YWxraW5nLXY0ODktdW5zeC9zdGVwLW9uZT91dG1fc291cmNlPWdvb2dsZV9kaXNjb3ZlcnkmdXRtX21lZGl1bT0yMDA0NTM3OTM1NTUmdXRtX2NhbXBhaWduPTI0MTk4MjI1ODI0JnV0bV9jb250ZW50PTgyMjk3MjMwMjU4NSZ1dG1fdGVybT0mY2FtcF9uYW1lPSZhc249JnV0bV90YXJnZXQ9dihtYXJ0aWFsX2FydHMpX3RtMSh3YWxrKV90bTIodGFpY2hpKSZ1dG1fYWRuYW1lPUFBdGFpV2Fsa0lORHN0YXQxMTA4X3YxX2NBQV9kS0FfcGljX19NTV90bTEod2FsaylfdG0yKHRhaWNoaSlfbGVuX2FNc19nTV9fMTEtMDgtMjZfREcmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MTk4MjI1ODI0uBP___________8BsBQBwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF8rHvuyjcMnmuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIufeUmoXylgMVO9c8Ah0Mux5wEAEYASAAEgLMuPD_BwE&num=1&cid=CAASwwHkaNPOwgi-xeePhGy_I5wNZ4s7QwFQLkLbAkIQCZKjQWSlgENLlbTgm29XpSn5mMU6vXoQZQOhLzS7_rmby-KIwpmSFvRAPIvJ8_e6YRRxEzIgnxKgg7TwIyIsSNpertYTb3aDOlovllK9G8yfu1Vy6rKbsEVQKOY6poy6yJecEl-JugbA5mNBHE2uTT3pB9oUSBDNGZ8wJ61aDyF4ckqhxHQGsP4tcEFcyDzRSpxeCAOJNXO0E96UUlcptCmpnWxV4Hg&sig=AOD64_3NNExSjWgKkYe-IGOWafcxxTTlqw&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+          - generic [ref=f291e1287] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1288]:
+              - /url: /watch?v=Fqeo8q8-nJg
+              - img [ref=f291e1294]:
+                - generic [ref=f291e1295]: 14:18
+            - generic [ref=f291e1297]:
+              - generic [ref=f291e1298]:
+                - heading "How I'd Learn n8n if I had to Start Over in 2026" [level=3] [ref=f291e1299]:
+                  - link "How I'd Learn n8n if I had to Start Over in 2026 14 minutes, 18 seconds" [ref=f291e1300]:
+                    - /url: /watch?v=Fqeo8q8-nJg
+                    - text: How I'd Learn n8n if I had to Start Over in 2026
+                - generic [ref=f291e1302]:
+                  - group [ref=f291e1303]:
+                    - generic [ref=f291e1304]: Nate Herk | AI Automation
+                  - group [ref=f291e1310]:
+                    - generic "314 thousand views" [ref=f291e1314]: 314k
+                    - generic "9 months ago" [ref=f291e1315]: 9 mo ago
+              - button "More actions" [ref=f291e1318]
+          - generic [ref=f291e1323] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1324]:
+              - /url: /watch?v=rV3P_ExZCAc&pp=ugUHEgVlbi1VUw%3D%3D
+              - img [ref=f291e1330]:
+                - generic [ref=f291e1331]: 10:02
+            - generic [ref=f291e1333]:
+              - generic [ref=f291e1334]:
+                - heading "These 10 AI Agents Will Make You $1M With Zero Employees" [level=3] [ref=f291e1335]:
+                  - link "These 10 AI Agents Will Make You $1M With Zero Employees 10 minutes, 2 seconds" [ref=f291e1336]:
+                    - /url: /watch?v=rV3P_ExZCAc&pp=ugUHEgVlbi1VUw%3D%3D
+                    - text: These 10 AI Agents Will Make You $1M With Zero Employees
+                - generic [ref=f291e1338]:
+                  - group [ref=f291e1339]:
+                    - generic [ref=f291e1340]: Website Learners
+                  - group [ref=f291e1346]:
+                    - generic "48 thousand views" [ref=f291e1350]: 48k
+                    - generic "7 months ago" [ref=f291e1351]: 7 mo ago
+              - button "More actions" [ref=f291e1354]
+          - generic [ref=f291e1359] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1360]:
+              - /url: /watch?v=9y_GfnHijKk
+              - img [ref=f291e1366]:
+                - generic [ref=f291e1367]: 25:59
+            - generic [ref=f291e1369]:
+              - generic [ref=f291e1370]:
+                - 'heading "Architecting Enterprise AI Agents: The 4-Level Agentic Maturity Roadmap (with Omni Retail Global" [level=3] [ref=f291e1371]':
+                  - 'link "Architecting Enterprise AI Agents: The 4-Level Agentic Maturity Roadmap (with Omni Retail Global 25 minutes" [ref=f291e1372]':
+                    - /url: /watch?v=9y_GfnHijKk
+                    - text: "Architecting Enterprise AI Agents: The 4-Level Agentic Maturity Roadmap (with Omni Retail Global"
+                - generic [ref=f291e1374]:
+                  - group [ref=f291e1375]:
+                    - generic [ref=f291e1376]: Google Cloud Events
+                  - group [ref=f291e1382]:
+                    - generic "216 views" [ref=f291e1386]: "216"
+                    - generic "13 hours ago" [ref=f291e1387]: 13 hr ago
+                  - group [ref=f291e1388]:
+                    - generic [ref=f291e1389]: New
+              - button "More actions" [ref=f291e1395]
+          - generic [ref=f291e1400] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1401]:
+              - /url: /watch?v=V9Ra8klDzrM
+              - img [ref=f291e1407]:
+                - generic [ref=f291e1408]: 50:53
+            - generic [ref=f291e1410]:
+              - generic [ref=f291e1411]:
+                - heading "Build a Trading Algo with AI | No Coding Required" [level=3] [ref=f291e1412]:
+                  - link "Build a Trading Algo with AI | No Coding Required 50 minutes" [ref=f291e1413]:
+                    - /url: /watch?v=V9Ra8klDzrM
+                    - text: Build a Trading Algo with AI | No Coding Required
+                - generic [ref=f291e1415]:
+                  - group [ref=f291e1416]:
+                    - generic [ref=f291e1417]: Zerodha Varsityand Zerodha
+                  - group [ref=f291e1429]:
+                    - generic "399 thousand views" [ref=f291e1433]: 399k
+                    - generic "3 weeks ago" [ref=f291e1434]: 3 wk ago
+              - button "More actions" [ref=f291e1437]
+          - generic [ref=f291e1442] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1443]:
+              - /url: /watch?v=Ey18PDiaAYI
+              - img [ref=f291e1449]:
+                - generic [ref=f291e1450]: 8:26:39
+            - generic [ref=f291e1452]:
+              - generic [ref=f291e1453]:
+                - heading "Build & Sell n8n AI Agents (8+ Hour Course, No Code)" [level=3] [ref=f291e1454]:
+                  - link "Build & Sell n8n AI Agents (8+ Hour Course, No Code) 8 hours, 26 minutes" [ref=f291e1455]:
+                    - /url: /watch?v=Ey18PDiaAYI
+                    - text: Build & Sell n8n AI Agents (8+ Hour Course, No Code)
+                - generic [ref=f291e1457]:
+                  - group [ref=f291e1458]:
+                    - generic [ref=f291e1459]: Nate Herk | AI Automation
+                  - group [ref=f291e1465]:
+                    - generic "1.9 million views" [ref=f291e1469]: 1.9m
+                    - generic "1 year ago" [ref=f291e1470]: 1 yr ago
+              - button "More actions" [ref=f291e1473]
+          - generic [ref=f291e1478] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1479]:
+              - /url: /watch?v=kYwaNMQ3XT8&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f291e1485]:
+                - generic [ref=f291e1486]: 4:31:06
+            - generic [ref=f291e1488]:
+              - generic [ref=f291e1489]:
+                - heading "Zomato AI Data Analytics | End-To-End AI Data Engineering Project" [level=3] [ref=f291e1490]:
+                  - link "Zomato AI Data Analytics | End-To-End AI Data Engineering Project 4 hours, 31 minutes" [ref=f291e1491]:
+                    - /url: /watch?v=kYwaNMQ3XT8&pp=0gcJCSQMAYcqIYzv
+                    - text: Zomato AI Data Analytics | End-To-End AI Data Engineering Project
+                - generic [ref=f291e1493]:
+                  - group [ref=f291e1494]:
+                    - generic [ref=f291e1495]: Darshil Parmar
+                  - group [ref=f291e1501]:
+                    - generic "100 thousand views" [ref=f291e1505]: 100k
+                    - generic "1 month ago" [ref=f291e1506]: 1 mo ago
+              - button "More actions" [ref=f291e1509]
+          - generic [ref=f291e1514] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1515]:
+              - /url: /watch?v=ZeJXI2MAhj0&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f291e1521]:
+                - generic [ref=f291e1522]: 18:38
+            - generic [ref=f291e1524]:
+              - generic [ref=f291e1525]:
+                - heading "Stop Learning n8n in 2026...Learn THIS Instead" [level=3] [ref=f291e1526]:
+                  - link "Stop Learning n8n in 2026...Learn THIS Instead 18 minutes" [ref=f291e1527]:
+                    - /url: /watch?v=ZeJXI2MAhj0&pp=ugUEEgJlbg%3D%3D
+                    - text: Stop Learning n8n in 2026...Learn THIS Instead
+                - generic [ref=f291e1529]:
+                  - group [ref=f291e1530]:
+                    - generic [ref=f291e1531]: Nate Herk | AI Automation
+                  - group [ref=f291e1537]:
+                    - generic "453 thousand views" [ref=f291e1541]: 453k
+                    - generic "5 months ago" [ref=f291e1542]: 5 mo ago
+              - button "More actions" [ref=f291e1545]
+          - generic [ref=f291e1550] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1551]:
+              - /url: /watch?v=y-cq_Qo4zVo&list=PLvQWpZ46MVvgUUUBxnqLAu-JzA-6QA1o2
+              - generic [ref=f291e1553]: 71 videos
+            - generic [ref=f291e1568]:
+              - heading "AI Agent Tutorials" [level=3] [ref=f291e1569]:
+                - link "AI Agent Tutorials" [ref=f291e1570]:
+                  - /url: /watch?v=y-cq_Qo4zVo&list=PLvQWpZ46MVvgUUUBxnqLAu-JzA-6QA1o2
+              - generic [ref=f291e1572]:
+                - group [ref=f291e1573]:
+                  - link [ref=f291e1576]:
+                    - /url: /@nateherk
+                  - generic [aria-hidden] [ref=f291e1582]: •
+                  - link "Playlist" [ref=f291e1584]:
+                    - /url: /@nateherk
+                - group [ref=f291e1585]:
+                  - link "View full playlist" [ref=f291e1588]:
+                    - /url: /playlist?list=PLvQWpZ46MVvgUUUBxnqLAu-JzA-6QA1o2
+          - generic [ref=f291e1590] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1591]:
+              - /url: /watch?v=JWMizuT_A8E&pp=ugUHEgVlbi1JTg%3D%3D
+              - img [ref=f291e1597]:
+                - generic [ref=f291e1598]: 21:40
+            - generic [ref=f291e1600]:
+              - generic [ref=f291e1601]:
+                - heading "How to Start a 1-Person AI Business using Claude in 2026 (FREE COURSE)" [level=3] [ref=f291e1602]:
+                  - link "How to Start a 1-Person AI Business using Claude in 2026 (FREE COURSE) 21 minutes" [ref=f291e1603]:
+                    - /url: /watch?v=JWMizuT_A8E&pp=ugUHEgVlbi1JTg%3D%3D
+                    - text: How to Start a 1-Person AI Business using Claude in 2026 (FREE COURSE)
+                - generic [ref=f291e1605]:
+                  - group [ref=f291e1606]:
+                    - generic [ref=f291e1607]: Ishan Sharma
+                  - group [ref=f291e1613]:
+                    - generic "435 thousand views" [ref=f291e1617]: 435k
+                    - generic "2 weeks ago" [ref=f291e1618]: 2 wk ago
+              - button "More actions" [ref=f291e1621]
+          - generic [ref=f291e1626] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1627]:
+              - /url: /watch?v=KGXFkUlBHxw&list=PLvQWpZ46MVvi7vznsClrYd7NA2Cb7YYMO
+              - generic [ref=f291e1629]: 86 videos
+            - generic [ref=f291e1644]:
+              - heading "n8n Workflow Tutorials" [level=3] [ref=f291e1645]:
+                - link "n8n Workflow Tutorials" [ref=f291e1646]:
+                  - /url: /watch?v=KGXFkUlBHxw&list=PLvQWpZ46MVvi7vznsClrYd7NA2Cb7YYMO
+              - generic [ref=f291e1648]:
+                - group [ref=f291e1649]:
+                  - link [ref=f291e1652]:
+                    - /url: /@nateherk
+                  - generic [aria-hidden] [ref=f291e1658]: •
+                  - link "Playlist" [ref=f291e1660]:
+                    - /url: /@nateherk
+                - group [ref=f291e1661]:
+                  - link "View full playlist" [ref=f291e1664]:
+                    - /url: /playlist?list=PLvQWpZ46MVvi7vznsClrYd7NA2Cb7YYMO
+          - generic [ref=f291e1666] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1667]:
+              - /url: /watch?v=28TGfTZweqw&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f291e1673]:
+                - generic [ref=f291e1674]: 19:30
+            - generic [ref=f291e1676]:
+              - generic [ref=f291e1677]:
+                - heading "How To Use Claude Better Than 99% Of People" [level=3] [ref=f291e1678]:
+                  - link "How To Use Claude Better Than 99% Of People 19 minutes" [ref=f291e1679]:
+                    - /url: /watch?v=28TGfTZweqw&pp=ugUEEgJlbg%3D%3D
+                    - text: How To Use Claude Better Than 99% Of People
+                - generic [ref=f291e1681]:
+                  - group [ref=f291e1682]:
+                    - generic [ref=f291e1683]: Sandeep Swadia
+                  - group [ref=f291e1684]:
+                    - generic "2 million views" [ref=f291e1688]: 2m
+                    - generic "3 months ago" [ref=f291e1689]: 3 mo ago
+              - button "More actions" [ref=f291e1692]
+          - generic [ref=f291e1697] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1698]:
+              - /url: /watch?v=S_oN3vlzpMw
+              - img [ref=f291e1704]:
+                - generic [ref=f291e1705]: 35:26
+            - generic [ref=f291e1707]:
+              - generic [ref=f291e1708]:
+                - heading "How AI agents & Claude skills work (Clearly Explained)" [level=3] [ref=f291e1709]:
+                  - link "How AI agents & Claude skills work (Clearly Explained) 35 minutes" [ref=f291e1710]:
+                    - /url: /watch?v=S_oN3vlzpMw
+                    - text: How AI agents & Claude skills work (Clearly Explained)
+                - generic [ref=f291e1712]:
+                  - group [ref=f291e1713]:
+                    - generic [ref=f291e1714]: Greg Isenberg
+                  - group [ref=f291e1720]:
+                    - generic "810 thousand views" [ref=f291e1724]: 810k
+                    - generic "5 months ago" [ref=f291e1725]: 5 mo ago
+              - button "More actions" [ref=f291e1728]
+          - generic [ref=f291e1733] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1734]:
+              - /url: /watch?v=e3OV3LnrS7o&pp=ugUEEgJlbtIHCQkkDAGHKiGM7w%3D%3D
+              - img [ref=f291e1740]:
+                - generic [ref=f291e1741]: 36:23
+            - generic [ref=f291e1743]:
+              - generic [ref=f291e1744]:
+                - heading "Master 80% of n8n in 36 Minutes" [level=3] [ref=f291e1745]:
+                  - link "Master 80% of n8n in 36 Minutes 36 minutes" [ref=f291e1746]:
+                    - /url: /watch?v=e3OV3LnrS7o&pp=ugUEEgJlbtIHCQkkDAGHKiGM7w%3D%3D
+                    - text: Master 80% of n8n in 36 Minutes
+                - generic [ref=f291e1748]:
+                  - group [ref=f291e1749]:
+                    - generic [ref=f291e1750]: Futurepediaand AI Agent Lab
+                  - group [ref=f291e1757]:
+                    - generic "746 thousand views" [ref=f291e1761]: 746k
+                    - generic "1 year ago" [ref=f291e1762]: 1 yr ago
+              - button "More actions" [ref=f291e1765]
+          - generic [ref=f291e1770] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1771]:
+              - /url: /watch?v=LXaFHI_2Hus&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f291e1777]:
+                - generic [ref=f291e1778]: 17:09
+            - generic [ref=f291e1780]:
+              - generic [ref=f291e1781]:
+                - heading "9 Boring Habits That Will Put You Ahead of 99% of People" [level=3] [ref=f291e1782]:
+                  - link "9 Boring Habits That Will Put You Ahead of 99% of People 17 minutes" [ref=f291e1783]:
+                    - /url: /watch?v=LXaFHI_2Hus&pp=ugUEEgJlbg%3D%3D
+                    - text: 9 Boring Habits That Will Put You Ahead of 99% of People
+                - generic [ref=f291e1785]:
+                  - group [ref=f291e1786]:
+                    - generic [ref=f291e1787]: Sandeep Swadia
+                  - group [ref=f291e1788]:
+                    - generic "1 million views" [ref=f291e1792]: 1m
+                    - generic "2 months ago" [ref=f291e1793]: 2 mo ago
+              - button "More actions" [ref=f291e1796]
+          - generic [ref=f291e1801] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1802]:
+              - /url: /watch?v=LVAHYV4Xrto&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f291e1808]:
+                - generic [ref=f291e1809]: 24:52
+            - generic [ref=f291e1811]:
+              - generic [ref=f291e1812]:
+                - heading "How to Build a One Person AI Business (Using Claude Code)" [level=3] [ref=f291e1813]:
+                  - link "How to Build a One Person AI Business (Using Claude Code) 24 minutes" [ref=f291e1814]:
+                    - /url: /watch?v=LVAHYV4Xrto&pp=ugUEEgJlbg%3D%3D
+                    - text: How to Build a One Person AI Business (Using Claude Code)
+                - generic [ref=f291e1816]:
+                  - group [ref=f291e1817]:
+                    - generic [ref=f291e1818]: Nate Herk | AI Automation
+                  - group [ref=f291e1824]:
+                    - generic "106 thousand views" [ref=f291e1828]: 106k
+                    - generic "1 month ago" [ref=f291e1829]: 1 mo ago
+              - button "More actions" [ref=f291e1832]
+          - generic [ref=f291e1837] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1838]:
+              - /url: /watch?v=1d77LRUS-wc&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f291e1844]:
+                - generic [ref=f291e1845]: 9:00
+            - generic [ref=f291e1847]:
+              - generic [ref=f291e1848]:
+                - heading "Stop Learning n8n in 2026... Learn THIS Instead" [level=3] [ref=f291e1849]:
+                  - link "Stop Learning n8n in 2026... Learn THIS Instead 9 minutes" [ref=f291e1850]:
+                    - /url: /watch?v=1d77LRUS-wc&pp=ugUEEgJlbg%3D%3D
+                    - text: Stop Learning n8n in 2026... Learn THIS Instead
+                - generic [ref=f291e1852]:
+                  - group [ref=f291e1853]:
+                    - generic [ref=f291e1854]: Michele Torti
+                  - group [ref=f291e1855]:
+                    - generic "294 thousand views" [ref=f291e1859]: 294k
+                    - generic "7 months ago" [ref=f291e1860]: 7 mo ago
+              - button "More actions" [ref=f291e1863]
+          - generic [ref=f291e1868] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1869]:
+              - /url: /watch?v=y-cq_Qo4zVo&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f291e1875]:
+                - generic [ref=f291e1876]: 34:21
+            - generic [ref=f291e1878]:
+              - generic [ref=f291e1879]:
+                - heading "I Built an AI Voice Receptionist with Vapi and n8n MCP (free template)" [level=3] [ref=f291e1880]:
+                  - link "I Built an AI Voice Receptionist with Vapi and n8n MCP (free template) 34 minutes" [ref=f291e1881]:
+                    - /url: /watch?v=y-cq_Qo4zVo&pp=ugUEEgJlbg%3D%3D
+                    - text: I Built an AI Voice Receptionist with Vapi and n8n MCP (free template)
+                - generic [ref=f291e1883]:
+                  - group [ref=f291e1884]:
+                    - generic [ref=f291e1885]: Nate Herk | AI Automation
+                  - group [ref=f291e1891]:
+                    - generic "153 thousand views" [ref=f291e1895]: 153k
+                    - generic "9 months ago" [ref=f291e1896]: 9 mo ago
+              - button "More actions" [ref=f291e1899]
+          - generic [ref=f291e1904] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1905]:
+              - /url: /watch?v=XtwTjwUZSTs&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f291e1911]:
+                - generic [ref=f291e1912]: 14:55
+            - generic [ref=f291e1914]:
+              - generic [ref=f291e1915]:
+                - heading "10 Ways to Get Monthly Income (let AI work for you)" [level=3] [ref=f291e1916]:
+                  - link "10 Ways to Get Monthly Income (let AI work for you) 14 minutes, 55 seconds" [ref=f291e1917]:
+                    - /url: /watch?v=XtwTjwUZSTs&pp=ugUEEgJlbg%3D%3D
+                    - text: 10 Ways to Get Monthly Income (let AI work for you)
+                - generic [ref=f291e1919]:
+                  - group [ref=f291e1920]:
+                    - generic [ref=f291e1921]: Vaibhav Sisinty
+                  - group [ref=f291e1922]:
+                    - generic "243 thousand views" [ref=f291e1926]: 243k
+                    - generic "1 month ago" [ref=f291e1927]: 1 mo ago
+              - button "More actions" [ref=f291e1930]
+          - generic [ref=f291e1935] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1936]:
+              - /url: /watch?v=vJEy3nP2_C8&pp=ugUEEgJlbg%3D%3D
+              - img [ref=f291e1942]:
+                - generic [ref=f291e1943]: 44:47
+            - generic [ref=f291e1945]:
+              - generic [ref=f291e1946]:
+                - 'heading "Most Valuable Skill of 2026: Managing AI Agents" [level=3] [ref=f291e1947]':
+                  - 'link "Most Valuable Skill of 2026: Managing AI Agents 44 minutes" [ref=f291e1948]':
+                    - /url: /watch?v=vJEy3nP2_C8&pp=ugUEEgJlbg%3D%3D
+                    - text: "Most Valuable Skill of 2026: Managing AI Agents"
+                - generic [ref=f291e1950]:
+                  - group [ref=f291e1951]:
+                    - generic [ref=f291e1952]: Greg Isenberg
+                  - group [ref=f291e1958]:
+                    - generic "174 thousand views" [ref=f291e1962]: 174k
+                    - generic "1 month ago" [ref=f291e1963]: 1 mo ago
+              - button "More actions" [ref=f291e1966]
+          - generic [ref=f291e1971] [cursor=pointer]:
+            - link [aria-hidden] [ref=f291e1972]:
+              - /url: /watch?v=7ReHiROdPbE&pp=0gcJCSQMAYcqIYzv
+              - img [ref=f291e1978]:
+                - generic [ref=f291e1979]: 9:43
+            - generic [ref=f291e1981]:
+              - generic [ref=f291e1982]:
+                - heading "Build Your First AI Agent in 10 Minutes — No Coding" [level=3] [ref=f291e1983]:
+                  - link "Build Your First AI Agent in 10 Minutes — No Coding 9 minutes, 43 seconds" [ref=f291e1984]:
+                    - /url: /watch?v=7ReHiROdPbE&pp=0gcJCSQMAYcqIYzv
+                    - text: Build Your First AI Agent in 10 Minutes — No Coding
+                - generic [ref=f291e1986]:
+                  - group [ref=f291e1987]:
+                    - generic [ref=f291e1988]: The Tech Girl
+                  - group [ref=f291e1989]:
+                    - generic "210 thousand views" [ref=f291e1993]: 210k
+                    - generic "10 days ago" [ref=f291e1994]
+              - button "More actions" [ref=f291e1997]

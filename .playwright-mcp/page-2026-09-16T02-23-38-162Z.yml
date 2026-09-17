@@ -1,0 +1,251 @@
+- generic [ref=f329e2]:
+  - banner [ref=f329e4]:
+    - generic [ref=f329e6]:
+      - generic [ref=f329e7]:
+        - button "Guide" [ref=f329e9] [cursor=pointer]
+        - generic [ref=f329e11]:
+          - link "YouTube Home" [ref=f329e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f329e16]: IN
+        - button "Skip navigation" [ref=f329e20] [cursor=pointer]
+      - generic [ref=f329e24]:
+        - search [ref=f329e25]:
+          - generic [ref=f329e27]:
+            - combobox "Search" [expanded] [ref=f329e30]
+            - button "Search" [ref=f329e31] [cursor=pointer]
+        - generic [ref=f329e34]:
+          - button "Search with your voice" [ref=f329e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f329e45]
+  - main [ref=f329e47]:
+    - generic [ref=f329e54]:
+      - generic [ref=f329e70]:
+        - heading "Tim Fairley" [level=1] [ref=f329e72]
+        - generic [ref=f329e73]:
+          - group [ref=f329e74]:
+            - generic [ref=f329e75]: "@ConstructIQ"
+          - generic [aria-hidden] [ref=f329e76]: •
+          - group [ref=f329e77]:
+            - generic "50.9 thousand subscribers" [ref=f329e78]: 50.9k subscribers
+            - generic [aria-hidden] [ref=f329e79]: •
+            - generic [ref=f329e80]: 658 videos
+        - generic [ref=f329e82] [cursor=pointer]:
+          - generic [ref=f329e83]: Everything construction management, estimating and contracting! On a mission to find genuinely useful applications of AI in construction.
+          - button "Description. Everything construction management, estimating and contracti…tap for more." [ref=f329e84]:
+            - generic [ref=f329e85]: ...more
+        - generic [ref=f329e86]:
+          - link [ref=f329e89] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRU1FZlZfMEJ4bTdPMW9taGhMdjVvcnxBTl9pYzRmRldqazZnMm9rcGZ3eHZzQzdOaG1xUmZOUUQta0F3a0VYZW1CTHVFRDhDZlFaaTB3WlFIaVplejlVc2EtR0xQeHdGbkFSbDByYnVlZTFKUGtpMjVnV0VzbnBjZWFk&q=https%3A%2F%2Fwww.skool.com%2Fcontractor-os
+          - button "and 2 more links" [ref=f329e94] [cursor=pointer]
+        - generic [ref=f329e95]:
+          - button "Subscribe" [ref=f329e98] [cursor=pointer]
+          - link "Community" [ref=f329e104] [cursor=pointer]:
+            - /url: /@ConstructIQ/community
+      - tablist [ref=f329e111]:
+        - tablist [ref=f329e115]:
+          - tab "Home" [selected] [ref=f329e116] [cursor=pointer]
+          - tab "Videos" [ref=f329e118] [cursor=pointer]
+          - tab "Shorts" [ref=f329e120] [cursor=pointer]
+          - tab "Courses" [ref=f329e122] [cursor=pointer]
+          - tab "Playlists" [ref=f329e124] [cursor=pointer]
+          - tab "Posts" [ref=f329e126] [cursor=pointer]
+          - button "Search" [ref=f329e131] [cursor=pointer]
+    - generic [ref=f329e138]:
+      - generic [ref=f329e145]:
+        - generic [ref=f329e146]:
+          - heading "Where it makes sense to apply AI in construction 5 minutes, 18 seconds" [level=3] [ref=f329e147]:
+            - link "Where it makes sense to apply AI in construction" [ref=f329e148] [cursor=pointer]:
+              - /url: /watch?v=Q55c1uwv0vM
+          - generic [ref=f329e151]:
+            - generic [ref=f329e152]: 11,668 views
+            - generic [ref=f329e153]: •5 months ago
+        - generic [ref=f329e154]:
+          - generic [ref=f329e156]:
+            - text: "Know where it applies? Grab the 96 pre-built skills that do it (+ 1:1 support):"
+            - link "https://www.skool.com/contractor-os" [ref=f329e157] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRUJMQ1Q5YnNzY0NBWlJaTlJTM1FpT3xBTl9pYzRmZTBIOXVRc09ybXRuYlBuLXA4eDdkR2Q0Qi1WSUU2TU1iM3pjcmJJYWNJeG1Gc2JnRDZYSU5faUxSckFNeGxnYV9FNVNxRml4RmRpZ2RKc3lNR0NUMDNfVk5vWEhv&q=https%3A%2F%2Fwww.skool.com%2Fcontractor-os
+            - text: "📧 Business Enquiries: tim@contractoros.build Work with me:"
+            - link "https://contractoros.build/work-with-us/" [ref=f329e158] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR0hJRWhtaHEycHh2RW1peXhYMlRWR3xBTl9pYzRjQm1oRUYwQnVXNm5xaXZHTW5TNkk3RGVSdl9SXzdtellUai00UHcyV1pBWHdvdDJUbGQyQWZpa2N5WTZSU2Z6WE9CWFktcnF5MlFyWXZQZ0k1ekNETWV0aEZkNDc3&q=https%3A%2F%2Fcontractoros.build%2Fwork-with-us%2F
+            - text: "🔗 LinkedIn:"
+            - link "https://www.linkedin.com/in/timothy-f..." [ref=f329e159] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSEVTV2RkcVFWYjdxckh0T3EwMXEyQ3xBTl9pYzRlOEFpR1A0NW5wNzg0TWRWU2hOTXU3MVBGNjBrUGlyY2RKRTVpMHdINnZ2UDQ5alMxWmhBdktvUFZVMjc3dE9vTWxoZUp1R2ltSU1QaXNBeXlqa2t5ZmtvQmpQTXFZ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftimothy-fairley-7b0141a0%2F
+            - text: "📚 Related videos: → AI Use Cases in Construction – How to Identify and Apply:"
+            - link "https://youtube.com/watch?v=LPYZ7fFtZWg" [ref=f329e160] [cursor=pointer]:
+              - /url: /watch?v=LPYZ7fFtZWg
+            - text: "→ AI in Construction – The Absolute Basics for Beginners:"
+            - link "https://youtube.com/watch?v=Hgor8qEJZrg" [ref=f329e161] [cursor=pointer]:
+              - /url: /watch?v=Hgor8qEJZrg&pp=0gcJCR0AztywvtLA
+            - text: "→ AI in Construction - The Complete Applied Guide:"
+            - link "https://youtube.com/watch?v=dSEHWnedxIM" [ref=f329e162] [cursor=pointer]:
+              - /url: /watch?v=dSEHWnedxIM
+            - text: "We dive into the practical application of construction ai and what it can truly do for businesses. This video explores ai automation and ai agents, showcasing how ai tools can benefit the industry. We also touch on future technology and construction industry trends, providing insights into AI's impact. About me ⤵️ I'm Tim — 10 years in construction estimating and contract management, now helping contractors use AI to work smarter. I share everything I've learned about construction project management, estimating, procurement, and AI tools on this channel. My software & tools 🛠️ My software & tools Free Construction Management Software:"
+            - link "https://www.operum.io/" [ref=f329e163] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR2xBLXZaN3lyZjJUOEE5M2NuNDdkeHxBTl9pYzRjbU92aWF1Nmc3SG5WOXRHendhUkdZZTlPLWlSS3A2VXZPaDI2bmNTRWl2TXctd2l6TFdMRmlXNHdkSGNreUNDVWlkcjBXcHVtNGxnMlBTbmV5V25yMThSV3VoSUJo&q=https%3A%2F%2Fwww.operum.io%2F
+            - text: "⚡ ZZTakeoff — estimating and takeoff software:"
+            - link "https://www.zztakeoff.com?p=23761" [ref=f329e164] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRUh4V0ptT0oyNTQ0MnJzdVZDQy0zYnxBTl9pYzRkN1RPWE9zX3JQZVRNOUZUTm9Jb25ZUlBxQzJMdDQtem41LWtWVndMaUdiWjBnVU9tYUdtQXQ1VmpLRHdyVEpPZnoxaV9hbW9ZN0pMZTZoTXFfZE5nTVJBeHFBaE9E&q=https%3A%2F%2Fwww.zztakeoff.com%2F%3Fp%3D23761
+          - button [ref=f329e165] [cursor=pointer]:
+            - link "Read more" [ref=f329e167]:
+              - /url: /watch?v=Q55c1uwv0vM
+      - generic [ref=f329e171]:
+        - heading [level=2] [ref=f329e174]:
+          - link "Videos" [ref=f329e177] [cursor=pointer]:
+            - /url: /@ConstructIQ/videos?view=0&sort=dd&shelf_id=1
+        - generic [ref=f329e180]:
+          - generic [ref=f329e183]:
+            - generic [ref=f329e185] [cursor=pointer]:
+              - link [aria-hidden] [ref=f329e186]:
+                - /url: /watch?v=buSZSFBkTWU
+                - img [ref=f329e192]:
+                  - generic [ref=f329e193]: 18:12
+              - generic [ref=f329e195]:
+                - generic [ref=f329e196]:
+                  - heading "5 Claude Skills To Make AI Better at Construction" [level=3] [ref=f329e197]:
+                    - link "5 Claude Skills To Make AI Better at Construction 18 minutes" [ref=f329e198]:
+                      - /url: /watch?v=buSZSFBkTWU
+                      - text: 5 Claude Skills To Make AI Better at Construction
+                  - group [ref=f329e201]:
+                    - generic [ref=f329e202]: 3.3k views
+                    - generic [aria-hidden] [ref=f329e203]: •
+                    - generic "20 hours ago" [ref=f329e204]
+                - button "More actions" [ref=f329e207]
+            - generic [ref=f329e212] [cursor=pointer]:
+              - link [aria-hidden] [ref=f329e213]:
+                - /url: /watch?v=1x1wYTSETfE
+                - img [ref=f329e219]:
+                  - generic [ref=f329e220]: 4:11:10
+              - generic [ref=f329e222]:
+                - generic [ref=f329e223]:
+                  - heading "AI in Construction - The Complete Applied Guide" [level=3] [ref=f329e224]:
+                    - link "AI in Construction - The Complete Applied Guide 4 hours, 11 minutes" [ref=f329e225]:
+                      - /url: /watch?v=1x1wYTSETfE
+                      - text: AI in Construction - The Complete Applied Guide
+                  - group [ref=f329e228]:
+                    - generic [ref=f329e229]: 3.9k views
+                    - generic [aria-hidden] [ref=f329e230]: •
+                    - generic "1 day ago" [ref=f329e231]
+                - button "More actions" [ref=f329e234]
+            - generic [ref=f329e239] [cursor=pointer]:
+              - link [aria-hidden] [ref=f329e240]:
+                - /url: /watch?v=6wZRV7Nfees
+                - img [ref=f329e246]:
+                  - generic [ref=f329e247]: 24:32
+              - generic [ref=f329e249]:
+                - generic [ref=f329e250]:
+                  - heading "How to Build a Self-Improving Construction Project Knowledge Base (Memory System)" [level=3] [ref=f329e251]:
+                    - link "How to Build a Self-Improving Construction Project Knowledge Base (Memory System) 24 minutes" [ref=f329e252]:
+                      - /url: /watch?v=6wZRV7Nfees
+                      - text: How to Build a Self-Improving Construction Project Knowledge Base (Memory System)
+                  - group [ref=f329e255]:
+                    - generic [ref=f329e256]: 8.5k views
+                    - generic [aria-hidden] [ref=f329e257]: •
+                    - generic "3 days ago" [ref=f329e258]
+                - button "More actions" [ref=f329e261]
+            - generic [ref=f329e266] [cursor=pointer]:
+              - link [aria-hidden] [ref=f329e267]:
+                - /url: /watch?v=UaPVmQythuc
+                - img [ref=f329e273]:
+                  - generic [ref=f329e274]: 21:33
+              - generic [ref=f329e276]:
+                - generic [ref=f329e277]:
+                  - heading "The Only Way To Get Good at AI in Construction" [level=3] [ref=f329e278]:
+                    - link "The Only Way To Get Good at AI in Construction 21 minutes" [ref=f329e279]:
+                      - /url: /watch?v=UaPVmQythuc
+                      - text: The Only Way To Get Good at AI in Construction
+                  - group [ref=f329e282]:
+                    - generic [ref=f329e283]: 6.1k views
+                    - generic [aria-hidden] [ref=f329e284]: •
+                    - generic "4 days ago" [ref=f329e285]
+                - button "More actions" [ref=f329e288]
+            - generic [ref=f329e293] [cursor=pointer]:
+              - link [aria-hidden] [ref=f329e294]:
+                - /url: /watch?v=NyKPa9Edcvw&pp=0gcJCSQMAYcqIYzv
+                - img [ref=f329e300]:
+                  - generic [ref=f329e301]: 36:18
+              - generic [ref=f329e303]:
+                - generic [ref=f329e304]:
+                  - heading "Build Your Own Construction Bid Tracker – Step-by-Step" [level=3] [ref=f329e305]:
+                    - link "Build Your Own Construction Bid Tracker – Step-by-Step 36 minutes" [ref=f329e306]:
+                      - /url: /watch?v=NyKPa9Edcvw&pp=0gcJCSQMAYcqIYzv
+                      - text: Build Your Own Construction Bid Tracker – Step-by-Step
+                  - group [ref=f329e309]:
+                    - generic [ref=f329e310]: 4.5k views
+                    - generic [aria-hidden] [ref=f329e311]: •
+                    - generic "5 days ago" [ref=f329e312]
+                - button "More actions" [ref=f329e315]
+            - generic [ref=f329e320] [cursor=pointer]:
+              - link [aria-hidden] [ref=f329e321]:
+                - /url: /watch?v=SfopZVRHQ5g
+                - img [ref=f329e327]:
+                  - generic [ref=f329e328]: 17:24
+              - generic [ref=f329e330]:
+                - generic [ref=f329e331]:
+                  - heading "The 5 Tools I Use to Build & Deploy AI Agents for Construction" [level=3] [ref=f329e332]:
+                    - link "The 5 Tools I Use to Build & Deploy AI Agents for Construction 17 minutes" [ref=f329e333]:
+                      - /url: /watch?v=SfopZVRHQ5g
+                      - text: The 5 Tools I Use to Build & Deploy AI Agents for Construction
+                  - group [ref=f329e336]:
+                    - generic [ref=f329e337]: 3.3k views
+                    - generic [aria-hidden] [ref=f329e338]: •
+                    - generic "6 days ago" [ref=f329e339]
+                - button "More actions" [ref=f329e342]
+          - button "Next" [ref=f329e348] [cursor=pointer]
+      - generic [ref=f329e354]:
+        - generic [ref=f329e355]:
+          - heading "Shorts" [level=2] [ref=f329e359]
+          - button "More actions" [ref=f329e365] [cursor=pointer]
+        - generic [ref=f329e368]:
+          - generic [ref=f329e371]:
+            - generic [ref=f329e373]:
+              - link [aria-hidden] [ref=f329e374] [cursor=pointer]:
+                - /url: /shorts/YEL3qJtlr6M
+              - generic [ref=f329e378] [cursor=pointer]:
+                - link "The easiest way to speed up your estimating" [ref=f329e379]:
+                  - /url: /shorts/YEL3qJtlr6M
+                - generic [ref=f329e380]: 464 views
+              - button "More actions" [ref=f329e382] [cursor=pointer]
+            - generic [ref=f329e387]:
+              - link [aria-hidden] [ref=f329e388] [cursor=pointer]:
+                - /url: /shorts/z2c24qic2Po
+              - generic [ref=f329e392] [cursor=pointer]:
+                - link "Why profitable projects can send you broke" [ref=f329e393]:
+                  - /url: /shorts/z2c24qic2Po
+                - generic [ref=f329e394]: 450 views
+              - button "More actions" [ref=f329e396] [cursor=pointer]
+            - generic [ref=f329e401]:
+              - link [aria-hidden] [ref=f329e402] [cursor=pointer]:
+                - /url: /shorts/l7IQDHCSfnw
+              - generic [ref=f329e406] [cursor=pointer]:
+                - link "Why your variation claim will be worth $0" [ref=f329e407]:
+                  - /url: /shorts/l7IQDHCSfnw
+                - generic [ref=f329e408]: 4k views
+              - button "More actions" [ref=f329e410] [cursor=pointer]
+            - generic [ref=f329e415]:
+              - link [aria-hidden] [ref=f329e416] [cursor=pointer]:
+                - /url: /shorts/P7La1ud8_qg
+              - generic [ref=f329e420] [cursor=pointer]:
+                - link "Three Numbers you Should Know Before You Submit a Bid" [ref=f329e421]:
+                  - /url: /shorts/P7La1ud8_qg
+                - generic [ref=f329e422]: 2k views
+              - button "More actions" [ref=f329e424] [cursor=pointer]
+            - generic [ref=f329e429]:
+              - link [aria-hidden] [ref=f329e430] [cursor=pointer]:
+                - /url: /shorts/SHubEEHTVZA
+              - generic [ref=f329e434] [cursor=pointer]:
+                - link "Competition kills margins in construction" [ref=f329e435]:
+                  - /url: /shorts/SHubEEHTVZA
+                - generic [ref=f329e436]: 411 views
+              - button "More actions" [ref=f329e438] [cursor=pointer]
+            - generic [ref=f329e443]:
+              - link [aria-hidden] [ref=f329e444] [cursor=pointer]:
+                - /url: /shorts/jJb9_y_zCc4
+              - generic [ref=f329e448] [cursor=pointer]:
+                - link "Every bid comes off your bottom line" [ref=f329e449]:
+                  - /url: /shorts/jJb9_y_zCc4
+                - generic [ref=f329e450]: 588 views
+              - button "More actions" [ref=f329e452] [cursor=pointer]
+          - button "Next" [ref=f329e458] [cursor=pointer]
+      - heading [level=2] [ref=f329e468]:
+        - link "Posts" [ref=f329e471] [cursor=pointer]:
+          - /url: /channel/UCvZpyt2fRQcLmGNUKPph3yg/posts

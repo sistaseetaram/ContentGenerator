@@ -1,0 +1,421 @@
+- generic [ref=f198e2]:
+  - banner [ref=f198e4]:
+    - generic [ref=f198e6]:
+      - generic [ref=f198e7]:
+        - button "Guide" [ref=f198e9] [cursor=pointer]
+        - generic [ref=f198e11]:
+          - link "YouTube Home" [ref=f198e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f198e16]: IN
+        - button "Skip navigation" [ref=f198e20] [cursor=pointer]
+      - generic [ref=f198e24]:
+        - search [ref=f198e25]:
+          - generic [ref=f198e27]:
+            - combobox "Search" [expanded] [ref=f198e30]
+            - button "Search" [ref=f198e31] [cursor=pointer]
+        - generic [ref=f198e34]:
+          - button "Search with your voice" [ref=f198e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=f198e45]
+  - main [ref=f198e47]:
+    - generic [ref=f198e54]:
+      - generic [ref=f198e70]:
+        - heading "Show It Better, verified" [level=1] [ref=f198e72]:
+          - generic [ref=f198e73]: Show It Better
+        - generic [ref=f198e77]:
+          - group [ref=f198e78]:
+            - generic [ref=f198e79]: "@ShowItBetter"
+          - generic [aria-hidden] [ref=f198e80]: •
+          - group [ref=f198e81]:
+            - generic "447 thousand subscribers" [ref=f198e82]: 447k subscribers
+            - generic [aria-hidden] [ref=f198e83]: •
+            - generic [ref=f198e84]: 278 videos
+        - generic [ref=f198e86] [cursor=pointer]:
+          - generic [ref=f198e87]: Learn to communicate your architecture ideas, visually. We create tutorials, resources and courses.
+          - button "Description. Learn to communicate your architecture ideas, visually. We c…tap for more." [ref=f198e88]:
+            - generic [ref=f198e89]: ...more
+        - generic [ref=f198e90]:
+          - link [ref=f198e93] [cursor=pointer]:
+            - /url: https://www.youtube.com/redirect?event=channel_header&redir_token=QUZZTVljRkZ4OWZkNFU5R3FtOEpyNWRqaTFOa3xBTl9pYzRmRGlDOHRONUpaMnJ1WVJTU19EWlZIdmxsWDlJYTRhTXhoX1o2OTAxanRuQUdzelFCTEN4cUNDZDA0R295TTJaLTU3Rzg0anQ4c0w5X3kyal9COXpndGN5My1qalN6&q=https%3A%2F%2Fshowitbetter.co%2Fresources%2F
+          - button "and 2 more links" [ref=f198e98] [cursor=pointer]
+        - generic [ref=f198e99]:
+          - button "Subscribe" [ref=f198e102] [cursor=pointer]
+          - link "Community" [ref=f198e108] [cursor=pointer]:
+            - /url: /@ShowItBetter/community
+      - tablist [ref=f198e115]:
+        - tablist [ref=f198e119]:
+          - tab "Home" [selected] [ref=f198e120] [cursor=pointer]
+          - tab "Videos" [ref=f198e122] [cursor=pointer]
+          - tab "Shorts" [ref=f198e124] [cursor=pointer]
+          - tab "Live" [ref=f198e126] [cursor=pointer]
+          - tab "Playlists" [ref=f198e128] [cursor=pointer]
+          - tab "Posts" [ref=f198e130] [cursor=pointer]
+          - button "Search" [ref=f198e135] [cursor=pointer]
+    - generic [ref=f198e142]:
+      - generic [ref=f198e149]:
+        - generic [ref=f198e150]:
+          - heading "I Stopped Drawing Sections. I Do This Instead. 22 minutes" [level=3] [ref=f198e151]:
+            - link "I Stopped Drawing Sections. I Do This Instead." [ref=f198e152] [cursor=pointer]:
+              - /url: /watch?v=bQiO_qc_ht4
+          - generic [ref=f198e155]:
+            - generic [ref=f198e156]: 68,981 views
+            - generic [ref=f198e157]: •9 months ago
+        - generic [ref=f198e158]:
+          - generic [ref=f198e160]:
+            - text: "Thanks to @ZbyHP @D5-official-channel and ‪@AMD for sponsoring this video! Learn more about the HP Workstation and use code: SIB2025 for 15% off HP Workstations here:"
+            - link "https://www.hp.com/us-en/shop" [ref=f198e161] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRkZuUjhvTnJvZHFxazUtQjVmazA1LXxBTl9pYzRjbmJYS3BRTXFxbmtoREhmZXYzb0pLNUNWcDFEbHE2OFZkT1B0ZjdGeFZ4dHRUMnhjRUpuTWZMdWxNUnNHUUdPT1JmMDliMmFFS3M1VFNMdmE2MG1ScWdfbVV1TEZ2&q=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop
+            - text: "Download D5 Render with a discount here:"
+            - link "https://myspace.d5render.com/subscrib..." [ref=f198e162] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRlppOG5PRFZPWmg3T1Q0c1BMSWgwR3xBTl9pYzRkb3NBVkhpMkUyRWYxTzRGUnJzRjMxTHpXYW1VU0pqbHJMT3RSZGY2SWVlOWpCM0Z5OWRkWVZMVFcycjduUWN4VUpxNFVtMTZ3WnQtaWRKUElSMU5LanpJc2M4Z3Ux&q=https%3A%2F%2Fmyspace.d5render.com%2Fsubscribe%2Fyear%2F%3Faff%3Dshowitbettter
+            - text: "My Current PC Setup: HP Z6 G5 A Workstation Desktop PC:"
+            - link "https://www.hp.com/us-en/workstations..." [ref=f198e163] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRXJDeU9BWjhBaWd0XzhFY1ZZZUppZHxBTl9pYzRmTXNDYnpHelUtTFk3aFY3Yi05VFdJRFJNMnRpT2k4UldPdWlCSEdtaVg1eTZvZklFTlJJa2plYXdmUmlBbHV1ald4MFVwMWxXemVaclNQa3pPMmxhWGxWaHNRZVZj&q=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fworkstations%2Fz6-a.html
+            - text: AMD Processor Ryzen™ Threadripper™ PRO 7985WX
+            - link "https://amzn.to/4lCiXGM" [ref=f198e164] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR1RicHpNT214YzkyQ0N2YXdiaENmWHxBTl9pYzRjWDJkV08zZ25odjhrWW81Zk9MNGw5bHRBWmxwRTA4dlJJWVJDX1A1V3NCVG1uZ3o1WWxVWDZLZzk3MERfSDJwalYtazBHWC1yWVZPamRjLWZZWXNTc054dGxEYlFp&q=https%3A%2F%2Famzn.to%2F4lCiXGM
+            - text: "NVIDIA RTX 6000 Ada Generation:"
+            - link "https://amzn.to/3IzilD6" [ref=f198e165] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSGxwS3BObFJiNTktdU1tNEU5N1BtYnxBTl9pYzRmM1hCZ2ZMQUNlWHVVZWZZX2g3ZkJZa2xkLWlkM1hvVVhMejlXTDZ3Y3I5WFVESk52WXpCMzlWbDlwaGZLNTRWMXZQclp1eWNJdGhCN29rUU1zcXFmSjZRbjhRVEk2&q=https%3A%2F%2Famzn.to%2F3IzilD6
+            - text: "Monitor HP Z32K G3 Display:"
+            - link "https://amzn.to/4kLb4gI" [ref=f198e166] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR25DcjhwN1VEcnFBdWhrczRQMlZwNHxBTl9pYzRjajdydkg4blp3cWloUFZRb1NMQWJyZmRfWGd6bm5MWEs3T2pVQ2ptSUMxS0hUYm5KZ0lZYUVyQjBfbmU5blNzVEpHUkROdE5uQTN1SEo2eXdCdlI0SEY5dXUwTElW&q=https%3A%2F%2Famzn.to%2F4kLb4gI
+            - text: "Keyboard Mx Keys:"
+            - link "https://amzn.to/4lYtFXF" [ref=f198e167] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRmVvZkNwWF81UmJfd18xUGl5QUlPbHxBTl9pYzRmajd5SGdqMjRVeDc5ZEtQUTlBajgxOGgxWkhOUkE5VHdlLXBrVGttY1J6YVZuRE5rWEFvWEVKT0g0V3ZuSnJBQm5OSGNuOE5wN2EzRDRhMGNrcy1wd2REUTliUWw0&q=https%3A%2F%2Famzn.to%2F4lYtFXF
+            - text: "Mouse: MX Master 2s:"
+            - link "https://amzn.to/44U5Ucx" [ref=f198e168] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR1lWc3BsRFdpV3RSWVFLdl8tb1hCbXxBTl9pYzRkaFgzSzBZdEJtWUFBZUt3bl81ZWhqdEUwYUUwZUViY3lzcmE0S2lMWllDdno1ckQtd1l6XzlJQ3QycURkZDh1TUo2Z3NyUFgyNXE5NDNrQTlrZGdSRWxMUy1qYjVa&q=https%3A%2F%2Famzn.to%2F44U5Ucx
+            - text: "Display Light Bar:"
+            - link "https://amzn.to/4m0BFrh" [ref=f198e169] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRXRJblg4WGdhUWxpcE1IMUJzcUxZZXxBTl9pYzRkWk9oSUgxY29JRmZ1UU9RazFkZENEV09la1QyQmtOeldYRmpEcmcwS1B2NFJpOGJDa1diaFZpUmlfdUtNZjY5LVgtMHJpbjRiMU5ielBVRUtUcHlXQTNfejQ4Ty14&q=https%3A%2F%2Famzn.to%2F4m0BFrh
+            - text: "0:00 Can a single render show everything? 1:16 Perspective Sections, why should I create one 2:37 Finding the Cut 4:35 Building the Scene 7:55 How can my pc support all of this detail? 10:05 Lighting Spaces 12:22 People and Activity 13:02 Framing the Shot and Defining the Mood 15:50 Rendering the Result 18:10 How to AI Post Processing in D5 Render 19:25 Final Polish 21:09 Complete Transformation 22:12 Giveaway 📱 Instagram:"
+            - link "http://bit.ly/2mOgrjG" [ref=f198e170] [cursor=pointer]:
+              - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRmtPQkZKMkZKRVpmZTRVSlFtY2ExRHxBTl9pYzRlRnk5YzZEbTFZWWRadmV2VzFDOTJTM09ka2I3M1dQNVJSZmpuZUdERDhxcG53a2lFbW5ZMGVpMlNGV2xwSk5DN2ZZa2ZxeUJYX1d3M1VKTC1ncjZmZmV3cWQ3N0pW&q=http%3A%2F%2Fbit.ly%2F2mOgrjG
+            - text: SIB2025 15% off coupon valid on HP.com internet, mobile, and call center purchases only. Coupon valid from 12/7/2025 through the earlier of 4/30/2026 or while supplies last. Coupon valid on HP.com General Store and the HP Educational Store. Coupon valid on mobile and desktop workstations except where excluded. Coupon not valid on HP Employee Purchase Program, Corporate Employee Purchase Program, Business Platinum, Gold, Silver, Bronze Clubs, select consumer and business private stores. Coupon not valid on all printers and all supplies as defined by HP, refurbish products, third party products offered by HP, bundle products, consumer and commercial laptops, desktops, All-In-Ones, monitors, peripherals, and accessories. Any unused portion will be forfeited. Offer void where prohibited, taxed, or restricted by law. Non-transferable. Not retroactively valid on previously purchased items. Not valid for any resale activity as defined by HP.com. Coupons may not be used to purchase gift cards. May not be permitted with certain bundle offers. Products and support acquired by customer under these terms are solely for customer's personal use and not for immediate resale or sublicensing. Contract and volume customers not eligible. These exclusions and terms and conditions are subject to change without notice.
+          - button [ref=f198e171] [cursor=pointer]:
+            - link "Read more" [ref=f198e173]:
+              - /url: /watch?v=bQiO_qc_ht4&pp=0gcJCWodAYcqIYzv
+      - generic [ref=f198e177]:
+        - heading [level=2] [ref=f198e180]:
+          - link "Videos" [ref=f198e183] [cursor=pointer]:
+            - /url: /@ShowItBetter/videos?view=0&sort=dd&shelf_id=2
+        - generic [ref=f198e186]:
+          - generic [ref=f198e189]:
+            - generic [ref=f198e191] [cursor=pointer]:
+              - link [aria-hidden] [ref=f198e192]:
+                - /url: /watch?v=lEfSoR5JCaQ
+                - img [ref=f198e198]:
+                  - generic [ref=f198e199]: 14:49
+              - generic [ref=f198e201]:
+                - generic [ref=f198e202]:
+                  - heading "3 AI workflows I actually use as an Architect" [level=3] [ref=f198e203]:
+                    - link "3 AI workflows I actually use as an Architect 14 minutes, 49 seconds" [ref=f198e204]:
+                      - /url: /watch?v=lEfSoR5JCaQ
+                      - text: 3 AI workflows I actually use as an Architect
+                  - group [ref=f198e207]:
+                    - generic [ref=f198e208]: 91k views
+                    - generic [aria-hidden] [ref=f198e209]: •
+                    - generic "12 days ago" [ref=f198e210]
+                - button "More actions" [ref=f198e213]
+            - generic [ref=f198e218] [cursor=pointer]:
+              - link [aria-hidden] [ref=f198e219]:
+                - /url: /watch?v=VGQU00-dHhw
+                - img [ref=f198e225]:
+                  - generic [ref=f198e226]: 19:33
+              - generic [ref=f198e228]:
+                - generic [ref=f198e229]:
+                  - heading "How I Redesigned My Enscape Workflow for Realistic Renders" [level=3] [ref=f198e230]:
+                    - link "How I Redesigned My Enscape Workflow for Realistic Renders 19 minutes" [ref=f198e231]:
+                      - /url: /watch?v=VGQU00-dHhw
+                      - text: How I Redesigned My Enscape Workflow for Realistic Renders
+                  - group [ref=f198e234]:
+                    - generic [ref=f198e235]: 50k views
+                    - generic [aria-hidden] [ref=f198e236]: •
+                    - generic "2 months ago" [ref=f198e237]
+                - button "More actions" [ref=f198e240]
+            - generic [ref=f198e245] [cursor=pointer]:
+              - link [aria-hidden] [ref=f198e246]:
+                - /url: /watch?v=-FHkEHt5zKY
+                - img [ref=f198e252]:
+                  - generic [ref=f198e253]: 12:45
+              - generic [ref=f198e255]:
+                - generic [ref=f198e256]:
+                  - heading "How to make your Site Analysys Architecture Map look 3D in Illustrator" [level=3] [ref=f198e257]:
+                    - link "How to make your Site Analysys Architecture Map look 3D in Illustrator 12 minutes, 45 seconds" [ref=f198e258]:
+                      - /url: /watch?v=-FHkEHt5zKY
+                      - text: How to make your Site Analysys Architecture Map look 3D in Illustrator
+                  - group [ref=f198e261]:
+                    - generic [ref=f198e262]: 25k views
+                    - generic [aria-hidden] [ref=f198e263]: •
+                    - generic "3 months ago" [ref=f198e264]
+                - button "More actions" [ref=f198e267]
+            - generic [ref=f198e272] [cursor=pointer]:
+              - link [aria-hidden] [ref=f198e273]:
+                - /url: /watch?v=VqQMrYP5N-c
+                - img [ref=f198e279]:
+                  - generic [ref=f198e280]: 13:25
+              - generic [ref=f198e282]:
+                - generic [ref=f198e283]:
+                  - heading "The Future of Architecture Images is not AI" [level=3] [ref=f198e284]:
+                    - link "The Future of Architecture Images is not AI 13 minutes, 25 seconds" [ref=f198e285]:
+                      - /url: /watch?v=VqQMrYP5N-c
+                      - text: The Future of Architecture Images is not AI
+                  - group [ref=f198e288]:
+                    - generic [ref=f198e289]: 56k views
+                    - generic [aria-hidden] [ref=f198e290]: •
+                    - generic "4 months ago" [ref=f198e291]
+                - button "More actions" [ref=f198e294]
+            - generic [ref=f198e299] [cursor=pointer]:
+              - link [aria-hidden] [ref=f198e300]:
+                - /url: /watch?v=w9QNJR1GjlU
+                - img [ref=f198e306]:
+                  - generic [ref=f198e307]: 12:36
+              - generic [ref=f198e309]:
+                - generic [ref=f198e310]:
+                  - heading "The AI Tools That Are Actually Changing How I Design in D5" [level=3] [ref=f198e311]:
+                    - link "The AI Tools That Are Actually Changing How I Design in D5 12 minutes, 36 seconds" [ref=f198e312]:
+                      - /url: /watch?v=w9QNJR1GjlU
+                      - text: The AI Tools That Are Actually Changing How I Design in D5
+                  - group [ref=f198e315]:
+                    - generic [ref=f198e316]: 58k views
+                    - generic [aria-hidden] [ref=f198e317]: •
+                    - generic "5 months ago" [ref=f198e318]
+                - button "More actions" [ref=f198e321]
+            - generic [ref=f198e326] [cursor=pointer]:
+              - link [aria-hidden] [ref=f198e327]:
+                - /url: /watch?v=du-z4x7FZqc
+                - img [ref=f198e333]:
+                  - generic [ref=f198e334]: 16:32
+              - generic [ref=f198e336]:
+                - generic [ref=f198e337]:
+                  - heading "I Drew the Same Floor Plan in 3 Levels of Complexity. Here is How" [level=3] [ref=f198e338]:
+                    - link "I Drew the Same Floor Plan in 3 Levels of Complexity. Here is How 16 minutes" [ref=f198e339]:
+                      - /url: /watch?v=du-z4x7FZqc
+                      - text: I Drew the Same Floor Plan in 3 Levels of Complexity. Here is How
+                  - generic [ref=f198e341]:
+                    - group [ref=f198e342]:
+                      - generic [ref=f198e343]: 53k views
+                      - generic [aria-hidden] [ref=f198e344]: •
+                      - generic "6 months ago" [ref=f198e345]
+                    - group [ref=f198e346]:
+                      - img "Closed captions" [ref=f198e349]:
+                        - generic [ref=f198e350]: Subtitles
+                - button "More actions" [ref=f198e353]
+          - button "Next" [ref=f198e359] [cursor=pointer]
+      - generic [ref=f198e366]:
+        - heading [level=2] [ref=f198e369]:
+          - link "Representation Styles" [ref=f198e372] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f198e378]:
+          - generic [ref=f198e380] [cursor=pointer]:
+            - link [aria-hidden] [ref=f198e381]:
+              - /url: /watch?v=E9VLTvHSpNw&list=PLeGkR0Itekq10OIiU3k-krlmUBmPZ0MZi
+              - generic [ref=f198e383]: 19 videos
+            - generic [ref=f198e396]:
+              - heading "Floor Plan Tutorials by Show it Better" [level=3] [ref=f198e397]:
+                - link "Floor Plan Tutorials by Show it Better" [ref=f198e398]:
+                  - /url: /watch?v=E9VLTvHSpNw&list=PLeGkR0Itekq10OIiU3k-krlmUBmPZ0MZi
+              - generic [ref=f198e400]:
+                - group [ref=f198e401]:
+                  - link [ref=f198e404]:
+                    - /url: /@ShowItBetter
+                  - generic [aria-hidden] [ref=f198e408]: •
+                  - link "Playlist" [ref=f198e411]:
+                    - /url: /@ShowItBetter
+                - group [ref=f198e412]:
+                  - link "View full playlist" [ref=f198e415]:
+                    - /url: /playlist?list=PLeGkR0Itekq10OIiU3k-krlmUBmPZ0MZi
+          - generic [ref=f198e417] [cursor=pointer]:
+            - link [aria-hidden] [ref=f198e418]:
+              - /url: /watch?v=VGQU00-dHhw&list=PLeGkR0Itekq1sKu5odqjOPTnEv6jESbz4
+              - generic [ref=f198e420]: 40 videos
+            - generic [ref=f198e433]:
+              - heading "Render Tutorials by Show it Better" [level=3] [ref=f198e434]:
+                - link "Render Tutorials by Show it Better" [ref=f198e435]:
+                  - /url: /watch?v=VGQU00-dHhw&list=PLeGkR0Itekq1sKu5odqjOPTnEv6jESbz4
+              - generic [ref=f198e437]:
+                - group [ref=f198e438]:
+                  - link [ref=f198e441]:
+                    - /url: /@ShowItBetter
+                  - generic [aria-hidden] [ref=f198e445]: •
+                  - link "Playlist" [ref=f198e448]:
+                    - /url: /@ShowItBetter
+                - group [ref=f198e449]:
+                  - link "View full playlist" [ref=f198e452]:
+                    - /url: /playlist?list=PLeGkR0Itekq1sKu5odqjOPTnEv6jESbz4
+          - generic [ref=f198e454] [cursor=pointer]:
+            - link [aria-hidden] [ref=f198e455]:
+              - /url: /watch?v=mtV6TS1Q15c&list=PLeGkR0Itekq2gsYtst45AghHWe2-poX4Y
+              - generic [ref=f198e457]: 26 videos
+            - generic [ref=f198e470]:
+              - heading "Architecture Diagram Tutorials by Show it Better" [level=3] [ref=f198e471]:
+                - link "Architecture Diagram Tutorials by Show it Better" [ref=f198e472]:
+                  - /url: /watch?v=mtV6TS1Q15c&list=PLeGkR0Itekq2gsYtst45AghHWe2-poX4Y
+              - generic [ref=f198e474]:
+                - group [ref=f198e475]:
+                  - link [ref=f198e478]:
+                    - /url: /@ShowItBetter
+                  - generic [aria-hidden] [ref=f198e482]: •
+                  - link "Playlist" [ref=f198e485]:
+                    - /url: /@ShowItBetter
+                - group [ref=f198e486]:
+                  - link "View full playlist" [ref=f198e489]:
+                    - /url: /playlist?list=PLeGkR0Itekq2gsYtst45AghHWe2-poX4Y
+          - generic [ref=f198e491] [cursor=pointer]:
+            - link [aria-hidden] [ref=f198e492]:
+              - /url: /watch?v=IjSoea9G2h0&list=PLeGkR0Itekq0lel79y2L6ZElNUqrGVYg8
+              - generic [ref=f198e494]: 4 videos
+            - generic [ref=f198e507]:
+              - heading "Architectural Section in Sketchup Series" [level=3] [ref=f198e508]:
+                - link "Architectural Section in Sketchup Series" [ref=f198e509]:
+                  - /url: /watch?v=IjSoea9G2h0&list=PLeGkR0Itekq0lel79y2L6ZElNUqrGVYg8
+              - generic [ref=f198e511]:
+                - group [ref=f198e512]:
+                  - link [ref=f198e515]:
+                    - /url: /@ShowItBetter
+                  - generic [aria-hidden] [ref=f198e519]: •
+                  - link "Playlist" [ref=f198e522]:
+                    - /url: /@ShowItBetter
+                - group [ref=f198e523]:
+                  - link "View full playlist" [ref=f198e526]:
+                    - /url: /playlist?list=PLeGkR0Itekq0lel79y2L6ZElNUqrGVYg8
+          - generic [ref=f198e528] [cursor=pointer]:
+            - link [aria-hidden] [ref=f198e529]:
+              - /url: /watch?v=NnOdCDMpO-o&list=PLeGkR0Itekq2drNYwIrc52a_c1uCYVdFB
+              - generic [ref=f198e531]: 14 videos
+            - generic [ref=f198e544]:
+              - heading "Architecture Illustration in Photoshop" [level=3] [ref=f198e545]:
+                - link "Architecture Illustration in Photoshop" [ref=f198e546]:
+                  - /url: /watch?v=NnOdCDMpO-o&list=PLeGkR0Itekq2drNYwIrc52a_c1uCYVdFB
+              - generic [ref=f198e548]:
+                - group [ref=f198e549]:
+                  - link [ref=f198e552]:
+                    - /url: /@ShowItBetter
+                  - generic [aria-hidden] [ref=f198e556]: •
+                  - link "Playlist" [ref=f198e559]:
+                    - /url: /@ShowItBetter
+                - group [ref=f198e560]:
+                  - link "View full playlist" [ref=f198e563]:
+                    - /url: /playlist?list=PLeGkR0Itekq2drNYwIrc52a_c1uCYVdFB
+      - generic [ref=f198e567]:
+        - generic [ref=f198e568]:
+          - heading [level=2] [ref=f198e570]:
+            - link "Render Tutorials by Show it Better" [ref=f198e573] [cursor=pointer]:
+              - /url: /playlist?list=PLeGkR0Itekq1sKu5odqjOPTnEv6jESbz4
+            - link "Play all" [ref=f198e578] [cursor=pointer]:
+              - /url: /watch?v=VGQU00-dHhw&list=PLeGkR0Itekq1sKu5odqjOPTnEv6jESbz4
+          - generic [ref=f198e582]: Architecture representation tutorials of renders and illustrations. Subscribe for more!
+        - generic [ref=f198e587]:
+          - generic [ref=f198e589] [cursor=pointer]:
+            - link [aria-hidden] [ref=f198e590]:
+              - /url: /watch?v=VGQU00-dHhw
+              - img [ref=f198e596]:
+                - generic [ref=f198e597]: 19:33
+            - generic [ref=f198e599]:
+              - generic [ref=f198e600]:
+                - heading "How I Redesigned My Enscape Workflow for Realistic Renders" [level=3] [ref=f198e601]:
+                  - link "How I Redesigned My Enscape Workflow for Realistic Renders 19 minutes" [ref=f198e602]:
+                    - /url: /watch?v=VGQU00-dHhw
+                    - text: How I Redesigned My Enscape Workflow for Realistic Renders
+                - generic [ref=f198e604]:
+                  - group [ref=f198e605]:
+                    - link [ref=f198e608]:
+                      - /url: /@ShowItBetter
+                  - group [ref=f198e612]:
+                    - generic [ref=f198e613]: 50k views
+                    - generic [aria-hidden] [ref=f198e614]: •
+                    - generic "2 months ago" [ref=f198e615]
+              - button "More actions" [ref=f198e618]
+          - generic [ref=f198e623] [cursor=pointer]:
+            - link [aria-hidden] [ref=f198e624]:
+              - /url: /watch?v=bQiO_qc_ht4
+              - img [ref=f198e630]:
+                - generic [ref=f198e631]: 22:47
+            - generic [ref=f198e633]:
+              - generic [ref=f198e634]:
+                - heading "I Stopped Drawing Sections. I Do This Instead." [level=3] [ref=f198e635]:
+                  - link "I Stopped Drawing Sections. I Do This Instead. 22 minutes" [ref=f198e636]:
+                    - /url: /watch?v=bQiO_qc_ht4
+                    - text: I Stopped Drawing Sections. I Do This Instead.
+                - generic [ref=f198e638]:
+                  - group [ref=f198e639]:
+                    - link [ref=f198e642]:
+                      - /url: /@ShowItBetter
+                  - group [ref=f198e646]:
+                    - generic [ref=f198e647]: 68k views
+                    - generic [aria-hidden] [ref=f198e648]: •
+                    - generic "9 months ago" [ref=f198e649]
+                  - group [ref=f198e650]:
+                    - img "Closed captions" [ref=f198e653]:
+                      - generic [ref=f198e654]: Subtitles
+              - button "More actions" [ref=f198e657]
+          - generic [ref=f198e662] [cursor=pointer]:
+            - link [aria-hidden] [ref=f198e663]:
+              - /url: /watch?v=9_GH-DcgDc4
+              - img [ref=f198e669]:
+                - generic [ref=f198e670]: 18:33
+            - generic [ref=f198e672]:
+              - generic [ref=f198e673]:
+                - heading "How I Pulled Off This Entire Design Project in D5 Render 2.11 (and it's built-in AI)" [level=3] [ref=f198e674]:
+                  - link "How I Pulled Off This Entire Design Project in D5 Render 2.11 (and it's built-in AI) 18 minutes" [ref=f198e675]:
+                    - /url: /watch?v=9_GH-DcgDc4
+                    - text: How I Pulled Off This Entire Design Project in D5 Render 2.11 (and it's built-in AI)
+                - generic [ref=f198e677]:
+                  - group [ref=f198e678]:
+                    - link [ref=f198e681]:
+                      - /url: /@ShowItBetter
+                  - group [ref=f198e685]:
+                    - generic [ref=f198e686]: 100k views
+                    - generic [aria-hidden] [ref=f198e687]: •
+                    - generic "1 year ago" [ref=f198e688]
+                  - group [ref=f198e689]:
+                    - img "Closed captions" [ref=f198e692]:
+                      - generic [ref=f198e693]: Subtitles
+              - button "More actions" [ref=f198e696]
+          - generic [ref=f198e701] [cursor=pointer]:
+            - link [aria-hidden] [ref=f198e702]:
+              - /url: /watch?v=yBdOtWSA5_o
+              - img [ref=f198e708]:
+                - generic [ref=f198e709]: 17:00
+            - generic [ref=f198e711]:
+              - generic [ref=f198e712]:
+                - heading "How I used Enscape + Veras AI to create stunning renders!" [level=3] [ref=f198e713]:
+                  - link "How I used Enscape + Veras AI to create stunning renders! 17 minutes" [ref=f198e714]:
+                    - /url: /watch?v=yBdOtWSA5_o
+                    - text: How I used Enscape + Veras AI to create stunning renders!
+                - generic [ref=f198e716]:
+                  - group [ref=f198e717]:
+                    - link [ref=f198e720]:
+                      - /url: /@ShowItBetter
+                  - group [ref=f198e724]:
+                    - generic [ref=f198e725]: 65k views
+                    - generic [aria-hidden] [ref=f198e726]: •
+                    - generic "1 year ago" [ref=f198e727]
+                  - group [ref=f198e728]:
+                    - img "Closed captions" [ref=f198e731]:
+                      - generic [ref=f198e732]: Subtitles
+              - button "More actions" [ref=f198e735]
+          - generic [ref=f198e740] [cursor=pointer]:
+            - link [aria-hidden] [ref=f198e741]:
+              - /url: /watch?v=1-xZ3zF4uJ8
+              - img [ref=f198e747]:
+                - generic [ref=f198e748]: 12:06
+            - generic [ref=f198e750]:
+              - generic [ref=f198e751]:
+                - heading "How to create an Aerial Render with V-Ray for Sketchup + Gaussian Splats" [level=3] [ref=f198e752]:
+                  - link "How to create an Aerial Render with V-Ray for Sketchup + Gaussian Splats 12 minutes, 6 seconds" [ref=f198e753]:
+                    - /url: /watch?v=1-xZ3zF4uJ8
+                    - text: How to create an Aerial Render with V-Ray for Sketchup + Gaussian Splats
+                - generic [ref=f198e755]:
+                  - group [ref=f198e756]:
+                    - link [ref=f198e759]:
+                      - /url: /@ShowItBetter
+                  - group [ref=f198e763]:
+                    - generic [ref=f198e764]: 32k views
+                    - generic [aria-hidden] [ref=f198e765]: •
+                    - generic "1 year ago" [ref=f198e766]
+                  - group [ref=f198e767]:
+                    - img "Closed captions" [ref=f198e770]:
+                      - generic [ref=f198e771]: Subtitles
+              - button "More actions" [ref=f198e774]

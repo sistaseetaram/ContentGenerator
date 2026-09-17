@@ -1,0 +1,285 @@
+- generic [active] [ref=f167e1]:
+  - region [ref=f167e2]:
+    - generic [ref=f167e3]:
+      - generic [ref=f167e5]:
+        - img "logo" [ref=f167e7]
+        - link "Cookiebot by Usercentrics - opens in a new window" [ref=f167e8] [cursor=pointer]:
+          - /url: https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2
+      - tablist [ref=f167e36]:
+        - tab "Consent" [selected] [ref=f167e37] [cursor=pointer]
+        - tab "Details" [ref=f167e38] [cursor=pointer]
+        - tab "About" [ref=f167e39] [cursor=pointer]
+      - tabpanel "Consent" [ref=f167e41]:
+        - generic [ref=f167e43]:
+          - heading "We use cookies" [level=2] [ref=f167e44]
+          - paragraph [ref=f167e46]: We've put some small files called cookies on your device which are necessary to make our site work. We'd also like to set cookies that help us improve the site by collecting data to understand how people use our site.
+      - generic [ref=f167e50]:
+        - button "Necessary cookies only" [ref=f167e51] [cursor=pointer]
+        - button "Manage my preferences" [ref=f167e52] [cursor=pointer]
+        - button "Allow all cookies" [ref=f167e54] [cursor=pointer]
+  - generic [ref=f167e56]:
+    - banner [ref=f167e57]:
+      - generic [ref=f167e58]:
+        - link "RIBA Logo" [ref=f167e60] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f167e66]:
+          - button "Skip Navigation" [ref=f167e67] [cursor=pointer]
+          - generic [ref=f167e78]:
+            - button "Search" [ref=f167e81] [cursor=pointer]
+            - button "Login" [ref=f167e86] [cursor=pointer]
+            - button "Open main menu" [ref=f167e91] [cursor=pointer]
+    - main [ref=f167e97]:
+      - generic [ref=f167e98]:
+        - generic [ref=f167e99]:
+          - img "digital survey graphics shown in front of a man at a laptop" [ref=f167e100]
+          - generic [ref=f167e102]:
+            - generic [ref=f167e103]:
+              - navigation [ref=f167e105]:
+                - generic [ref=f167e106]:
+                  - link "RIBA" [ref=f167e107] [cursor=pointer]:
+                    - /url: /
+                  - generic [ref=f167e109]: /
+                  - link "Work" [ref=f167e110] [cursor=pointer]:
+                    - /url: /work/
+                  - generic [ref=f167e112]: /
+                  - link "Insights and Resources" [ref=f167e113] [cursor=pointer]:
+                    - /url: /work/insights-and-resources/
+                  - generic [ref=f167e115]: /
+              - heading "RIBA Artificial Intelligence Report 2026" [level=1] [ref=f167e116]
+            - generic [ref=f167e117]: Read the findings of RIBA's largest-ever survey about how artificial intelligence (AI) is affecting architectural practice. The 2026 report provides up-to-date data about AI and the profession, complemented by expert analysis and guidance.
+            - link "Download the 2026 report" [ref=f167e118] [cursor=pointer]:
+              - /url: /media/3f2bcutw/riba-ai-report-2026-aug.pdf
+        - generic [ref=f167e128]:
+          - generic [ref=f167e134]:
+            - generic [ref=f167e137]:
+              - heading "How are architects using AI?" [level=2] [ref=f167e138]
+              - paragraph [ref=f167e139]: The RIBA 2026 AI survey indicates that nearly three-quarters of practices (74%) now use AI in at least some of their projects, continuing the upward trend in adoption.
+              - paragraph [ref=f167e140]: AI is being applied across the range of practice activities, from early design stage visualisation to project management, as well as supporting the day-to-day tasks of running a business.
+            - generic [ref=f167e146]:
+              - img "A Curved Modern Tower Viewed From Below Against A Clear Sky" [ref=f167e148]
+              - paragraph [ref=f167e149]: "| Credit: Shutterstock"
+          - generic [ref=f167e155]:
+            - generic [ref=f167e158]:
+              - heading "What are the key topics in the report?" [level=3] [ref=f167e159]
+              - paragraph [ref=f167e160]: "Guided by the RIBA Expert Advisory Group on AI, data and generative design, the report brings together a series of articles exploring the relationship between AI and architecture, and how it can be embedded in day-to-day practice. Following an introduction from RIBA President, Chris Williamson, the report explores:"
+              - list [ref=f167e161]:
+                - listitem [ref=f167e162]: Detailed findings of the RIBA AI research
+                - listitem [ref=f167e163]: The three key concepts for understanding AI and the design process
+                - listitem [ref=f167e164]: AI in procurement decision-making, and what this means for architects
+                - listitem [ref=f167e165]: Using AI to create of better human habitats
+                - listitem [ref=f167e166]: What AI means for ethics, inclusion and the environment
+                - listitem [ref=f167e167]: A ‘people first’ approach to AI in architecture
+                - listitem [ref=f167e168]: AI and business transformation
+                - listitem [ref=f167e169]: How ‘foresight’ can help architects navigate the AI future
+                - listitem [ref=f167e170]: AI and standards
+              - paragraph [ref=f167e171]: RIBA will continue to monitor developments in AI, providing evidence-based insight, guidance and a forum for knowledge exchange. Our sincere thanks to the report contributors and to all who completed our annual survey.
+            - iframe [ref=f167e176]:
+              - generic [ref=f168e1]:
+                - generic [ref=f168e8]:
+                  - main [ref=f168e9]
+                  - contentinfo [ref=f168e33]:
+                    - group [ref=f168e39]:
+                      - button "More" [ref=f168e41] [cursor=pointer]
+                      - button "Enter full screen" [ref=f168e44] [cursor=pointer]
+                - generic [aria-hidden] [ref=f168e46]: More
+                - generic [aria-hidden] [ref=f168e47]: Enter full screen
+          - generic [ref=f167e182]:
+            - generic [ref=f167e185]:
+              - heading "Are Practices finally seeing the benefits of AI?" [level=3] [ref=f167e186]
+              - paragraph [ref=f167e187]: The profession’s view of AI is developing, the third RIBA AI report shows. Many practices are beginning to see measurable benefits of AI, including improved productivity and a return on investment. It is providing efficiencies in design work and practice management alike.
+              - paragraph [ref=f167e188]: But the profession is not adopting a naïve techno-optimist stance. Architects are increasingly highlighting the risks associated with AI. There are concerns about the technology’s detrimental effects on the environment, future jobs, intellectual property, and the career path of those starting out in the profession.
+              - paragraph [ref=f167e189]: Navigating this fast-changing AI landscape underscores the importance of architecture as a profession. The safe and responsible use of AI to create our built environment requires the creativity, judgement, ethical probity and ongoing learning of architects and aligned professions.
+            - iframe [ref=f167e194]:
+              - generic [ref=f169e1]:
+                - generic [ref=f169e8]:
+                  - main [ref=f169e9]:
+                    - generic [ref=f169e21]:
+                      - img [ref=f169e27]:
+                        - generic [ref=f169e30]:
+                          - generic [ref=f169e31]: For your projects or work, what impact has Al had on your organisation's productivity, so far?
+                          - generic [ref=f169e34]:
+                            - generic [ref=f169e40]:
+                              - generic [ref=f169e43]:
+                                - generic [ref=f169e44]: 0%
+                                - generic [ref=f169e45]: 20%
+                                - generic [ref=f169e46]: 40%
+                                - generic [ref=f169e47]: 60%
+                                - generic [ref=f169e48]: 80%
+                                - generic [ref=f169e49]: 100%
+                              - generic [ref=f169e50]:
+                                - generic [ref=f169e51]: Deterioration
+                                - generic [ref=f169e52]: No change
+                                - generic [ref=f169e53]: Improvemnt
+                            - generic [ref=f169e54]:
+                              - generic [ref=f169e56]:
+                                - generic [ref=f169e57] [cursor=pointer]
+                                - generic [ref=f169e59] [cursor=pointer]
+                                - generic [ref=f169e61] [cursor=pointer]
+                              - generic: 2%
+                              - generic: 25%
+                              - generic: 73%
+                      - img [ref=f169e65]:
+                        - generic [ref=f169e68]:
+                          - generic [ref=f169e69]: How would you assess the return on investment (ROl) that your organisation has seen on Al adoption?
+                          - generic [ref=f169e72]:
+                            - generic [ref=f169e78]:
+                              - generic [ref=f169e81]:
+                                - generic [ref=f169e82]: 0%
+                                - generic [ref=f169e83]: 20%
+                                - generic [ref=f169e84]: 40%
+                                - generic [ref=f169e85]: 60%
+                                - generic [ref=f169e86]: 80%
+                                - generic [ref=f169e87]: 100%
+                              - generic [ref=f169e88]:
+                                - generic [ref=f169e89]: Negative
+                                - generic [ref=f169e90]: Neautral
+                                - generic [ref=f169e91]: Postiive
+                            - generic [ref=f169e92]:
+                              - generic [ref=f169e94]:
+                                - generic [ref=f169e95] [cursor=pointer]
+                                - generic [ref=f169e97] [cursor=pointer]
+                                - generic [ref=f169e99] [cursor=pointer]
+                              - generic: 2%
+                              - generic: 41%
+                              - generic: 57%
+                  - contentinfo [ref=f169e102]:
+                    - group [ref=f169e108]:
+                      - button "More" [ref=f169e110] [cursor=pointer]
+                      - button "Enter full screen" [ref=f169e113] [cursor=pointer]
+                - generic [aria-hidden] [ref=f169e115]: More
+                - generic [aria-hidden] [ref=f169e116]: Enter full screen
+          - link [ref=f167e197] [cursor=pointer]:
+            - /url: /media/3f2bcutw/riba-ai-report-2026-aug.pdf
+            - heading "Read the 2026 Report" [level=3] [ref=f167e198]
+          - generic [ref=f167e206]:
+            - generic [ref=f167e207]: Read our previous AI reports
+            - generic [ref=f167e209]:
+              - generic [ref=f167e210]:
+                - img "Person with grey hair and glasses looking at a computer screen in an office environment" [ref=f167e213]
+                - generic [ref=f167e214]:
+                  - link "RIBA's Adrian Malleson responds to the 2026 AI Report" [ref=f167e215] [cursor=pointer]:
+                    - /url: /work/insights-and-resources/ai-report/ribas-adrian-malleson-responds-to-the-2026-ai-report/
+                  - generic [ref=f167e216]: Our Head of Research examines this year's AI report and what it means for the value of architectural practices' outputs.
+                  - generic [ref=f167e217]:
+                    - generic [ref=f167e218]: Design, construction and technology
+                    - generic [ref=f167e219]: AI
+              - generic [ref=f167e223]:
+                - link "RIBA Artificial Intelligence Report 2025" [ref=f167e224] [cursor=pointer]:
+                  - /url: /work/insights-and-resources/ai-report/riba-ai-report-2025/
+                - generic [ref=f167e225]: Read expert articles and the key findings from RIBA's second survey of its members on the use of AI in the practice of architecture.
+                - generic [ref=f167e226]:
+                  - generic [ref=f167e227]: Design, construction and technology
+                  - generic [ref=f167e228]: AI
+              - generic [ref=f167e232]:
+                - link "RIBA Artificial Intelligence Report 2024" [ref=f167e233] [cursor=pointer]:
+                  - /url: /work/insights-and-resources/ai-report/riba-artificial-intelligence-report-2024/
+                - generic [ref=f167e234]: Read the key findings from RIBA's first survey of its members on the use of artificial intelligence in the practice of architecture.
+                - generic [ref=f167e235]:
+                  - generic [ref=f167e236]: Design, construction and technology
+                  - generic [ref=f167e237]: AI
+          - generic [ref=f167e238]:
+            - link "Find out more":
+              - /url: /work/insights-and-resources/professional-features/ai-professional-features/
+            - generic [ref=f167e239]:
+              - link "Find out more":
+                - /url: /work/insights-and-resources/professional-features/ai-professional-features/
+              - generic [ref=f167e240]:
+                - link "Find out more" [ref=f167e241] [cursor=pointer]:
+                  - /url: /work/insights-and-resources/professional-features/ai-professional-features/
+                  - generic [ref=f167e242]:
+                    - heading "Our AI features" [level=4] [ref=f167e243]
+                    - paragraph [ref=f167e244]: Read more on how the use of AI is influencing the architectural profession in our series of professional features
+                - link "Find out more" [ref=f167e245] [cursor=pointer]:
+                  - /url: /work/insights-and-resources/professional-features/ai-professional-features/
+              - img "AI Created Sunset With Modern Architecture" [ref=f167e254]
+    - contentinfo [ref=f167e255]:
+      - contentinfo [ref=f167e256]:
+        - generic [ref=f167e259]:
+          - generic [ref=f167e260]:
+            - heading "Follow us" [level=5] [ref=f167e261]
+            - generic [ref=f167e262]:
+              - link "LinkedIn" [ref=f167e263] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/riba
+              - link "Instagram" [ref=f167e269] [cursor=pointer]:
+                - /url: https://www.instagram.com/riba/
+              - link "X" [ref=f167e272] [cursor=pointer]:
+                - /url: https://x.com/riba
+              - link "Facebook" [ref=f167e275] [cursor=pointer]:
+                - /url: https://www.facebook.com/RIBAarchitecture
+              - link "Youtube" [ref=f167e278] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/ribaarchitecture
+          - generic [ref=f167e281]:
+            - heading "Contact us" [level=5] [ref=f167e282]
+            - generic [ref=f167e283]:
+              - link "Get in touch" [ref=f167e284] [cursor=pointer]:
+                - /url: /contact-us/
+              - link "My local RIBA" [ref=f167e285] [cursor=pointer]:
+                - /url: /work/my-local-riba/
+              - link "Our library" [ref=f167e286] [cursor=pointer]:
+                - /url: /explore/riba-collections/riba-library/
+              - link "Press office" [ref=f167e287] [cursor=pointer]:
+                - /url: /contact-us/
+          - generic [ref=f167e288]:
+            - heading "About us" [level=5] [ref=f167e289]
+            - generic [ref=f167e290]:
+              - link "About RIBA" [ref=f167e291] [cursor=pointer]:
+                - /url: /about-us/
+              - link "Strategy" [ref=f167e292] [cursor=pointer]:
+                - /url: /about-us/strategy/
+              - link "Governance" [ref=f167e293] [cursor=pointer]:
+                - /url: /about-us/governance/
+              - link "Work with us" [ref=f167e294] [cursor=pointer]:
+                - /url: /about-us/work-with-us/
+              - link "News" [ref=f167e295] [cursor=pointer]:
+                - /url: /news/
+              - link "Support us" [ref=f167e296] [cursor=pointer]:
+                - /url: /about-us/support-us/
+              - link "Equity, diversity and inclusion" [ref=f167e297] [cursor=pointer]:
+                - /url: /about-us/equity-diversity-and-inclusion/
+          - generic [ref=f167e298]:
+            - heading "Quick links" [level=5] [ref=f167e299]
+            - generic [ref=f167e300]:
+              - link "RIBApix" [ref=f167e301] [cursor=pointer]:
+                - /url: https://www.ribapix.com/
+              - link "RIBA Books" [ref=f167e302] [cursor=pointer]:
+                - /url: https://www.ribabooks.com/
+              - link "RIBAJ" [ref=f167e303] [cursor=pointer]:
+                - /url: https://www.ribaj.com/
+              - link "RIBA Pensions" [ref=f167e304] [cursor=pointer]:
+                - /url: /work/business-tools/riba-pensions/
+              - link "RIBA Insurance" [ref=f167e305] [cursor=pointer]:
+                - /url: /work/business-tools/riba-insurance/
+              - link "RIBA Contracts" [ref=f167e306] [cursor=pointer]:
+                - /url: /work/business-tools/riba-contracts/
+              - link "RIBA Academy" [ref=f167e307] [cursor=pointer]:
+                - /url: https://riba-academy.architecture.com/
+          - generic [ref=f167e308]:
+            - heading "Standards" [level=5] [ref=f167e309]
+            - generic [ref=f167e310]:
+              - link "Professional standards" [ref=f167e311] [cursor=pointer]:
+                - /url: /about-us/governance/professional-standards/
+              - link "Make a complaint" [ref=f167e312] [cursor=pointer]:
+                - /url: /about-us/governance/professional-standards/how-to-make-a-complaint/
+              - link "Safeguarding policy" [ref=f167e313] [cursor=pointer]:
+                - /url: /media/ialhqdnb/riba-safeguarding-policy-march-2026.pdf
+              - link "Accessibility statement" [ref=f167e314] [cursor=pointer]:
+                - /url: /about-us/accessibility-statement/
+          - generic [ref=f167e315]:
+            - link "Join us" [ref=f167e316] [cursor=pointer]:
+              - /url: /work/join-us/
+            - img "Footer Crest Logo" [ref=f167e327]
+        - generic [ref=f167e328]:
+          - generic [ref=f167e329]: Registered Charity No. 210 566. Incorporated by Royal Charter No. RC000484 | © Royal Institute of British Architects 2026
+          - generic [ref=f167e330]:
+            - generic [ref=f167e331]:
+              - link "Cookie statement" [ref=f167e332] [cursor=pointer]:
+                - /url: /about-us/cookie-statement/
+              - link "Privacy policy" [ref=f167e333] [cursor=pointer]:
+                - /url: /about-us/privacy-policy/
+              - link "Terms of use" [ref=f167e334] [cursor=pointer]:
+                - /url: /about-us/terms-of-use/
+              - link "Social media policy" [ref=f167e335] [cursor=pointer]:
+                - /url: /about-us/social-media-policy/
+            - link "Back to top" [ref=f167e336] [cursor=pointer]:
+              - /url: "#"
+  - iframe [aria-hidden] [ref=f167e346]

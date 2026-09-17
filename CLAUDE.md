@@ -46,12 +46,13 @@ Brand assets (images — read for visual reference):
 - Visual identity poster: `/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/raw/assets/setu/setu-standard-visual-identity-system.png`
 - Brand values poster: `/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/raw/assets/setu/setu-brand-values-poster.png`
 
-Approved plan: `/Users/sistaseetaram/.claude/plans/this-is-a-workflow-fluttering-hollerith.md`.
+Approved plan: `/Users/sistaseetaram/.claude/plans/i-want-you-to-glistening-yao.md`
+(the 2026-09-14/16 restart report + relaunch plan — supersedes any earlier plan file).
 
 ## Hard Rules
 
 1. **Voice-first.** Every draft passes Setu voice rules before publish. Banned words: revolutionary, game-changing, disrupt, synergy, cutting-edge, "empowering businesses to unlock potential". Short sentences. Real hours, real money. Outcome first.
-2. **Platform scope is locked: LinkedIn, X, Instagram, YouTube. Nothing else without explicit user decision.**
+2. **Platform scope is locked: LinkedIn + YouTube only, per the 2026-09 relaunch plan.** X and Instagram (Hard Rule #3's isolated feed) stay off / paused until explicitly reopened by the user — nothing else without explicit user decision.
 3. **Instagram = isolated funny/sarcasm/roasting feed.** No Setu mention, no informative content, no cross-post from B2B feeds.
 4. **Orchestrator never drafts content directly.** Always dispatch a sub-agent with locked context (pillar + wiki + recent metrics).
 5. **Every model call goes through `tools/model_router.py`.** Never call SDKs directly. Router handles fallback chains (Sonnet → GPT-4o → DeepSeek-V3, etc).
