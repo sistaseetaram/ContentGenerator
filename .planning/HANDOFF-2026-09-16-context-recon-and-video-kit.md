@@ -93,7 +93,15 @@ To pull them: read the journal.jsonl `result` entries the same way the prior ses
    writes `<edl_dir>/transcript.json` re-timed onto the **edited** timeline for HyperFrames' Gate 0
    `validate-beat-sync.mjs`. It is a post-cut adapter, not a transcriber→cutter bridge. Both facts are now
    documented in the `video-studio` router.
-6. Cherry-pick `tts.md` + the Visual Identity Gate block into our `hyperframes` skill.
+6. ~~Cherry-pick `tts.md` + the Visual Identity Gate block into our `hyperframes` skill.~~
+   **CLOSED 2026-09-18 — nothing to take, both halves already covered by our own skills.** We already have
+   the `<HARD-GATE>` (plus a richer Step 1: both-casings design.md check, missing-font warning, design
+   picker, prompt expansion). And `hyperframes-media/SKILL.md` already has the identical Kokoro voice table,
+   the same speed bands, `--list`/54 voices, and the TTS→transcribe→captions chain, plus a language-prefix
+   table the kit lacks; the `<audio>` convention lives in `hyperframes/SKILL.md`. Our split is deliberate:
+   `narration.md` = script writing · `hyperframes-media` = voice/speed/CLI · `hyperframes` = audio element.
+   The "would have caught the 3 brand violations" justification never held — the gate already existed.
+   See the plan's Part 6 item 3 for the full verdict. Do not reopen.
 7. Re-auth-test the YouTube token before the first upload.
 8. Execute Phase 0 (plan Part 4) then Week 1.
 

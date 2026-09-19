@@ -66,14 +66,17 @@ Approved plan: `/Users/sistaseetaram/.claude/plans/i-want-you-to-glistening-yao.
 
 ## Content Pillars
 
-| # | Pillar | Status | Cadence |
+**Locked total cadence (2026-09 relaunch): 5 LinkedIn/week + 2 YouTube/month.** Per-pillar slots below
+must sum to that. X and Instagram cadences are PAUSED under Hard Rule #2 — do not schedule them.
+
+| # | Pillar | Status | Cadence (LinkedIn + YouTube only) |
 |---|--------|--------|---------|
-| 1 | Build Receipts | ACTIVE | 2/wk LI, 1/wk X thread, 1/wk YT short, 1/wk Loom |
-| 2 | Plain-English AI Takes | ACTIVE | 1/wk LI, daily X |
+| 1 | Build Receipts | ACTIVE | 2/wk LI (+ the YouTube slot when a build is filmed) |
+| 2 | Plain-English AI Takes | ACTIVE | 1/wk LI |
 | 3 | Build-in-Public Setu | ACTIVE | 1/wk LI |
-| 4 | Contrarian | HOLD until Week 3 | — |
-| 5 | ROI Case Studies | HOLD until first client | — |
-| IG | Funny / sarcasm / roasting | ACTIVE | 2-3/wk Instagram (separate) |
+| 4 | Contrarian | UNLOCKED BY SEQUENCE, not by date | 1/wk LI max — only *after* the method + client-acceptance posts have landed, so it reads as earned (see plan Part 4) |
+| 5 | ROI Case Studies | HOLD until a real number exists | unlocks with the timed room-2 build, not with the first client |
+| IG | Funny / sarcasm / roasting | PAUSED | — (platform scope, Hard Rule #2) |
 
 ## Model Stack (current — revisit Day 7)
 

@@ -167,20 +167,30 @@ After any confirmed change: append to `applied_changes[]` in `ideator-meta.json`
 
 **Trigger rule (hard rule — do not deviate):** Schedule mode runs ONLY when (a) the user manually asks ("plan next week", "weekly schedule", "Sunday planning"), or (b) it is Sunday (cron or manual). It NEVER runs as part of a Generate-mode ideator run — generating ideas and building the weekly schedule are separate actions. A Generate run fills the idea backlog; it does not touch the calendar.
 
-**Week 1 (May 23–30) and Week 2 (Jun 1–7) are already planned manually** — do not re-schedule them. The first ideator-built schedule is **Week 3**, produced on the next Sunday.
-
 **Inputs (read in order):**
-1. `data/ideas.json` — ideas with `status=backlog` and `strategic_opinion.verdict=post_now`
-2. `data/posts.json` — what's already published (avoid same topic repeats this week)
-3. `data/metrics.json` — if available, weight toward pillars/formats with higher engagement
-4. Analyzer output — if `data/analyzer-latest.json` exists, read it; if not, skip silently
-5. Active pillar cadence from `CLAUDE.md` — slots per platform per week
+1. **The approved plan** (path in `CLAUDE.md` → "Approved plan") — if it specifies a schedule for the week
+   being planned, THAT IS CANON and outranks the backlog. `CLAUDE.md` says the plan is canon; a locked
+   relaunch sequence is a deliberate narrative order, not a pile of interchangeable slots. Only fill
+   *unspecified* slots from the backlog.
+2. `data/ideas.json` — ideas with `status=backlog` and `strategic_opinion.verdict=post_now`
+3. `data/posts.json` — what's already published (avoid same topic repeats this week)
+4. `data/metrics.json` — if available, weight toward pillars/formats with higher engagement
+5. Analyzer output — if `data/analyzer-latest.json` exists, read it; if not, skip silently
+6. Active pillar cadence from `CLAUDE.md` — slots per platform per week
+
+**Verify the calendar against a real clock.** Before writing dates, run `date` and derive the week's
+Mon–Fri from it. Never infer a weekday from a date by hand, and never trust weekday↔date pairings copied
+from a planning doc — the 2026-09 plan shipped with every week block off by one day, which would have put
+posts out on the wrong dates.
 
 **Build the schedule:**
-- Fill the week's slots per the cadence (Build Receipts: 2× LI + 1× X + 1× YT short + 1× Loom; Plain-English: 1× LI + daily X; Build-in-Public: 1× LI)
+- Locked platform scope is **LinkedIn + YouTube only** (Hard Rule #2). Never schedule X or Instagram.
+- Locked cadence: **5 LinkedIn/week + 2 YouTube/month.** Fill per the pillar table in `CLAUDE.md`.
 - Assign one idea per slot, matching pillar → platform
-- Ideas with `post_later` or `drop` verdicts are excluded
-- If backlog is thin (< 5 `post_now` ideas), note it and suggest running Generate mode first
+- Ideas with `drop` verdicts are excluded. A `post_later` idea MAY be scheduled if its `when_to_post`
+  unlock condition is satisfied by an earlier slot in this same week — record which slot unlocks it.
+- If the plan does not cover the week and the backlog is thin (< 5 `post_now` ideas), note it and suggest
+  running Generate mode first
 
 **Output: `data/content-calendar.json`** (overwrite the current week's block only):
 ```json

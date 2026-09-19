@@ -1,418 +1,114 @@
 {
-  "weeks": [
+  "week": "2026-W39",
+  "generated_at": "2026-09-19",
+  "generated_by": "content-ideator Schedule mode (Phase 11), run from the approved plan as canon",
+  "platform_scope": "linkedin + youtube only (Hard Rule #2)",
+  "cadence_target": "5 LinkedIn/week + 2 YouTube/month",
+  "dates_verified_against": "system clock 2026-09-19 (Saturday); Mon of this block = 2026-09-21",
+  "dual_audience": {
+    "primary": "Bridge 01 ICP — owners of 2-15 person architecture / interior / construction studios. Outcome first, jargon translated.",
+    "secondary": "AI peers + hiring managers (MSc AI / AI-engineering roles). Served by the method layer underneath each post and by the YouTube long-form build, NOT by separate builder-flex posts.",
+    "rule": "Every post leads with the work or the client outcome. The engineering appears as the REASON the outcome can be trusted — never as the headline. A post that would only impress another builder is a positioning leak (see idea-013)."
+  },
+  "naming_permissions": {
+    "firm_name": "CLEARED 2026-09-19 — Nine Bricks Studio may be named",
+    "project_type": "CLEARED — government office project",
+    "floor_plan_visual": "CLEARED — the plan itself may be shown (unlocks the PLAN|RENDER split)",
+    "render": "CLEARED — designer approved showing it on social"
+  },
+  "slots": [
     {
-      "week": 1,
-      "days": [
-        {
-          "day": 1,
-          "date": "2026-05-23",
-          "action": "publish",
-          "post_id": "post-001",
-          "platform": "linkedin",
-          "pillar": "build-receipts",
-          "status": "done",
-          "notes": "Published via Supergrow. First post live."
-        },
-        {
-          "day": 2,
-          "date": "2026-05-24",
-          "action": "prep",
-          "post_id": null,
-          "platform": null,
-          "pillar": null,
-          "status": "done",
-          "notes": "Calendar locked. post-002 + post-003 drafted. Brainstorm started on ideator + loom skills."
-        },
-        {
-          "day": 3,
-          "date": "2026-05-25",
-          "action": "publish",
-          "post_id": "post-002",
-          "platform": "linkedin",
-          "pillar": "build-in-public",
-          "status": "done",
-          "url": "https://www.linkedin.com/posts/sista-seetaram_buildinpublic-setu-share-7464732605263978496-JozW/",
-          "notes": "Published manually via Supergrow."
-        },
-        {
-          "day": 4,
-          "date": "2026-05-26",
-          "action": "prep",
-          "post_id": null,
-          "platform": null,
-          "pillar": null,
-          "status": "done",
-          "notes": "No post. Draft Week 2 ideas. Monitor post-001 and post-002 metrics."
-        },
-        {
-          "day": 5,
-          "date": "2026-05-27",
-          "action": "publish",
-          "post_id": "post-003",
-          "platform": "linkedin",
-          "pillar": "plain-english-ai-takes",
-          "status": "done",
-          "url": "https://www.linkedin.com/posts/sista-seetaram_aiadoption-workflowautomation-share-7465485954850549760-5YWg/",
-          "notes": "Brand values / model fallback chains."
-        },
-        {
-          "day": 6,
-          "date": "2026-05-28",
-          "action": "prep",
-          "post_id": null,
-          "platform": null,
-          "pillar": null,
-          "status": "done",
-          "notes": "Build content-ideator skill. Draft first Loom walkthrough plan."
-        },
-        {
-          "day": 7,
-          "date": "2026-05-29",
-          "action": "checkpoint",
-          "post_id": null,
-          "platform": null,
-          "pillar": null,
-          "status": "done",
-          "notes": "Day-7 checkpoint."
-        }
-      ]
+      "day": "Monday",
+      "date": "2026-09-21",
+      "platform": "linkedin",
+      "pillar": "build-receipts",
+      "idea_id": null,
+      "format": "document carousel",
+      "title": "The renders that got it wrong first",
+      "angle": "fidelity — reopen the problem with real failures before showing any win",
+      "proof_plan": "Real failed output, none staged. TWO DIFFERENT PROJECTS - keep them visibly separate in the carousel: (a) the line-art redraw on the RESIDENTIAL demo plan pushed the dining back, pulled the sofa forward and invented two CONSOLES (not couches - corrected 2026-09-19); (b) FAILED-refine-texture-swallow.png is from the Nine Bricks government-office project. Do not let the carousel imply all of these came from the Nine Bricks job.",
+      "method_layer": "Why it happens: current image models treat a floor plan as a mood board, not as geometry (wiki: image-models-treat-plan-as-mood, CONFIRMED/high).",
+      "assets": [
+        "references/controlofficeff/05-notes/bakeoff-round3/FAILED-refine-texture-swallow.png",
+        "lineart comparison stills"
+      ],
+      "notes": "Opens the week honestly. This is the highest-credibility pattern found in the niche research (first-person specificity WITH named limitations). Do not stage or fabricate a failure — only real lineage output."
     },
     {
-      "week": 2,
-      "theme": "Bridge 1 pivot + volume ramp",
-      "cadence_target": "LinkedIn daily (7) + 3 YouTube (2 ship, YT3 prep)",
-      "days": [
-        {
-          "day": 1,
-          "date": "2026-06-01",
-          "action": "publish",
-          "post_id": "post-005",
-          "platform": "linkedin",
-          "pillar": "plain-english-ai-takes",
-          "status": "done",
-          "url": "https://www.linkedin.com/posts/sista-seetaram_aifordesign-interiordesign-architecturefirms-share-7467484541998321664-yW7F/",
-          "youtube": null,
-          "notes": "PUBLISHED. Plain-English: 'What AI for your design studio actually means.' Shipped with gpt-image editorial infographic (v6, brand-locked) + Setu wordmark overlay. Anchors Bridge 1 week."
-        },
-        {
-          "day": 2,
-          "date": "2026-06-02",
-          "action": "publish",
-          "post_id": "post-006",
-          "platform": "linkedin",
-          "pillar": "build-in-public-setu",
-          "status": "done",
-          "url": "https://www.linkedin.com/posts/sista-seetaram_interiordesign-architecture-buildinpublic-share-7467873638138990595-VksZ/",
-          "youtube": null,
-          "notes": "PUBLISHED. Bridge-1 intro: Setu means bridge. AI system for interior design/architecture firms. Honest build status. 10/10 Supergrow score. Text-only."
-        },
-        {
-          "day": 3,
-          "date": "2026-06-03",
-          "action": "publish",
-          "post_id": "post-007",
-          "platform": "linkedin",
-          "pillar": "build-receipts",
-          "status": "done",
-          "published_at": "2026-06-05",
-          "youtube": null,
-          "notes": "PUBLISHED 2026-06-05 (slipped 2 days). Real 3BHK: WhatsApp brief \u2192 Material Schedule + Lighting + BOQ + FF&E Google Sheets. 7-slide carousel, real pipeline outputs. 10/10 Supergrow score. Carousel built in HTML+playwright, uploaded via Supergrow MCP. Supergrow post ID: f251cc3e-31c9-4e37-9286-b86e0881a26f."
-        },
-        {
-          "day": 4,
-          "date": "2026-06-04",
-          "action": "publish",
-          "post_id": "post-008",
-          "platform": "linkedin",
-          "pillar": "build-in-public-setu",
-          "status": "planned",
-          "youtube": null,
-          "notes": "Render blocker: 'AI kept moving the furniture' V1->V4 story. Before/after render images (user-supplied). Soft client CTA tail."
-        },
-        {
-          "day": 5,
-          "date": "2026-06-05",
-          "action": "publish",
-          "post_id": "post-009",
-          "platform": "linkedin",
-          "pillar": "build-receipts",
-          "status": "retired",
-          "youtube": "YT1",
-          "notes": "idea-005 retired \u2014 n8n YouTube promo redundant after post-004. Next = post-010 (idea-006)."
-        },
-        {
-          "day": 6,
-          "date": "2026-06-06",
-          "action": "publish",
-          "post_id": "post-010",
-          "platform": "linkedin",
-          "pillar": "plain-english-ai-takes",
-          "status": "planned",
-          "youtube": "YT2",
-          "notes": "Wake-up call (written): get basics right before chasing AI. LECTURE-RISK: frame as observation not scolding, hard five-value check (Respect the owner). Promotes YT2. YT2 = wake-up-call video + free Gemini Gem lead magnet (record this week)."
-        },
-        {
-          "day": 7,
-          "date": "2026-06-07",
-          "action": "publish",
-          "post_id": "post-011",
-          "platform": "linkedin",
-          "pillar": "build-in-public-setu",
-          "status": "planned",
-          "youtube": null,
-          "notes": "Free Gem lead-magnet offer: 'free AI advisor for design/architecture firms \u2014 try it.' + plan Week 3 + run metrics auditor."
-        },
-        {
-          "day": 0,
-          "date": "2026-06-01",
-          "action": "prep",
-          "post_id": null,
-          "platform": "youtube",
-          "pillar": null,
-          "status": "planned",
-          "youtube": "YT3-prep",
-          "notes": "YT3 (live build with sister's firm) PREP ONLY this week. Ships Week 3. Needs: shoot plan, interview clips, real demo project, template. Use loom-walkthrough-recorder."
-        }
-      ]
+      "day": "Tuesday",
+      "date": "2026-09-22",
+      "platform": "linkedin",
+      "pillar": "build-receipts",
+      "idea_id": "idea-008",
+      "format": "document carousel",
+      "title": "How we made the render hold the actual floor plan",
+      "angle": "method — the spatial method, told as why you can trust the output",
+      "proof_plan": "The CURRENT pipeline on the real Nine Bricks government-office plan: plan-coords extraction -> whitebox -> five blocking spatial checks -> control -> photoreal -> refine. Show the PLAN | RENDER split (now cleared). CORRECTED 2026-09-19: an earlier version of this slot listed a 'line art -> photoreal' step. That is out of date - per experiments/render-model-ab-nano-field, direct whitebox->photoreal in ONE hop replaced the line-art chain as primary, and line art is now kept only as a designer deliverable. The Nine Bricks render folder confirms control -> photoreal -> refine with no line-art step. Publishing the old version would have contradicted Monday's post, which blames the line-art redraw for the failures.",
+      "method_layer": "spatial_evals.py runs ffe_in_room, opening_reachability, door_clearance, boundary_sealed, no_enclosed_void for $0 BEFORE any paid render fires. Describe this as METHOD only: there is no documented spatial-check catch attributable to the Nine Bricks plan (the one recorded catch - 2 enclosed voids, west/east circulation halls - belongs to a different, larger plan). Do not claim it caught something here.",
+      "assets": ["floor plan image", "whitebox", "accepted render", "PLAN|RENDER split graphic"],
+      "notes": "idea-008, score 39.5, verdict post_now — the backlog's strongest. Its own note: 'fulfills post-008's open promise; proof is ready.'"
     },
     {
-      "week": 3,
-      "theme": "Bridge proof: render method + you're-not-behind",
-      "generated_at": "2026-06-12",
-      "cadence_target": "LinkedIn + YouTube only (X/IG not live). ~4-5 LI/wk, sustainable.",
-      "days": [
-        {
-          "day": 5,
-          "date": "2026-06-12",
-          "action": "publish",
-          "platform": "linkedin",
-          "pillar": "plain-english-ai-takes",
-          "idea_id": "idea-009",
-          "title": "Only 6% of architects actually use AI",
-          "youtube": null,
-          "status": "done",
-          "notes": "SWAPPED IN 2026-06-12: text-only Plain-English Take, no user asset needed \u2014 drafted by agent. Verify 6%/8%/33% survey figures before publish. Standalone, no sequence dependency.",
-          "post_id": "post-010"
-        },
-        {
-          "day": 6,
-          "date": "2026-06-13",
-          "action": "prep",
-          "platform": "youtube",
-          "pillar": null,
-          "idea_id": null,
-          "title": "Record YT2 (wake-up call video)",
-          "youtube": "YT2-record",
-          "status": "planned",
-          "notes": "No LI post (sustainable Sat). Record YT2 'Why design & construction need AI + free Gem'. Use loom-walkthrough-recorder prep."
-        },
-        {
-          "day": 7,
-          "date": "2026-06-14",
-          "action": "publish",
-          "platform": "linkedin",
-          "pillar": "build-receipts",
-          "idea_id": "idea-008",
-          "title": "The spatial method that made the AI render hold the plan",
-          "youtube": null,
-          "status": "rescheduled",
-          "notes": "SLIPPED (V1\u2192V4 demo not ready at the time). Rescheduled to Week 5 Mon 6/22 \u2014 asset now ready. SWAPPED FROM Fri 6/12: needs user screen-rec (V1 vs V2 + plan-coords check) \u2014 moved to weekend when time exists. Still ships BEFORE idea-011 render-trap (Wed 6/17). Fulfills post-008's promise."
-        }
-      ]
+      "day": "Wednesday",
+      "date": "2026-09-23",
+      "platform": "linkedin",
+      "pillar": "build-receipts",
+      "idea_id": null,
+      "format": "document carousel (video optional)",
+      "title": "Nine Bricks Studio accepted it",
+      "angle": "client outcome — third-party validation is the headline, not the render",
+      "proof_plan": "Nine Bricks accepted the render after eight rounds of changes. TWO CORRECTIONS 2026-09-19: (1) the eight passes were NOT one straight chain - they were two parallel options (A: v1-v3, B: drafts B through B4), so do not present them as a single linear sequence even though the filenames suggest one. (2) BLOCKED PENDING CONFIRMATION: the quote 'good enough to show their own clients and vendors' appears only in the earlier YouTube draft and in the plan - it is NOT recorded anywhere in the wiki, which logs only 'OPTION B4 ACCEPTED'. Ask Seetaram to confirm the designer actually said it before it goes in a public post. If unconfirmed, claim acceptance and social clearance and stop there.",
+      "method_layer": "Eight client-directed rounds of changes = a human stayed in control throughout. Not a one-shot AI trick. TODO before building the payoff slide: the accepted B4 image is not obviously named on disk - locate the exact file first rather than guessing from filenames.",
+      "assets": ["sr_dee_trso_chamber-photoreal-refine-v1 ... x8 chain", "diary.html", "compare.html"],
+      "notes": "THE PAYOFF. Strongest credibility asset in the whole project. Carousel over video: documents run 1.39x reach vs video 0.86x on personal profiles."
     },
     {
-      "week": 4,
-      "theme": "Activate Contrarian pillar + Gem lead magnet + YT2 ship",
-      "generated_at": "2026-06-12",
-      "cadence_target": "LinkedIn + YouTube only. Contrarian unlocks (idea-008 shipped, proof-gate met).",
-      "days": [
-        {
-          "day": 1,
-          "date": "2026-06-15",
-          "action": "publish",
-          "platform": "linkedin",
-          "pillar": "build-in-public-setu",
-          "idea_id": "idea-010",
-          "title": "Free AI advisor (Gem) for design & architecture firms",
-          "youtube": null,
-          "status": "done",
-          "notes": "PUBLISHED (user-confirmed Week 4). Post record/URL pending in posts.json. Value-first standalone. Gem live (unblocked). One concrete example question."
-        },
-        {
-          "day": 2,
-          "date": "2026-06-16",
-          "action": "publish",
-          "platform": "linkedin",
-          "pillar": "plain-english-ai-takes",
-          "idea_id": "idea-006",
-          "title": "Get the basics right before chasing AI (promotes YT2)",
-          "youtube": "YT2-publish",
-          "status": "done",
-          "notes": "PUBLISHED + YT2 live (user-confirmed). Post record/URL pending in posts.json. Publish YT2 + LI promo (post-010 / idea-006, already written). LECTURE-RISK: frame as observation, hard Respect-owner check."
-        },
-        {
-          "day": 3,
-          "date": "2026-06-17",
-          "action": "publish",
-          "platform": "linkedin",
-          "pillar": "contrarian",
-          "idea_id": "idea-011",
-          "title": "An AI render in a minute is easy; one you can build from is hard",
-          "youtube": null,
-          "status": "rescheduled",
-          "notes": "SLIPPED \u2014 was gated on idea-008 shipping first. Rescheduled Week 5 Wed 6/24. FIRST Contrarian-pillar post. Now post_now-eligible because idea-008 shipped Jun 12. Sequenced on shown proof."
-        },
-        {
-          "day": 4,
-          "date": "2026-06-18",
-          "action": "prep",
-          "platform": "youtube",
-          "pillar": null,
-          "idea_id": null,
-          "title": "YT3 live-build prep (sister's firm)",
-          "youtube": "YT3-prep",
-          "status": "planned",
-          "notes": "Proof centerpiece prep: shoot plan, interview clips, real demo project. loom-walkthrough-recorder."
-        },
-        {
-          "day": 5,
-          "date": "2026-06-19",
-          "action": "publish",
-          "platform": "linkedin",
-          "pillar": "plain-english-ai-takes",
-          "idea_id": "idea-012",
-          "title": "Map the workflow before you buy the AI tool",
-          "youtube": null,
-          "status": "rescheduled",
-          "notes": "SLIPPED \u2014 needs workflow-map graphic. Pushed to Week 6 backlog. map-before-build value, anchored to 33%-software-fit stat. Needs anonymized workflow-map graphic."
-        },
-        {
-          "day": 6,
-          "date": "2026-06-20",
-          "action": "prep",
-          "platform": null,
-          "pillar": null,
-          "idea_id": null,
-          "title": "Rest / buffer",
-          "youtube": null,
-          "status": "planned",
-          "notes": "No post. Buffer for slips + edit YT3 footage."
-        },
-        {
-          "day": 7,
-          "date": "2026-06-21",
-          "action": "publish",
-          "platform": "linkedin",
-          "pillar": "build-in-public-setu",
-          "idea_id": null,
-          "title": "Week 4 retro: what shipped + what broke",
-          "youtube": null,
-          "status": "planned",
-          "notes": "Build-in-Public weekly recap. Run ideator Generate for Week 5 backlog this day (Sunday)."
-        }
-      ]
+      "day": "Thursday",
+      "date": "2026-09-24",
+      "platform": "linkedin",
+      "pillar": "contrarian",
+      "idea_id": "idea-011",
+      "format": "text",
+      "title": "An AI render in under a minute is easy. A render you can build from is the hard part.",
+      "angle": "fidelity / contrarian — now earned, because Tue + Wed already showed the method and the sign-off",
+      "proof_plan": "Backed by a CONFIRMED/high finding, not an opinion: no amount of prompt engineering or whitebox conditioning makes current models preserve plan geometry reliably.",
+      "method_layer": "Names what the market actually ships: the category leader's answer is a slider that lets the model diverge from the model geometry.",
+      "assets": [],
+      "notes": "idea-011 is verdict post_later; its unlock condition is 'must land after the method post so it reads as earned'. Tuesday + Wednesday satisfy it. Unlocked by slots 2026-09-22 and 2026-09-23."
     },
     {
-      "week": 5,
-      "theme": "Ship the slipped proof \u2014 spatial method + first Contrarian (shifted +1d: idea-008 slipped Mon 6/22 \u2192 now Tue 6/23)",
-      "generated_at": "2026-06-23",
-      "cadence_target": "LinkedIn + YouTube only. Sustainable 3 LI/wk. Clear the asset-blocked backlog now the demo is ready.",
-      "days": [
-        {
-          "day": 1,
-          "date": "2026-06-23",
-          "action": "publish",
-          "platform": "linkedin",
-          "pillar": "build-receipts",
-          "idea_id": "idea-008",
-          "title": "The spatial method that made the AI render hold the floor plan",
-          "youtube": null,
-          "status": "planned",
-          "post_id": null,
-          "notes": "TOP PRIORITY \u2014 post TODAY (Tue 6/23). Slipped from Mon 6/22 (couldn't post). Asset ready (V1\u2192V4 demo). Fulfills post-008 promise.",
-          "shifted_from": "2026-06-22"
-        },
-        {
-          "day": 2,
-          "date": "2026-06-24",
-          "action": "prep",
-          "platform": null,
-          "pillar": null,
-          "idea_id": null,
-          "title": "Buffer / edit idea-011 contrarian visuals",
-          "youtube": null,
-          "status": "planned",
-          "notes": "No post. Prep V1 'beautiful but wrong' frames for Wed's Contrarian post.",
-          "shifted_from": "2026-06-23"
-        },
-        {
-          "day": 3,
-          "date": "2026-06-25",
-          "action": "publish",
-          "platform": "linkedin",
-          "pillar": "contrarian",
-          "idea_id": "idea-011",
-          "title": "An AI render in a minute is easy; one you can build from is hard",
-          "youtube": null,
-          "status": "planned",
-          "post_id": null,
-          "notes": "FIRST Contrarian-pillar post \u2014 now stands on shown proof (idea-008 shipped Mon). Reuse V1 spatial-failure frames vs verified V2.",
-          "shifted_from": "2026-06-24"
-        },
-        {
-          "day": 4,
-          "date": "2026-06-26",
-          "action": "prep",
-          "platform": "youtube",
-          "pillar": null,
-          "idea_id": null,
-          "title": "YT3 live-build prep (sister's firm)",
-          "youtube": "YT3-prep",
-          "status": "planned",
-          "notes": "Proof centerpiece prep: shoot plan, interview clips, real demo project. loom-walkthrough-recorder.",
-          "shifted_from": "2026-06-25"
-        },
-        {
-          "day": 5,
-          "date": "2026-06-27",
-          "action": "publish",
-          "platform": "linkedin",
-          "pillar": "plain-english-ai-takes",
-          "idea_id": "idea-014",
-          "title": "The four foundations, by the numbers",
-          "youtube": null,
-          "status": "planned",
-          "post_id": null,
-          "notes": "Rides post-009 momentum. Use ONLY verified stats, cap at 3 figures + the human point. Label construction-industry stats as such.",
-          "shifted_from": "2026-06-26"
-        },
-        {
-          "day": 6,
-          "date": "2026-06-28",
-          "action": "prep",
-          "platform": null,
-          "pillar": null,
-          "idea_id": null,
-          "title": "Rest / buffer for slips",
-          "youtube": null,
-          "status": "planned",
-          "notes": "No post. Buffer + edit YT3 footage.",
-          "shifted_from": "2026-06-27"
-        },
-        {
-          "day": 7,
-          "date": "2026-06-29",
-          "action": "checkpoint",
-          "platform": null,
-          "pillar": null,
-          "idea_id": null,
-          "title": "Week 5 retro + run ideator Generate for Week 6",
-          "youtube": null,
-          "status": "planned",
-          "notes": "Sunday planning. Run content-ideator Generate to refill backlog (idea-012 map still pending graphic). Build Week 6 schedule.",
-          "shifted_from": "2026-06-28"
-        }
-      ]
+      "day": "Friday",
+      "date": "2026-09-25",
+      "platform": "linkedin",
+      "pillar": "build-in-public-setu",
+      "idea_id": null,
+      "format": "text + image",
+      "title": "I thought a symbol legend would help. The test said no.",
+      "angle": "build-in-public — a published negative result, plus the series launch",
+      "proof_plan": "The legend bake-off across 8 vision models disproved the hypothesis: a verbose legend HURT Gemini badly (94 -> 33). Real experiment, real negative result, published anyway.",
+      "method_layer": "Strongest dual-audience post of the week: owners read integrity, hiring managers read experimental discipline and willingness to publish a disconfirming result. Close with 'that was room 1 of 26 on this floor' to open the series.",
+      "assets": ["legend bake-off result table"],
+      "notes": "Pairs the series launch with the negative result so the week ends on credibility rather than promotion."
+    },
+    {
+      "day": "Tuesday",
+      "date": "2026-09-23",
+      "platform": "youtube",
+      "pillar": "build-receipts",
+      "idea_id": null,
+      "format": "long-form ~10-11 min",
+      "title": "This AI Didn't Invent a Single Window",
+      "angle": "fidelity — the full build, end to end",
+      "proof_plan": "Recorded Sep 19-20. Full package already drafted at data/drafts/2026-09-16-video-01-control-office/youtube.md. Naming now cleared, so the title/description can say government office and the firm, and the floor plan can be shown on screen.",
+      "method_layer": "This is the portfolio artifact for MSc / AI-engineering roles: a real client project, a verification stack, an honest failure, and a signed-off outcome.",
+      "assets": ["screen recording", "PLAN|RENDER thumbnail", "8-pass refine chain"],
+      "notes": "NO time or cost numbers in this video (locked decision). Run YouTube's free 3-way A/B test on the thumbnail. Re-check Studio feature eligibility before upload day."
     }
-  ]
+  ],
+  "backlog_state": {
+    "post_now_available": 3,
+    "threshold": 5,
+    "resolution": "Below the skill's own thin-backlog threshold, but NOT a blocker: the approved plan specifies this week's sequence and is canon, and the design-automation wiki holds a large unused supply of proof-grade material. The real gap is that data/ideas.json was last refreshed 2026-06-22 and has never ingested the product wiki."
+  },
+  "notes": "Week 1 of the relaunch after an 80+ day silence. Sequence is the plan's locked narrative order: reopen the problem -> method -> client acceptance -> earned contrarian -> build-in-public + series launch. Every slot's asset was verified present on disk before scheduling. Dates verified against the system clock, not copied from the plan (the plan's weekday/date pairings are off by one throughout). Standing rules per slot: specific artefact in line 1, comment-gated CTA with no body links, 2-3 hashtags, reply to every comment same day (~30% lift, best-evidenced single lever), log to posts.json WITH url, capture Day-3/Day-7 analytics."
 }

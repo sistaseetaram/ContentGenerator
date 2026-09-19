@@ -31,12 +31,13 @@ minimum, confirmed live 2026-09-16):**
 adversarial pass flagged both as a notch more performative/hype-adjacent than Setu's stated
 "expert who doesn't perform expertise" voice. Fine as later A/B variants, not the lead.
 
-**Not used — needs a decision first:** rank 3, `A Government Office Accepted This AI Render`.
-The permission on record covers showing the render; it does **not** explicitly clear naming the
-*sector* in a public title (per both the title-thumbnail research and Plan Part 5, open item #1).
-Default: don't put "government office" in the title. The word does appear once in the opening
-script's spoken narration (below) as a project-type description, not a name — flag this to the
-designer/Nine Bricks before recording, same as the firm-name question.
+**Now cleared and promoted (2026-09-19):** rank 3, `A Government Office Accepted This AI Render`.
+Naming permission is granted in full — firm, sector, and floor plan. This was held back only on the
+permission question, and the title-thumbnail research rated it a genuine pattern-interrupt:
+"government office" + "AI render" is an unusual, credible pairing most viewers have not seen, and
+it is literally true. **Run it as the A/B partner to rank 1** ("This AI Didn't Invent a Single
+Window") rather than as a reserve: rank 1 sells curiosity, rank 3 sells proof, and YouTube's free
+test picks the winner on watch time instead of guesswork.
 
 ---
 
@@ -217,12 +218,22 @@ architecture, buildbridge studio, setu
 
 ## Open items before recording/upload (do not skip)
 
-1. **Confirm with the designer/Nine Bricks:** is naming the project sector ("a government
-   office") safe for the public title and description, on top of the render-showing permission
-   already granted? Default until confirmed: keep it in narration/description only, not in the
-   title.
-2. **Pull a real early-pass render flaw** from `compare.html` / `manifest.json` if the
-   circled-mistake thumbnail concept is wanted later — do not fabricate one.
+1. ~~Confirm naming~~ **CLEARED 2026-09-19 — full naming permission granted.** You may name
+   **Nine Bricks Studio**, describe it as a **government office** project, and **show the floor
+   plan itself** on screen. This upgrades the packaging materially:
+   - Title rank 3, *"A Government Office Accepted This AI Render"*, moves from blocked to viable —
+     it was the strongest pattern-interrupt of the ten and is now fully truthful and permitted.
+     Consider it as the A/B partner to rank 1 rather than a backup.
+   - A **named practice signing off is far stronger proof than an anonymous one.** Say the name in
+     the narration and the description, not just the title.
+   - The floor-plan clearance unlocks the literal **PLAN | RENDER split** end to end — the single
+     highest-performing composition found in the outlier sweep — for both the thumbnail and the
+     on-screen reveal.
+2. ~~Pull a real early-pass render flaw~~ **RESOLVED 2026-09-19 — a real one exists.**
+   `references/controlofficeff/05-notes/bakeoff-round3/FAILED-refine-texture-swallow.png`, plus the
+   documented line-art redraw failures (dining pushed back, sofa pulled forward, two couches
+   invented — root-caused in the design-automation wiki). **Thumbnail Concept A is now viable
+   without fabricating anything.** Use only these; do not stage a mistake.
 3. **Check YouTube Studio → Feature eligibility** (phone verification / advanced features) before
    upload day, to unlock custom thumbnails + the native A/B test.
 4. Five-values check before publish (Setu hard rule): **work not tech** (yes — leads with the

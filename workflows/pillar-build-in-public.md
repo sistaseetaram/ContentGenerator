@@ -35,7 +35,12 @@ Founder transparency posts — what Setu the agency built this week, what broke,
 
 ## Edge cases
 - Nothing happened this week → still post. Document the stuck feeling, what you tried, what you'll try next. Authentic inertia beats silence.
-- Sensitive client detail in the story → anonymize fully. Use "[a firm in Bengaluru]" not client name.
+- Sensitive client detail in the story → anonymize fully. Use "[a three-person practice]" not the client name.
+- **Exception, granted 2026-09-19: Nine Bricks Studio may be named.** The studio cleared naming, the
+  government-office project type, the floor plan, and the accepted render for social. Nine Bricks is a
+  three-person practice working across **Vijayawada and Hyderabad** — not Bengaluru, which was an error
+  that reached two drafted posts before being caught. Any OTHER client stays anonymous by default until
+  they clear it in the same way.
 - Post touches a decision you regret → publish it. That's the content. Vulnerability = reach on LinkedIn.
 
 ## Expected outputs
