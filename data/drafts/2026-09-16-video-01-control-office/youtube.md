@@ -87,13 +87,13 @@ subscriber channel (5 subscribers, 2 videos, 10–14 views each) — it leads wi
 authority (a real client's acceptance) rather than a self-claim, which is the only kind of
 credibility this channel can currently borrow.
 
-> A design practice building a government office asked us to render one room off their floor
-> plan.
+> Nine Bricks Studio — a three-person practice working across Vijayawada and Hyderabad — asked us
+> to render one room off the floor plan of a government office they're building.
 >
 > Not a mood board. The actual construction drawing — the one they're building from right now.
 >
-> We rendered it. They reviewed it. They asked for eight rounds of changes. Then they accepted
-> it, and told us it was good enough to show their own clients and vendors.
+> We rendered it. They reviewed it. They asked for eight rounds of changes. Then they accepted it,
+> and cleared us to show it publicly.
 >
 > I'm not telling you what this cost or how long it took today — that's for later.
 >
@@ -146,8 +146,12 @@ permission check above:
 7. **6:15–7:30 — The proof moment, full reveal.** Full-screen side-by-side, slow pan, narrating
    specific match points calmly. No music swell.
 8. **7:30–8:45 — The human proof.** The 8 refine passes as real client-directed iteration; state
-   explicitly the designer gave permission and called it good enough for their own clients and
-   vendors.
+   explicitly that Nine Bricks accepted the render and cleared it to be shown publicly.
+   ⚠️ **Do NOT say they called it "good enough to show their own clients and vendors."** That was
+   removed 2026-09-19 — Seetaram confirmed the studio has not shown it to clients or vendors, so the
+   claim is unsupported. Acceptance + public clearance are documented; anything beyond that is not.
+   Note also: the eight passes were two parallel options (A: v1–v3, B: drafts B–B4), not one chain —
+   do not narrate a straight-line progression.
 9. **8:45–9:45 — Zoom out.** Room one of 26; next 2–3 rooms get built and timed on camera with
    the designer present.
 10. **9:45–10:15 — Close + single CTA** (below).
@@ -188,9 +192,10 @@ approved refine — and the client accepted the result.
 No invented windows. No flipped furniture. No walls that don't match the drawing. The render
 holds the actual plan, room for room.
 
-What you're watching: one room from a live, ongoing project — the designer gave permission to
-show this, and said it's good enough to show their own clients and vendors. The floor has more
-rooms. We're building the next ones on camera, with the designer present.
+What you're watching: one room from a live, ongoing project for Nine Bricks Studio, a three-person
+practice working across Vijayawada and Hyderabad. They accepted the render after eight rounds of
+changes and cleared it to be shown publicly. The floor has more rooms. We're building the next ones
+on camera, with the designer present.
 
 This video shows no time or cost numbers on purpose — those come in a later video, once there's
 enough real, repeated work to report honestly. This one is just: did the plan hold, and did a
