@@ -12,6 +12,7 @@ Deterministic: no model calls. Reads ideas.json, writes ideas-dashboard.html.
 
 import argparse
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[4]  # project root (…/ContentGenerator)
@@ -46,8 +47,67 @@ def load_posts(path: Path) -> list:
     return sorted(posts, key=lambda p: p.get("published_at") or "", reverse=True)
 
 
-def load_calendar(path: Path) -> list:
-    """Flatten content-calendar.json weeks[].days[] for the Schedule tab.
+def _week_rank(w) -> int:
+    """Comparable rank for a week id, newest = largest.
+
+    Legacy calendars used a plain int (12). The 2026-09 schema uses an ISO
+    week string ("2026-W39"). Both have to sort inside one list.
+    """
+    if isinstance(w, int):
+        return w
+    m = re.match(r"^(\d{4})-?W(\d{1,2})$", str(w or ""))
+    return int(m.group(1)) * 100 + int(m.group(2)) if m else 0
+
+
+def _apply_status(rows: list, drafts_dir: Path, published_keys: set) -> None:
+    """Fill each slot's status in place from what actually exists on disk.
+
+    published -> posts.json carries a published post for that date AND platform
+    drafted   -> the slot's draft exists
+    planned   -> scheduled, nothing written yet
+
+    Computed across the whole list rather than per row, because several slots
+    can share one date (a LinkedIn post and a YouTube video routinely do). A
+    bare date glob would then hand one slot's draft to its same-day sibling and
+    report work that does not exist. So on an ambiguous date we trust only an
+    explicit `draft` path, and fall back to "planned" otherwise.
+    """
+    per_date = {}
+    for r in rows:
+        per_date.setdefault(r.get("date") or "", []).append(r)
+
+    for r in rows:
+        if r.get("status"):
+            continue
+        date = r.get("date") or ""
+        platform = (r.get("platform") or "").lower()
+        if date and (date, platform) in published_keys:
+            r["status"] = "published"
+            continue
+        named = r.get("draft")
+        if named:
+            r["status"] = "drafted" if (drafts_dir / named).exists() else "planned"
+            continue
+        ambiguous = len(per_date.get(date, [])) > 1
+        if (
+            date
+            and not ambiguous
+            and drafts_dir.is_dir()
+            and any(drafts_dir.glob(f"{date}-*"))
+        ):
+            r["status"] = "drafted"
+        else:
+            r["status"] = "planned"
+
+
+def load_calendar(path: Path, drafts_dir: Path, published_keys: set) -> list:
+    """Flatten the content calendar for the Schedule tab.
+
+    Two shapes are supported. The legacy shape nests days under weeks[]; the
+    current shape (the 2026-09 relaunch) is a single week with a flat slots[]
+    list. Only the legacy shape was read, so the Schedule tab silently rendered
+    zero rows from the moment the schema changed on 2026-09-19 until this fix.
+    Keep both: old calendars stay readable.
 
     Newest week first; within a week, chronological by date.
     """
@@ -58,7 +118,12 @@ def load_calendar(path: Path) -> list:
     for wk in data.get("weeks", []):
         for d in wk.get("days", []):
             rows.append({**d, "week": wk.get("week"), "theme": wk.get("theme", "")})
-    return sorted(rows, key=lambda r: (-(r.get("week") or 0), r.get("date") or ""))
+    for slot in data.get("slots", []):
+        rows.append({**slot, "week": slot.get("week") or data.get("week")})
+    for r in rows:
+        r.setdefault("action", "post")
+    _apply_status(rows, drafts_dir, published_keys)
+    return sorted(rows, key=lambda r: (-_week_rank(r.get("week")), r.get("date") or ""))
 
 
 def load_skills(path: Path) -> dict:
@@ -429,7 +494,14 @@ def main():
 
     ideas = load_ideas(Path(args.ideas))
     posts = load_posts(Path(args.posts))
-    calendar = load_calendar(Path(args.calendar))
+    published_keys = {
+        (p.get("published_at"), (p.get("platform") or "").lower())
+        for p in posts
+        if p.get("published_at")
+    }
+    calendar = load_calendar(
+        Path(args.calendar), ROOT / "data" / "drafts", published_keys
+    )
     skills = load_skills(Path(args.skills))
     Path(args.out).write_text(render(ideas, posts, calendar, skills))
     print(f"Dashboard written: {args.out} "

@@ -38,8 +38,8 @@ you don't own — no API at any price. Paid tools selling "competitor CTR" sell 
 - **Explanations are never caveman.** Any "explain / what is this / why do we need it" request gets
   clean full English. (`~/.claude/CLAUDE.md`)
 - **NEVER edit `~/.claude/CLAUDE.md` without asking first** — every time, even in auto mode, even for
-  a one-line change. Ask once, then edit. (Not yet recorded anywhere; Seetaram must approve where it
-  goes before it is written down.)
+  a one-line change. Ask once, then edit. (**RECORDED 2026-09-20** in `~/.claude/CLAUDE.md`, top
+  section "EDITING THIS FILE — ASK FIRST, ALWAYS", with Seetaram's explicit approval.)
 - **Fable routing is a SUGGESTION, not a recorded rule.** On any major UI/UX **or backend** build,
   point out that this may be a Fable job and *ask* whether to switch — do not stop unilaterally and do
   not encode it as a hard rule. A STRICT version was briefly written into `~/.claude/CLAUDE.md` on

@@ -52,6 +52,7 @@ Approved plan: `/Users/sistaseetaram/.claude/plans/i-want-you-to-glistening-yao.
 ## Hard Rules
 
 1. **Voice-first.** Every draft passes Setu voice rules before publish. Banned words: revolutionary, game-changing, disrupt, synergy, cutting-edge, "empowering businesses to unlock potential". Short sentences. Real hours, real money. Outcome first.
+   **Numbers are gated separately:** any draft citing a metric, benchmark, cost or competitor figure must first pass `.claude/rules/metrics-and-claims.md` — it lists the figures that are banned outright, the claims that need a scope limit attached, and why a score is a floor to clear rather than a ranking. Two of this project's own metrics have been caught ranking wrongly.
 2. **Platform scope is locked: LinkedIn + YouTube only, per the 2026-09 relaunch plan.** X and Instagram (Hard Rule #3's isolated feed) stay off / paused until explicitly reopened by the user — nothing else without explicit user decision.
 3. **Instagram = isolated funny/sarcasm/roasting feed.** No Setu mention, no informative content, no cross-post from B2B feeds.
 4. **Orchestrator never drafts content directly.** Always dispatch a sub-agent with locked context (pillar + wiki + recent metrics).

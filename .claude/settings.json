@@ -49,6 +49,14 @@
             "command": "bash \"/Users/sistaseetaram/Documents/Obsidian Vault/content-wiki/.claude-hooks/writeback-reminder.sh\""
           }
         ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"/Users/sistaseetaram/Desktop/Claude/claude_projects/ContentGenerator/tools/dashboard_autorefresh.sh\""
+          }
+        ]
       }
     ]
   }

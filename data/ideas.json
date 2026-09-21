@@ -8,11 +8,27 @@
       "pillar": "plain-english-ai-takes",
       "title": "What 'AI for your design studio' actually means",
       "angle": "Plain-English Take. Cut hype; explain in owner language where AI fits in an interior/architecture practice (mood boards, specs, BOQ, client updates). Sets up the Bridge 1 week.",
-      "icp": "Bridge 01 \u2014 interior/architecture/construction firms",
+      "icp": "Bridge 01 — interior/architecture/construction firms",
       "asset": null,
       "cta": "none",
       "status": "planned",
-      "notes": "Keep it concrete with one interior example. No jargon."
+      "notes": "Keep it concrete with one interior example. No jargon.",
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 4,
+        "new_info": 2,
+        "lived_exp": 2,
+        "proof_level": 2,
+        "timeliness": 3,
+        "effort": 4
+      },
+      "strategic_opinion": {
+        "verdict": "post_later",
+        "reason": "Sound plain-English explainer but carries no new information and no proof — it is the kind of post anyone could write. Useful as filler between receipts, not as a lead.",
+        "when_to_post": "any week needing a low-proof slot; never in a launch week",
+        "timing_note": "audited 2026-09-20 against the design-automation wiki (index rebuilt 2026-09-20)"
+      },
+      "total_score": 23.0
     },
     {
       "id": "idea-002",
@@ -27,7 +43,14 @@
       "cta": "none",
       "status": "retired",
       "notes": "First public Bridge 1 proof signal. Bridge metaphor hook.",
-      "retired_reason": "Duplicate \u2014 post-006 (Setu means bridge) already did Bridge 1 intro, ICP pain, honest build status. Retired 2026-06-11."
+      "retired_reason": "Generic 'I'm building an AI system' announce. Superseded by actual proof posts (the Nine Bricks method + acceptance). Announcing before earning is the exact sequencing error the brand path warns against.",
+      "retired_on": "2026-09-20",
+      "strategic_opinion": {
+        "verdict": "drop",
+        "reason": "Generic 'I'm building an AI system' announce. Superseded by actual proof posts (the Nine Bricks method + acceptance). Announcing before earning is the exact sequencing error the brand path warns against.",
+        "when_to_post": null,
+        "timing_note": "audited 2026-09-20 against the design-automation wiki (index rebuilt 2026-09-20)"
+      }
     },
     {
       "id": "idea-003",
@@ -44,8 +67,16 @@
         "note": "user supplies demo project + shareable render/sheets/screen-rec"
       },
       "cta": "soft",
-      "status": "blocked-on-asset",
-      "notes": "Anonymize any real client name. Wed proof asset format TBD (screen-rec vs carousel)."
+      "status": "retired",
+      "notes": "Anonymize any real client name. Wed proof asset format TBD (screen-rec vs carousel).",
+      "retired_on": "2026-09-20",
+      "retired_reason": "Merged into idea-008 — same territory (brief to plan-faithful render), weaker framing and no proof plan. idea-008 carries it.",
+      "strategic_opinion": {
+        "verdict": "drop",
+        "reason": "Merged into idea-008 — same territory (brief to plan-faithful render), weaker framing and no proof plan. idea-008 carries it.",
+        "when_to_post": null,
+        "timing_note": "audited 2026-09-20 against the design-automation wiki (index rebuilt 2026-09-20)"
+      }
     },
     {
       "id": "idea-004",
@@ -54,7 +85,7 @@
       "platform": "linkedin",
       "pillar": "build-in-public-setu",
       "title": "The AI kept moving the furniture",
-      "angle": "Build-in-Public honesty post. V1->V4 render plan-faithfulness story: renders ignored the 2D plan; fixed with whitebox-PNG reference + strict layout language. 'The bad versions are the curriculum.'",
+      "angle": "Build-in-Public honesty post. Real plan-faithfulness failures: the line-art redraw pushed the dining back, pulled the sofa forward and invented two consoles (CONSOLES, not couches); a texture swatch was returned as the whole frame; a clean whitebox still sealed a dining opening. CORRECTED 2026-09-20: the original angle said the fix was 'whitebox-PNG reference + strict layout lock'. That is stale — experiments/render-model-ab-nano-field (2026-07-08) records direct whitebox->photoreal in ONE hop as the primary path, with line art kept as a designer deliverable AND drift fallback.",
       "icp": "Bridge 01",
       "asset": {
         "type": "before_after_render",
@@ -62,9 +93,27 @@
         "note": "user supplies V1 vs V4 render images"
       },
       "cta": "soft",
-      "status": "retired",
+      "status": "scheduled",
       "notes": "Strongest trust post of the week. Visual.",
-      "retired_reason": "Duplicate \u2014 post-008 (Everyone keeps asking to see the renders) already covered V1 spatial failures story (sofa flipped, pooja vanished, invented doors). Retired 2026-06-11."
+      "retired_reason": "Duplicate — post-008 (Everyone keeps asking to see the renders) already covered V1 spatial failures story (sofa flipped, pooja vanished, invented doors). Retired 2026-06-11.",
+      "proof_plan": "Real failed output only, nothing staged. TWO SEPARATE PROJECTS, keep them visibly apart: the furniture drift is from the RESIDENTIAL demo plan; FAILED-refine-texture-swallow.png is from the Nine Bricks government-office project.",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 4,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 5,
+        "effort": 4
+      },
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Scheduled Mon 2026-09-21. Opens the relaunch on real failures, which the niche research found is the highest-credibility pattern available (first-person specificity WITH named limitations).",
+        "when_to_post": "2026-09-21",
+        "timing_note": "audited 2026-09-20 against the design-automation wiki (index rebuilt 2026-09-20)"
+      },
+      "asset_ready": true,
+      "total_score": 39.0
     },
     {
       "id": "idea-005",
@@ -84,7 +133,14 @@
       "cta": "none",
       "status": "retired",
       "notes": "First YouTube upload. Promote once on LinkedIn.",
-      "retired_reason": "Redundant \u2014 n8n story covered by post-004 (native Loom). Post-005-008 pivot to Bridge 01 ICP makes stock-analysis YouTube promo a positioning leak. Retired 2026-06-08."
+      "retired_reason": "OFF-ICP. Stock analysis is not architecture or interiors; posting it blurs Setu as the AI-automation specialist for design/construction. Also tied to YT1, ship date 2026-06-05, long past.",
+      "retired_on": "2026-09-20",
+      "strategic_opinion": {
+        "verdict": "drop",
+        "reason": "OFF-ICP. Stock analysis is not architecture or interiors; posting it blurs Setu as the AI-automation specialist for design/construction. Also tied to YT1, ship date 2026-06-05, long past.",
+        "when_to_post": null,
+        "timing_note": "audited 2026-09-20 against the design-automation wiki (index rebuilt 2026-09-20)"
+      }
     },
     {
       "id": "idea-006",
@@ -102,8 +158,24 @@
       },
       "cta": "soft (free Gem teaser)",
       "status": "posted",
-      "notes": "LECTURE RISK \u2014 frame as 'here's what I keep seeing work', not 'you're doing it wrong'. Hard five-value check on Respect-the-owner before publish.",
-      "post_record_pending": true
+      "notes": "LECTURE RISK — frame as 'here's what I keep seeing work', not 'you're doing it wrong'. Hard five-value check on Respect-the-owner before publish.",
+      "post_record_pending": true,
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 4,
+        "new_info": 2,
+        "lived_exp": 3,
+        "proof_level": 2,
+        "timeliness": 2,
+        "effort": 4
+      },
+      "strategic_opinion": {
+        "verdict": "post_later",
+        "reason": "Still a valid take, but it was written to promote YT2, which is dead. Needs a new landing point before it ships.",
+        "when_to_post": "after rewrite — drop the YT2 promotion",
+        "timing_note": "audited 2026-09-20 against the design-automation wiki (index rebuilt 2026-09-20)"
+      },
+      "total_score": 23.5
     },
     {
       "id": "idea-007",
@@ -112,17 +184,25 @@
       "platform": "linkedin",
       "pillar": "build-in-public-setu",
       "title": "A free AI advisor for design & architecture firms",
-      "angle": "Lead magnet. Share the free Gemini Gem (architecture/interior instructions) \u2014 owners can ask how to improve their business step by step. Give value, not a sales ask.",
+      "angle": "Lead magnet. Share the free Gemini Gem (architecture/interior instructions) — owners can ask how to improve their business step by step. Give value, not a sales ask.",
       "icp": "Bridge 01",
       "asset": {
         "type": "gem_link",
         "status": "ready",
         "url": "https://da.gd/z52I",
-        "note": "Gem URL live \u2014 used in post-009. Unblocked 2026-06-11."
+        "note": "Gem URL live — used in post-009. Unblocked 2026-06-11."
       },
       "cta": "free tool (the real CTA of the week)",
-      "status": "planned",
-      "notes": "Closes YT2. Soft, value-first."
+      "status": "retired",
+      "notes": "Closes YT2. Soft, value-first.",
+      "retired_on": "2026-09-20",
+      "retired_reason": "Exact duplicate of idea-010 (free Gemini Gem lead magnet). idea-010 is the scored version and survives; this one is the unscored twin.",
+      "strategic_opinion": {
+        "verdict": "drop",
+        "reason": "Exact duplicate of idea-010 (free Gemini Gem lead magnet). idea-010 is the scored version and survives; this one is the unscored twin.",
+        "when_to_post": null,
+        "timing_note": "audited 2026-09-20 against the design-automation wiki (index rebuilt 2026-09-20)"
+      }
     },
     {
       "id": "idea-008",
@@ -143,7 +223,7 @@
         "effort": 4
       },
       "total_score": 39.5,
-      "proof_plan": "Screen-record V1 vs V2 renders side by side + the plan-coords.json check that flags the mismatch.",
+      "proof_plan": "The CURRENT pipeline on the real Nine Bricks plan: plan-coords extraction -> whitebox (the whitebox IS the render control image) -> five blocking spatial checks -> photoreal in ONE hop -> refine. CORRECTED 2026-09-20: the old proof_plan promised 'the plan-coords.json check that flags the mismatch' on this project. The wiki records NO spatial-check catch attributable to the Nine Bricks plan — the one documented catch (2 enclosed voids, west/east circulation halls) belongs to a different, larger plan. Describe the gate as METHOD; claim no specific save here.",
       "supporting_research": [
         {
           "headline": "AI renders do not preserve exact proportions; dimensional accuracy not guaranteed",
@@ -158,12 +238,12 @@
           "source_url": "internal:.tmp/visuals/post008/"
         }
       ],
-      "status": "backlog",
+      "status": "scheduled",
       "strategic_opinion": {
         "verdict": "post_now",
         "reason": "Fulfills post-008's open promise; proof (V2 render + plan-coords.json) is ready; pure map-before-build/ship-don't-slide receipt aimed dead-centre at the ICP.",
-        "when_to_post": "now",
-        "timing_note": "ASSET READY (V1 vs V4 demo recorded 2026-06). Top priority \u2014 fulfills post-008 promise."
+        "when_to_post": "2026-09-22",
+        "timing_note": "SCHEDULED Tue 2026-09-22. audited 2026-09-20 against the design-automation wiki (index rebuilt 2026-09-20)"
       },
       "asset_ready": true
     },
@@ -171,7 +251,7 @@
       "id": "idea-009",
       "created_at": "2026-06-12",
       "run_id": "idea-1781202600",
-      "title": "The gap isn't curiosity \u2014 64% try AI, only 20% run it",
+      "title": "The gap isn't curiosity — 64% try AI, only 20% run it",
       "angle": "Plain-English Take on 2026 survey data (6% regular use, 8% practice-level despite 85% exposure; 33% blame poor software fit). Reframes the 'you're behind' panic: the gap isn't the owner, it's tools built for the demo not the real workflow. Setu's counter = build to the workflow.",
       "pillar": "plain-english-ai-takes",
       "platform": "linkedin",
@@ -237,12 +317,12 @@
           "source_url": "https://www.aimagicx.com/blog/ai-architectural-rendering-visualization-guide-2026"
         }
       ],
-      "status": "backlog",
+      "status": "scheduled",
       "strategic_opinion": {
         "verdict": "post_later",
-        "reason": "Strong and timely, but overlaps post-008 and is the FIRST Contrarian-pillar post \u2014 it must land after the method post (idea-008) so it reads as earned proof, not a repeat complaint.",
-        "when_to_post": "Week 4 (after idea-008 ships)",
-        "timing_note": "Unlocks once idea-008 is published; Contrarian pillar gate (2-3 Build Receipts) already met."
+        "reason": "Contrarian, now EARNED rather than asserted: Tue (method) and Wed (client acceptance) land first. CORRECTED 2026-09-20: the stored unlock said 'Week 4 (after idea-008 ships)'. Per CLAUDE.md the contrarian pillar is UNLOCKED BY SEQUENCE, not by date — Tue+Wed satisfy the condition inside the same week. Strengthened by the pilot finding that our OWN fidelity metric ranks badly (see idea-017).",
+        "when_to_post": "2026-09-24",
+        "timing_note": "SCHEDULED Thu 2026-09-24. audited 2026-09-20 against the design-automation wiki (index rebuilt 2026-09-20)"
       }
     },
     {
@@ -250,7 +330,7 @@
       "created_at": "2026-06-12",
       "run_id": "idea-1781202600",
       "title": "I built a free AI advisor for design and architecture firms. Ask it anything.",
-      "angle": "Build-in-Public lead magnet, value-first. The live Gemini Gem coaches a firm owner step by step on where AI fits their practice \u2014 no sales ask. Standalone dedicated post (post-009 only surfaced it in an auto first-comment).",
+      "angle": "Build-in-Public lead magnet, value-first. The live Gemini Gem coaches a firm owner step by step on where AI fits their practice — no sales ask. Standalone dedicated post (post-009 only surfaced it in an auto first-comment).",
       "pillar": "build-in-public-setu",
       "platform": "linkedin",
       "source": "agent",
@@ -274,7 +354,7 @@
       "status": "posted",
       "strategic_opinion": {
         "verdict": "post_now",
-        "reason": "Gem is now live (was the week's blocker); pure give-value, no ask, on-ICP. Mild repeat risk vs the post-009 comment \u2014 frame as a standalone utility with a concrete example.",
+        "reason": "Gem is now live (was the week's blocker); pure give-value, no ask, on-ICP. Mild repeat risk vs the post-009 comment — frame as a standalone utility with a concrete example.",
         "when_to_post": "now",
         "timing_note": "Value-first; one concrete example question, not a feature list."
       },
@@ -286,7 +366,7 @@
       "created_at": "2026-06-12",
       "run_id": "idea-1781202600",
       "title": "My whole content engine runs on about a cent a day",
-      "angle": "Build-in-Public cost receipt. While Claude Fable 5 lands at $10/$50 per M tokens, the router sends ~90% of work to free/near-free models (gemma $0.00, gpt-4o-mini $0.0001) and saves the expensive model for judgment only. Real model_spend.json numbers.",
+      "angle": "Build-in-Public cost receipt. While the frontier tier (Claude Fable 5.1) lands at $10/$50 per M tokens (verified against Anthropic's pricing page 2026-09-20), the router sends ~90% of work to free/near-free models (gemma $0.00, gpt-4o-mini $0.0001) and saves the expensive model for judgment only. Real model_spend.json numbers.",
       "pillar": "build-in-public-setu",
       "platform": "linkedin",
       "source": "agent",
@@ -300,7 +380,7 @@
         "effort": 4
       },
       "total_score": 34.5,
-      "proof_plan": "Screenshot model_spend.json: gpt-4o $0.0069, gpt-4o-mini $0.0001, gemma $0.00 \u2014 daily total.",
+      "proof_plan": "Screenshot model_spend.json: gpt-4o $0.0069, gpt-4o-mini $0.0001, gemma $0.00 — daily total.",
       "supporting_research": [
         {
           "headline": "Claude Fable 5 GA Jun 9 at $10/$50 per M tokens",
@@ -314,9 +394,9 @@
       "status": "backlog",
       "strategic_opinion": {
         "verdict": "post_later",
-        "reason": "Positioning leak \u2014 it's builder-flex, off the design/construction ICP and drifts toward generic AI-builder content. Real and good, but it doesn't help an architecture owner cross the bridge.",
+        "reason": "Positioning leak — it's builder-flex, off the design/construction ICP and drifts toward generic AI-builder content. Real and good, but it doesn't help an architecture owner cross the bridge.",
         "when_to_post": "after first client (reframe as 'how we keep your automation cheap') or repackage for a builder audience",
-        "timing_note": "Reframe to client value before posting; as-is it's off-ICP."
+        "timing_note": "Model name refreshed 2026-09-20: Fable 5 -> Fable 5.1, same $10/$50. audited 2026-09-20 against the design-automation wiki (index rebuilt 2026-09-20)"
       }
     },
     {
@@ -338,7 +418,7 @@
         "effort": 4
       },
       "total_score": 32.0,
-      "proof_plan": "Show a real anonymized one-page workflow map of a firm's brief\u2192delivery with the leak points circled.",
+      "proof_plan": "Show a real anonymized one-page workflow map of a firm's brief→delivery with the leak points circled.",
       "supporting_research": [
         {
           "headline": "33% cite poor software compatibility as the key AI obstacle",
@@ -348,7 +428,7 @@
       "status": "backlog",
       "strategic_opinion": {
         "verdict": "post_now",
-        "reason": "On-value (map before build), respects owners, but lower new-info \u2014 good calendar filler, not a tentpole.",
+        "reason": "On-value (map before build), respects owners, but lower new-info — good calendar filler, not a tentpole.",
         "when_to_post": "now",
         "timing_note": "Needs a clean anonymized workflow-map graphic."
       }
@@ -358,7 +438,7 @@
       "created_at": "2026-06-13",
       "run_id": "idea-1781202600",
       "title": "The four foundations, by the numbers",
-      "angle": "Extends post-009 (Stop Working for Free). The four foundations \u2014 documented work, organized files, visible proof, one source of truth \u2014 aren't soft advice; the cost of missing them is measured. ~Half of local contractors have no website (no visible proof). Construction loses ~$31B/yr to poor comms + bad data; teams burn 14 hrs/week on rework and 5.5 hrs/week hunting for the right file. Fix the foundations before automating.",
+      "angle": "Extends post-009 (Stop Working for Free). The four foundations — documented work, organized files, visible proof, one source of truth — aren't soft advice; the cost of missing them is measured. ~Half of local contractors have no website (no visible proof). Construction loses ~$31B/yr to poor comms + bad data; teams burn 14 hrs/week on rework and 5.5 hrs/week hunting for the right file. Fix the foundations before automating.",
       "pillar": "plain-english-ai-takes",
       "platform": "linkedin",
       "source": "agent",
@@ -390,36 +470,410 @@
       "status": "backlog",
       "strategic_opinion": {
         "verdict": "post_now",
-        "reason": "Extends the published post-009 four-foundations theme, dead-on ICP, and fully backed by auditable public stats. Risk is stat-dump \u2014 cap at 3 figures + the human point.",
+        "reason": "Extends the published post-009 four-foundations theme, dead-on ICP, and fully backed by auditable public stats. Risk is stat-dump — cap at 3 figures + the human point.",
         "when_to_post": "now (rides post-009 momentum)",
-        "timing_note": "Use ONLY verified figures; label construction-industry stats as such, do not imply interior-design-specific. No fabricated composite 'four-pillars readiness' stat \u2014 it does not exist publicly."
+        "timing_note": "Use ONLY verified figures; label construction-industry stats as such, do not imply interior-design-specific. No fabricated composite 'four-pillars readiness' stat — it does not exist publicly."
       }
+    },
+    {
+      "id": "idea-015",
+      "created_at": "2026-09-20",
+      "run_id": "wiki-ingest-2026-09-20",
+      "title": "Nine Bricks Studio accepted it — after eight rounds of changes",
+      "angle": "Client outcome. Third-party validation is the headline, not the render. Which instruction classes landed (finishes, materials, lighting — every time) and which did not (moving an existing object: the L-desk return leg was asked three ways and never moved). A human stayed in charge for all eight passes.",
+      "pillar": "build-receipts",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 4,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 5,
+        "effort": 3
+      },
+      "total_score": 38.25,
+      "proof_plan": "Eight paid refine passes, TWO PARALLEL OPTIONS (A: v1-v3, B: drafts B-B4) ending on accepted B4 — never present as one straight chain. Locate the accepted B4 file on disk before building the payoff slide. DO NOT use the withdrawn 'good enough to show their own clients and vendors' line.",
+      "supporting_research": [
+        {
+          "headline": "wiki log 2026-09-12: OPTION B4 ACCEPTED as the chamber's final render",
+          "source_url": "wiki:design-automation/log#2026-09-12"
+        },
+        {
+          "headline": "Edit models re-skin surfaces but will not restructure objects",
+          "source_url": "wiki:design-automation/log#2026-09-12"
+        }
+      ],
+      "status": "scheduled",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "The strongest credibility asset in the project. Scheduled Wed 2026-09-23. Documents outperform video on personal profiles (1.39x vs 0.86x reach), so carousel not video.",
+        "when_to_post": "2026-09-23",
+        "timing_note": "created 2026-09-20 from the design-automation wiki (index rebuilt 2026-09-20), never previously ingested"
+      },
+      "asset_ready": true
+    },
+    {
+      "id": "idea-016",
+      "created_at": "2026-09-20",
+      "run_id": "wiki-ingest-2026-09-20",
+      "title": "I thought a symbol legend would help. The test said no.",
+      "angle": "Published negative result across 8 vision models. Priming the detector with a floor-plan symbol legend did not help — a 15,000-char text legend actively HURT Gemini. The real miss is placement and topology, which no detector prompt addresses. Owners read integrity; hiring managers read experimental discipline.",
+      "pillar": "build-in-public-setu",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 5,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 3,
+        "effort": 4
+      },
+      "total_score": 38.5,
+      "proof_plan": "Ground truth: 43 fixtures across 15 types, one plan, from a verified coordinate file. Eight vision models, three conditions (no legend / 15,000-char text legend / worked examples as images). HEADLINE OBSERVABLE: under the text legend the best model's detected boxes collapsed 94 -> 33 — it became cautious, not accurate. Qwen did not move; image examples were noise. THE FINDING THAT MATTERS: pool every model's answers and between them they see almost everything, but require any two to agree on the same fixture and it collapses — they agree something is there and disagree on WHERE. So the miss is placement and topology, which no detector prompt addresses. STATED CONDITION: single demo plan, type counts rather than pixel-accurate boxes, image-example lever ran once. Confidence MEDIUM, not high.",
+      "supporting_research": [
+        {
+          "headline": "syntheses/legend-priming-doesnt-help-detection — CONFIRMED/medium, reviewed 2026-06-23",
+          "source_url": "wiki:design-automation/syntheses/legend-priming-doesnt-help-detection"
+        },
+        {
+          "headline": "experiments/legend-detection-bakeoff (8 VLMs)",
+          "source_url": "wiki:design-automation/experiments/legend-detection-bakeoff"
+        },
+        {
+          "headline": "AECV-Bench corroboration DROPPED 2026-09-20 — compares the same rejected detection-metric class, and both wiki entries carry a spot-verify marker",
+          "source_url": "internal:decision-2026-09-20"
+        }
+      ],
+      "status": "scheduled",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Scheduled Fri 2026-09-25. Best dual-audience post available: a disconfirmed hypothesis published anyway.",
+        "when_to_post": "2026-09-25",
+        "timing_note": "F1 FIGURES REMOVED 2026-09-20 on Seetaram's instruction. F1 on type-multiset detection scores whether the right KINDS and COUNTS of fixtures were found and is blind to WHERE they are — so it can look respectable while the layout is unusable, which for a floor plan is the only thing that matters. The wiki's own consensus finding (pooled recall high, any-two agreement collapses) is the proof. Use raw observables (the 94->33 box collapse) and the placement finding instead. DO NOT reintroduce F1, precision or recall as the deciding parameter for plan-fidelity work in any post."
+      },
+      "asset_ready": true
+    },
+    {
+      "id": "idea-017",
+      "created_at": "2026-09-20",
+      "run_id": "wiki-ingest-2026-09-20",
+      "title": "Our own quality score ranked the worst render first and the shipped one last",
+      "angle": "The sharpest engineering-honesty post available. In a paid pilot, the HIGHEST covered_ratio belonged to a render where the model handed the control image back untouched — the worst output of the set. The render the client actually accepted scored LOWEST. Conclusion: the metric is a floor to clear, never a ranking. We measured it, found our own number was wrong, and wrote it down.",
+      "pillar": "build-in-public-setu",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 5,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 5,
+        "effort": 4
+      },
+      "total_score": 40.5,
+      "proof_plan": "Same control image, same room. Pass-through render covered_ratio 0.7885 (worst image, highest score). Accepted B4 final 0.5216 (shipped image, lowest score). nano-banana-pro round-3 base 0.7527. Whole pilot: 4 renders, ~$0.11 — cost-to-run only, never framed as client savings.",
+      "supporting_research": [
+        {
+          "headline": "experiments/fallback-render-tier-pilot — verdict failed, 2026-09-20",
+          "source_url": "wiki:design-automation/experiments/fallback-render-tier-pilot"
+        },
+        {
+          "headline": "syntheses/render-fidelity-tier-forced-swap — RETIRED/high, reviewed 2026-09-20",
+          "source_url": "wiki:design-automation/syntheses/render-fidelity-tier-forced-swap"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Highest-scoring idea in the file and it was never on any plan. Reads to owners as 'they check their own work' and to hiring managers as measurement discipline. Pairs naturally with the contrarian slot.",
+        "when_to_post": "W40 — lead candidate",
+        "timing_note": "created 2026-09-20 from the design-automation wiki (index rebuilt 2026-09-20), never previously ingested"
+      },
+      "asset_ready": true
+    },
+    {
+      "id": "idea-018",
+      "created_at": "2026-09-20",
+      "run_id": "wiki-ingest-2026-09-20",
+      "title": "We spent two months solving a problem that did not exist",
+      "angle": "Retraction post. The July story — 'this render model is deprecated and non-commercially licensed, we must swap' — was wrong. The deprecation covered the vendor's own endpoints, not the API we call, which never deprecated it and billed us on 2026-09-19. The non-commercial licence binds self-hosting, not API callers. The urgency, the successor shortlist and the deadline were all downstream of a misread notice. The model is being dropped on image quality instead — a reason that will not expire.",
+      "pillar": "build-in-public-setu",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 5,
+        "new_info": 5,
+        "lived_exp": 5,
+        "proof_level": 4,
+        "timeliness": 5,
+        "effort": 4
+      },
+      "total_score": 39.0,
+      "proof_plan": "Retraction is recorded in-wiki with dates: model-eval verdict flipped partial -> not-useful 2026-09-20; the register entry was corrected the same day with the note that a rejected-on-quality model is not 'best-but-not-implementable', it is simply not best. Do NOT restate the original deprecation claim as fact.",
+      "supporting_research": [
+        {
+          "headline": "syntheses/render-fidelity-tier-forced-swap — RETIRED/high, reviewed 2026-09-20",
+          "source_url": "wiki:design-automation/syntheses/render-fidelity-tier-forced-swap"
+        },
+        {
+          "headline": "syntheses/best-but-not-implementable-register — CONFIRMED/high, reviewed 2026-09-20",
+          "source_url": "wiki:design-automation/syntheses/best-but-not-implementable-register"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Publishing your own retraction is rare and it is exactly the 'ship don't slide / map before build' pair. Reads as integrity to owners and as research hygiene to technical readers.",
+        "when_to_post": "W40 — pairs with idea-017",
+        "timing_note": "created 2026-09-20 from the design-automation wiki (index rebuilt 2026-09-20), never previously ingested"
+      },
+      "asset_ready": true
+    },
+    {
+      "id": "idea-019",
+      "created_at": "2026-09-20",
+      "run_id": "wiki-ingest-2026-09-20",
+      "title": "'It's not editable' turned out to be three different bugs",
+      "angle": "Debugging story with hard before/after numbers. A designer reported fixtures could not be moved. It resolved into two unrelated causes, neither of which was the obvious one: a canvas layer built with listening disabled (so the hit graph was dead), and a calibration that anchored to the image corners assuming the plan bleeds edge to edge. Durable lesson: auto-derived config must announce itself.",
+      "pillar": "build-in-public-setu",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 5,
+        "new_info": 5,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 3,
+        "effort": 4
+      },
+      "total_score": 37.5,
+      "proof_plan": "px/ft X 47.82 -> 40.31 (hand-computed truth 40.30). px/ft Y 41.96 -> 40.39 (truth 40.39). Anisotropy 1.1396 -> 0.998 (truth 1.000). Fixtures had been drawn 18.6% too wide and up to ~1.7 ft out of place; one chair box sat outside the building. Test suite 859 -> 871 green. The falsifier fired the same session.",
+      "supporting_research": [
+        {
+          "headline": "experiments/ffe-canvas-calibration-anchor-bug, 2026-08-30",
+          "source_url": "wiki:design-automation/experiments/ffe-canvas-calibration-anchor-bug"
+        },
+        {
+          "headline": "syntheses/calibration-needs-anchor-and-metric — CONFIRMED/high, reviewed 2026-08-30",
+          "source_url": "wiki:design-automation/syntheses/calibration-needs-anchor-and-metric"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "The strongest post in the file for the MSc / AI-engineering audience specifically — real debugging, measured against hand-computed truth, with the failure of the fix recorded too. Slightly less legible to a studio owner, so pair it with an owner-facing slot that week.",
+        "when_to_post": "W40-W41 — technical slot",
+        "timing_note": "created 2026-09-20 from the design-automation wiki (index rebuilt 2026-09-20), never previously ingested"
+      },
+      "asset_ready": true
+    },
+    {
+      "id": "idea-020",
+      "created_at": "2026-09-20",
+      "run_id": "wiki-ingest-2026-09-20",
+      "title": "The short prompt filled in the wrong country's emblem",
+      "angle": "A condensed prompt made two weak models render real design instead of nothing — and then one of them supplied 'the national emblem' from its own prior: the Chinese state emblem and Chinese officials' portraits, in an Indian government chamber. Whatever a short prompt stops naming, the model invents. So a condensed prompt must keep the culturally and contractually specific nouns.",
+      "pillar": "build-receipts",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 5,
+        "new_info": 5,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 4,
+        "effort": 4
+      },
+      "total_score": 38.5,
+      "proof_plan": "~6,900-char prompt vs an 864-char condensation of the SAME content, same control image, same room. STATED CONDITION: observed on exactly two model families, one room, one control image, one pair of prompt lengths — says nothing about where the breakpoint sits. The wiki explicitly declines to claim a token limit because it could not be confirmed in either vendor's published docs. Keep that hedge.",
+      "supporting_research": [
+        {
+          "headline": "syntheses/prompt-length-must-match-model-tier — CONFIRMED/medium, created & reviewed 2026-09-20",
+          "source_url": "wiki:design-automation/syntheses/prompt-length-must-match-model-tier"
+        }
+      ],
+      "status": "blocked",
+      "strategic_opinion": {
+        "verdict": "post_later",
+        "reason": "BLOCKED ON PERMISSION, not on proof. The story cannot be told without revealing that the chamber has a national emblem and official portraits. The naming clearance on record covers the firm, the 'government office' description, the floor plan and the render — it explicitly does NOT cover the office's occupant or its emblem/portrait layout. Flagged independently by the drafting agent on 2026-09-20, which refused to use it in the Friday post for the same reason.",
+        "when_to_post": "only if Nine Bricks explicitly clears the emblem/portrait detail in writing",
+        "timing_note": "Unblock condition: written clearance. Alternative: rebuild the post on a non-client prompt-length example, which keeps the lesson and loses the evidence."
+      },
+      "asset_ready": true
+    },
+    {
+      "id": "idea-021",
+      "created_at": "2026-09-20",
+      "run_id": "wiki-ingest-2026-09-20",
+      "title": "Image models have no compass",
+      "angle": "Plain-English take with an immediately usable lesson. Telling an image model 'on the south wall at its east end' is unreadable decoration at best and leakage at worst — one model painted the prompt's own room-dimension text onto the ceiling. Placement has to be written viewer-relative. Two separate re-framings turned out to be physically impossible cameras, fixed with zero prompt changes.",
+      "pillar": "plain-english-ai-takes",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 5,
+        "new_info": 5,
+        "lived_exp": 5,
+        "proof_level": 4,
+        "timeliness": 3,
+        "effort": 5
+      },
+      "total_score": 36.75,
+      "proof_plan": "Four models x 3 hard cameras = 12 images, $0.84. One model added a wall-TV, moved a window and painted room-dimension text onto the ceiling. Two re-framings traced to bad auto-cameras (one inside a counter at ~10 deg tilt, one inside a bed footprint). STATED CAVEAT: n=3 cameras, single rolls per model — directional, not a benchmark.",
+      "supporting_research": [
+        {
+          "headline": "experiments/render-model-ab-nano-field — verdict kept, 2026-07-08",
+          "source_url": "wiki:design-automation/experiments/render-model-ab-nano-field"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Translates a real engineering finding into something a designer can act on tomorrow. Low effort, high clarity, no client dependency.",
+        "when_to_post": "W40-W41 — good filler between receipts",
+        "timing_note": "created 2026-09-20 from the design-automation wiki (index rebuilt 2026-09-20), never previously ingested"
+      },
+      "asset_ready": true
+    },
+    {
+      "id": "idea-022",
+      "created_at": "2026-09-20",
+      "run_id": "wiki-ingest-2026-09-20",
+      "title": "The 3D editor we decided not to build",
+      "angle": "Map-before-build receipt about restraint. Building a full interactive 3D editor to move fixtures looked like the obvious next feature. It would have been the largest build for the least marginal value: plan layout is intrinsically 2D (a point on the floor, a yaw, a footprint) and so is a mouse, so a 3D editor reaches LOWER placement precision than the top-down canvas that already exists.",
+      "pillar": "plain-english-ai-takes",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 5,
+        "new_info": 4,
+        "lived_exp": 5,
+        "proof_level": 4,
+        "timeliness": 3,
+        "effort": 5
+      },
+      "total_score": 35.25,
+      "proof_plan": "Architectural decision with a stated mechanism, not a score. Include the stated limit: it stops holding for genuinely VERTICAL edits (wall-mounted items, hanging lights, ceiling features), where a small 3D height control has unique value a 2D top view cannot express.",
+      "supporting_research": [
+        {
+          "headline": "syntheses/direct-3d-editing-is-wrong-layer-for-plan-layout — CONFIRMED/high, reviewed 2026-07-19",
+          "source_url": "wiki:design-automation/syntheses/direct-3d-editing-is-wrong-layer-for-plan-layout"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Deciding NOT to build is the clearest expression of 'map before build', and it is the kind of judgement a hiring manager reads as seniority. No client exposure.",
+        "when_to_post": "W41",
+        "timing_note": "created 2026-09-20 from the design-automation wiki (index rebuilt 2026-09-20), never previously ingested"
+      },
+      "asset_ready": true
+    },
+    {
+      "id": "idea-023",
+      "created_at": "2026-09-20",
+      "run_id": "wiki-ingest-2026-09-20",
+      "title": "Phantom walls had three different causes. We fixed one.",
+      "angle": "Build receipt with an unusually honest scope limit. Recurring phantom walls in the open spine were traced to three separate sources; the shipped fix addresses only one of them, and the wiki says so. The designer's verdict on the result is quotable and the caveat is published alongside it.",
+      "pillar": "build-receipts",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 5,
+        "value_fit": 4,
+        "new_info": 4,
+        "lived_exp": 5,
+        "proof_level": 5,
+        "timeliness": 3,
+        "effort": 4
+      },
+      "total_score": 36.0,
+      "proof_plan": "31 wall segments, each verified against the plan image. Zero phantom walls in the open spine. Spatial evals 0 fails, 99 tests green. Designer, verbatim: 'the most beautiful geometry logs ... in every way perfect, almost perfect.' MANDATORY CAVEAT: the segments are BANDS, not a graph, and are DERIVED from the already-corrected model, NOT acquired from a semantic mask. The acquisition bet remains SUSPECT and UNTESTED.",
+      "supporting_research": [
+        {
+          "headline": "experiments/wall-segments-shipped-render-source — verdict kept, 2026-07-06",
+          "source_url": "wiki:design-automation/experiments/wall-segments-shipped-render-source"
+        },
+        {
+          "headline": "syntheses/wall-acquisition-is-mask-then-vector — SUSPECT/medium, still untested",
+          "source_url": "wiki:design-automation/syntheses/wall-acquisition-is-mask-then-vector"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_now",
+        "reason": "Strong proof with a built-in limitation, which is the pattern the niche research found most credible. Do not publish the designer quote without the caveat — it would overstate what shipped.",
+        "when_to_post": "W41",
+        "timing_note": "created 2026-09-20 from the design-automation wiki (index rebuilt 2026-09-20), never previously ingested"
+      },
+      "asset_ready": true
+    },
+    {
+      "id": "idea-024",
+      "created_at": "2026-09-20",
+      "run_id": "wiki-ingest-2026-09-20",
+      "title": "The best tool for the job is often one you cannot use",
+      "angle": "Plain-English take on a register we actually keep: approaches that are the best available answer to their sub-problem and remain unusable for a specific named reason — weights withheld, a non-commercial licence, a GPU host we do not have. Tracking the BLOCKER rather than the approach is what lets you re-adopt the moment it lifts. Includes the correction we made to our own register.",
+      "pillar": "plain-english-ai-takes",
+      "platform": "linkedin",
+      "source": "agent",
+      "scores": {
+        "pillar_fit": 4,
+        "value_fit": 5,
+        "new_info": 4,
+        "lived_exp": 4,
+        "proof_level": 4,
+        "timeliness": 3,
+        "effort": 4
+      },
+      "total_score": 33.0,
+      "proof_plan": "Register entries with named blockers: a visual-primitives model (weights withheld, paper withdrawn); a floor-plan segmentation dataset (CC BY-NC, internal benchmark only); a best-in-class line-lock model (HuggingFace-only, needs a GPU host, infeasible on this machine). Plus the self-correction: two rows were removed on 2026-09-20 because a model rejected on QUALITY is not 'best-but-not-implementable' — it is simply not best.",
+      "supporting_research": [
+        {
+          "headline": "syntheses/best-but-not-implementable-register — CONFIRMED/high, reviewed 2026-09-20",
+          "source_url": "wiki:design-automation/syntheses/best-but-not-implementable-register"
+        }
+      ],
+      "status": "backlog",
+      "strategic_opinion": {
+        "verdict": "post_later",
+        "reason": "Genuinely useful to any owner evaluating tools, and the self-correction is the interesting half. Slightly abstract, so it needs a concrete week around it rather than leading one.",
+        "when_to_post": "W41-W42",
+        "timing_note": "created 2026-09-20 from the design-automation wiki (index rebuilt 2026-09-20), never previously ingested"
+      },
+      "asset_ready": true
     }
   ],
   "youtube": [
     {
-      "ref": "YT1",
-      "title": "n8n stock analysis walkthrough",
-      "role": "intro to Setu",
-      "status": "edit-ready",
-      "ship": "2026-06-05"
+      "ref": "YT-01",
+      "title": "This AI Didn't Invent a Single Window — the Nine Bricks government-office build",
+      "role": "proof centrepiece / portfolio artefact for MSc + AI-engineering roles",
+      "status": "NOT RECORDED — confirmed by Seetaram 2026-09-20. Tuesday 2026-09-23 slot is AT RISK.",
+      "ship": "2026-09-23 (at risk)",
+      "notes": "Full package drafted at data/drafts/2026-09-16-video-01-control-office/youtube.md. Naming cleared (Nine Bricks Studio, government office, floor plan may be shown). LOCKED DECISION: no time or cost numbers in this video. Run YouTube's free 3-way thumbnail A/B test."
     },
     {
-      "ref": "YT2",
-      "title": "Why design & construction need AI + free Gem",
-      "role": "wake-up call / bridge",
-      "status": "to-record",
-      "ship": "2026-06-06"
-    },
-    {
-      "ref": "YT3",
-      "title": "Live build with a real firm (sister + employees)",
-      "role": "proof centerpiece",
-      "status": "prep-this-week",
-      "ship": "Week 3",
-      "notes": "Interview pain points (reuse earlier clips), live-build on a real current project, before/after clutter->organized."
+      "ref": "YT-02",
+      "title": "The serialised single-project format nobody in the niche owns",
+      "role": "format bet, not yet a specific video",
+      "status": "concept",
+      "ship": "unscheduled",
+      "notes": "From entities/competitor-landscape (verified 2026-09-16): the closest direct competitor runs 103k subs on weekly 'X AI tools for architects' and has NEVER shown one real client project end to end — no fidelity proof, no cost numbers, no named project. Vendor-sponsored channels are structurally unable to show the 'it got the window wrong, here's the fix' moment. That is the unowned format."
     }
   ],
-  "ideas_generated": 14,
-  "last_updated": "2026-06-22"
+  "ideas_generated": 24,
+  "last_updated": "2026-09-20",
+  "audit_note": "Full audit 2026-09-20. Previous refresh was 2026-06-22 and had never ingested the design-automation wiki. Retired 4 (1 off-ICP, 1 duplicate, 1 superseded, 1 merged), scored 2 previously unscored survivors, corrected 4 stale or unsupported claims, added 10 wiki-grounded ideas. Cross-checked against posts.json: idea-006, idea-009 and idea-010 are already PUBLISHED and are not available backlog.",
+  "metric_policy": "Added 2026-09-20. For plan-fidelity work, detection scores (F1/precision/recall) and render coverage scores (covered_ratio) are FLOORS TO CLEAR, never rankings, and must never be presented publicly as the parameter that decides whether a model performs. Both have been caught ranking wrongly on this project: covered_ratio scored a pass-through render highest (0.7885) and the client-accepted render lowest (0.5216); detection F1 is blind to placement, which is the only thing a floor plan cares about. Use raw observables and the designer's judgement instead."
 }
