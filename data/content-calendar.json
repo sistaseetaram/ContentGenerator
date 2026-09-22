@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20",
+  "generated_at": "2026-09-22",
   "generated_by": "content-ideator Schedule mode, run against the 2026-09-20 wiki audit",
   "schema_note": "Migrated 2026-09-20 from the flat single-week {week, slots[]} shape to weeks[].days[]. The flat shape could only ever hold one week, so scheduling W40 would have destroyed W39. build_dashboard.py reads both shapes.",
   "platform_scope": "linkedin + youtube only (Hard Rule #2)",
@@ -13,28 +13,57 @@
   "naming_permissions": {
     "firm_name": "CLEARED 2026-09-19 — Nine Bricks Studio may be named",
     "project_type": "CLEARED — government office project",
-    "floor_plan_visual": "CLEARED — the plan itself may be shown (unlocks the PLAN|RENDER split)",
-    "render": "CLEARED — designer approved showing it on social"
+    "floor_plan_visual": "CLEARED — the plan itself may be shown (unlocks the PLAN|RENDER split) | CONSTRAINED 2026-09-22: the plan may be shown ONLY with all occupant-designation text masked or cropped (see occupant_designation_in_images).",
+    "render": "CLEARED — designer approved showing it on social",
+    "occupant_designation_in_images": "MASK ALL OCCUPANT-DESIGNATION TEXT — added 2026-09-22 on Seetaram's instruction. Before any image from the Nine Bricks government-office project is published, remove or crop every piece of on-drawing text that identifies the occupant's post or designation: the room label (it reads 'Sr.DEE/TRSO Chamber'), title-block entries, door/room tags, schedule rows, sheet headers, and any legend entry carrying the same designation. Applies to the floor plan, the whitebox, every render, and any compare/diary HTML screenshot. Dimensions, grid lines, generic door/window tags and material callouts may stay. This is broader than the earlier note, which only covered naming the occupant in COPY — it now covers anything legible in the ARTEFACT. When in doubt, crop it out."
   },
   "weeks": [
     {
+      "week": "2026-W41",
+      "theme": "Video #1 ships once recorded. LinkedIn slots to be planned Sunday 2026-10-04 from the analyzer.",
+      "days": [
+        {
+          "day": "Tuesday",
+          "date": "2026-10-06",
+          "platform": "youtube",
+          "pillar": "build-receipts",
+          "idea_id": null,
+          "format": "long-form ~10-11 min",
+          "title": "This AI Didn't Invent a Single Window",
+          "angle": "fidelity — the full build, end to end",
+          "proof_plan": "Recorded Sep 19-20. Full package already drafted at data/drafts/2026-09-16-video-01-control-office/youtube.md. Naming now cleared, so the title/description can say government office and the firm, and the floor plan can be shown on screen.",
+          "method_layer": "This is the portfolio artifact for MSc / AI-engineering roles: a real client project, a verification stack, an honest failure, and a signed-off outcome.",
+          "assets": [
+            "screen recording",
+            "PLAN|RENDER thumbnail",
+            "8-pass refine chain"
+          ],
+          "notes": "NO time or cost numbers in this video (locked decision). Run YouTube's free 3-way A/B test on the thumbnail. Re-check Studio feature eligibility before upload day. MOVED 2026-09-22 to W41: video not recorded; shipping an unrecorded video in relaunch week is a broken promise on day two (Researcher persona). Record first.",
+          "draft": "2026-09-16-video-01-control-office",
+          "image_permission_check": "MASK occupant-designation text before publishing any image — see naming_permissions.occupant_designation_in_images"
+        }
+      ]
+    },
+    {
       "week": "2026-W40",
-      "theme": "Self-audit week — we check our own work, with one deliberate owner-facing counterweight",
+      "theme": "Owner-facing first, then proof. The self-audit posts move to a technical channel.",
       "pillar_balance": "build-in-public 1 · build-receipts 2 · plain-english 1 · contrarian 1 = the locked 5/wk cadence",
       "days": [
         {
           "day": "Monday",
           "date": "2026-09-28",
           "platform": "linkedin",
-          "pillar": "build-in-public-setu",
-          "idea_id": "idea-018",
+          "pillar": "plain-english-ai-takes",
+          "idea_id": "idea-012",
           "format": "text",
-          "title": "We spent two months solving a problem that did not exist",
-          "angle": "retraction — publish our own correction before anyone asks for it",
-          "proof_plan": "The July 2026 conclusion ('this render model is deprecated and non-commercially licensed, we must swap') was WRONG and is retracted in-wiki on 2026-09-20. The deprecation covered the vendor's own endpoints, not the API we actually call, which never deprecated it and billed us on 2026-09-19. The non-commercial licence binds self-hosting, not API callers. DO NOT restate the original deprecation claim as if it were true.",
-          "method_layer": "The model was dropped anyway — on image quality, a reason that will not expire. The register entry was corrected the same day with the note that a model rejected on QUALITY is not 'best-but-not-implementable', it is simply not best.",
-          "assets": [],
-          "notes": "Opens W40 on integrity. Publishing your own retraction is rare and costs nothing here because the decision did not change — only the reason did."
+          "title": "Map the workflow before you buy the AI tool",
+          "angle": "owner-facing value — no self-criticism, nothing about our own build",
+          "proof_plan": "Anchored to the survey finding that ~33% of firms blame poor software fit. Owners buy a tool and then bend the practice around it; the fix is to map brief-to-delivery first and find the leak points.",
+          "method_layer": "Direct expression of the 'map before build' value. Show an anonymised one-page workflow map with the leak points circled.",
+          "assets": [
+            "anonymised workflow map"
+          ],
+          "notes": "MOVED to lead W40. The post-005 shape: owner-facing, plain English, no failures, no renders. Numeric hook (the ~33% blame-software-fit stat is grounded). CTA -> DM."
         },
         {
           "day": "Tuesday",
@@ -42,7 +71,7 @@
           "platform": "linkedin",
           "pillar": "build-receipts",
           "idea_id": "idea-023",
-          "format": "document carousel",
+          "format": "text + one image",
           "title": "Phantom walls had three different causes. We fixed one.",
           "angle": "a real win, published with the limit on it",
           "proof_plan": "31 wall segments, each verified against the plan image. Zero phantom walls in the open spine. Spatial evals 0 fails, 99 tests green. Designer verbatim: 'the most beautiful geometry logs ... in every way perfect, almost perfect.'",
@@ -51,7 +80,8 @@
             "wall-segment overlay",
             "geometry log"
           ],
-          "notes": "The week's clear win. Deliberately placed early so W40 is not five days of self-criticism."
+          "notes": "The week's clear win. Deliberately placed early so W40 is not five days of self-criticism. Carousel -> text + one image (production cost + carousel data).",
+          "image_permission_check": "MASK occupant-designation text before publishing any image — see naming_permissions.occupant_designation_in_images"
         },
         {
           "day": "Wednesday",
@@ -67,155 +97,121 @@
           "assets": [
             "before/after calibration overlay"
           ],
-          "notes": "SWAPPED 2026-09-20, replacing idea-020. idea-020's central fact (the model supplying the wrong country's state emblem) cannot be published under the naming clearance on record — it would reveal the chamber's emblem/portrait arrangement. idea-019 carries comparable engineering weight, has hard before/after numbers against hand-computed truth, and has ZERO client exposure: it is about our own canvas tool, not the client's room. Reversible if Nine Bricks clears the emblem detail in writing."
+          "notes": "SWAPPED 2026-09-20, replacing idea-020. idea-020's central fact (the model supplying the wrong country's state emblem) cannot be published under the naming clearance on record — it would reveal the chamber's emblem/portrait arrangement. idea-019 carries comparable engineering weight, has hard before/after numbers against hand-computed truth, and has ZERO client exposure: it is about our own canvas tool, not the client's room. Reversible if Nine Bricks clears the emblem detail in writing. BUYER FLAG 2026-09-22: the phrase 'not editable' plants the exact objection that keeps an owner with his current vendor. Reframe the hook around the measured fix (px/ft 47.82 -> 40.31 against truth 40.30), not around the word 'editable'.",
+          "image_permission_check": "MASK occupant-designation text before publishing any image — see naming_permissions.occupant_designation_in_images"
         },
         {
           "day": "Thursday",
           "date": "2026-10-01",
           "platform": "linkedin",
           "pillar": "plain-english-ai-takes",
-          "idea_id": "idea-012",
+          "idea_id": "idea-021",
           "format": "text",
-          "title": "Map the workflow before you buy the AI tool",
-          "angle": "owner-facing value — no self-criticism, nothing about our own build",
-          "proof_plan": "Anchored to the survey finding that ~33% of firms blame poor software fit. Owners buy a tool and then bend the practice around it; the fix is to map brief-to-delivery first and find the leak points.",
-          "method_layer": "Direct expression of the 'map before build' value. Show an anonymised one-page workflow map with the leak points circled.",
-          "assets": [
-            "anonymised workflow map"
-          ],
-          "notes": "DELIBERATE COUNTERWEIGHT. W39 and W40 are heavy on things that went wrong; this slot is the week's one forward-facing, owner-useful post that asks nothing of our own credibility."
+          "title": "Image models have no compass",
+          "angle": "Owner-actionable lesson from a real finding. Second owner-facing slot in the week.",
+          "proof_plan": "Four models x 3 hard cameras, 12 images, $0.84. 'On the south wall at its east end' is unreadable to an image model; one painted the prompt's room-dimension text onto the ceiling. Placement must be viewer-relative.",
+          "method_layer": "STATED CAVEAT: n=3 cameras, single rolls - directional, not a benchmark.",
+          "assets": [],
+          "notes": "Replaces the parked metric post. CTA -> DM."
         },
         {
           "day": "Friday",
           "date": "2026-10-02",
           "platform": "linkedin",
-          "pillar": "contrarian",
-          "idea_id": "idea-017",
-          "format": "text",
-          "title": "Our own quality score ranked the worst render first and the shipped one last",
-          "angle": "contrarian — earned, and aimed at ourselves before anyone else",
-          "proof_plan": "Same control image, same room. The pass-through render — the model handing the control back untouched, the worst output of the set — scored the HIGHEST covered_ratio at 0.7885. The render Nine Bricks actually accepted scored the LOWEST at 0.5216. Reference point on the same control: nano-banana-pro round-3 base 0.7527. Whole pilot was 4 renders, ~$0.11 — cost-to-run only, never framed as client savings.",
-          "method_layer": "The conclusion: covered_ratio is a floor to clear, never a ranking. Highest-scoring idea in the backlog (40.50) and it was on no plan before the 2026-09-20 wiki audit.",
+          "pillar": "build-receipts",
+          "idea_id": "idea-015",
+          "format": "text + one image",
+          "title": "What one accepted render actually cost to run",
+          "angle": "Cost-to-run receipt, NOT client savings. Closes W40 on a concrete number.",
+          "proof_plan": "~$2.55 of metered API spend across ~26 paid calls for one client-accepted render, against an Indian outsourced anchor of Rs 2,000-35,000 per image. Whitebox, line-art, prompt assembly, cameras, audits: $0. MUST be framed as cost-to-run. The wiki's own falsifier: the economics only work if human review labour is included, and that is untested - say so.",
+          "method_layer": "Numeric hook - the best-performing hook type on the account (3.9%).",
           "assets": [
-            "the pilot comparison table"
+            "cost breakdown, one image"
           ],
-          "notes": "THE PAYOFF of W40. Do not turn this into a competitor hit-piece — the honest version is 'the whole category, us included, is measuring the wrong thing, and here is what we found when we checked our own.'"
+          "notes": "Numeric-outcome hook. This is the post most likely to draw a DM asking for a price, so the offer line must be settled by then. CTA -> DM.",
+          "image_permission_check": "MASK occupant-designation text before publishing any image — see naming_permissions.occupant_designation_in_images"
         }
-      ]
+      ],
+      "reshape_note": "RESHAPED 2026-09-22 after the roast council (verdict RESHAPE, high confidence) and the first real analytics ingest (n=10, confidence med). Council + data: post-005 (owner-facing plain English) is the only saved post and the best ICP reach on the account - lead W40 with that shape. The retraction (idea-018) and the metric-ranking finding (idea-017) are PARKED: both read to a buyer as 'my verification does not verify' (Buyer + Logician), and both are exactly what ML hiring managers reward (Researcher) - so they belong on a repo or blog, not the feed. Blog is on hold per Seetaram; parked until a technical channel exists."
     },
     {
       "week": "2026-W39",
-      "theme": "Reopen the problem -> method -> client acceptance -> earned contrarian -> published negative result",
+      "theme": "Win first. The accepted render leads; the failures follow as rigour, not as the opening.",
       "days": [
-        {
-          "day": "Monday",
-          "date": "2026-09-21",
-          "platform": "linkedin",
-          "pillar": "build-receipts",
-          "idea_id": null,
-          "format": "document carousel",
-          "title": "The renders that got it wrong first",
-          "angle": "fidelity — reopen the problem with real failures before showing any win",
-          "proof_plan": "Real failed output, none staged. TWO DIFFERENT PROJECTS - keep them visibly separate in the carousel: (a) the line-art redraw on the RESIDENTIAL demo plan pushed the dining back, pulled the sofa forward and invented two CONSOLES (not couches - corrected 2026-09-19); (b) FAILED-refine-texture-swallow.png is from the Nine Bricks government-office project. Do not let the carousel imply all of these came from the Nine Bricks job.",
-          "method_layer": "Why it happens: current image models treat a floor plan as a mood board, not as geometry (wiki: image-models-treat-plan-as-mood, CONFIRMED/high).",
-          "assets": [
-            "references/controlofficeff/05-notes/bakeoff-round3/FAILED-refine-texture-swallow.png",
-            "lineart comparison stills"
-          ],
-          "notes": "Opens the week honestly. This is the highest-credibility pattern found in the niche research (first-person specificity WITH named limitations). Do not stage or fabricate a failure — only real lineage output.",
-          "draft": "2026-09-21-failures-first"
-        },
         {
           "day": "Tuesday",
           "date": "2026-09-22",
           "platform": "linkedin",
           "pillar": "build-receipts",
-          "idea_id": "idea-008",
-          "format": "document carousel",
-          "title": "How we made the render hold the actual floor plan",
-          "angle": "method — the spatial method, told as why you can trust the output",
-          "proof_plan": "The CURRENT pipeline on the real Nine Bricks government-office plan: plan-coords extraction -> whitebox (the whitebox IS the render control image) -> five blocking spatial checks -> photoreal in ONE hop -> refine. Show the PLAN | RENDER split (now cleared). CORRECTED 2026-09-19: an earlier version of this slot listed a 'line art -> photoreal' step. That is out of date - per experiments/render-model-ab-nano-field, direct whitebox->photoreal in ONE hop replaced the line-art chain as primary, and line art is now kept only as a designer deliverable. The Nine Bricks render folder confirms control -> photoreal -> refine with no line-art step. Publishing the old version would have contradicted Monday's post, which blames the line-art redraw for the failures. CORRECTED AGAIN 2026-09-20: the word 'control' previously implied a separate ControlNet stage. There is none. syntheses/render-fidelity-tier-forced-swap (RETIRED/high, reviewed 2026-09-20) records that flux-canny-pro was REMOVED from the codebase on 2026-09-20 and the whole render-fidelity fallback tier was killed; fal-ai/z-image/turbo/controlnet was rejected the same day. Per experiments/render-model-ab-nano-field the control image IS the flat-shaded whitebox handed to a frontier image model. Do not describe a ControlNet hop in any post. The Tuesday draft body is already correct ('driven off that grey model') - this fixes the calendar, which was the stale copy.",
-          "method_layer": "spatial_evals.py runs ffe_in_room, opening_reachability, door_clearance, boundary_sealed, no_enclosed_void for $0 BEFORE any paid render fires. Describe this as METHOD only: there is no documented spatial-check catch attributable to the Nine Bricks plan (the one recorded catch - 2 enclosed voids, west/east circulation halls - belongs to a different, larger plan). Do not claim it caught something here. SCOPE LIMIT ADDED 2026-09-20: the five listed checks are the BLOCKING set and that is accurate, but do not let the post imply nothing bad can reach a paid render. entities/tool-spatial-evals was last reviewed 2026-06-23 and two evals have been added since (wall_segments_sane 2026-07-06; camera_sanity 2026-07-08, ADVISORY - warns, never blocks). On 2026-09-12 a hand-authored camera standing inside the north wall's footprint passed straight through to paid renders; the wiki logs the missing validations as Priority-1 1B, still UNBUILT. Safe claim: 'no bad geometry reaches a paid render'. Unsafe claim: 'nothing bad reaches a paid render'.",
+          "idea_id": "idea-015",
+          "format": "text + one image (PLAN | RENDER split)",
+          "title": "Nine Bricks Studio accepted it. Here is the check that made it hold.",
+          "angle": "THE WIN, first. Client acceptance is the headline; the method is the reason it can be trusted.",
+          "proof_plan": "Merges the old Tue (method) and Wed (acceptance) drafts into one win post. Named client, cleared render, the real floor plan beside the real render. EIGHT ROUNDS REFRAMED: every one of the eight passes was a finish, material, lighting or furniture request from the designer - grid ceiling, cassette AC, portrait niches, blinds, L-desk, timber, seating. Not one asked for a wall, door or window to be corrected. VERIFY that sentence against wiki log 2026-09-12 before publishing; if any pass touched plan geometry the line dies. Old framing ('accepted after eight rounds') read as 4-8x the Indian market's bundled 1-2 revision rounds - a delivery-risk signal, not humility.",
+          "method_layer": "Extraction -> whitebox (which IS the render control) -> $0 blocking spatial checks -> photoreal in one hop -> designer-directed refine. No ControlNet stage. Describe the checks as method; claim no specific catch on this plan. Safe: 'no bad geometry reaches a paid render'. Unsafe: 'nothing bad reaches a paid render'.",
           "assets": [
-            "floor plan image",
-            "whitebox",
-            "accepted render",
-            "PLAN|RENDER split graphic"
+            "floor plan (cleared)",
+            "accepted B4 render (LOCATE ON DISK FIRST)",
+            "PLAN | RENDER split, one image"
           ],
-          "notes": "idea-008, score 39.5, verdict post_now — the backlog's strongest. Its own note: 'fulfills post-008's open promise; proof is ready.'",
-          "draft": "2026-09-22-method-holds-the-plan"
+          "notes": "OPENS THE RELAUNCH. Numeric or concrete hook, not a story open. CTA = 'DM me' not 'comment X' - the Buyer persona named comment-gating as the one thing that lowered trust in him as a person. OFFER LINE REQUIRED: a placeholder is fine but Seetaram must set the terms - the Buyer's stated yes-condition was 'send me one render in 24h with the dimension check beside it; if it holds I pay for the next five'. Do not invent a price. Seetaram reviews before publish.",
+          "draft": "2026-09-22-nine-bricks-accepted-win",
+          "image_permission_check": "MASK occupant-designation text before publishing any image — see naming_permissions.occupant_designation_in_images"
         },
         {
           "day": "Wednesday",
           "date": "2026-09-23",
           "platform": "linkedin",
-          "pillar": "build-receipts",
-          "idea_id": null,
-          "format": "document carousel (video optional)",
-          "title": "Nine Bricks Studio accepted it",
-          "angle": "client outcome — third-party validation is the headline, not the render",
-          "proof_plan": "Nine Bricks accepted the render after eight rounds of changes. TWO CORRECTIONS 2026-09-19: (1) the eight passes were NOT one straight chain - they were two parallel options (A: v1-v3, B: drafts B through B4), so do not present them as a single linear sequence even though the filenames suggest one. (2) RESOLVED 2026-09-19 - DO NOT USE the 'good enough to show their own clients and vendors' line. Seetaram confirmed the studio has NOT shown the render to their clients or vendors, so the claim is unsupported and is now struck from the plan, the video script and this calendar. What remains documented and usable: Nine Bricks accepted the render after eight rounds of changes, and cleared it to be shown publicly. That is a smaller claim than the one the plan was built on - say only that.",
-          "method_layer": "Eight client-directed rounds of changes = a human stayed in control throughout. Not a one-shot AI trick. TODO before building the payoff slide: the accepted B4 image is not obviously named on disk - locate the exact file first rather than guessing from filenames.",
-          "assets": [
-            "sr_dee_trso_chamber-photoreal-refine-v1 ... x8 chain",
-            "diary.html",
-            "compare.html"
-          ],
-          "notes": "THE PAYOFF. Strongest credibility asset in the whole project. Carousel over video: documents run 1.39x reach vs video 0.86x on personal profiles.",
-          "draft": "2026-09-23-nine-bricks-accepted"
+          "pillar": "contrarian",
+          "idea_id": "idea-011",
+          "format": "text",
+          "title": "An AI render in under a minute is easy. A render you can build from is the hard part.",
+          "angle": "Contrarian - now EARNED by Tuesday's win rather than asserted before it.",
+          "proof_plan": "Backed by a CONFIRMED/high finding, not an opinion: no amount of prompt engineering or whitebox conditioning makes current models preserve plan geometry reliably.",
+          "method_layer": "Names what the market actually ships: the category leader's answer is a slider that lets the model diverge from the model geometry.",
+          "assets": [],
+          "notes": "Existing draft. Move slot header to Wed 23. CTA -> DM. Keep the 'we checked our own metric' beat as a supporting line only; the full metric post is parked for a technical channel (see W40 note).",
+          "draft": "2026-09-24-render-fast-vs-buildable",
+          "image_permission_check": "MASK occupant-designation text before publishing any image — see naming_permissions.occupant_designation_in_images"
         },
         {
           "day": "Thursday",
           "date": "2026-09-24",
           "platform": "linkedin",
-          "pillar": "contrarian",
-          "idea_id": "idea-011",
-          "format": "text",
-          "title": "An AI render in under a minute is easy. A render you can build from is the hard part.",
-          "angle": "fidelity / contrarian — now earned, because Tue + Wed already showed the method and the sign-off",
-          "proof_plan": "Backed by a CONFIRMED/high finding, not an opinion: no amount of prompt engineering or whitebox conditioning makes current models preserve plan geometry reliably.",
-          "method_layer": "Names what the market actually ships: the category leader's answer is a slider that lets the model diverge from the model geometry.",
-          "assets": [],
-          "notes": "idea-011 is verdict post_later; its unlock condition is 'must land after the method post so it reads as earned'. Tuesday + Wednesday satisfy it. Unlocked by slots 2026-09-22 and 2026-09-23.",
-          "draft": "2026-09-24-render-fast-vs-buildable"
+          "pillar": "build-receipts",
+          "idea_id": "idea-004",
+          "format": "text + one image",
+          "title": "The renders that got it wrong first",
+          "angle": "The failures - now read as rigour because the win is already on the board.",
+          "proof_plan": "Real failed output, none staged. TWO DIFFERENT PROJECTS - keep them visibly separate in the carousel: (a) the line-art redraw on the RESIDENTIAL demo plan pushed the dining back, pulled the sofa forward and invented two CONSOLES (not couches - corrected 2026-09-19); (b) FAILED-refine-texture-swallow.png is from the Nine Bricks government-office project. Do not let the carousel imply all of these came from the Nine Bricks job.",
+          "method_layer": "Why it happens: current image models treat a floor plan as a mood board, not as geometry (wiki: image-models-treat-plan-as-mood, CONFIRMED/high).",
+          "assets": [
+            "FAILED-refine-texture-swallow.png",
+            "one whitebox-vs-output compare"
+          ],
+          "notes": "Existing Monday draft, moved to Thu. CUT FROM 9-SLIDE CAROUSEL TO TEXT + ONE IMAGE: the one carousel on record is the worst post on the account (1.2%) and three carousels a week is unaffordable. Open by referencing Tuesday's win in one line so a single-post reader still sees the outcome. CTA -> DM.",
+          "draft": "2026-09-21-failures-first",
+          "image_permission_check": "MASK occupant-designation text before publishing any image — see naming_permissions.occupant_designation_in_images"
         },
         {
           "day": "Friday",
           "date": "2026-09-25",
           "platform": "linkedin",
           "pillar": "build-in-public-setu",
-          "idea_id": null,
-          "format": "text + image",
+          "idea_id": "idea-016",
+          "format": "text + one image",
           "title": "I thought a symbol legend would help. The test said no.",
-          "angle": "build-in-public — a published negative result, plus the series launch",
+          "angle": "Published negative result. Closes the week on credibility.",
           "proof_plan": "The legend bake-off across 8 vision models disproved the hypothesis: a verbose legend HURT Gemini badly (94 -> 33). Real experiment, real negative result, published anyway.",
           "method_layer": "Strongest dual-audience post of the week: owners read integrity, hiring managers read experimental discipline and willingness to publish a disconfirming result. Close with 'that was room 1 of 26 on this floor' to open the series.",
           "assets": [
-            "legend bake-off result table"
+            "result table (raw observables only - no F1, no recall)"
           ],
-          "notes": "Pairs the series launch with the negative result so the week ends on credibility rather than promotion.",
+          "notes": "Existing draft, revised 2026-09-20 without detection scores. CTA -> DM. Keep.",
           "draft": "2026-09-25-legend-test-said-no"
-        },
-        {
-          "day": "Tuesday",
-          "date": "2026-09-23",
-          "platform": "youtube",
-          "pillar": "build-receipts",
-          "idea_id": null,
-          "format": "long-form ~10-11 min",
-          "title": "This AI Didn't Invent a Single Window",
-          "angle": "fidelity — the full build, end to end",
-          "proof_plan": "Recorded Sep 19-20. Full package already drafted at data/drafts/2026-09-16-video-01-control-office/youtube.md. Naming now cleared, so the title/description can say government office and the firm, and the floor plan can be shown on screen.",
-          "method_layer": "This is the portfolio artifact for MSc / AI-engineering roles: a real client project, a verification stack, an honest failure, and a signed-off outcome.",
-          "assets": [
-            "screen recording",
-            "PLAN|RENDER thumbnail",
-            "8-pass refine chain"
-          ],
-          "notes": "NO time or cost numbers in this video (locked decision). Run YouTube's free 3-way A/B test on the thumbnail. Re-check Studio feature eligibility before upload day.",
-          "draft": "2026-09-16-video-01-control-office"
         }
-      ]
+      ],
+      "reshape_note": "RESHAPED 2026-09-22 after the roast council (verdict RESHAPE, high confidence) and the first real analytics ingest (n=10, confidence med). Monday 2026-09-21 did not ship, so the week runs Tue-Fri. Order inverted: acceptance+method -> contrarian -> failures -> negative result. Evidence: the two worst posts on the account (1.2%, 1.9%) are both render-failure posts; numeric hooks run 3.9% vs story hooks 2.5%; the only saved post is owner-facing plain English (post-005). Every CTA changes from comment-gate to DM. Carousels cut from three to zero this week - the one carousel on record is the worst post, and three carousels was 20-25 hours of production the founder does not have."
     }
   ],
   "backlog_state": {
@@ -229,5 +225,21 @@
     "No baseline data. analyzer-latest.json is n_posts=0 and metrics.json is empty, so every week is still planned blind. Do not promise engagement lifts.",
     "Last actual publish was post-011 on 2026-06-26 — an 86-day silence as of today."
   ],
-  "notes": "Week 1 of the relaunch after an 80+ day silence. Sequence is the plan's locked narrative order: reopen the problem -> method -> client acceptance -> earned contrarian -> build-in-public + series launch. Every slot's asset was verified present on disk before scheduling. Dates verified against the system clock, not copied from the plan (the plan's weekday/date pairings are off by one throughout). Standing rules per slot: specific artefact in line 1, comment-gated CTA with no body links, 2-3 hashtags, reply to every comment same day (~30% lift, best-evidenced single lever), log to posts.json WITH url, capture Day-3/Day-7 analytics."
+  "notes": "Week 1 of the relaunch after an 80+ day silence. Sequence is the plan's locked narrative order: reopen the problem -> method -> client acceptance -> earned contrarian -> build-in-public + series launch. Every slot's asset was verified present on disk before scheduling. Dates verified against the system clock, not copied from the plan (the plan's weekday/date pairings are off by one throughout). Standing rules per slot: specific artefact in line 1, comment-gated CTA with no body links, 2-3 hashtags, reply to every comment same day (~30% lift, best-evidenced single lever), log to posts.json WITH url, capture Day-3/Day-7 analytics.",
+  "parked_for_technical_channel": [
+    {
+      "idea_id": "idea-017",
+      "title": "Our own quality score ranked the worst render first and the shipped one last",
+      "why": "Buyer: 'do not publish my verification is wrong while verification is the only thing you sell.' Logician: a public statement that the verification does not verify. Researcher: exactly what ML hiring managers reward. Belongs on a repo/blog with the numbers intact."
+    },
+    {
+      "idea_id": "idea-018",
+      "title": "We spent two months solving a problem that did not exist",
+      "why": "Buyer: reads as no focus and no one to answer to. Same channel logic as idea-017."
+    },
+    {
+      "unblock": "A technical channel: the blog (on hold per Seetaram) or a public GitHub repo. The Contrarian and Logician both independently prescribed asymmetric CHANNELS, not asymmetric layers inside one post."
+    }
+  ],
+  "cta_policy": "Changed 2026-09-22: every CTA is 'DM me', never 'comment X and I will send it'. LinkedIn's spam policy does not name comment-gating (verified at the primary source) so there is no algorithmic penalty - but the Buyer persona named it as the one thing that lowered trust in him as a person, and only ~2.9% of engagers match ICP so the harvest is noise. Links stay out of the body (40-50% reach cut, verified)."
 }

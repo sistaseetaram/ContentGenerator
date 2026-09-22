@@ -1,6 +1,20 @@
 {
-  "refreshed_at": "2026-06-03T23:25:08+05:30",
+  "refreshed_at": "2026-09-22T05:45:09+05:30",
   "due": [
+    {
+      "post_id": "post-000",
+      "day": 3,
+      "due_date": "2026-05-18",
+      "hook": "Just built my first n8n automation and I'm officially hooked",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-000",
+      "day": 7,
+      "due_date": "2026-05-22",
+      "hook": "Just built my first n8n automation and I'm officially hooked",
+      "status": "overdue"
+    },
     {
       "post_id": "post-001",
       "day": 3,
@@ -41,45 +55,106 @@
       "day": 3,
       "due_date": "2026-06-02",
       "hook": "Same workflow. Three versions. 94% cheaper.",
-      "status": "due"
-    }
-  ],
-  "upcoming": [
+      "status": "overdue"
+    },
     {
       "post_id": "post-003",
       "day": 7,
       "due_date": "2026-06-04",
-      "hook": "Setu brand values post"
+      "hook": "Setu brand values post",
+      "status": "overdue"
     },
     {
       "post_id": "post-005",
       "day": 3,
       "due_date": "2026-06-05",
-      "hook": "Where your studio hours go."
+      "hook": "Where your studio hours go.",
+      "status": "overdue"
     },
     {
       "post_id": "post-004",
       "day": 7,
       "due_date": "2026-06-06",
-      "hook": "Same workflow. Three versions. 94% cheaper."
+      "hook": "Same workflow. Three versions. 94% cheaper.",
+      "status": "overdue"
     },
     {
       "post_id": "post-006",
       "day": 3,
       "due_date": "2026-06-06",
-      "hook": "Setu means bridge."
+      "hook": "Setu means bridge.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-007",
+      "day": 3,
+      "due_date": "2026-06-08",
+      "hook": "Here is the brief for a real 3BHK.",
+      "status": "overdue"
     },
     {
       "post_id": "post-005",
       "day": 7,
       "due_date": "2026-06-09",
-      "hook": "Where your studio hours go."
+      "hook": "Where your studio hours go.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-008",
+      "day": 3,
+      "due_date": "2026-06-09",
+      "hook": "Everyone keeps asking to see the renders.",
+      "status": "overdue"
     },
     {
       "post_id": "post-006",
       "day": 7,
       "due_date": "2026-06-10",
-      "hook": "Setu means bridge."
+      "hook": "Setu means bridge.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-007",
+      "day": 7,
+      "due_date": "2026-06-12",
+      "hook": "Here is the brief for a real 3BHK.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-008",
+      "day": 7,
+      "due_date": "2026-06-13",
+      "hook": "Everyone keeps asking to see the renders.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-010",
+      "day": 3,
+      "due_date": "2026-06-16",
+      "hook": "Nearly two-thirds of architects have tried AI. Roughly 1 in 5 actually run it in daily practice.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-010",
+      "day": 7,
+      "due_date": "2026-06-20",
+      "hook": "Nearly two-thirds of architects have tried AI. Roughly 1 in 5 actually run it in daily practice.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-011",
+      "day": 3,
+      "due_date": "2026-06-29",
+      "hook": "The render looked perfect. It was also a lie.",
+      "status": "overdue"
+    },
+    {
+      "post_id": "post-011",
+      "day": 7,
+      "due_date": "2026-07-03",
+      "hook": "The render looked perfect. It was also a lie.",
+      "status": "overdue"
     }
-  ]
+  ],
+  "upcoming": []
 }

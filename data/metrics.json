@@ -1,1 +1,521 @@
-{"metrics": []}
+{
+  "metrics": [
+    {
+      "post_id": "post-000",
+      "platform": "linkedin",
+      "captures": [
+        {
+          "day": 129,
+          "captured_at": "2026-09-21T16:45:00+05:30",
+          "source": "linkedin_pdf_export_2026-09-21",
+          "reach": {
+            "impressions": 757,
+            "members_reached": 350,
+            "follower_pct": 53,
+            "non_follower_pct": 47
+          },
+          "engagement": {
+            "reactions": 16,
+            "reaction_breakdown": {},
+            "comments": 5,
+            "reposts": 0,
+            "saves": 0,
+            "sends": 0,
+            "total": 21,
+            "engagement_rate": 0.0277
+          },
+          "profile": {
+            "profile_viewers": 19,
+            "followers_gained": 0
+          },
+          "demographics": {
+            "top_titles": [
+              "All Job title Location Seniority Company Industry"
+            ],
+            "top_industries": [
+              "Software Development 27%"
+            ],
+            "top_seniority": [
+              "Entry 34%"
+            ],
+            "top_companies": [],
+            "top_locations": [
+              "Greater Bengaluru Area 14%"
+            ],
+            "top_company_size": [
+              "10001+ employees 31%"
+            ]
+          },
+          "icp_match_pct": null,
+          "icp_note": "Architecture and Planning is NOT the top industry, so its share is below the top value and unknowable from LinkedIn's top-only demographics. Left null rather than guessed."
+        }
+      ]
+    },
+    {
+      "post_id": "post-001",
+      "platform": "linkedin",
+      "captures": [
+        {
+          "day": 121,
+          "captured_at": "2026-09-21T16:45:00+05:30",
+          "source": "linkedin_pdf_export_2026-09-21",
+          "reach": {
+            "impressions": 291,
+            "members_reached": 134,
+            "follower_pct": 83,
+            "non_follower_pct": 17
+          },
+          "engagement": {
+            "reactions": 10,
+            "reaction_breakdown": {},
+            "comments": 0,
+            "reposts": 0,
+            "saves": 0,
+            "sends": 0,
+            "total": 10,
+            "engagement_rate": 0.0344
+          },
+          "profile": {
+            "profile_viewers": 7,
+            "followers_gained": 1
+          },
+          "demographics": {
+            "top_titles": [
+              "Software Engineer 22%"
+            ],
+            "top_industries": [
+              "IT Services and IT Consulting 31%"
+            ],
+            "top_seniority": [
+              "Entry 42%"
+            ],
+            "top_companies": [],
+            "top_locations": [
+              "Greater Bengaluru Area 19%"
+            ],
+            "top_company_size": [
+              "10001+ employees 39%"
+            ]
+          },
+          "icp_match_pct": null,
+          "icp_note": "Architecture and Planning is NOT the top industry, so its share is below the top value and unknowable from LinkedIn's top-only demographics. Left null rather than guessed."
+        }
+      ]
+    },
+    {
+      "post_id": "post-002",
+      "platform": "linkedin",
+      "captures": [
+        {
+          "day": 119,
+          "captured_at": "2026-09-21T16:45:00+05:30",
+          "source": "linkedin_pdf_export_2026-09-21",
+          "reach": {
+            "impressions": 331,
+            "members_reached": 159,
+            "follower_pct": 51,
+            "non_follower_pct": 49
+          },
+          "engagement": {
+            "reactions": 16,
+            "reaction_breakdown": {},
+            "comments": 0,
+            "reposts": 1,
+            "saves": 0,
+            "sends": 0,
+            "total": 17,
+            "engagement_rate": 0.0514
+          },
+          "profile": {
+            "profile_viewers": 12,
+            "followers_gained": 0
+          },
+          "demographics": {
+            "top_titles": [
+              "All Job title Location Seniority Company Industry"
+            ],
+            "top_industries": [
+              "Software Development 31%"
+            ],
+            "top_seniority": [
+              "Entry 40%"
+            ],
+            "top_companies": [],
+            "top_locations": [
+              "Greater Bengaluru Area 15%"
+            ],
+            "top_company_size": [
+              "10001+ employees 25%"
+            ]
+          },
+          "icp_match_pct": null,
+          "icp_note": "Architecture and Planning is NOT the top industry, so its share is below the top value and unknowable from LinkedIn's top-only demographics. Left null rather than guessed."
+        }
+      ]
+    },
+    {
+      "post_id": "post-003",
+      "platform": "linkedin",
+      "captures": [
+        {
+          "day": 116,
+          "captured_at": "2026-09-21T16:45:00+05:30",
+          "source": "linkedin_pdf_export_2026-09-21",
+          "reach": {
+            "impressions": 226,
+            "members_reached": 100,
+            "follower_pct": 63,
+            "non_follower_pct": 37
+          },
+          "engagement": {
+            "reactions": 5,
+            "reaction_breakdown": {},
+            "comments": 0,
+            "reposts": 0,
+            "saves": 0,
+            "sends": 0,
+            "total": 5,
+            "engagement_rate": 0.0221
+          },
+          "profile": {
+            "profile_viewers": 3,
+            "followers_gained": 0
+          },
+          "demographics": {
+            "top_titles": [
+              "Software Engineer 11%"
+            ],
+            "top_industries": [
+              "Software Development 23%"
+            ],
+            "top_seniority": [
+              "Entry 35%"
+            ],
+            "top_companies": [],
+            "top_locations": [
+              "G t B l A 13%"
+            ],
+            "top_company_size": [
+              "10001+ employees 24%"
+            ]
+          },
+          "icp_match_pct": null,
+          "icp_note": "Architecture and Planning is NOT the top industry, so its share is below the top value and unknowable from LinkedIn's top-only demographics. Left null rather than guessed."
+        }
+      ]
+    },
+    {
+      "post_id": "post-004",
+      "platform": "linkedin",
+      "captures": [
+        {
+          "day": 114,
+          "captured_at": "2026-09-21T16:45:00+05:30",
+          "source": "linkedin_pdf_export_2026-09-21",
+          "reach": {
+            "impressions": 227,
+            "members_reached": 113,
+            "follower_pct": 81,
+            "non_follower_pct": 19
+          },
+          "engagement": {
+            "reactions": 7,
+            "reaction_breakdown": {},
+            "comments": 0,
+            "reposts": 0,
+            "saves": 0,
+            "sends": 0,
+            "total": 7,
+            "engagement_rate": 0.0308
+          },
+          "profile": {
+            "profile_viewers": 4,
+            "followers_gained": 0
+          },
+          "demographics": {
+            "top_titles": [
+              "Software Developer 30%"
+            ],
+            "top_industries": [
+              "Company size"
+            ],
+            "top_seniority": [
+              "Entry 38%"
+            ],
+            "top_companies": [],
+            "top_locations": [
+              "Greater Bengaluru Area 20%"
+            ],
+            "top_company_size": [
+              "21/09/2026 16:43 Post analytics | LinkedIn"
+            ]
+          },
+          "icp_match_pct": null,
+          "icp_note": "Architecture and Planning is NOT the top industry, so its share is below the top value and unknowable from LinkedIn's top-only demographics. Left null rather than guessed."
+        }
+      ]
+    },
+    {
+      "post_id": "post-005",
+      "platform": "linkedin",
+      "captures": [
+        {
+          "day": 111,
+          "captured_at": "2026-09-21T16:45:00+05:30",
+          "source": "linkedin_pdf_export_2026-09-21",
+          "reach": {
+            "impressions": 446,
+            "members_reached": 247,
+            "follower_pct": 31,
+            "non_follower_pct": 69
+          },
+          "engagement": {
+            "reactions": 10,
+            "reaction_breakdown": {},
+            "comments": 3,
+            "reposts": 0,
+            "saves": 1,
+            "sends": 0,
+            "total": 14,
+            "engagement_rate": 0.0314
+          },
+          "profile": {
+            "profile_viewers": 3,
+            "followers_gained": 3
+          },
+          "demographics": {
+            "top_titles": [
+              "F d 12%"
+            ],
+            "top_industries": [
+              "Architecture and Planning 28%"
+            ],
+            "top_seniority": [
+              "Entry 29%"
+            ],
+            "top_companies": [],
+            "top_locations": [
+              "Greater Bengaluru Area 6%"
+            ],
+            "top_company_size": [
+              "2-10 employees 24%"
+            ]
+          },
+          "icp_match_pct": 0.28,
+          "icp_note": "Architecture and Planning is the TOP industry; its share is used as the ICP floor."
+        }
+      ]
+    },
+    {
+      "post_id": "post-006",
+      "platform": "linkedin",
+      "captures": [
+        {
+          "day": 110,
+          "captured_at": "2026-09-21T16:45:00+05:30",
+          "source": "linkedin_pdf_export_2026-09-21",
+          "reach": {
+            "impressions": 377,
+            "members_reached": 213,
+            "follower_pct": 40,
+            "non_follower_pct": 60
+          },
+          "engagement": {
+            "reactions": 7,
+            "reaction_breakdown": {},
+            "comments": 0,
+            "reposts": 0,
+            "saves": 0,
+            "sends": 0,
+            "total": 7,
+            "engagement_rate": 0.0186
+          },
+          "profile": {
+            "profile_viewers": 3,
+            "followers_gained": 0
+          },
+          "demographics": {
+            "top_titles": [
+              "Founder 5%"
+            ],
+            "top_industries": [
+              "Architecture and Planning 33%"
+            ],
+            "top_seniority": [
+              "Entry 35%"
+            ],
+            "top_companies": [],
+            "top_locations": [
+              "Greater Bengaluru Area 7%"
+            ],
+            "top_company_size": [
+              "2-10 employees 16%"
+            ]
+          },
+          "icp_match_pct": 0.33,
+          "icp_note": "Architecture and Planning is the TOP industry; its share is used as the ICP floor."
+        }
+      ]
+    },
+    {
+      "post_id": "post-008",
+      "platform": "linkedin",
+      "captures": [
+        {
+          "day": 107,
+          "captured_at": "2026-09-21T16:45:00+05:30",
+          "source": "linkedin_pdf_export_2026-09-21",
+          "reach": {
+            "impressions": 321,
+            "members_reached": 187,
+            "follower_pct": 45,
+            "non_follower_pct": 55
+          },
+          "engagement": {
+            "reactions": 4,
+            "reaction_breakdown": {},
+            "comments": 0,
+            "reposts": 0,
+            "saves": 0,
+            "sends": 0,
+            "total": 4,
+            "engagement_rate": 0.0125
+          },
+          "profile": {
+            "profile_viewers": 3,
+            "followers_gained": 0
+          },
+          "demographics": {
+            "top_titles": [
+              "Founder 7%"
+            ],
+            "top_industries": [
+              "IT Services and IT Consulting 14%"
+            ],
+            "top_seniority": [
+              "Entry 40%"
+            ],
+            "top_companies": [],
+            "top_locations": [
+              "Greater Bengaluru Area 8%"
+            ],
+            "top_company_size": [
+              "2-10 employees 15%"
+            ]
+          },
+          "icp_match_pct": null,
+          "icp_note": "Architecture and Planning is NOT the top industry, so its share is below the top value and unknowable from LinkedIn's top-only demographics. Left null rather than guessed."
+        }
+      ]
+    },
+    {
+      "post_id": "post-010",
+      "platform": "linkedin",
+      "captures": [
+        {
+          "day": 100,
+          "captured_at": "2026-09-21T16:45:00+05:30",
+          "source": "linkedin_pdf_export_2026-09-21",
+          "reach": {
+            "impressions": 199,
+            "members_reached": 97,
+            "follower_pct": 40,
+            "non_follower_pct": 60
+          },
+          "engagement": {
+            "reactions": 8,
+            "reaction_breakdown": {},
+            "comments": 0,
+            "reposts": 1,
+            "saves": 0,
+            "sends": 0,
+            "total": 9,
+            "engagement_rate": 0.0452
+          },
+          "profile": {
+            "profile_viewers": 2,
+            "followers_gained": 0
+          },
+          "demographics": {
+            "top_titles": [
+              "Software Engineer 10%"
+            ],
+            "top_industries": [
+              "IT Services and IT Consulting 26%"
+            ],
+            "top_seniority": [
+              "Entry 36%"
+            ],
+            "top_companies": [],
+            "top_locations": [
+              "Greater Bengaluru Area 14%"
+            ],
+            "top_company_size": [
+              "10001+ employees 27%"
+            ]
+          },
+          "icp_match_pct": null,
+          "icp_note": "Architecture and Planning is NOT the top industry, so its share is below the top value and unknowable from LinkedIn's top-only demographics. Left null rather than guessed."
+        }
+      ]
+    },
+    {
+      "post_id": "post-011",
+      "platform": "linkedin",
+      "captures": [
+        {
+          "day": 87,
+          "captured_at": "2026-09-21T16:45:00+05:30",
+          "source": "linkedin_pdf_export_2026-09-21",
+          "reach": {
+            "impressions": 307,
+            "members_reached": 152,
+            "follower_pct": 44,
+            "non_follower_pct": 56
+          },
+          "engagement": {
+            "reactions": 6,
+            "reaction_breakdown": {},
+            "comments": 0,
+            "reposts": 0,
+            "saves": 0,
+            "sends": 0,
+            "total": 6,
+            "engagement_rate": 0.0195
+          },
+          "profile": {
+            "profile_viewers": 3,
+            "followers_gained": 0
+          },
+          "demographics": {
+            "top_titles": [
+              "Founder 11%"
+            ],
+            "top_industries": [
+              "Architecture and Planning 27%"
+            ],
+            "top_seniority": [
+              "Entry 31%"
+            ],
+            "top_companies": [],
+            "top_locations": [
+              "Greater Bengaluru Area 12%"
+            ],
+            "top_company_size": [
+              "2-10 employees 19%"
+            ]
+          },
+          "icp_match_pct": 0.27,
+          "icp_note": "Architecture and Planning is the TOP industry; its share is used as the ICP floor."
+        }
+      ]
+    }
+  ],
+  "ingest_log": [
+    {
+      "at": "2026-09-22",
+      "source": "~/Desktop/LinkedinAnalytics (13 PDFs, 10 unique posts)",
+      "note": "Deterministic parse of LinkedIn post-analytics PDF exports (pypdf + regex), no model call. Three PDFs were re-captures of post-008 and two of post-006; the highest-impression capture of each was kept. LinkedIn demographics show only the top value per dimension, so ICP match is a floor where Architecture is top and null otherwise."
+    }
+  ]
+}

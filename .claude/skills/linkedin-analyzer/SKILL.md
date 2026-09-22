@@ -47,6 +47,18 @@ Detect which from the user's request:
 From the user's message, determine which `post_id` the pasted analytics belong to. If ambiguous, read `data/posts.json` and ask which post (show id + hook). Determine the capture `day` (3 or 7) from how long since `published_at`, or ask if unclear.
 
 ### Phase I2 — Parse the paste
+
+> **Learned 2026-09-22 — PDF exports need no model.** When the user saves LinkedIn's "Post analytics" page as a
+> PDF (browser print-to-PDF; they land in `~/Desktop/LinkedinAnalytics/`), the text extracts cleanly with
+> `pypdf` and every field sits on a stable regex anchor (`(\d+)Impressions`, `(\d+)Social engagements`,
+> `Reactions (\d+)`, `Saves (\d+)`, `urn:li:activity:(\d+)`, one `Seniority\n…%` block per dimension).
+> Parse deterministically — tier 1 of the efficiency hierarchy — and reserve the `route("lint-dispatch")` call
+> below for genuinely free-form pastes. Two things the PDF cannot give you: **demographics show only the TOP
+> value per dimension**, so `icp_match_pct` is a floor when Architecture is top and must be **null, not
+> guessed**, otherwise; and **`icp_match_pct` is a FRACTION (0.27), not a percent (27)** — `analyzer_rollup.py`
+> weights by `er × (0.5 + icp)` and a percent inflates it ~27×. The URN doubles as the post URL
+> (`https://www.linkedin.com/feed/update/urn:li:activity:<urn>`) and its order is chronological — useful for
+> placing posts that were never logged in `posts.json`.
 Read `references/ingest-parsing.md`. Call `route("lint-dispatch", …)` (cheap — Haiku → GPT-4o-mini → Groq) to turn the free-form pasted text into the structured capture record (reach / engagement / demographics). Cheap model because this is extraction, not judgment. If the paste is too sparse to parse confidently, present the structured fallback template and ask the user to fill it.
 
 ### Phase I3 — Classify ICP match

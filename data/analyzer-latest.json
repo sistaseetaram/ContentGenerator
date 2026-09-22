@@ -1,13 +1,65 @@
 {
-  "generated_at": "2026-06-03T23:25:25+05:30",
+  "generated_at": "2026-09-22T05:42:18+05:30",
   "window": "last_30_days",
-  "n_posts": 0,
-  "confidence": "low",
-  "pillar_weights": {},
-  "hook_signals": [],
-  "format_signals": [],
-  "best_dow_time": null,
-  "icp_reach_leaders": [],
-  "underperformers": [],
-  "notes": "n=0 posts captured. Directional only; weights not yet trustworthy."
+  "n_posts": 10,
+  "confidence": "med",
+  "pillar_weights": {
+    "pre-setu": 0.99,
+    "build-receipts": 0.93,
+    "build-in-public": 1.06,
+    "plain-english-ai-takes": 1.01
+  },
+  "hook_signals": [
+    {
+      "pattern": "numeric-outcome",
+      "n": 4,
+      "avg_er": 0.0388,
+      "avg_icp_weighted_er": 0.0388
+    },
+    {
+      "pattern": "story-open",
+      "n": 5,
+      "avg_er": 0.0252,
+      "avg_icp_weighted_er": 0.0223
+    },
+    {
+      "pattern": "contrarian",
+      "n": 1,
+      "avg_er": 0.0125,
+      "avg_icp_weighted_er": 0.0125
+    }
+  ],
+  "format_signals": [
+    {
+      "format": "image",
+      "n": 1,
+      "avg_er": 0.0314
+    },
+    {
+      "format": "text",
+      "n": 7,
+      "avg_er": 0.0313
+    },
+    {
+      "format": "video",
+      "n": 1,
+      "avg_er": 0.0308
+    },
+    {
+      "format": "carousel",
+      "n": 1,
+      "avg_er": 0.0125
+    }
+  ],
+  "best_dow_time": "Monday",
+  "icp_reach_leaders": [
+    "post-002",
+    "post-010",
+    "post-001"
+  ],
+  "underperformers": [
+    "post-011",
+    "post-008"
+  ],
+  "notes": "n=10 posts captured."
 }
